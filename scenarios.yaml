@@ -7,8 +7,8 @@ scenarios:
     status: active
     authority_version: "V23"
     canonical_clock: "1946-06-30T24:00"
-    clock_state: "history-working-closed-through-1946-armistice; retro-audit-1939-1940-open"
-    frontier: "1939-1940遡及監査：日中和平ルート第二弾の上流条件、技術・生産・外交・軍事状態を再検討"
+    clock_state: "history-working-closed-through-1946-armistice; source-repair-and-retro-audit-1939-1941-open"
+    frontier: "V22B完全原本を基準に、部分取り込み期の破損・誤推定を監査修復し、1939-1941技術・生産・配備状態を回収。1941-05台帳を閉じた後、中国戦継続・仏印・空母論点へ戻る"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/README.md"

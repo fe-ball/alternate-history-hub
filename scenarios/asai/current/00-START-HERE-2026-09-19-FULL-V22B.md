@@ -35,3 +35,4 @@ Do **not** read this branch as "Japanese future knowledge is remotely copied int
 The next chat should begin at the **1945 entry gate**:
 
 > Germany has spent 1942–44 increasingly preserving armies by timely withdrawal and mobile defense, but by 1945 its manpower, technology, airpower, fuel situation, and reduced strategic-bombing burden may make continued passive retreat less attractive. The next question is whether Germany attempts an operational/strategic offensive, where, with what weapons and reserves, and how Soviet choices shape that opportunity.
+

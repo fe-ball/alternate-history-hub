@@ -5,16 +5,18 @@
 **Parent:** V22B China-peace / German-jet-transfer branch  
 **Canonical history clock:** 1946-06-30T24:00 class  
 **History state:** General European Armistice working-close by 1946 May–June  
-**Active discussion frontier:** deliberate retro-audit back to 1939–1940
+**Active discussion frontier:** source-repair / technical recovery across 1939–1941, then reconstruction of the 1941-05 war-continuation state
 
 ## Read order
 
 1. Read this file.
 2. Read 91-CURRENT-2026-09-19-CHINA-PEACE-SECOND-CLOSE-V23/00-SESSION-HANDOFF-V23.md.
-3. Read the V23 decision register and chronology.
-4. Read the V23 armistice/postwar stop-line and retro-frontier files.
-5. For 1940–44 inherited state, read V22B.
-6. For non-conflicting pre-V22B state, read V21 and the referenced technical/essence parents.
+3. Read 91-CURRENT-2026-09-19-CHINA-PEACE-SECOND-CLOSE-V23/05-IMPORT-RECOVERY-TECH-RECOVERY-HANDOFF-V23.md.
+4. Read the V23 decision register and chronology.
+5. Read the V23 armistice/postwar stop-line and retro-frontier files.
+6. For source recovery and any pre-V23 detail omitted from current/, use `import/source-v22b-full-exact/`; the older `import/source-v22b-full/` is a partial reconstruction and must not override the exact source.
+7. For 1940–44 inherited state, read V22B.
+8. For non-conflicting pre-V22B state, read V21 and the referenced technical/essence parents.
 
 ## Precedence
 
@@ -27,6 +29,8 @@ Inside this route:
 5. older material as source/history only.
 
 V23 does not silently rewrite Japanese technical parent values. It closes the 1945–46 branch behavior built on top of V22B and changes the active discussion frontier.
+
+The exact V22B source mirror is a **recovery source**, not a blanket authority override. When reconstructing what the original package actually contained, however, `source-v22b-full-exact/` is authoritative over the older partial import/reconstruction.
 
 ## Central V23 result
 
@@ -73,20 +77,16 @@ Do not auto-close:
 
 These are post-armistice branches, not part of the V23 historical close.
 
-## Current frontier — return to 1939–1940
+## Current frontier — source repair / technology recovery before 1941 war continuation
 
-The next discussion deliberately returns upstream.
+The exact V22B package is now fully present in GitHub. The next work is deliberately upstream and forensic before any further operational replay.
 
-The purpose is not to erase V23. It is to audit whether the 1939–40 technical, industrial, diplomatic and military state causally supports the later route without importing future outcomes as contemporary knowledge.
+Order:
 
-Priority retro topics include, as needed:
+1. identify whether any current or conversational assumptions were distorted by the former partial ZIP import;
+2. restore/repair only genuinely affected source-derived state;
+3. recover the omitted 1939–41 technical, production, procurement, fielding and service ledgers from `source-v22b-full-exact/`;
+4. reconstruct the 1940-12-31 baseline and then 1941-01 through 1941-05 factory acceptance / service release / unit assignment / serviceable / forward states;
+5. only after that return to continuation of the China war, French Indochina policy and converted-carrier expansion.
 
-- Japan/Asai technical and production state through 1940;
-- E5/E6 service/production reality and organizational diffusion;
-- what Germany had actually observed, received or could negotiate by 1940;
-- exact physical transfer channels and their capacity;
-- Japanese state compensation/ownership/institutional handling of transfer;
-- Soviet/US/UK observations and reactions that are actually available by the date;
-- procurement, training, maintenance and logistics states before later combat experience exists.
-
-Use difference-led history and the no-backflow rule.
+Use difference-led history and the no-backflow rule. Historical designations do not authorize historical performance/timing/production numbers when the worldline ledgers say otherwise.

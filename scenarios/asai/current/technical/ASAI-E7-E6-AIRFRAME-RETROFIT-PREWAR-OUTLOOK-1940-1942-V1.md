@@ -140,3 +140,4 @@ Do not automatically select the newest E-number. Do not automatically retain the
 | 1941 serial E7 conversion quantities | OPEN / replay-procurement local |
 | E7-dedicated aircraft first flight 1942Q1-Q2 | TARGET-CLOSED parent |
 | E8/E9 aircraft dates | OPEN; use continuous-front semantics, not fixed invention dates |
+
