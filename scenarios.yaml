@@ -1,22 +1,22 @@
 registry_version: 1
-updated: "2026-09-20"
+updated: "2026-09-21"
 
 scenarios:
   asai:
     title: "浅井世界線"
     status: active
-    authority_version: "V23"
-    canonical_clock: "1946-06-30T24:00"
-    clock_state: "history-working-closed-through-1946-armistice; source-repair-and-retro-audit-1939-1941-open"
-    frontier: "V22B完全原本を基準に、部分取り込み期の破損・誤推定を監査修復し、1939-1941技術・生産・配備状態を回収。1941-05台帳を閉じた後、中国戦継続・仏印・空母論点へ戻る"
+    authority_version: "V24"
+    canonical_clock: "1941-01-01T00:00"
+    clock_state: "china-war-continuation-replay-working-closed-through-1940-12-31; prior-v23-china-peace-route-preserved-as-sibling"
+    frontier: "1941-01-01から再開。新四軍/皖南危機を日単位で処理し、続いて豫南作戦。北部仏印E6武装偵察・軽攻撃台帳と1941試作/陸戦装備ゲートを並行更新"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/README.md"
     scenario_rules: "scenarios/asai/SCENARIO-RULES.md"
-    authority_entrypoint: "scenarios/asai/current/00-START-HERE-2026-09-19-FULL-V23.md"
+    authority_entrypoint: "scenarios/asai/current/00-START-HERE-2026-09-21-FULL-V24.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "current-v23-plus-complete-v22b-source-snapshot"
+    source_import: "current-v24-plus-complete-v22b-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository"
 
   keisanki-ibun:
