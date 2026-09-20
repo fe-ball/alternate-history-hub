@@ -22,18 +22,18 @@ scenarios:
   keisanki-ibun:
     title: "計算機異聞"
     status: active
-    authority_version: "Branch B v098"
-    canonical_clock: "1944-06-14T12:00"
-    clock_state: "open-event-simulation; china-1944-05-29_to_06-14-detail-gap"
-    frontier: "FORAGER実行：6/14近距離艦砲射撃・潜水艦screen → 6/15 Bonins/D-day接近 → 第一機動艦隊接触"
+    authority_version: "Branch B v099"
+    canonical_clock: "1944-06-15T04:30"
+    clock_state: "open-event-simulation; china-1944-05-29_to_06-14-detail-gap; aircraft-audit-working-strong"
+    frontier: "FORAGER実行：6/15 04:30 D-day前処理（艦砲射撃・艦載機・LVT接近）→ Bonins一TG strike/補充packet → 第一機動艦隊接触"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/keisanki-ibun"
     entrypoint: "scenarios/keisanki-ibun/README.md"
     scenario_rules: "scenarios/keisanki-ibun/SCENARIO-RULES.md"
-    authority_entrypoint: "scenarios/keisanki-ibun/current/00_CURRENT_AUTHORITY/00_READ_FIRST_CURRENT_V098_2026-09-19.md"
+    authority_entrypoint: "scenarios/keisanki-ibun/current/00_CURRENT_AUTHORITY/00_READ_FIRST_CURRENT_V099_2026-09-20.md"
     import_status: "scenarios/keisanki-ibun/import/IMPORT-STATUS.md"
     epistemic_rule: "no-future-knowledge-computation-accelerated"
-    source_import: "current-v098-plus-complete-v097-source-snapshot"
+    source_import: "current-v099-plus-complete-v097-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository"
 
   hatsudoki-tenseisha:
