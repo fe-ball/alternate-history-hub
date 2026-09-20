@@ -1,0 +1,7 @@
+path	status	purpose
+00-SESSION-HANDOFF-V24.md	CURRENT	Main resume document for the China-war-continuation branch
+01-DECISION-REGISTER-V24.tsv	CURRENT	Persisted decisions/statuses from the 1940-09-30 to 1941-01-01 replay
+02-REPLAY-CHRONOLOGY-1940-09-30-1941-01-01-V24.md	CURRENT	Chronology of the completed replay interval
+03-TECH-STATE-1941-01-01-V24.md	CURRENT	New-year technology/force-development snapshot including non-air systems
+04-OPEN-ITEMS-AND-NEXT-GATES-V24.tsv	CURRENT	Unclosed issues and next replay gates
+PACKAGE-STATE-V24.tsv	CURRENT	Package manifest
