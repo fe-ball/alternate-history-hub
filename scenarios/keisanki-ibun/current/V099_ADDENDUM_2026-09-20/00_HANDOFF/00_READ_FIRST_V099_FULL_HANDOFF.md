@@ -12,6 +12,12 @@ Status: CURRENT AUTHORITY OVERLAY
 - China/Ichi-Go detail after 28 May remains a parallel OPEN ledger.
 
 ## Research-method correction retained
+
+Normative user-authored method guard:
+- `../03_SESSION_UPDATES/03_USER_METHOD_GUARD_ANTI_MAGIC.md`
+- this file must be read before reopening aircraft performance, production, readiness, C2/ISR or institutional-quality questions.
+
+
 The session explicitly rechecked the risk of "anti-magic" rollback.
 
 Keep:
