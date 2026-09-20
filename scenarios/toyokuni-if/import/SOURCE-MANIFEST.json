@@ -1,0 +1,724 @@
+{
+  "date": "2026-09-20",
+  "unique_relevant_documents": 38,
+  "relevant_source_occurrences": 71,
+  "documents": [
+    {
+      "id": "T001",
+      "path": "archive/drafts/豊国に5年の天よりの命をv2.txt",
+      "sha256": "9cdfa63141dfcb8eb770560a9cc58ddaf0eacc1e0c00b82e80a9e278b86d38a0",
+      "bytes": 40636,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/豊国五年/基幹プロンプト（閲覧許可、干渉禁止）/豊国に5年の天よりの命をv2.txt",
+          "kind": "workspace",
+          "date": "2026-01-18T23:13:26.103956"
+        },
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_プロンプトと対話旧稿/豊国に5年の天よりの命をv2.txt",
+          "kind": "workspace",
+          "date": "2026-01-18T23:13:26.103956"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/プロンプト/豊国に5年の天よりの命をv2.txt",
+          "kind": "download",
+          "date": "2026-01-18T23:13:26.103956"
+        }
+      ]
+    },
+    {
+      "id": "T002",
+      "path": "current/canon/豊国に5年の天よりの命をv3.txt",
+      "sha256": "b88e924439ce63cf2e4f152b261284c0e8f1eb6db2ea2f55157f9ba4dffaca0c",
+      "bytes": 43095,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/豊国五年/基幹プロンプト（閲覧許可、干渉禁止）/豊国に5年の天よりの命をv3.txt",
+          "kind": "workspace",
+          "date": "2026-04-11T02:58:26.229506"
+        },
+        {
+          "source": "Downloads/豊国IF_全ファイル.zip!/Φ▒èσ¢╜πü½5σ╣┤πü«σñ⌐πéêπéèπü«σæ╜πéÆv3.txt",
+          "kind": "archive-member",
+          "date": "(1980, 1, 1, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "id": "T003",
+      "path": "archive/notes/秀吉IF雑考.txt",
+      "sha256": "cdd65ae40765ba50a805880aa52cc02ddfc89bcb45cae006f1d040fd2331be17",
+      "bytes": 4450,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/豊国五年/考察メモ/秀吉IF雑考.txt",
+          "kind": "workspace",
+          "date": "2026-04-10T15:23:38.887823"
+        }
+      ]
+    },
+    {
+      "id": "T004",
+      "path": "archive/notes/秀吉IF雑考2.txt",
+      "sha256": "2053695d88213db9e8b502354fd7f71c69da5f7175dff1811128f179b7a922b0",
+      "bytes": 6104,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/豊国五年/考察メモ/秀吉IF雑考2.txt",
+          "kind": "workspace",
+          "date": "2026-04-10T15:23:37.106624"
+        }
+      ]
+    },
+    {
+      "id": "T005",
+      "path": "archive/notes/秀吉IF雑考3.txt",
+      "sha256": "0cf0cad1ad236f3599e9916d8b6c4ce0f3b428ebaaf29b6b611c3f6507734f1a",
+      "bytes": 5508,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/豊国五年/考察メモ/秀吉IF雑考3.txt",
+          "kind": "workspace",
+          "date": "2026-04-10T15:23:25.294405"
+        }
+      ]
+    },
+    {
+      "id": "T006",
+      "path": "archive/notes/秀吉IF雑考4.txt",
+      "sha256": "4b5268387d4cc401f3128f9dc497ff67744cda76aa2b418a0e6d495ef40148ef",
+      "bytes": 2912,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/豊国五年/考察メモ/秀吉IF雑考4.txt",
+          "kind": "workspace",
+          "date": "2026-04-11T14:15:44.101156"
+        }
+      ]
+    },
+    {
+      "id": "T007",
+      "path": "archive/notes/秀吉IF雑考5.txt",
+      "sha256": "18b7a9dd4d5ff2e3401f5c5c0db026225a9a83ed4e33542745c27c0b8717a5b5",
+      "bytes": 3251,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/豊国五年/考察メモ/秀吉IF雑考5.txt",
+          "kind": "workspace",
+          "date": "2026-04-10T15:23:19.686721"
+        },
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_プロンプトと対話旧稿/秀吉IF雑考5.txt",
+          "kind": "workspace",
+          "date": "2025-12-08T20:13:42.715145"
+        }
+      ]
+    },
+    {
+      "id": "T008",
+      "path": "archive/notes/秀吉IF雑考_各国（1610年時点）.html",
+      "sha256": "2049786f39fe63aba6e96e1c4e0653388599d3c8dda25c05da3722c969d2cc0c",
+      "bytes": 15532,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/豊国五年/考察メモ/秀吉IF雑考_各国（1610年時点）.html",
+          "kind": "workspace",
+          "date": "2026-04-10T15:23:20.963745"
+        },
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_プロンプトと対話旧稿/秀吉IF雑考_各国（1610年時点）.html",
+          "kind": "workspace",
+          "date": "2025-12-08T20:13:41.377945"
+        }
+      ]
+    },
+    {
+      "id": "T012",
+      "path": "archive/notes/秀吉IF雑考6.txt",
+      "sha256": "7802e3cafe2fc4fb9b65927e1023a19a1cb8b2adcbe52ba269c0ad4f3f8ffb33",
+      "bytes": 4480,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_単体原稿/秀吉IF雑考6.txt",
+          "kind": "workspace",
+          "date": "2026-03-24T22:48:18.303779"
+        }
+      ]
+    },
+    {
+      "id": "T013",
+      "path": "archive/notes/秀吉雑考IF7.txt",
+      "sha256": "ad08e7111ec9d78aafb95105444da3f5fd343e4e101f5c763d82ee0e11c5a4e6",
+      "bytes": 7823,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_単体原稿/秀吉雑考IF7.txt",
+          "kind": "workspace",
+          "date": "2026-05-16T16:26:58.991153"
+        }
+      ]
+    },
+    {
+      "id": "T014",
+      "path": "archive/drafts/豊国IF_シナリオ旧稿.txt",
+      "sha256": "06bb4944444c92d11c06e903afce375ed0339661c2d88ecc9f4aba723b97bb23",
+      "bytes": 27214,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_単体原稿/豊国IF_シナリオ旧稿.txt",
+          "kind": "workspace",
+          "date": "2025-11-10T05:10:49.260493"
+        }
+      ]
+    },
+    {
+      "id": "T015",
+      "path": "archive/drafts/豊国IF_シミュレーション依頼原稿.txt",
+      "sha256": "d473145ce1a634bbcc29e82775ba4175b45fc645170b6ccbae96185b615043b4",
+      "bytes": 24631,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_単体原稿/豊国IF_シミュレーション依頼原稿.txt",
+          "kind": "workspace",
+          "date": "2025-10-28T22:26:19.218150"
+        }
+      ]
+    },
+    {
+      "id": "T016",
+      "path": "archive/drafts/豊国IF_対話記録.txt",
+      "sha256": "9a182117556d1f35f745e1eae5d1e0a86fd1c8c3e5e02875fb6b8375688b479c",
+      "bytes": 94958,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_単体原稿/豊国IF_対話記録.txt",
+          "kind": "workspace",
+          "date": "2025-10-15T21:20:15.650133"
+        }
+      ]
+    },
+    {
+      "id": "T017",
+      "path": "archive/drafts/豊国に5年の天よりの命をv1-最終版.txt",
+      "sha256": "37f4e1b9be95e5ea6a04d7d72c7b379da39d2b2b50a351de6dc2bbca2b8c36f2",
+      "bytes": 28545,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_単体原稿/豊国に5年の天よりの命をv1-最終版.txt",
+          "kind": "workspace",
+          "date": "2025-11-25T23:54:41.861419"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/豊国に5年の天よりの命をv1-最終版.txt",
+          "kind": "download",
+          "date": "2025-11-25T23:54:41.861419"
+        }
+      ]
+    },
+    {
+      "id": "T018",
+      "path": "archive/drafts/豊国に5年の天よりの命をv3_1.txt",
+      "sha256": "9ff1b630d1fac20804b465a056b1aec588dadb281c0a23dbbed8e93c84ba35a9",
+      "bytes": 41967,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_単体原稿/豊国に5年の天よりの命をv3_1.txt",
+          "kind": "workspace",
+          "date": "2026-03-24T04:00:28.598719"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/豊国に5年の天よりの命をv3_1.txt",
+          "kind": "download",
+          "date": "2026-03-24T04:00:28.598719"
+        }
+      ]
+    },
+    {
+      "id": "T019",
+      "path": "proposals/ship-studies/豊国IF_検討_サイズ感の比較と見え方.md",
+      "sha256": "7531c8ec647f09dc2de78693fb00de91704dbabd6a18bf8f8c824c57768c86cb",
+      "bytes": 9339,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_サイズ感の比較と見え方.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_サイズ感の比較と見え方.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_サイズ感の比較と見え方.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T020",
+      "path": "proposals/ship-studies/豊国IF_検討_大型軍船の系譜と締結材の天井.md",
+      "sha256": "48b24c05d7fb11ff23f3d2d15ce6d60b2799ce663a1981e4dbb012c258f5a8bf",
+      "bytes": 17291,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_大型軍船の系譜と締結材の天井.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_大型軍船の系譜と締結材の天井.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_大型軍船の系譜と締結材の天井.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T021",
+      "path": "proposals/ship-studies/豊国IF_検討_安宅丸級_補論_推進と規模と費用.md",
+      "sha256": "e4de0c260c3b21eee82e636a1ff8153d105c334e3e1aec282839d1ebbee09e90",
+      "bytes": 10365,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_安宅丸級_補論_推進と規模と費用.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_安宅丸級_補論_推進と規模と費用.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_安宅丸級_補論_推進と規模と費用.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T022",
+      "path": "proposals/ship-studies/豊国IF_検討_安宅丸級_補論二_平常性と動員費用.md",
+      "sha256": "f9ac10c7f795d77aa2c4619124ebd8d65b6e0c4e10121d6b30f4bb63070240dc",
+      "bytes": 9288,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_安宅丸級_補論二_平常性と動員費用.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_安宅丸級_補論二_平常性と動員費用.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_安宅丸級_補論二_平常性と動員費用.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T023",
+      "path": "proposals/ship-studies/豊国IF_検討_安宅丸級の位置づけと朝鮮方面防衛方針.md",
+      "sha256": "bb5799d655bc512b7bce74dc838d87f6c4108c139bbf67884b1e53f95ffa8b60",
+      "bytes": 16088,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_安宅丸級の位置づけと朝鮮方面防衛方針.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_安宅丸級の位置づけと朝鮮方面防衛方針.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_安宅丸級の位置づけと朝鮮方面防衛方針.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T024",
+      "path": "proposals/ship-studies/豊国IF_検討_日本の想定する日本対策の船.md",
+      "sha256": "16d7bc80c17cd60515aecc4bd0476f57eb88db09e82883aaaff7d78b6e41b8b4",
+      "bytes": 10350,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_日本の想定する日本対策の船.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_日本の想定する日本対策の船.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_日本の想定する日本対策の船.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T025",
+      "path": "proposals/ship-studies/豊国IF_検討_東アジア造船技術の取り込みと折衷船・銅被覆.md",
+      "sha256": "e421625dd4d866bdd1c0b1e64a942cf8db54d8a49428b03a335916b64236d088",
+      "bytes": 17375,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_東アジア造船技術の取り込みと折衷船・銅被覆.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_東アジア造船技術の取り込みと折衷船・銅被覆.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_東アジア造船技術の取り込みと折衷船・銅被覆.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T026",
+      "path": "proposals/ship-studies/豊国IF_検討_相手側の軍備更新とその不能.md",
+      "sha256": "8d9344c3ba3b3c6f35274eb0dc215c3137b395b766f13d36acfc3073c1f7aacf",
+      "bytes": 9734,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_相手側の軍備更新とその不能.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_相手側の軍備更新とその不能.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_相手側の軍備更新とその不能.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T027",
+      "path": "proposals/ship-studies/豊国IF_検討_艦種構成の再編.md",
+      "sha256": "5c65b3aecc4b1029bb30412ef80ee21842a4f98365e3b6852c9cd56ba9405ef4",
+      "bytes": 9257,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_艦種構成の再編.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_艦種構成の再編.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_艦種構成の再編.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T028",
+      "path": "proposals/ship-studies/豊国IF_検討_艦隊は縮むのか形が変わるのか.md",
+      "sha256": "6562bf1c918df9f4e076c1e3768ee175b965412bbbb04927c2a7d36e0ca35fb1",
+      "bytes": 9915,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_艦隊は縮むのか形が変わるのか.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_艦隊は縮むのか形が変わるのか.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_艦隊は縮むのか形が変わるのか.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T029",
+      "path": "proposals/ship-studies/豊国IF_検討_行動圏と交戦の見通し.md",
+      "sha256": "01c708fb5d768ffb54297a4f4fdb0b17196b5cdff47031f8ea854de5d9fcb401",
+      "bytes": 11060,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_行動圏と交戦の見通し.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_行動圏と交戦の見通し.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_行動圏と交戦の見通し.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T030",
+      "path": "proposals/ship-studies/豊国IF_検討_諸元比較と系譜年表.md",
+      "sha256": "4fe8ee75cc47e86b0d9177931e8df4a09944f37680368a39ab2dfe4150e1eef6",
+      "bytes": 12715,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_諸元比較と系譜年表.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_諸元比較と系譜年表.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_諸元比較と系譜年表.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T031",
+      "path": "proposals/ship-studies/豊国IF_検討_買う経路_船と鉄の調達構造.md",
+      "sha256": "96cafa399065d30d72dd3d22d7906e5f36c6d61b0a69ec0cd68d4b575c00221d",
+      "bytes": 16548,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "workspace/改変シナリオ集/_取り込み資料/Download_20260919/豊国IF_造船軍備検討/豊国IF_検討_買う経路_船と鉄の調達構造.md",
+          "kind": "workspace",
+          "date": "2026-07-31T15:59:46"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/豊国IF/files112121.zip!/豊国IF_検討_買う経路_船と鉄の調達構造.md",
+          "kind": "archive-member",
+          "date": "(2026, 7, 31, 15, 59, 46)"
+        },
+        {
+          "source": "Downloads/_整理保管/20260919/AI作業出力・旧配布束/展開済み・回収済み控え/files112121/豊国IF_検討_買う経路_船と鉄の調達構造.md",
+          "kind": "download",
+          "date": "2026-07-31T15:59:46"
+        }
+      ]
+    },
+    {
+      "id": "T032",
+      "path": "current/guidance/豊国IF_引き継ぎ要領_README.md",
+      "sha256": "294a07541c0ad170acaa3cc3bed91cce76e67ae0f13dfae53be35225efa6d73a",
+      "bytes": 4669,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "Downloads/豊国IF_全ファイル.zip!/Φ▒èσ¢╜IF_σ╝òπüìτ╢ÖπüÄΦªüΘáÿ_README.md",
+          "kind": "archive-member",
+          "date": "(1980, 1, 1, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "id": "T033",
+      "path": "proposals/economy/豊国IF_検討_海賊と海運の規模維持量推計.md",
+      "sha256": "a3b43f6244c20d7de289b18562a5ecbedbbf4280283a2202746a51b2796c99af",
+      "bytes": 12876,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "Downloads/豊国IF_全ファイル.zip!/Φ▒èσ¢╜IF_µñ£Φ¿Ä_µ╡╖Φ│èπü¿µ╡╖Θüïπü«ΦªÅµ¿íτ╢¡µîüΘçÅµÄ¿Φ¿ê.md",
+          "kind": "archive-member",
+          "date": "(1980, 1, 1, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "id": "T034",
+      "path": "proposals/ledgers/豊国IF_差分台帳_v3からの進歩と新規考察.md",
+      "sha256": "8ff20385d3fef5a4e30745435bcdf629ab41c8d5663f48dc6ade7d8119fb527e",
+      "bytes": 15589,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "Downloads/豊国IF_全ファイル.zip!/Φ▒èσ¢╜IF_σ╖«σêåσÅ░σ╕│_v3πüïπéëπü«ΘÇ▓µ¡⌐πü¿µû░ΦªÅΦÇâσ»ƒ.md",
+          "kind": "archive-member",
+          "date": "(1980, 1, 1, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "id": "T035",
+      "path": "proposals/economy/豊国IF_検討_戦後利権の経済規模試算_1601-03.md",
+      "sha256": "d738dc0d9cca654865dafeb2950e6013bc3c7e57983bb18299de273ab72a4809",
+      "bytes": 18561,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "Downloads/豊国IF_全ファイル.zip!/Φ▒èσ¢╜IF_µñ£Φ¿Ä_µêªσ╛îσê⌐µ¿⌐πü«τ╡îµ╕êΦªÅµ¿íΦ⌐ªτ«ù_1601-03.md",
+          "kind": "archive-member",
+          "date": "(1980, 1, 1, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "id": "T036",
+      "path": "narrative/豊国IF_資料集_講和からルソンまで_v2.md",
+      "sha256": "9a3e535e7944e0ae9266b2965760f6decd22b631690098bd92470d2efcb677f0",
+      "bytes": 50236,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "Downloads/豊国IF_全ファイル.zip!/Φ▒èσ¢╜IF_Φ│çµûÖΘ¢å_Φ¼¢σÆîπüïπéëπâ½πé╜πâ│πü╛πüº_v2.md",
+          "kind": "archive-member",
+          "date": "(1980, 1, 1, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "id": "T037",
+      "path": "proposals/ledgers/豊国IF_参考提言集_雑考_各国表統合整理版.md",
+      "sha256": "b1bb0ba3d419b9ab34d6aeb89c640bd44f8140a327913134e6c0c680f135f206",
+      "bytes": 13372,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "Downloads/豊国IF_全ファイル.zip!/Φ▒èσ¢╜IF_σÅéΦÇâµÅÉΦ¿ÇΘ¢å_Θ¢æΦÇâ_σÉäσ¢╜Φí¿τ╡▒σÉêµò┤τÉåτëê.md",
+          "kind": "archive-member",
+          "date": "(1980, 1, 1, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "id": "T038",
+      "path": "current/guidance/豊国IF_ハンドオフ_執筆規律と用語注意.md",
+      "sha256": "8b7e08f370e9c3a3011c5b5da1df630f9073a4d88534cd770d90e7b7b48deb96",
+      "bytes": 9366,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "Downloads/豊国IF_全ファイル.zip!/Φ▒èσ¢╜IF_πâÅπâ│πâëπé¬πâò_σƒ╖τ¡åΦªÅσ╛ïπü¿τö¿Φ¬₧µ│¿µäÅ.md",
+          "kind": "archive-member",
+          "date": "(1980, 1, 1, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "id": "T039",
+      "path": "proposals/economy/豊国IF_検討_豊臣政権の経済構造と海上権力の利得.md",
+      "sha256": "b96c15748c3dec86ceacce1f9e2c50f1284c39728a634b61b6cfe2367550d63b",
+      "bytes": 10931,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "Downloads/豊国IF_全ファイル.zip!/Φ▒èσ¢╜IF_µñ£Φ¿Ä_Φ▒èΦçúµö┐µ¿⌐πü«τ╡îµ╕êµºïΘÇáπü¿µ╡╖Σ╕èµ¿⌐σè¢πü«σê⌐σ╛ù.md",
+          "kind": "archive-member",
+          "date": "(1980, 1, 1, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "id": "T040",
+      "path": "proposals/ship-review/claude_豊国IF_検討_安宅丸系の検算と修正.md",
+      "sha256": "f204ad25eeb7de3b3a4546a29cb4e3797d16c8989e2ec88fbdf7d4664a472dd8",
+      "bytes": 22632,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "Downloads/豊国IF_全ファイル.zip!/claude_Φ▒èσ¢╜IF_µñ£Φ¿Ä_σ«ëσ«àΣ╕╕τ│╗πü«µñ£τ«ùπü¿Σ┐«µ¡ú.md",
+          "kind": "archive-member",
+          "date": "(1980, 1, 1, 0, 0, 0)"
+        }
+      ]
+    },
+    {
+      "id": "T041",
+      "path": "proposals/economy/豊国IF_検討_呂宋航路のプールと木材問題.md",
+      "sha256": "c6c1d1f103ef0da9b639adbac247b41fae3cbf0b13e3f24bea6f5843a5d2f9b1",
+      "bytes": 9219,
+      "encoding": "utf-8-sig",
+      "occurrences": [
+        {
+          "source": "Downloads/豊国IF_全ファイル.zip!/Φ▒èσ¢╜IF_µñ£Φ¿Ä_σæéσ«ïΦê¬Φ╖»πü«πâùπâ╝πâ½πü¿µ£¿µ¥ÉσòÅΘíî.md",
+          "kind": "archive-member",
+          "date": "(1980, 1, 1, 0, 0, 0)"
+        }
+      ]
+    }
+  ],
+  "archives": [
+    {
+      "path": "import/original-zips/files112121.zip",
+      "sha256": "17c8d46099dde156696f628cb834f0111cac039d0a067f67507269d1c43078d3",
+      "members": 13,
+      "all_members_recovered": true
+    },
+    {
+      "path": "import/original-zips/豊国IF_全ファイル.zip",
+      "sha256": "d028a0363f614ea170f0810982e31892df4e8fe6a7daba2f85436e6cdc0e9e4c",
+      "members": 11,
+      "all_members_recovered": true
+    }
+  ],
+  "excluded_unrelated_ids": [
+    "T009",
+    "T010",
+    "T011"
+  ],
+  "path_aliases": "workspace and Downloads are logical source roots; personal absolute paths omitted"
+}

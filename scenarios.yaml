@@ -35,3 +35,37 @@ scenarios:
     epistemic_rule: "no-future-knowledge-computation-accelerated"
     source_import: "current-v098-plus-complete-v097-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository"
+
+  hatsudoki-tenseisha:
+    title: "発動機転生者"
+    status: active
+    authority_version: "PC技術台帳・2026-06-07保存版（旧引き継ぎ第2版を明示訂正）"
+    canonical_clock: null
+    clock_state: "not-specified; technical-ledger-recovered"
+    frontier: "技術台帳の訂正を優先して旧引き継ぎから再開。保証・常用・実証・条件付き値を区別"
+    repository: "fe-ball/alternate-history-hub"
+    path: "scenarios/hatsudoki-tenseisha"
+    entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
+    scenario_rules: "scenarios/hatsudoki-tenseisha/SCENARIO-RULES.md"
+    authority_entrypoint: "scenarios/hatsudoki-tenseisha/current/航空発動機_工夫と発明_技術台帳.md"
+    import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
+    epistemic_rule: "future-knowledge-automotive-engine-engineer"
+    source_import: "two-pc-claude-originals-sha256-verified"
+    source_archive_status: "original-documents-preserved-byte-for-byte"
+
+  toyokuni-if:
+    title: "豊国IF ― 豊国に五年の天よりの命を"
+    status: active
+    authority_version: "v3 + 執筆規律（回収した2026年7月引き継ぎ）"
+    canonical_clock: null
+    clock_state: "canon-v3; derivative-narrative-through-1613; proposal-adoption-open"
+    frontier: "1613年までの派生叙述をv3優先で読む。呂宋統治・後金問題・国内政治と提言の採否が未決"
+    repository: "fe-ball/alternate-history-hub"
+    path: "scenarios/toyokuni-if"
+    entrypoint: "scenarios/toyokuni-if/README.md"
+    scenario_rules: "scenarios/toyokuni-if/SCENARIO-RULES.md"
+    authority_entrypoint: "scenarios/toyokuni-if/current/canon/豊国に5年の天よりの命をv3.txt"
+    import_status: "scenarios/toyokuni-if/import/IMPORT-STATUS.md"
+    epistemic_rule: "no-future-knowledge-hideyoshi-five-year-lifespan-divergence"
+    source_import: "38-unique-documents-from-pc-workspace-and-downloads-plus-two-original-zips"
+    source_archive_status: "two-zips-crc-verified-all-members-and-38-documents-sha256-verified"

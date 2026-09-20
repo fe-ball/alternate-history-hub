@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "path": "current/航空発動機_工夫と発明_技術台帳.md",
+      "sha256": "27198c237d1114923e3f5b79bbb7f921d5eb2634deca06933e232f8dc052ccc6",
+      "bytes": 85197,
+      "source": "Claude/Projects/発動機転生者/航空発動機_工夫と発明_技術台帳.md"
+    },
+    {
+      "path": "archive/引き継ぎ書_新チャット用.md",
+      "sha256": "a814411c8a5868873c88f205902e63c0adb0bdec45aea01ef4030f03d85fd899",
+      "bytes": 8774,
+      "source": "Claude/Projects/発動機転生者/引き継ぎ書_新チャット用.md"
+    }
+  ],
+  "date": "2026-09-20"
+}

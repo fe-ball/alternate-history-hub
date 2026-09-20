@@ -10,6 +10,11 @@ Clock state: **OPEN / EVENT-SIMULATION**
 
 Current frontier: **FORAGER execution: 14 Jun close-range bombardment / submarine screen -> 15 Jun Bonins & Saipan D-day approach -> First Mobile Fleet contact**
 
+## 物語・設定解説を読む
+
+- [発掘した全文と現行版との整合性確認](current/06_READER_GUIDE/README.md)
+- 原文は保全し、旧い戦史参照・数値の食い違い・未決事項を該当段落の編集注で案内。
+
 ## Scenario rule
 
 最初に [SCENARIO-RULES.md](SCENARIO-RULES.md) を確認する。
