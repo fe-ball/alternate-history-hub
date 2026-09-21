@@ -39,19 +39,19 @@ scenarios:
   hatsudoki-tenseisha:
     title: "発動機転生者"
     status: active
-    authority_version: "PC技術台帳・2026-06-07保存版（旧引き継ぎ第2版を明示訂正）"
-    canonical_clock: null
-    clock_state: "not-specified; technical-ledger-recovered"
-    frontier: "技術台帳の訂正を優先して旧引き継ぎから再開。保証・常用・実証・条件付き値を区別"
+    authority_version: "Relaunch R1"
+    canonical_clock: "1937-07-07T00:00"
+    clock_state: "relaunch-r1; pre-incident baseline; engine-aircraft state provisionally closed through 1937-07-07T00:00; pre-relaunch material reference-only"
+    frontier: "1937-07-07直前。O2/暁一一型搭載機、予備発動機、比較試作の中央ケースを基準に、事変投入直前の部隊配備・整備予備・機種転換を閉じる。並行して1937後半のO2B/暁一二型と次期単発司偵・戦闘機要求を監査"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
     scenario_rules: "scenarios/hatsudoki-tenseisha/SCENARIO-RULES.md"
-    authority_entrypoint: "scenarios/hatsudoki-tenseisha/current/航空発動機_工夫と発明_技術台帳.md"
+    authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "two-pc-claude-originals-sha256-verified"
-    source_archive_status: "original-documents-preserved-byte-for-byte"
+    source_import: "relaunch-r1-on-top-of-two-pc-claude-originals-sha256-verified"
+    source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
     title: "豊国IF ― 豊国に五年の天よりの命を"
