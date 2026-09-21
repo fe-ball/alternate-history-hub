@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-09-21"
+updated: "2026-09-22"
 
 scenarios:
   asai:
@@ -24,8 +24,8 @@ scenarios:
     status: active
     authority_version: "Branch B v100"
     canonical_clock: "1944-06-16T14:15"
-    clock_state: "open-event-simulation; forager-approved-through-1944-06-16T14:15; saipan-ground-approved-through-1944-06-16-dawn; china-1944-05-29_to_06-14-detail-gap; aircraft-audit-working-strong"
-    frontier: "FORAGER 6/16 14:15：米軍のGuam/Tinian帰投阻止判断 ↔ 日本軍のrecovery CAP・基地受入・第二梯団/第二撃選択。第一撃帰投台帳を閉じつつ午後航空戦へ"
+    clock_state: "open-event-simulation; forager-approved-through-1944-06-16T14:15; saipan-ground-approved-through-1944-06-16-dawn; post-1415-working-synthesis-recorded-not-authority; next-tf58-asw-meta-reaudit; china-1944-05-29_to_06-14-detail-gap; aircraft-audit-working-strong"
+    frontier: "FORAGER現行正本は6/16 14:15据置。6/16午後〜6/17の会話作業線をWORKING保存。次はTF58全体の対潜脆弱性を、損傷による隊形変化・DD再配分・CVEのCAS/CAP/ASW負荷・損傷空母群・補給群・輸送群・日本潜水艦の実位置からメタ再監査してからpost-14:15を正本化する"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/keisanki-ibun"
     entrypoint: "scenarios/keisanki-ibun/README.md"
@@ -41,7 +41,7 @@ scenarios:
     status: active
     authority_version: "Relaunch R1"
     canonical_clock: "1937-07-07T00:00"
-    clock_state: "relaunch-r1; pre-incident baseline; engine-aircraft state provisionally closed through 1937-07-07T00:00; pre-relaunch material reference-only"
+    clock_state: "relaunch-r1; pre-incident baseline; engine-aircraft state provisionally closed through-1940-12-31; pre-relaunch material reference-only"
     frontier: "1937-07-07直前。O2/暁一一型搭載機、予備発動機、比較試作の中央ケースを基準に、事変投入直前の部隊配備・整備予備・機種転換を閉じる。並行して1937後半のO2B/暁一二型と次期単発司偵・戦闘機要求を監査"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
