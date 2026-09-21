@@ -14,7 +14,11 @@
 3. [能力収斂・余裕配分フレーム](relaunch/01-CAPABILITY-FRAMEWORK.md)
 4. [リランチ史・甲から乙初期](relaunch/02-HISTORY-TO-1935.md)
 5. [甲・乙 暫定技術台帳](relaunch/03-ENGINE-LEDGER-V0.md)
-6. [pre-relaunch 参考資料索引](pre-relaunch/README.md)
+6. [O2定格・熱監査追補](relaunch/03A-O2-RATING-THERMAL-AUDIT-V1.md)
+7. [乙／暁関係航空機台帳・1937年7月まで](relaunch/04-AIRCRAFT-LEDGER-TO-1937.md)
+8. [名称・会社・制式呼称規則](relaunch/05-NAMING-DESIGNATION-POLICY.md)
+9. [pre-relaunch 参考資料索引](pre-relaunch/README.md)
+10. [次回用セッション開始テキスト](SESSION-START-PROMPT.md)
 
 ## リランチの中心変更
 
@@ -42,8 +46,9 @@
 ### 乙
 
 - 同130×150mm、複列14気筒、約27.87Lを第一候補。
-- 87octで900–920hp保証を暫定目標。
+- 87octで離昇900–920hp級、30分850–880hp級、常用最大780–810hp級を暫定座標とする。
 - 92octは通常87運用を犠牲にしない特認・実験高出力線として980–1000hp級を候補。
+- 定格は最悪条件最低保証ではなく、指定条件で受領・耐久試験を通した使用上限として扱う。
 - 520–535kg、径1.14–1.15m級を監査中。
 - 個別排気の推力はshaft hpへ足さず、独立した搭載利得として扱う。
 
