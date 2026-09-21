@@ -31,8 +31,11 @@
 2. [能力収斂・余裕配分フレーム](01-CAPABILITY-FRAMEWORK.md)
 3. [リランチ史・甲から乙初期](02-HISTORY-TO-1935.md)
 4. [甲・乙 暫定技術台帳](03-ENGINE-LEDGER-V0.md)
-5. [乙／暁関係航空機台帳・1937年7月まで](04-AIRCRAFT-LEDGER-TO-1937.md)
-6. [pre-relaunch 参考資料索引](../pre-relaunch/README.md)
+5. [O2定格・熱監査追補](03A-O2-RATING-THERMAL-AUDIT-V1.md) — **03の定格・熱表現を上書き**
+6. [乙／暁関係航空機台帳・1937年7月まで](04-AIRCRAFT-LEDGER-TO-1937.md)
+7. [名称・会社・制式呼称規則](05-NAMING-DESIGNATION-POLICY.md)
+8. [pre-relaunch 参考資料索引](../pre-relaunch/README.md)
+9. [セッション開始テキスト](../SESSION-START-PROMPT.md)
 
 ## 採否の規律
 
@@ -43,5 +46,5 @@
 - **OPEN:** 未決。
 - **REFERENCE:** 旧体系または比較用。正準値ではない。
 
-特に性能値は、保証・通常・長時間・試験デモ・条件付き定格を混ぜない。
+特に性能値は、離昇・30分定格・常用最大・巡航・試験上端・条件付き定格を混ぜない。公称定格は指定条件で試験認定された使用上限として扱い、旧03の「最悪条件保証」的な読みは03Aで上書きする。
 排気推力などの搭載利得は軸出力へ合算せず、独立した物理量として保持する。
