@@ -41,7 +41,7 @@ scenarios:
     status: active
     authority_version: "Relaunch R1"
     canonical_clock: "1937-07-07T00:00"
-    clock_state: "relaunch-r1; pre-incident baseline; engine-aircraft state provisionally closed through-1940-12-31; pre-relaunch material reference-only"
+    clock_state: "relaunch-r1; pre-incident baseline; engine-aircraft state provisionally closed through 1937-07-07T00:00; pre-relaunch material reference-only"
     frontier: "1937-07-07直前。O2/暁一一型搭載機、予備発動機、比較試作の中央ケースを基準に、事変投入直前の部隊配備・整備予備・機種転換を閉じる。並行して1937後半のO2B/暁一二型と次期単発司偵・戦闘機要求を監査"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
