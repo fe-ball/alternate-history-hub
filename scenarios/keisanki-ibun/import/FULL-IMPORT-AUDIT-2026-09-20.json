@@ -14,5 +14,6 @@
   "all_extracted_sha256_verified": true,
   "filename_policy": "Preserve ZIP-decoded filenames exactly, including inherited mojibake; original ZIP bytes retained.",
   "nested_archives": "Preserved byte-for-byte without recursive extraction.",
-  "current_authority": "Branch B v098"
+  "authority_at_import": "Branch B v098",
+  "authority_pointer_policy": "Current scenario authority is not stored in this import audit; consult scenarios.yaml and the current authority entrypoint."
 }

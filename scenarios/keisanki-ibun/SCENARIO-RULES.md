@@ -2,11 +2,14 @@
 
 ## Authority
 
-- Current authority: **Branch B v098**
-- Working canonical clock: **1944-06-14T12:00**
+- Current authority: **Branch B v100**
+- Working canonical clock: **1944-06-16T14:15**
 - Clock state: **OPEN / EVENT-SIMULATION**
-- v098 explicit settlements / working-event closures override retained v097/v096 authority for the points they address.
-- v097 remains the immediate parent and v096 remains the base authority/provenance layer where non-conflicting.
+- Post-14:15 working syntheses are **NOT AUTHORITY / NO CLOCK ADVANCE**.
+- Authority chain: **v100 > v099 > v098 > v097 > v096 > older retained authority where non-conflicting.**
+- v100 explicit settlements override earlier working/event results only for the points they address.
+- v099 remains the parent authority for aircraft-production/process audit, Homare common-wallet logic, B7A performance card and the anti-magic method guard.
+- v098/v097/v096 retained settlements remain valid where non-conflicting.
 - Older later-clock branches do not regain authority merely because they describe a later historical date.
 - Closed inherited settlements remain closed unless explicitly superseded; missing promoted detail is not an automatic reopen.
 
@@ -44,14 +47,29 @@
 
 ## Current guard
 
-FORAGER is now in active event simulation.
+FORAGER approved authority is closed through **1944-06-16T14:15**.
+
+Immediate analytical frontier:
+1. rebuild Japanese fleet hull/equipment/refit/readiness state by actual dated hull;
+2. close shared equipment/production wallets before assigning scarce equipment to individual ships;
+3. build physical / serviceable / crewed / mission-ready / location ledgers across BB/CA/CL/DD/carriers/seaplane tenders/support hulls;
+4. then perform the mandatory **TF58 whole-system ASW meta-audit** before promoting any post-14:15 event line.
 
 Always separate:
+- actual state vs observation vs inference vs decision;
 - U.S. assessed destruction vs actual Japanese system state;
-- physical / serviceable / mission-ready / immediately launchable;
-- technical feasibility / production / deployability / tactical / operational / strategic effect.
+- physical / serviceable / crewed / mission-ready / immediately launchable;
+- prototype best / production standard / field median;
+- technical feasibility / prototype feasibility / production / deployability / serviceability / tactical / operational / strategic effect.
 
-Do not auto-import historical Biak/Kon/Philippine-Sea events where Branch causal geometry differs.
+Aircraft guard:
+- the v099 aircraft/process audit remains controlling where v100 is silent;
+- do not promote later conversation-derived aircraft counts or performance into hard canon without the required processing-history / common-wallet / allocation audit.
+
+Do not auto-import:
+- historical Biak/Kon/Philippine-Sea events where Branch causal geometry differs;
+- historical post-damage conversions when the causal damage did not occur;
+- old July/August force ledgers merely because their historical clock is later.
 
 Parallel gap:
 China/Ichi-Go detailed 29 May–14 Jun events remain OPEN and must be backfilled before detailed China-state effects are used.

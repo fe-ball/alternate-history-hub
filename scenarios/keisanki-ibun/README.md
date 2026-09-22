@@ -2,13 +2,14 @@
 
 Status: **active**
 
-Authority: **Branch B v098**
+Authority: **Branch B v100**
 
-Working canonical clock: **1944-06-14T12:00**
+Working canonical clock: **1944-06-16T14:15**
 
-Clock state: **OPEN / EVENT-SIMULATION**
+Clock state: **OPEN / EVENT-SIMULATION**  
+Post-14:15 working syntheses exist, but are **NOT AUTHORITY** and do not advance the canonical clock.
 
-Current frontier: **FORAGER execution: 14 Jun close-range bombardment / submarine screen -> 15 Jun Bonins & Saipan D-day approach -> First Mobile Fleet contact**
+Current frontier: **Japanese fleet hull/equipment/refit/readiness re-audit first; TF58 whole-system ASW meta-audit remains a mandatory gate before any post-14:15 event promotion.**
 
 ## 物語・設定解説を読む
 
@@ -23,39 +24,48 @@ Current frontier: **FORAGER execution: 14 Jun close-range bombardment / submarin
 
 ## Authority
 
-v096 FULL package remains the base authority/provenance layer.
-v097 is the immediate parent.
-v098 is the newest authority overlay and advances the active working event line into June 1944 FORAGER.
+Current authority is **v100**.
 
-WORKING / OPEN / PROVISIONAL remain distinct from CANON / APPROVED.
-GitHub presence alone does not hard-canon a numerical combat band.
+Authority chain:
+**v100 > v099 > v098 > v097 > v096 > older retained authority where non-conflicting.**
 
-Older later-clock branches do not automatically regain authority.
+- v100 closes the approved FORAGER / Saipan / carrier-battle event line through **1944-06-16T14:15**.
+- v099 remains the parent authority for the aircraft-production/process audit, Homare common wallet, B7A performance card and anti-magic method guard.
+- v098 remains authoritative for retained structural settlements such as personnel survival, fleet survival and non-conversion where not superseded.
+- v096 remains the base authority/provenance layer where later overlays are silent.
+- Older later-clock branches do not regain authority merely because they describe a later historical date.
+
+WORKING / OPEN / PROVISIONAL remain distinct from CANON / APPROVED. GitHub presence alone does not hard-canon a numerical combat band.
 
 ## Current state
 
-Key v098 work:
-- closed ship-survival/non-conversion anti-regression guard;
-- 1944 personnel-command working ledger;
-- Ichi-Go Hunan opening and west-air accumulation tax;
-- U.S. FORAGER capability blocks;
-- Japanese layered warning system / J0-J3 transition;
-- audited 10 Jun Marianas air roll-forward;
-- 11–13 Jun air/bombardment working execution;
-- First Mobile Fleet 13–14 Jun maritime state;
-- I-400/I-401 Eniwetok first strike;
-- one-TG Bonins detachment decision.
+Approved through 1944-06-16T14:15:
+- Saipan D-day and 15/16 Jun night ground action through 16 Jun dawn;
+- Bonins one-TG suppression and replacement-packet realization;
+- First Mobile Fleet first strike;
+- TF58 ship-level first-strike damage;
+- U.S. recontact and Japanese carrier egress/recovery routing through 14:15;
+- U.S. deep carrier counterstrike range gate = HOLD / RED at 14:15.
 
-China 29 May–14 Jun detailed event sequence remains a parallel OPEN ledger.
+Current immediate analytical task:
+- rebuild the 1944 Japanese fleet by actual hull, dated refit and equipment allocation;
+- distinguish physical / serviceable / crewed / mission-ready / location;
+- close common equipment wallets before assigning scarce equipment to individual ships;
+- audit battleships, then CA/CL/DD, carriers/seaplane tenders and support hulls;
+- only then return to TF58 whole-system ASW and post-14:15 event promotion.
+
+China 29 May–14 Jun detailed event sequence remains a parallel OPEN ledger and must not be inferred from the global date.
 
 ## Reading order
 
-1. [v098 current read-first](current/00_CURRENT_AUTHORITY/00_READ_FIRST_CURRENT_V098_2026-09-19.md)
-2. [v098 full handoff](current/V098_ADDENDUM_2026-09-19/00_HANDOFF/00_READ_FIRST_V098_FULL_HANDOFF.md)
-3. [v098 supersession/status map](current/V098_ADDENDUM_2026-09-19/01_AUTHORITY/V098_SUPERSESSION_AND_STATUS_MAP.md)
-4. [v098 next frontier](current/V098_ADDENDUM_2026-09-19/04_RESUME/NEXT_FRONTIER_1944-06-14_FORAGER_CONTINUE.md)
-5. [v097 handoff](current/V097_ADDENDUM_2026-09-19/00_HANDOFF/00_READ_FIRST_V097_FULL_HANDOFF.md)
-6. [v096 base handoff](current/00_CURRENT_AUTHORITY/00_READ_FIRST_V096_FULL_HANDOFF.md)
+1. [v100 current read-first](current/00_CURRENT_AUTHORITY/00_READ_FIRST_CURRENT_V100_2026-09-21.md)
+2. [v100 full handoff](current/V100_ADDENDUM_2026-09-21/00_HANDOFF/00_READ_FIRST_V100_FULL_HANDOFF.md)
+3. [v100 supersession/status map](current/V100_ADDENDUM_2026-09-21/01_AUTHORITY/V100_SUPERSESSION_AND_STATUS_MAP.md)
+4. [ship/equipment/fleet re-audit resume](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_READ_FIRST_SHIP_EQUIPMENT_AND_FLEET_REAUDIT_2026-09-23.md)
+5. [v100 next frontier](current/V100_ADDENDUM_2026-09-21/04_RESUME/NEXT_FRONTIER_1944-06-16_1415.md)
+6. [v099 aircraft / Homare audit](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/01_AIRCRAFT_AUDIT_AND_HOMARE_POOL_1944H1.md)
+7. [v099 anti-magic method guard](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/03_USER_METHOD_GUARD_ANTI_MAGIC.md)
+8. retained v098/v097/v096 authority where not superseded.
 
 ## Clean aviation references
 
@@ -63,12 +73,11 @@ China 29 May–14 Jun detailed event sequence remains a parallel OPEN ledger.
 - [Army aircraft design / engines / timing](current/00_CURRENT_AUTHORITY/05_CLEAN_CANONICAL_REFERENCES/51_陸軍航空機_機種別設計・発動機・日程.md)
 - [Navy attack / dive / land attack / flying boats](current/00_CURRENT_AUTHORITY/05_CLEAN_CANONICAL_REFERENCES/52_海軍航空機_艦攻・艦爆・陸攻・大艇.md)
 - [Navy fighters / air-cooled engines / jet aviation](current/00_CURRENT_AUTHORITY/05_CLEAN_CANONICAL_REFERENCES/53_海軍戦闘機・空冷発動機・噴進航空.md)
+- [B7A Ryusei full re-audit](current/00_CURRENT_AUTHORITY/05_CLEAN_CANONICAL_REFERENCES/BRANCH_B_B7A_RYUSEI_FULL_REAUDIT_1944-04-25_v001.md)
 
 ## Import status
 
 - [Source package](import/SOURCE-PACKAGE.md)
 - [Import status](import/IMPORT-STATUS.md)
 
-The external FULL HANDOFF source package remains provenance. v098 adds current session-derived authority files; it does not promote the deep legacy archive into current/.
-
-2026-09-20: 原本v097 ZIPと全2,071ファイルを `import/source-v097-full/` に保存済み。現行v098のauthorityと読み順は維持。
+The complete v097 source snapshot is preserved as provenance/reference material. Import presence does not promote legacy force-state values into current authority.
