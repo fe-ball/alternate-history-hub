@@ -5,18 +5,18 @@ scenarios:
   asai:
     title: "浅井世界線"
     status: active
-    authority_version: "V24"
-    canonical_clock: "1941-01-01T00:00"
-    clock_state: "china-war-continuation-replay-working-closed-through-1940-12-31; prior-v23-china-peace-route-preserved-as-sibling"
-    frontier: "1941-01-01から再開。新四軍/皖南危機を日単位で処理し、続いて豫南作戦。北部仏印E6武装偵察・軽攻撃台帳と1941試作/陸戦装備ゲートを並行更新"
+    authority_version: "V25"
+    canonical_clock: "1941-08-11T24:00"
+    clock_state: "china-war-continuation-replay-working-closed-through-1941-08-11; southern-indochina-occupation-deferred-not-renounced; us-asset-freeze-active; partial-petroleum-licensing-open; military-preparation-and-diplomacy-parallel"
+    frontier: "まず石炭液化・人造石油と浅井の水素/高圧化学境界を閉じる。その直後に、どう対米戦準備/期限政治が固まり、どう米英蘭中側の対日強硬が固まるかを再演。中国の偶発的高価値命中、悲観/楽観的政策研究、燃料見通しショックはbounded stochastic gateとして許容"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/README.md"
     scenario_rules: "scenarios/asai/SCENARIO-RULES.md"
-    authority_entrypoint: "scenarios/asai/current/00-START-HERE-2026-09-21-FULL-V24.md"
+    authority_entrypoint: "scenarios/asai/current/00-START-HERE-2026-09-22-FULL-V25.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "current-v24-plus-complete-v22b-source-snapshot"
+    source_import: "current-v25-plus-complete-v22b-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository"
 
   keisanki-ibun:
@@ -51,7 +51,7 @@ scenarios:
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
     source_import: "relaunch-r1-on-top-of-two-pc-claude-originals-sha256-verified"
-    source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
+    source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch-retained-as-reference"
 
   toyokuni-if:
     title: "豊国IF ― 豊国に五年の天よりの命を"

@@ -1,41 +1,41 @@
-# V24 CURRENT ROUTER — CHINA-WAR-CONTINUATION REPLAY
+# V25 CURRENT ROUTER — 1941 US-JAPAN STRATEGIC GATE
 
-**Current authority:** `00-START-HERE-2026-09-21-FULL-V24.md`  
-**Active package:** `92-BRANCH-2026-09-21-CHINA-WAR-CONTINUATION-REPLAY-V24/`  
-**Active replay clock:** **1941-01-01T00:00**  
-**Replay cutpoint:** **1940-09-30T24:00**  
+**Current authority:** `00-START-HERE-2026-09-22-FULL-V25.md`  
+**Active package:** `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/`  
+**Active replay clock:** **1941-08-11T24:00**  
+**Parent:** V24 China-war-continuation replay  
 **Sibling preserved route:** V23/V22B China-peace route  
 **Exact recovery source:** `../import/source-v22b-full-exact/`
 
-V24 is the active continuation branch in which the Sino-Japanese War does not end in the 1941 peace process.
+V25 carries the China-war-continuation branch through the early-August 1941 southern-Indochina / US-freeze / partial-license gate.
 
-Core branch premise:
+Core state:
 
-- stronger US/UK political support signals encourage Chongqing to wait;
-- Japan is more strongly committed to the Nanjing/Wang Jingwei structure;
-- peace feelers remain possible but do not create operational ceasefire;
-- the 25 November 1940 Central Hubei operation is executed;
-- Japan formally recognizes Nanjing on 30 November;
-- by 1941-01-01 the next gates are the New Fourth Army/Wannan crisis and the South Henan operation.
+- the Sino-Japanese War remains active;
+- China is not collapsing as a state, but modern-war capital, logistics, currency quality and real incomes are being consumed;
+- Japan has deferred, not renounced, southern-Indochina occupation;
+- US asset-freeze controls are active;
+- V25 does not equate the freeze with an automatic complete oil cutoff;
+- Japan has learned both that the US southern-expansion red line is real and that the US economic carrot has limits;
+- Japanese military organs continue south-war preparation, China war and northern contingency work while diplomacy proceeds;
+- US/Allied policy is likewise internally divided and not treated as a unitary optimizing actor.
 
 ## Read first
 
-1. `00-START-HERE-2026-09-21-FULL-V24.md`
-2. `92-BRANCH-2026-09-21-CHINA-WAR-CONTINUATION-REPLAY-V24/00-SESSION-HANDOFF-V24.md`
-3. `92-BRANCH-2026-09-21-CHINA-WAR-CONTINUATION-REPLAY-V24/01-DECISION-REGISTER-V24.tsv`
-4. `92-BRANCH-2026-09-21-CHINA-WAR-CONTINUATION-REPLAY-V24/02-REPLAY-CHRONOLOGY-1940-09-30-1941-01-01-V24.md`
-5. `92-BRANCH-2026-09-21-CHINA-WAR-CONTINUATION-REPLAY-V24/03-TECH-STATE-1941-01-01-V24.md`
-6. `92-BRANCH-2026-09-21-CHINA-WAR-CONTINUATION-REPLAY-V24/04-OPEN-ITEMS-AND-NEXT-GATES-V24.tsv`
-
-## Guard
-
-Do not import downstream results from the former China-peace route into this continuation branch unless the causal event already occurred before the V24 divergence. In particular, the 1940 German E5 technology-transfer negotiation survives; later E6 transfer, German Eastern-Front lessons and V23 1945–46 outcomes do not backflow.
+1. `00-START-HERE-2026-09-22-FULL-V25.md`
+2. `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/00-SESSION-HANDOFF-V25.md`
+3. `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/01-DECISION-REGISTER-V25.tsv`
+4. `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/02-REPLAY-CHRONOLOGY-1941-01-01-1941-08-11-V25.md`
+5. `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/03-CHINA-WAR-ECONOMY-AIRPOWER-SNAPSHOT-V25.md`
+6. `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/04-US-JAPAN-POLITICAL-OPTION-STATE-V25.md`
+7. `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/05-CRYPTO-ALLIED-SOVIET-STATE-V25.md`
+8. `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/06-SYNTHETIC-FUEL-HYDROGEN-NEXT-GATE-V25.md`
+9. `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/07-OPEN-ITEMS-AND-NEXT-GATES-V25.tsv`
 
 ## Next replay
 
-Start at **1941-01-01**:
+First close synthetic fuel / coal liquefaction and Asai's hydrogen/high-pressure-chemistry boundary. Then enter directly into the coupled question:
 
-1. New Fourth Army/Wannan orders, route and escalation;
-2. South Henan operation preparation and exact start/OOB;
-3. North-Indochina armed-recon/light-strike pressure;
-4. 1941 prototype and ground-equipment gates only as their dates are reached.
+**How does Japanese preparation for war with the United States harden, and how does US/Allied policy harden against Japan?**
+
+Plausible stochastic shocks are allowed, but no shock may be chosen merely to force war.

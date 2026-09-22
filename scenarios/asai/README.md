@@ -2,54 +2,48 @@
 
 Status: **active**
 
-Authority: **V23**
+Authority: **V25**
 
-Canonical clock: **1946-06-30T24:00級**
+Canonical clock: **1941-08-11T24:00**
 
-Clock state: **1946年一般休戦まで history working-close / source-repair + 1939–1941 retro-audit OPEN**
+Clock state: **China-war continuation replay WORKING-CLOSED through 1941-08-11; southern-Indochina occupation deferred but not renounced; US asset-freeze controls active; partial petroleum licensing remains possible; military preparation and diplomacy run in parallel.**
 
-Current frontier: **完全収録されたV22B原本を基準に、部分取り込み期に生じた可能性のある破損・誤推定を監査修復し、1939–1941の技術・生産・配備状態を回収する。1941年5月台帳を閉じた後、中国戦継続・仏印進駐・改装空母論点へ戻る。**
+Current frontier: **まず石炭液化・人造石油と浅井の水素/高圧化学境界を閉じる。その直後に、日米双方で強硬論・戦争準備・deadline politicsがどう自己強化するかを再演する。中国大陸の偶発的高価値命中、悲観/楽観的政策研究、燃料見通しの急変などは bounded stochastic gate として許容する。**
 
 ## Scenario rule
 
 最初に [SCENARIO-RULES.md](SCENARIO-RULES.md) を確認する。
 
-浅井側の先行知識・技術優位は、正本で認められた伝播経路を越えて他国・他組織へ自動コピーしない。
-
-また、1945–46年に閉じた結果を1939–41年の主体知識・物理在庫・制度成熟へ逆流させない。
+浅井側の先行知識・技術優位は、実機・図面・治工具・技術者・試験記録・生産方法・整備体系・運用feedback等の実在する伝播経路を越えて他国・他組織へ自動コピーしない。
 
 ## 読み順
 
-1. [00-START-HERE-2026-09-19-FULL-V23.md](current/00-START-HERE-2026-09-19-FULL-V23.md)
-2. [V23 session handoff](current/91-CURRENT-2026-09-19-CHINA-PEACE-SECOND-CLOSE-V23/00-SESSION-HANDOFF-V23.md)
-3. [Import-recovery / technology-recovery handoff](current/91-CURRENT-2026-09-19-CHINA-PEACE-SECOND-CLOSE-V23/05-IMPORT-RECOVERY-TECH-RECOVERY-HANDOFF-V23.md)
-4. V23 decision register / chronology / armistice stop-line / retro frontier
-5. For source recovery, use **[source-v22b-full-exact/](import/source-v22b-full-exact/)**. Do not use the old partial `source-v22b-full/` when an exact counterpart exists.
-6. V22B branch package for inherited 1940–44 German-jet-transfer state
-7. V21 year-end handoff for non-conflicting inherited state
-8. technical / essence parents referenced by V22B/V21
+1. [V25 authority entrypoint](current/00-START-HERE-2026-09-22-FULL-V25.md)
+2. [V25 session handoff](current/93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/00-SESSION-HANDOFF-V25.md)
+3. [V25 decision register](current/93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/01-DECISION-REGISTER-V25.tsv)
+4. V25 chronology / China snapshot / US-Japan option state / crypto-Allied-Soviet state
+5. [Synthetic fuel / hydrogen next gate](current/93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/06-SYNTHETIC-FUEL-HYDROGEN-NEXT-GATE-V25.md)
+6. For recovered parent material use **[source-v22b-full-exact/](import/source-v22b-full-exact/)**.
 
 ## Precedence
 
-V23明示決定 > V22B明示決定 > V21の非矛盾部分 > 参照されるV10/V9/V8技術親。
+V25 explicit decisions > V24 explicit decisions > non-conflicting V23/V22B/V21 state > referenced technical parents.
 
-V23は、V22BでOPENだった1945年以降の中心枝を1946年一般休戦までworking-closeする。V23が明示していない技術値はV22B/V21/technical parentを継承する。
+The former China-peace route is sibling provenance. Later German/Soviet/Pacific/postwar outcomes from that route do not backflow into 1941 actor knowledge.
 
-**source-v22b-full-exact は原本復旧用の忠実なsource mirrorであり、その収録自体は旧資料をCANONへ昇格させない。** 同時に、元ZIPの内容を確認する場合は部分取り込み・再構成物よりexact mirrorを優先する。
+**source-v22b-full-exact is a faithful source mirror, not an automatic CANON layer.**
 
-GitHub 上のファイル配置、最大version、作成日、最も未来の記述だけではauthorityを決めない。
+GitHub path, version number, newest date, or most-future historical date does not determine current authority without the registry/router.
 
 ## Clock semantics
 
-Canonical clockは歴史再演がworking-closeされた最終地点を示す。
+Canonical clock is the latest replay point working-closed in the active branch.
 
-Current frontierは次に議論する対象を示す。V23では両者を意図的に分離し、**canonical clockは1946年、active discussionは1939–41年の修復・技術回収へ戻る**。
+Analytical look-aheads do not move the clock. The brief Moscow look-ahead remains analysis only; V25 current clock is 1941-08-11T24:00.
 
 ## Import status
 
 - [Source package](import/SOURCE-PACKAGE.md)
 - [Import status](import/IMPORT-STATUS.md)
 
-V22B source ZIPのprovenanceは保持し、2026-09-20に原本ZIPと全展開ファイルの収録を完了した。V23はこの会話で承認された日中和平ルート第二弾の追加authorityであり、元ZIPへ遡及的に含まれるものではない。
-
-元ZIPに含まれる旧版・監査履歴・ネストした過去ZIP・XLSX等は、`import/source-v22b-full-exact/` に全件保存済み。収録によってcurrentへ自動昇格させない。
+The V22B source ZIP and exact mirror remain byte/provenance-preserved. V24/V25 are later conversation authorities layered above that source.

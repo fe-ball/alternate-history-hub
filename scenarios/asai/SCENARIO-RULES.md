@@ -2,56 +2,76 @@
 
 ## Authority
 
-- Current authority: **V23**
-- Canonical clock: **1946-06-30T24:00級**
-- History state: **1946年一般休戦までWORKING-CLOSED**
-- Active discussion frontier: **1939–1940 retro-audit**
-- V23 explicit results override conflicting V22B/V21 working results inside this route.
-- Non-conflicting V22B and V21 state remains inherited.
-- Japanese E5/E6/E7 and other technical parent values remain governed by their technical parents unless V23 explicitly changes the local product/history state.
-- Exact dates, census counts and loss figures marked WORKING remain bands, not archival exactitudes.
+- Current authority: **V25**
+- Canonical clock: **1941-08-11T24:00**
+- History state: **China-war-continuation replay WORKING-CLOSED through 1941-08-11**
+- Current frontier: **synthetic-fuel/hydrogen audit, then coupled Japan-US hard-line crystallization**
+- V25 explicit results override conflicting V24/V23/V22B/V21 working results inside the active continuation route.
+- Non-conflicting technical parent state remains inherited.
+- Exact counts/dates/losses marked WORKING remain bands, not archival exactitudes.
 
 ## Clock / backflow guard
 
-Canonical clock、clock state、frontierは別軸で扱う。
+Canonical clock, clock state and frontier are separate.
 
-V23のcanonical clockが1946年であっても、現在の議論は1939–40年へ遡ってよい。1945–46年の結果は因果整合性の監査対象には使えるが、当時まだ存在しない知識・機体・生産統計・戦訓・外交結果を1939–40年へ逆流させてはならない。
+Analytical look-aheads do not move the historical clock. In particular, the conversation's 1941 Moscow look-ahead is analysis-only.
 
-後年に成立した技術・量産・運用結果を、早期checkpointで「将来そうなるから既に存在する」と扱わない。
+Do not backflow:
+- later German E5-D/E6-D field lessons;
+- later Pacific-war or no-Pacific-war outcomes;
+- V23/V22B China-peace results;
+- later Soviet/German/postwar outcomes.
 
 ## Knowledge boundary
 
-この世界線に存在する先行知識・技術上の優位は、正本で認められた主体・組織の範囲を越えて自動コピーしない。
+Existing future knowledge and technical advantage do not auto-copy across institutions or states.
 
-特に日独技術移転は、未来知識や完全な設計探索結果を遠隔複製するものではない。移転できるのは、実際に渡された、
-
-- 発動機・機体
-- 図面
-- 治工具
-- 技術者
-- 生産方法
-- 検査・整備体系
-- 試験記録
-- 運用記録
-- feedback
-
-である。
-
-受領側は、自国の材料、工作、圧縮機、機体、量産、整備、物流、戦闘運用の問題を別途解かなければならない。
+Transfer requires real channels such as:
+- product/machine;
+- drawings/process specification;
+- tooling/gauges;
+- engineer/training;
+- documented method;
+- joint test;
+- license/local redevelopment;
+- maintenance/service system;
+- operational feedback.
 
 ## Simulation guard
 
-- 技術可能性、試作成立、量産可能性、配備可能性、serviceability、戦術効果、作戦効果、戦略効果を分ける。
-- produced / present / serviceable / immediately operationalを分ける。
-- 単機性能と戦域効果を分ける。
-- ジェット戦力の効果を撃墜数だけに還元せず、ISR、意思決定、撤退・予備投入、整備回復を含める。
-- ソ連・連合側の適応を止めない。
-- 熟練crew / junior leaders / engineers / maintainers等の人的資本と、機体・戦車の生産補充を別勘定にする。
-- Germanyの強化要因について、V21由来のno-US-war/no-Normandy/no-US-oil-campaignとV22B由来の日独E5/E6移転効果を二重計上しない。
-- 1946年休戦はformal final peace treatyではない。最終国境、長期軍備上限、戦争犯罪処理、France再統合、German postwar regime、China内戦等は別途OPENのまま残す。
+- Separate technical feasibility, prototype, mass production, deployability, serviceability, tactical effect, operational effect and strategic effect.
+- Separate produced / present / assigned / serviceable / sortie-ready.
+- Separate unit performance from theater effect.
+- Preserve enemy adaptation.
+- Do not decide campaigns from catalog performance alone.
+- Track recovery, abandonment, repair and trained-human-capital loss separately.
+- China manpower survival does not imply survival of modern-war capital.
+- US economic controls are not a single switch; legal freeze, licensing, actual contracts, payment and physical shipment are separate.
+- Japan and the US/Allied system are not unitary rational actors.
 
-## V23 stop line
+## Political / stochastic guard
 
-日中和平ルート第二弾の中心枝は、1946年5–6月級のGeneral European Armistice成立と、それに伴う多極的武装平和の開始で一旦閉じる。
+V25 permits bounded stochastic events where historically/plausibly available:
 
-1946年以後の長期戦後史を自動的に進めない。次のactive workは1939–40年の上流監査である。
+- unusually consequential bombing hit or miss;
+- plant/bridge/depot/command damage;
+- intelligence or fiscal report;
+- policy study;
+- industrial test result;
+- diplomatic leak;
+- shipping/field incident.
+
+Conditions:
+1. plausible at the date;
+2. arrives through a real information channel;
+3. actors know only what the channel reveals;
+4. event is not chosen solely to force a preferred Pacific-war outcome;
+5. downstream effects pass through institutions, logistics and decision gates.
+
+## V25 stop line / next gate
+
+Current replay stops at 1941-08-11T24:00.
+
+Next:
+1. synthetic fuel / coal liquefaction / Asai hydrogen-high-pressure audit;
+2. then direct replay of how Japanese US-war preparation and US/Allied anti-Japanese hard-line policy become self-reinforcing or fail to do so.
