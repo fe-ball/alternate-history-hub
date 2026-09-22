@@ -725,3 +725,32 @@ When exact historical yard dates / historical hardware specifications are needed
 - U.S. SG/CIC/VT/5in38 systemic advantage remains real.
 - Mature Japanese time-fuze / director / 40 mm layers can improve substantially without erasing the U.S. VT advantage.
 - Post-14:15 working event results remain **NOT AUTHORITY** until explicit promotion.
+
+
+---
+
+# 12. 2026-09-23 continuation — fleet audit checkpoint recorded
+
+The fleet re-audit has now advanced beyond the starting point of this handoff.
+
+Read next:
+- `FLEET_HULL_ESCORT_REAUDIT_WORKING_SNAPSHOT_2026-09-23.md`
+- `00_NEXT_CHAT_JUNE_DISPOSITION_CARRIER_DEFENSE_REAUDIT_2026-09-23.md`
+
+Major progress recorded there:
+- Ise/Hyuga ordinary non-aviation modernization;
+- 12-BB equipment direction;
+- CA18 / CL21 structural wallets;
+- modern fleet-DD Jan1 baseline = 81;
+- kaibokan / escort-role separation;
+- old-DD/PB genealogy identified as remaining hull-ledger gap.
+
+Immediate next work is no longer “start the hull audit.”
+It is:
+1. finish DD/kaibokan/old-DD named roll-forward;
+2. reconstruct actual 1942–44 damage/refit/movement path into the **June sortie disposition**;
+3. audit carrier AA/CAP/fighter direction/screen/manoeuvre as a complete defensive system;
+4. regenerate the earlier post-14:15 working carrier-defense loss bands;
+5. then return to TF58 whole-system ASW and post-14:15 promotion gates.
+
+Canonical clock remains 1944-06-16T14:15.

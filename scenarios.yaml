@@ -24,8 +24,8 @@ scenarios:
     status: active
     authority_version: "Branch B v100"
     canonical_clock: "1944-06-16T14:15"
-    clock_state: "open-event-simulation; forager-approved-through-1944-06-16T14:15; saipan-ground-approved-through-1944-06-16-dawn; post-1415-working-synthesis-recorded-not-authority; next-fleet-hull-equipment-reaudit; tf58-asw-meta-reaudit-still-mandatory-before-post1415-promotion; china-1944-05-29_to_06-14-detail-gap; aircraft-audit-working-strong"
-    frontier: "FORAGER現行正本は6/16 14:15据置。次チャットはまず04_RESUME/00_READ_FIRST_SHIP_EQUIPMENT_AND_FLEET_REAUDIT_2026-09-23.mdを読み、1942-44の技術進展・日独潜水艦連絡/Penang-Sabang・NC資源・未成/45年級機材救済を個艦の実入渠/生産財布へ落として、戦艦12隻だけでなくCA/CL/DD/空母・水上機母艦/工作・給油・補給艦までphysical/serviceable/crewed/MR/location台帳を再構築する。TF58全体ASWメタ監査はpost-14:15正本化前の必須gateとして維持"
+    clock_state: "open-event-simulation; forager-approved-through-1944-06-16T14:15; saipan-ground-approved-through-1944-06-16-dawn; post-1415-working-synthesis-recorded-not-authority; fleet-hull-equipment-reaudit-working-checkpoint-recorded; next-june-sortie-disposition-and-carrier-defense-reaudit; tf58-asw-meta-reaudit-still-mandatory-before-post1415-promotion; china-1944-05-29_to_06-14-detail-gap; aircraft-audit-working-strong"
+    frontier: "FORAGER現行正本は6/16 14:15据置。艦艇装備監査は04_RESUME/FLEET_HULL_ESCORT_REAUDIT_WORKING_SNAPSHOT_2026-09-23.mdまでWORKINGで前進。次チャットは04_RESUME/00_NEXT_CHAT_JUNE_DISPOSITION_CARRIER_DEFENSE_REAUDIT_2026-09-23.mdを入口に、残るDD/海防艦/旧式DD・哨戒艇の個艦roll-forwardを閉じ、各艦の1942-44損傷・修理・改装・移動から実際の6月出撃時配置/燃料/護衛割当を再構築する。その上で日米空母防空をCAP・電探/戦闘機指揮・艦砲AA・護衛配置・操艦/編隊技能まで一体監査し、post-14:15 WORKING航空戦の防空損耗数値を再計算する。TF58全体ASWメタ監査はpost-14:15正本化前の必須gateとして維持"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/keisanki-ibun"
     entrypoint: "scenarios/keisanki-ibun/README.md"
