@@ -51,7 +51,7 @@ scenarios:
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
     source_import: "relaunch-r1-on-top-of-two-pc-claude-originals-sha256-verified"
-    source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch-retained-as-reference"
+    source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
     title: "豊国IF ― 豊国に五年の天よりの命を"
