@@ -1,88 +1,143 @@
-# 乙／暁関係航空機台帳 — 1937年7月まで v0
+# 乙／暁関係航空機台帳 — 1937年7月基準 v1
 
-> **Status:** PROVISIONAL-CLOSE
-> 基準日は1937年7月、支那事変開始直前。
-> 数量はリランチ後の中央ケース。史実値ではない。
-> 考察名「乙」= 尾張発動機 O2。世界内制式名候補は **暁一一型**。
-> 「乙先進」は考察名であり世界内制式名ではない。
+> **Status:** 1937-07-07 baseline = CLOSED
+> **Authority:** Relaunch R2
+> 基準日は支那事変開始直前。数量はこの世界線の中央ケースであり史実値ではない。
+> 後続の1937 H2以降は `07-AIRCRAFT-PRODUCTION-1937H2-1939.md` を参照。
 
-## 1. 発動機供給の中央ケース
+## 1. 発動機供給
 
-1937年7月までのO2/暁累計完成基数を **約470基** と置く。
-従来の監査幅430–550基の中央付近。
+1937-07-07までの暁family累計完成を **約470基** とする。
 
-配分の目安:
+- O2 / 暁一一型: 約405
+- O2B / 暁一二型: 約65
+
+配分:
 
 | 用途 | 基数 |
 |---|---:|
-| 実機搭載 | 約260 |
-| 軍・部隊・工場予備 | 約110 |
-| 耐久・破壊・官試験 | 約55 |
-| 航空廠・会社在庫 / overhaul rotation | 約45 |
+| 実機搭載 | **約282** |
+| 軍・部隊・工場予備 | **約95** |
+| endurance / destructive / official test | **約50** |
+| depot / company / overhaul rotation | **約43** |
 
-平時の第一線機数をO2基数だけ増やすのではなく、
-比較試験、予備、機種転換、前倒し配備、既存寿/光系の他用途への押出しに使う。
+O2Bはfew prototypeではなくlow-rate productionへ入っている。
 
-## 2. 1937年7月までに現れたO2搭載機
+## 2. 1937-07-07時点の主要搭載機
 
-| 世界内呼称 / 開発呼称 | 考察上の位置 | 1937.7までの中央機数 | 搭載 | ざっとした性能・用途 |
-|---|---|---:|---|---|
-| **九五式艦上戦闘機・暁搭載試験機** | 95乙 | **約16機** | 暁一一型 | 最高速380–390km/h級。3,000m約2:50–3:10候補。低速冷却のため上昇は800–830hp級中心。鳳翔等で艦上qualification、CAP、保険機 |
-| **九六式二号艦上戦闘機（A5M系・暁）** | 九試乙の実用枝 | **約125機** | 暁一一型 | 全備1.55–1.60t級、最高速490–500km/h級、5,000m約4:50–5:10。固定脚。870hp/30分をかなり使い切れる主力候補 |
-| **九六式艦戦系・高速研究試作機** | 海軍乙先進 | **約5機** | 暁一一型 | 引込脚・清浄前胴等を試す別設計級研究枝。最高速510–520km/h級候補。量産型ではない |
-| **Ki-11・O2搭載比較機 / 実用試験ロット** | 陸軍初期乙単葉 | **約27機** | 暁一一型 | 最高速455–470km/h級。Ki-10より高速、Ki-11より重いが高出力。単葉化と格闘性のtradeを実測 |
-| **次期戦闘機・暁搭載比較試作機** | 陸軍第四案 | **約6機** | 暁一一型 | 全備1.70–1.75t、翼20m²級、最高速495–505km/h、5,000m約4:45–5:05。Ki-27ほど瞬間旋回しないがKi-28より低翼面荷重 |
-| **九七式司令部偵察機（Ki-15系・暁）** | O2司偵 | **約60機** | 暁一一型 | 最高速508–515km/h級、5,000m約6:30–6:55、航続2,300–2,500km級候補。小径カウル、視界、高速巡航が主利得 |
-| **九六式艦上攻撃機・暁搭載試験機** | B4Y O2比較 | **約4機** | 暁一一型 | 最高速285–295km/h級。主利得は魚雷時離艦・上昇・cooling margin。複葉抗力が律速で量産優先度は低い |
-| **十試艦上攻撃機・暁搭載比較機** | B5N O2比較 | **約3機** | 暁一一型 | 380km/h台後半候補。離艦・魚雷搭載・上昇余裕。中島自社発動機との企業競争があり、1937.7時点では比較枝 |
-| **Ka-15 / 九六式陸攻系・暁搭載比較機** | G3M O2比較 | **約2機** | 暁×2 | 355–365km/h級候補。金星3と出力差は小さく、細いnacelle・軽量・供給多元化が主価値。三菱自社金星が強く本採用はしない |
-| **Ki-21・暁搭載比較機** | 新重爆O2比較 | **約2機** | 暁×2 | 410–425km/h級の初期試験座標。3,000m要求を余裕で狙う。爆装/燃料/片発/離陸へ約200kg級のengine-weight余裕を配分可能 |
-| **尾張発動機社有飛行試験機** | installation testbeds | **約6機** | O2各型 | exhaust nozzle、cooling ΔP、cowl、prop、長時間rated powerを軍採用前に試す。既成単発/双発機改造を含む |
+| 世界内呼称 / 開発呼称 | 中央機数 | 搭載 | 状態・性能 |
+|---|---:|---|---|
+| 九五式艦上戦闘機・暁搭載試験機 | **16** | 一一 | qualification / insurance。380–390km/h級 |
+| 九六式二号艦上戦闘機 | **約100** | 一一 | formal mass main。固定脚、490–500km/h級 |
+| 九六式三号艦上戦闘機 | **約40** | early一一→主に一二 | upper first-line。引込脚、closed canopy、6×7.7、約530km/h |
+| Ki-11・O2実用試験 | **約27** | 一一 | doctrine / operational trial |
+| 陸軍次期戦闘機「第四案」 | **約18** | 一一/一二 | fixed first lot 6 + retractable second lot 約12 |
+| Ki-15暁司偵 | **約60** | 一一/一二 | formal mass branch。508–515km/h級 |
+| B4Y暁比較 | **4** | 一一 | low priority |
+| B5N暁比較 | **3** | 一一 | Nakajima own-engine competition |
+| G3M暁比較 | **2 aircraft** | 暁×2 | mass adoptionなし |
+| Ki-21暁比較 | **2 aircraft** | 暁×2 | future main branchは岳 |
+| 尾張社有testbeds | **6** | O2 family | installation / exhaust / cooling / prop |
 
-中央ケース合計: **約256機**。
-双発比較機を含むため搭載O2は **約260基強**。
+O2搭載機中央 **約278機**、installed engines **約282基**。
 
-## 3. 採用の重心
+## 3. 九六式三号艦戦
 
-1937年7月時点で量として意味があるのは二本。
+三号は旧台帳の「高速研究試作約5機」ではなく、1937年時点で正式採用されたupper branch。
 
-1. **九六式二号艦戦系:** O2の最大の軍用需要。
-2. **九七式司令部偵察機:** O2の小径・高速巡航・長時間定格を最も素直に使う陸軍需要。
+1937-07-07 約40機の内訳中央:
+- prototype / revised: 約8
+- land operational trials: 約12
+- carrier qualification / unit trial: 約8
+- early serial: 約12
 
-その他は、
+standard:
+- O2B / 暁一二
+- wing 18.0m²、span 約10.9m
+- empty 1.40–1.44t
+- normal combat 1.90–1.94t、中央1.92
+- wing loading 約107kg/m²
+- hydraulic retract gear / emergency extension
+- fixed tailwheel
+- closed sliding canopy
+- 3-blade constant-speed 2.85–2.90m
+- **6×7.7mm** = sync nose 2 + wing 4
+- convergence 約220m
+- **約530km/h at 4km**、audit 525–535
+- 5000m climb 約4:50
+- internal fuel **420L**
+- drop 160L standard、210L long-range land use
+- rearward individual exhaust、500km/h net 20–30kgf、central約25
 
-- 95乙: qualification / insurance
-- Ki-11 O2: doctrine experiment
-- 海陸の先進戦闘機: research
-- B4Y/B5N: carrier strike comparison
-- G3M/Ki-21: twin-engine comparison
+三号はland-base useもnormal。二号はcheap / small-carrier / training / backupとして残る。
 
-であり、O2が何にでも自動採用される世界にはしない。
+## 4. 陸軍第四案
 
-## 4. O2B / 乙改の1937年時点
+first fixed-gear lot 6:
+- O2
+- 1.70–1.75t
+- wing 約20m²
+- 495–505km/h
 
-1937年7月までは **本格的な乙改量産はまだ行わない**。
+second retractable lot 約12:
+- O2 / O2B
+- closed canopy
+- 3-blade variable / constant-speed
+- 4×7.7
+- rearward exhaust net 18–25kgf
+- normal full 1.87–1.90t、central1.88
+- wing 約19.8m²、wing loading 約95
+- O2 520–525、O2B 525–530
+- 5000m 4:35–4:50
+- internal range 800–950km
 
-先行改修型O2B（世界内名候補: **暁一二型**）は少数bench / flight test中とする。
+Ki-27とのparallel operational trial。1937-07-07時点でformal adoptionは未決。
 
-内容候補:
+## 5. 暁一二 / O2B status
 
-- impeller / diffuserの量産成熟
-- fuel metering / mixture distribution改善
-- ignition schedule更新
-- cooling / accessory detail改善
-- 92oct特認運転のformal qualification
+O2Bは1935 H2からproduction feedbackを取り込み、1936 Q1 bench、Q2 flight、H2 qualification、1937 Q1 low-rateへ進んだ。
 
-これは同じ一段一速の改修であり、二速過給ではない。
-搭載先はKi-15系・海陸次期戦闘機の試験個体数機程度。
+1937-07-07 completed **約65基**。
 
-**一段二速を持つ本格次世代O2改は1937年後半〜38年の開発案件**として別途閉じる。
+主変更:
+- impeller / diffuser / tip clearance
+- drive / seal
+- fuel metering / mixture distribution
+- ignition schedule
+- 92oct formal qualification
+- rear-row baffle / exhaust-side cooling
+- cowl ΔP specification
+- oil return / de-aeration
+- ring / honing
+- accessory fixes
+- exhaust interface
+- acceptance dyno / lot / change control
 
-## 5. 名称規律
+定格・熱条件は `06-ENGINE-FAMILY-GROWTH-TO-1939.md` を正本とする。
 
-- 甲/乙/乙先進 = 外部考察用。
-- O1/O2/O2B = 尾張発動機社内型式。
-- 旭/暁 = 世界内制式名候補。
-- 史実相当機はA4N/A5M/Ki-15/Ki-21等の系列名を維持。
-- 暁搭載だけで新しい機体番号を自動生成しない。
-- 完全新設計として独立試作命令が出た場合だけ新番号を検討する。
+## 6. 他社との共存
+
+O2が高性能用途を取っても、Nakajima / Mitsubishi等の発動機工場は消えない。
+
+1937-07-07比較用在庫:
+- A4N standard 約150 + O2 16
+- A5M寿 branch 約45 + 二号O2約100 + 三号約40
+- Ki-11 historical 4 + O2 27
+- next fighter historical 11–13 + O2約18
+- Ki-15 Ha-8 約18–20 + O2約60
+- B4Y standard 約38 + O2 4
+- B5N standard 約10 + O2 3
+- G3M金星 約70 + O2 2
+- Ki-21 early historical 約2 + O2 compare 2
+
+低payoff用途を他社発動機で量産することは、尾張の失敗ではなく日本航空工業全体の分業とする。
+
+## 7. 名称規律
+
+- 甲/乙等 = 外部監査名
+- O1/O2/O2B = 社内型式
+- 旭/暁 = 世界内発動機名
+- 機体は史実相当系列名を維持
+- 発動機換装だけで新機体番号を作らない
+- 海軍一号/二号/三号は当時の制度として相当に異なる枝を許す
+- 後年の二桁型式を1936–37へ遡及適用しない
