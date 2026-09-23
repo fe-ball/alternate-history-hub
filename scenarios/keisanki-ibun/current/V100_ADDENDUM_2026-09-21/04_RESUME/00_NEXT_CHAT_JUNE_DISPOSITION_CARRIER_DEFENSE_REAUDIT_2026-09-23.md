@@ -1,3 +1,11 @@
+> **2026-09-23 late-session superseding resume pointer:**  
+> The June disposition/carrier-defense audit continued materially after this file.  
+> For the **next-chat entry point**, read:
+> - SECOND_ATTACK_WINDOW_COMMAND_ISR_FORMATION_WORKING_SNAPSHOT_2026-09-23.md
+> - 00_NEXT_CHAT_SECOND_ATTACK_WINDOW_DECISION_ISR_MARIANAS_REGEN_2026-09-23.md
+>
+> This file remains useful background, but do **not** jump directly to the old 17 Jun reciprocal-carrier-battle working line. The immediate re-audit now starts inside the approved 16 Jun history at the 第二次攻撃・一撃 sea geometry and 11:30–12:30 Japanese information board.
+>
 # READ FIRST NEXT CHAT — June sortie disposition / carrier defense / air-battle recheck
 ## 2026-09-23 handoff
 
