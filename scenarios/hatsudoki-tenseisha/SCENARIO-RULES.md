@@ -208,3 +208,60 @@ GitHubへ入ったことだけを理由に作者確定事項へ昇格させな�
 機体・発動機の世界内名称は `relaunch/05-NAMING-DESIGNATION-POLICY.md` を参照する。
 甲/乙等の監査ラベルを制式名称へ侵入させない。
 史実相当機は史実の試作番号・略符号・制式名称を優先し、発動機換装だけで新しい機体番号を作らない。
+
+
+## 15. 戦役を跨ぐ状態量・在庫の非リセット
+
+会戦・撤退・疎開を跨いでも、人員・兵器・熟練・輸送能力を新品へ戻さない。
+
+最低でも、
+- 在隊人員 / organized combat personnel
+- veteran cadre / NCO
+- rifles / LMG / HMG
+- mortar / infantry gun
+- field / mountain artillery / AT
+- vehicle / tractor
+- horses / carts
+- communications
+- ammunition / fuel
+- cohesion
+- rail / river / motor / animal transport capacity
+- aircraft / serviceable aircraft / pilots / mechanics / spare engines / sortie generation
+を前回残高から繰り越す。
+
+人員補充は重装備、熟練、凝集を自動回復しない。
+失われた砲・車両・通信・馬匹は、具体的な生産・輸入・転用・捕獲がない限り復活しない。
+
+## 16. 兵站は単一の史実日付ロックではない
+
+「兵站があるから史実日まで動けない」と一括処理しない。
+
+幹線容量、鉄道末端、道路状態、橋梁、車両、馬匹、航空基地へのfuel/bomb、敵抵抗、天候を分ける。
+
+敵抵抗が弱く弾薬・車両損耗が減った場合、その余裕の一部をrail / sleeper / bridge / cement / gravel / road / signal等へ再配分し、transport capacity investmentが後続の末端容量を増やすことを認める。
+
+一方、large bridge / locomotive / signal / specialist engineeringの物理時計を無料で短縮しない。
+
+航空は幹線貨物を消費するが、末端より先のenemy artillery / reinforcement / transportを弱めることで地上側の弾薬消費・損耗・補修妨害を減らせる。
+一時的な「航空支援された突出圏」を許容するが、無限進撃にはしない。
+
+## 17. 1930年代中国政治・占領社会のactor-knowledge規律
+
+1937–38年の人物へ、後世の中華人民共和国・台湾・日本の記憶政治や宣伝体系を逆流させない。
+同時代のactorが知り得る軍事・政治・社会状況から判断させる。
+
+史実ベースラインとして、
+- 反蒋派
+- 和平派
+- 軍閥の自己保存
+- 対日協力者・協力政権参加者
+- 商業的・政治的機会を積極的に求める者
+- 強制・保身・二股
+- 国府軍・国民政府への地域的反感
+が存在することを認める。
+
+日本軍による残虐行為が存在したことから「対日協力政治は成立不能」と自動推論しない。
+逆に、協力者が存在したことから被害・反日感情・抵抗が存在しないとも推論しない。
+動機を一律に「生活のため仕方なく」に縮減せず、権力・反蒋・和平思想・利権・地方主義・反共・保身・強制などを具体的に分ける。
+
+後に汪兆銘政権が成立したという史実は、早期時点で結果が必然・既知であることを意味しない。
