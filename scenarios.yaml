@@ -39,10 +39,10 @@ scenarios:
   hatsudoki-tenseisha:
     title: "発動機転生者"
     status: active
-    authority_version: "Relaunch R1"
-    canonical_clock: "1937-07-07T00:00"
-    clock_state: "relaunch-r1; pre-incident baseline; engine-aircraft state provisionally closed through 1937-07-07T00:00; pre-relaunch material reference-only"
-    frontier: "1937-07-07直前。O2/暁一一型搭載機、予備発動機、比較試作の中央ケースを基準に、事変投入直前の部隊配備・整備予備・機種転換を閉じる。並行して1937後半のO2B/暁一二型と次期単発司偵・戦闘機要求を監査"
+    authority_version: "Relaunch R2"
+    canonical_clock: "1938-05-21T00:00"
+    clock_state: "relaunch-r2; china-war operational ledger closed through Xuzhou capture and pursuit start 1938-05-21; engine-aircraft development planning retained beyond clock without future-result leakage; pre-relaunch reference-only"
+    frontier: "1938-05-21徐州陥落直後。商丘→蘭封→開封→中牟/鄭州の追撃速度と幹線/末端兵站を日単位で再構築し、中国側の黄河決壊判断・趙口等の施工試行・花園口/代替地点・河況・日本先頭部隊/航空偵察との競争を別時計で閉じる"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -50,7 +50,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r1-on-top-of-two-pc-claude-originals-sha256-verified"
+    source_import: "relaunch-r2-continuity-ledger-through-1938-05-21"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
