@@ -18,14 +18,19 @@ Read in order:
 6. `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/05-CRYPTO-ALLIED-SOVIET-STATE-V25.md`
 7. `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/06-SYNTHETIC-FUEL-HYDROGEN-NEXT-GATE-V25.md`
 8. `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/07-OPEN-ITEMS-AND-NEXT-GATES-V25.tsv`
+9. **Post-session working recovery:** `93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/08-POST-V25-WORKING-HANDOFF-2026-09-23.md`
 
 For exact recovered parent material use `scenarios/asai/import/source-v22b-full-exact/`.
 
 ## Next-session order
 
-1. **First:** close the 1941 synthetic-fuel / coal-liquefaction outlook, including what Asai already knows about hydrogen/high-pressure work from metallurgy and where the real direct-liquefaction bottlenecks remain.
-2. **Then immediately:** replay how a Japan-US war choice and US/Allied hard-line policy become politically self-reinforcing rather than assuming either war or peace.
-3. Bounded stochastic events are allowed: pessimistic strategic studies, contradictory oil projections, accidental high-value bombing hits in China, intelligence shocks, political leaks, or operational incidents. They must be plausible at the date, visible through a real information channel, and must not be selected merely to force the desired war outcome.
+The 2026-09-23 post-session handoff supersedes the older restart order below **for conversation continuation only**; it does not advance the V25 authority clock.
+
+1. **First:** recover the old **diesel-aircraft / diesel-reconnaissance** branch from provenance and determine its actual technical/procurement state.
+2. **Then:** recover the old **air-to-air refueling** branch. In particular, verify the remembered concept that Asai used the lower fire-hazard of kerosene/distillate relative to aviation gasoline as an argument for GT-aircraft refueling trials. Treat this as a recovery hypothesis until old evidence is found.
+3. **Then:** return to the 1941 aviation deployment / carrier-concentration problem using the post-session working reconstruction.
+4. Preserve the Pearl Harbor butterfly-suppression guard recorded in the post-session handoff: at the corresponding historical date/time, U.S. carriers are not in Pearl Harbor and nearby carrier dispositions remain historical unless the user explicitly reopens that guard.
+5. Only after those recoveries decide whether to promote any post-V25 working closures into a new authority/replay package.
 
 ## Guards
 
@@ -33,3 +38,4 @@ For exact recovered parent material use `scenarios/asai/import/source-v22b-full-
 - The 1941 Moscow look-ahead conducted in conversation is analytical only. Current replay clock remains 1941-08-11T24:00.
 - Technical feasibility, production, allocation, serviceability, combat effect and strategic effect remain separate.
 - Japan's better information processing does not make Japanese politics a unitary rational actor. US/Allied politics receive the same treatment.
+- The post-session handoff is **WORKING-CLOSE**, not automatic CANON. Persisted working estimates remain subordinate to V25 and relevant technical authorities until explicitly promoted.
