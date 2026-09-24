@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-09-23"
+updated: "2026-09-24"
 
 scenarios:
   asai:
@@ -40,9 +40,9 @@ scenarios:
     title: "発動機転生者"
     status: active
     authority_version: "Relaunch R2"
-    canonical_clock: "1938-05-21T00:00"
-    clock_state: "relaunch-r2; china-war operational ledger closed through Xuzhou capture and pursuit start 1938-05-21; engine-aircraft development planning retained beyond clock without future-result leakage; pre-relaunch reference-only"
-    frontier: "1938-05-21徐州陥落直後。商丘→蘭封→開封→中牟/鄭州の追撃速度と幹線/末端兵站を日単位で再構築し、中国側の黄河決壊判断・趙口等の施工試行・花園口/代替地点・河況・日本先頭部隊/航空偵察との競争を別時計で閉じる"
+    canonical_clock: "1939-10-11T00:00"
+    clock_state: "relaunch-r2; china-war continuous operational ledger closed through first Changsha / Kiangsi-Hunan operation 1939-10-11; Ki-43 development and early production path closed through 1939 autumn; Ki-44 O2D bridge revised to limited practical use with O4 main; next national China war-state ledger"
+    frontier: "1939年末中国の国家戦争台帳を全国保有/front-serviceable availability/月次補充力に分けて閉じる。兵員・小火器だけでなくMG/迫撃砲/野砲/AT/通信/車両馬匹、後方工場再起動、ソ連・仏印・ビルマ輸入、財政・インフレ、鉄道河川道路、航空機/搭乗員/engine hours/sparesを監査し、その台帳から1939年冬季攻勢を再演"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -50,7 +50,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r2-continuity-ledger-through-1938-05-21"
+    source_import: "relaunch-r2-continuity-ledger-through-1939-10-11"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
