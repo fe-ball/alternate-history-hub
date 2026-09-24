@@ -1,8 +1,9 @@
 # 航空機・生産・配備台帳 — 1937後半から1939計画
 
 > **Authority:** Relaunch R2
-> **Current historical clock:** 1938-05-21
-> 1937後半までの実績・配備はCLOSED寄り。1938後半以降の機体採用・生産数は、現在時点から見た計画・監査値であり将来結果をactor knowledgeへ逆流させない。
+> **Current historical clock:** 1939-10-11
+> 1937後半までの実績・配備はCLOSED。1938–39のうち実際に到達した開発・生産結果は後続正本 `09` / `10` で更新済み。
+> 本ファイルに残る旧planningと `10-FIGHTER-DEVELOPMENT-1938-1940.md` が競合する場合、`10` を優先する。
 
 ## 1. 1937-07-07 暁family基準
 
@@ -180,7 +181,7 @@ development central:
 - 24–36 pilot production late 1939
 - formal adoption 1940 Q1 central、mass production tied to O4 rate
 
-O2D interim aircraft may justify **40–60 aircraft** practical combat trial; not formal main product.
+O2D interim aircraft **40–60機は旧planning上限**。1939-10-11時点の後続監査では30–40機級をcentralとし、O4収斂が早ければそこで打ち切って昴へ移る。formal main productではない。
 
 ## 7. 陸軍次期戦闘機群
 
@@ -189,15 +190,15 @@ O2D interim aircraft may justify **40–60 aircraft** practical combat trial; no
 1937 Dec requirement:
 - light / field fighter
 - O2C basis、87oct useful、92oct high performance
-- hard 540km/h、target ~550 at 5km
-- O2D research ~560
+- hard 540km/h、target 545–550 at 5km
 - 5000m target 4:30、hard <=5:00
 - internal range >=1200km、drop >=1600
-- combat radius with drop ~500km
+- combat radius with drop 500km級
 - wing loading 100–110
-- initial 4×7.7、future 2×12.7
 - retract / closed canopy / radio
 - rugged field gear、service access、cold/dust
+- initial armament **nose sync 2×7.7 + wing unsync 2×7.7**
+- future 2×12.7 growth
 
 central aircraft:
 - O2C 1150hp
@@ -205,8 +206,6 @@ central aircraft:
 - wing 21.2m²、span ~11.1m
 - empty 1.66–1.70t
 - wing loading 104
-- power loading 1.91kg/hp
-- fuel ~450L、drop ~200L
 - speed 545–550 at 5km、87oct 530–535
 - 5000m 4:30–4:40
 - ceiling 11.5–12km
@@ -214,7 +213,24 @@ central aircraft:
 - combat radius internal ~400、drop 520–560
 - stall ~110km/h
 
-史実型の「性能不足による棚上げ」は起こりにくい。改善要求はcombat flap / aileron / tail / CG中心。
+第四案・九六三号でretract / closed canopy / constant-speed prop / rearward exhaust / wing-gun integrationを既に払っている。
+史実型の「Ki-27並み旋回性不足を理由に棚上げ」は起こりにくい。
+
+development CLOSED central:
+- 1938 Sep前後 first flight
+- 1938 Oct–Nov 2nd / 3rd prototypes
+- 1938 Dec increase-prototype order
+- 1939 Jan–Apr 8–12 increase prototypes / service trial
+- 1939 Mar–May aileron / tail / CG / combat flap / field convergence
+- 1939 May–Jun pilot-production approval
+- 1939 Jun–Aug 24–36 pilot lot
+- 1939 autumn low-rate serial / China operational trial
+- 1939 year-end cumulative 80–110 aircraft candidate PROVISIONAL
+
+1939年中formal adoptionなら世界線制式名は **九九式戦闘機**。
+「隼」は系譜上の便宜呼称で、1939年の公式愛称へ自動遡及しない。
+
+詳細・武装論・中国初期実戦は `10-FIGHTER-DEVELOPMENT-1938-1940.md`。
 
 ### Ki-44-equivalent — O2D先行、昴本命
 
@@ -245,7 +261,24 @@ O4 version:
 - 8000m 7:30–8:00
 - range900–950 internal、1350–1450 drop
 
-1939末時点ではO2D試作6–8機級を中央とし、昴型本採用は1940末前後を監査。
+O2DはTBO 120–180h / 50h級inspectionでも迎撃・少数実用には十分使える。
+ただし九九戦が550km/h級主力として早く量産されるため、590km/h級O2D鍾馗を大量生産する魅力は薄い。
+
+revised central:
+- 1939 Q1–Q2 O2D first flight
+- 1939 summer 590km/h級へ収斂
+- 1939 H2 6–9 increase prototypes + 12–18 practical / operational-trial aircraft
+- O2D fleet upper practical 20–30 aircraft級
+- 1939 Q3 O4 / 昴 prototype flight central
+- 1939 Q4 610–620km/h級
+- 1940 Q1 620–625km/h級 service trial
+- 1940 Q2–Q3 pilot production candidate
+- 1940 H2 mass-adoption decision central
+
+O2D型は「実用不能」ではなく、**使えるがmass baselineには割高な高速技術実証・少数迎撃型**。
+本命量産価値は昴型で再判定する。
+
+詳細は `10-FIGHTER-DEVELOPMENT-1938-1940.md`。
 
 ## 8. Ki-45 early heavy fighter
 
@@ -361,11 +394,13 @@ shaft hpへ足さない。
 - 暁二二 30
 - total **580**
 
-1939 planning central:
-- 暁一二 80
-- 暁二一 約400前後
-- 暁二二 140–150
-- total **620–640**
+1939 revised outcome / planning mix:
+- 暁一二 **70–90、central約80**
+- 暁二一 **430–470、central約450**
+- 暁二二 **70–100、central約85**
+- total **600基強〜630基級**
+
+旧暁二二140–150は1938-05-21時点のplanning ceiling。1939-10-11時点では、十二試艦戦暫定・Ki-44少数実用・比較試験を満たした後はO2C / O4へcapacityを寄せる。
 
 1939にO4/昴約100基をpilot productionすると、130×150共通気筒負荷は暁14だけでなく昴18も加算する。昴100基 = 1800気筒 = 暁14約129基分の気筒能力。
 
