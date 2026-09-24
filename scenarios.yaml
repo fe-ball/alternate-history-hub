@@ -5,18 +5,18 @@ scenarios:
   asai:
     title: "浅井世界線"
     status: active
-    authority_version: "V25"
-    canonical_clock: "1941-08-11T24:00"
-    clock_state: "china-war-continuation-replay-working-closed-through-1941-08-11; southern-indochina-occupation-deferred-not-renounced; us-asset-freeze-active; partial-petroleum-licensing-open; military-preparation-and-diplomacy-parallel"
-    frontier: "まず石炭液化・人造石油と浅井の水素/高圧化学境界を閉じる。その直後に、どう対米戦準備/期限政治が固まり、どう米英蘭中側の対日強硬が固まるかを再演。中国の偶発的高価値命中、悲観/楽観的政策研究、燃料見通しショックはbounded stochastic gateとして許容"
+    authority_version: "V26"
+    canonical_clock: "1941-12-07T14:30:00-10:30"
+    clock_state: "pearl-harbor-opening-replay-closed-through-1941-12-07T14:30-HST; two-oahu-waves-complete; enterprise-mission-killed-but-afloat-after-japanese-carrier-strike; lexington-unlocated-by-japan; submarine-intercept-orders-issued; enterprise-night-survival-open"
+    frontier: "1941-12-07 14:30 HSTから再開。大破・航空作戦不能となったEnterpriseのdamage controlと退避針路を動かし、史実ハワイ潜水艦配備を基礎にI-74を第一候補、I-2/I-3およびI-68/I-69/I-75を帰投線gateとして夜間迎撃を再演する。同時にLexingtonの実位置・索敵・合流行動、機動部隊の撤収/CAP/燃料/損傷機回収を神視点とactor knowledgeを分けて進める"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/README.md"
     scenario_rules: "scenarios/asai/SCENARIO-RULES.md"
-    authority_entrypoint: "scenarios/asai/current/00-START-HERE-2026-09-22-FULL-V25.md"
+    authority_entrypoint: "scenarios/asai/current/00-START-HERE-2026-09-24-FULL-V26.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "current-v25-plus-complete-v22b-source-snapshot"
+    source_import: "current-v26-plus-complete-v22b-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository"
 
   keisanki-ibun:
