@@ -3,8 +3,8 @@
 現代の自動車用ガソリンエンジン技術者が、名古屋の織機工場の家に生まれ、航空発動機事業を育てる世界線。
 浅井世界線／計算機異聞とは別シナリオ。
 
-> **2026-09-23 Relaunch R2。**
-> canonical historical clock = **1938-05-21T00:00**。
+> **Authority: Relaunch R2**
+> canonical historical clock = **1939-10-11T00:00**
 > 旧 `current/` / `archive/` はpre-relaunch REFERENCE。現行正本は `relaunch/`。
 
 ## 読み順
@@ -19,22 +19,24 @@
 8. [命名・会社・制式呼称](relaunch/05-NAMING-DESIGNATION-POLICY.md)
 9. [暁後期・岳・昴・峰](relaunch/06-ENGINE-FAMILY-GROWTH-TO-1939.md)
 10. [1937H2–1939航空機・生産](relaunch/07-AIRCRAFT-PRODUCTION-1937H2-1939.md)
-11. [支那事変・戦力在庫・兵站台帳](relaunch/08-CHINA-WAR-LEDGER-TO-1938-05-21.md)
-12. [次回用セッション開始テキスト](SESSION-START-PROMPT.md)
+11. [支那事変台帳〜1938-05-21](relaunch/08-CHINA-WAR-LEDGER-TO-1938-05-21.md)
+12. [支那事変台帳 1938-05-21→1939-10-11](relaunch/09-CHINA-WAR-LEDGER-1938-05-21-TO-1939-10-11.md)
+13. [Ki-43 / Ki-44戦闘機開発台帳](relaunch/10-FIGHTER-DEVELOPMENT-1938-1940.md)
+14. [次回用セッション開始テキスト](SESSION-START-PROMPT.md)
 
-## R2の中心
+## 現checkpoint
 
-- 1937-07-07暁family約470基、うちO2B約65基へ訂正。
-- 九六三号は研究5機ではなく約40機の正式上位枝。
-- 暁一二/二一/二二を閉じ、岳・昴を正式系列として追加。
-- 峰はPROVISIONAL future family。
-- Ki-43 / Ki-44 / Ki-45 / Ki-46 / 十二試艦戦等の開発・配分を整理。
-- 尾張が高性能用途を取っても中島・三菱の工場は消えず、Ha-25 / 金星等が他用途へ回る分業を採用。
-- 1937後半～1938-05-21の戦史を、人員だけでなく火砲・車両・通信・熟練・輸送・航空可動率を持つ継続台帳として正本化。
-- 兵站を史実日付の固定壁にせず、幹線・末端・航空・敵抵抗・transport capacity investmentを分離。
-- 1937–38年中国政治は当時のactor knowledgeで扱い、後世の記憶政治を逆流させない。
+- 徐州後の蘭封・黄河、武漢、Wanjialing、1939南昌・随県棗陽、ノモンハン裏番組、第一次長沙まで継続台帳化。
+- 日本側の航空・偵察・staff learningは改善するが、河川・天候・道路・重砲・escort radius等のphysical gateは残る。
+- 中国側は人員を大規模に残す一方、砲・AT・通信・車両・馬匹等の希少装備が会戦を跨いで相対的に薄くなる。
+- 武漢疎開ではcritical machineryの多くを保存しつつ、R2追加損失により1939後方工業の立上がりがやや悪化。
+- Ki-43相当は1939年秋にpilot / early serialが中国で実用試験へ入り、1939 formal adoption中央なら九九式戦闘機。
+- Ki-44はO2D少数実用→O4/昴本命。O2Dは実用可能だがmass baselineにはしない。
+- 1939 O2D生産は旧140–150計画から70–100、中央約85へ下方監査し、O2Cへmixを寄せる。
 
 ## current frontier
 
-1938-05-21、徐州陥落直後。
-次は商丘―蘭封―開封―鄭州方向の追撃と、黄河決壊判断・施工時計を日単位で並走させる。
+**1939-10-11。**
+1939年末中国について、兵員数だけでなく国内兵器生産、疎開工場再起動、輸入、財政、輸送、希少装備の前線availabilityを含む国家戦争台帳を閉じる。
+
+その後、同台帳を使って1939年冬季攻勢を再演する。
