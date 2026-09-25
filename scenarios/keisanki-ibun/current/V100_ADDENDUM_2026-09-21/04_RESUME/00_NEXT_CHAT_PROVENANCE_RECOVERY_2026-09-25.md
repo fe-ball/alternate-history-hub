@@ -165,6 +165,19 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - 累積歩兵死傷はまだ閉じない。31st Army/Navy ground denominator、engineer/artillery subgroup、medical/evacuation分類を再構築してから付与する。terrain/control、tank MR、support、fortification/C2/logisticsを先に閉じた。
 - 次は18/19夜の再工事と、地上OOB denominatorを閉じ、19日Aslitoがいつphysical secure/usableになるかを海空支援状態と同じ時計で見る。
 
+## 最新：Saipan砲兵諸元・射撃資料の深さを分離
+
+先に [砲兵測量・射撃諸元台帳39](AUDIT_RESET_2026-09-25/39_SAIPAN_ARTILLERY_SURVEY_FIRE_DATA_LEDGER_v001.md) を、[事前要塞化・戦闘中再工事36](AUDIT_RESET_2026-09-25/36_SAIPAN_PRE_FORTIFICATION_AND_COMBAT_REWORK_LEDGER_v001.md) と [地上再演37](AUDIT_RESET_2026-09-25/37_SAIPAN_GROUND_REPLAY_16DAWN_18EVENING_WORKING_v001.md) の技術補足として読む。
+
+- Branch計算力があるから全砲に全陣地専用射表がある、とはしない。標準弾道表／陣地測量／砲・砲隊補正／登録目標／現在敵情を別レイヤーに分離。
+- 大型固定・半固定砲台は個別陣地諸元、主要海面/陸上基準、装薬温度・砲身摩耗・初速偏差の補正、主要登録目標まで深く準備し得る。優先砲台では「この砲台・この初期状態」に対する補正カードを持つのは合理的。
+- 優先中砲はprimary＋選定alternateのposition card、battery-level zero/charge/site correction、主要target boxを中心。全非常陣地・全砲個別の完全射表までは標準にしない。
+- 野砲/迫撃砲は標準射表＋局地grid/aiming reference＋登録点/距離図が中心。AT/MGはrange card/kill zoneで、重砲と同じ意味のfull firing tableとは扱わない。
+- 戦闘中はBALLISTIC TABLE / SITE SURVEY / GUN CORRECTION / TARGET REGISTRATION / OBSERVATION PATHを独立状態で持つ。砲が無傷でもOP・測量・target boardを失えばTACTICALLY BLINDになり得る。
+- pre-surveyed alternateなら迫撃砲10–30分、field/medium20–60分、heavy30–90分級でuseful first solutionへ戻るW帯。既存survey net内の未表化地点はより長く、完全unsurveyed positionはfield/medium1–4h、heavy3–8h+級。律速は計算より測量/基準/通信になりやすい。
+- 16–18日の再演ではbeach fire boardを徐々に退役させ、Afetna/Susupe、U.S.105mm/armor assembly、Aslito west/north approach、runway interdictionへ1–3個/火力cellのhigh-value target boxを夜ごとに更新する。全front再計算はしない。
+- これによりBranch利得は万能命中率ではなく、移動後の復帰時間、alternate positionの有効数、座標変換ミス低減、fire-data freshness、物理占領後もinterdictionを続ける能力として反映する。
+
 ## 今回から読む
 
 1. [16日14:15–16:30：電探・触接・来襲警報のWORKING進行11](AUDIT_RESET_2026-09-25/11_RECON16_1415_1630_RADAR_AND_CONTACT_WORKING_v001.md)
