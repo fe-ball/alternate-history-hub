@@ -206,6 +206,21 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - 16–18日はfleet ISR/recovery defense/ground observation/regenerationが優先され、daily big beachhead strikeにはしない。18日dusk small logistics raidはlocal attack-air/night crew ledgerを閉じた後のOPEN。
 - 日本航空のMarianas効能は「kill count」より、ground fire freshness、U.S. observer denial/CAP tax、ship maneuver、unloading/repair friction、aircrew preservation、ferry/regenerationで評価する。
 
+## 最新：Marianas局地航空再監査の検証
+
+先に [検証46](AUDIT_RESET_2026-09-25/46_MARIANAS_LOCAL_AIR_VALIDATION_v001.md)、[15日夕刻局地航空47](AUDIT_RESET_2026-09-25/47_MARIANAS_15JUN_EVENING_LOCAL_AIR_STRIKE_WORKING_v001.md)、更新済み [反応時定数42](AUDIT_RESET_2026-09-25/42_MARIANAS_AIR_OBSERVATION_OPPORTUNITY_ATTACK_GATES_v001.md) と [D-Day overlay44](AUDIT_RESET_2026-09-25/44_MARIANAS_LOCAL_AIR_REPLAY_11JUN_TO_16DAWN_WORKING_v001.md) を読む。
+
+- 外部物理校正：NHHC H-032は15日朝にGuam発日本雷撃機の小攻撃がTG53.8へ入り、Lexingtonが近い魚雷を回避したことを記録。TF58 action reportは15日夕刻、carrier recovery中に西方から約1 dozen級のaggressive torpedo attack、many close misses、major hitなし、at least7 attackers downと記録。Enterprise/Indiana履歴も複数group・遠距離CAP interception・一部penetrationを裏付ける。
+- よって「D-Day局地航空反応ほぼ0」は棄却。朝攻撃は14/15夜侵攻確認に基づくpreplanned alert missionと修正。observer sees→cold launchではない。
+- 反応時間もbase別に修正。D4Y cold reactionはTinian-side約30–60min、Guam-side55–95min。B6N torpedoはTinian-side50–100min、Guam-side80–140min。prearmed/prebriefed alertなら準備の一部を事前に払える。地上砲兵5–30min級が最速 exploitation layer。
+- 15日朝selected packageはattack8–12＋fighter0–4、Japan irreversible4–7＋damaged/abort1–3、usable release3–6、major hull hitなし、local maneuver/unloading/flight-support friction10–25min。approved ground frontへ距離上積みせず因果だけ補強。
+- 15日夕刻はOPENからSELECTED WORKINGへ。attack10–14/2–3 groups、fighter0–2、D4YはISR保持のためcenter2–4に制限、残りB6N/older attack。primary targetはcarrier/support recovery、fresh handling targetがある場合のみ2–4機級subelement diversion。
+- 夕刻centerはJapan irreversible5–8＋damaged/abort1–3、US F6F irreversible0–1、usable release4–7、major hull direct hitなし、recovery/maneuver disruption10–25min。朝＋夕のD-Day局地attack debitはattack-air irreversible9–15、damaged/abort2–6。
+- この追加損耗でも16日以後の現WORKINGは直ちに破綻しない。夕刻D4Y使用を絞り、16日午後recontactに必要なlocal D4Y2機は残し、17日Tinian D4Y strikeは16日carrier-origin shore recoveryからも供給できる。ただし16日独立Marianas大攻撃を新たに出す余裕はさらに縮む。
+- official USMC historyには17日もJapanese torpedo bombersがNorthern Tractor Groupへ来襲し、LCI(G)一隻がhit後沈没した記録があり、D-Day後もlocal air attack targetとしてamphibious/support shippingが有効だった物理校正になる。Branch結果は輸入しない。
+- CINCPACは23日にもJapanese aircraftがSaipan off transportsへbombsを投じlanding craftへminor damage、同夕にground area bombingを記録。よってhandling/logistics target class自体は実戦上妥当。ただしfreshness/arming/CAP gateを通す。
+- approved 15/16 ground authorityのsupersessionは不要。air observation/局地attackは既存fire effectiveness/support frictionの因果を精密化するが、center resultだけではfront lineを変える規模ではない。
+
 ## 今回から読む
 
 1. [16日14:15–16:30：電探・触接・来襲警報のWORKING進行11](AUDIT_RESET_2026-09-25/11_RECON16_1415_1630_RADAR_AND_CONTACT_WORKING_v001.md)
