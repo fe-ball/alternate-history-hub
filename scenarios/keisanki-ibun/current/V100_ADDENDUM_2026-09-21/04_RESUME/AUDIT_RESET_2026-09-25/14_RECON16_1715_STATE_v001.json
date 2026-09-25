@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_CASE_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "interval": [
+    "1944-06-16T16:25",
+    "1944-06-16T17:15"
+  ],
+  "us_package": {
+    "F6F": 32,
+    "SB2C": 16,
+    "TBM1C": 8,
+    "total": 56
+  },
+  "japan_guam_defense": {
+    "counted_reference_total": 20,
+    "corridor_returning_servicing": 4,
+    "immediate_sector_interceptors": {
+      "Raiden": 4,
+      "Zero_up_to": 8
+    },
+    "close_terminal_cover_min": 4,
+    "Tinian_counted_defense_not_transferred": 10,
+    "note": "not total theater fighter inventory"
+  },
+  "air_combat": {
+    "japan_airborne_irreversible": [
+      4,
+      6
+    ],
+    "japan_damaged_short": [
+      3,
+      5
+    ],
+    "us_F6F_irreversible": [
+      2,
+      3
+    ],
+    "us_F6F_damaged": [
+      3,
+      5
+    ],
+    "us_attack_irreversible": [
+      3,
+      4
+    ],
+    "us_attack_damaged_abort_jettison": [
+      3,
+      6
+    ],
+    "usable_attack_releases": [
+      17,
+      20
+    ]
+  },
+  "guam_ground_effects": {
+    "normal_runway_interruption_min": [
+      45,
+      70
+    ],
+    "local_handling_restriction_min": [
+      90,
+      150
+    ],
+    "aircraft_ground_irreversible": [
+      2,
+      4
+    ],
+    "aircraft_ground_short_unavailable": [
+      5,
+      8
+    ],
+    "service_queue_aircraft_class": [
+      12,
+      18
+    ],
+    "service_delay_min": [
+      60,
+      120
+    ],
+    "major_fuel_or_ammo_catastrophe": false,
+    "principal_warning_plot_mission_kill": false
+  },
+  "information_at_1715": {
+    "japan_last_actual_carrier_observation": "16:15",
+    "japan_observation_age_min": 60,
+    "us_last_actual_japanese_carrier_box_observation": "13:32-13:38",
+    "us_last_surface_vanguard_update": "14:42",
+    "neither_side_omniscient": true
+  },
+  "decisions": {
+    "japan": "no automatic large Guam counterstrike; rebuild typed readiness and seek another actual contact if needed",
+    "us": "recover package and reassess; no instant repeat strike from the same aircraft"
+  },
+  "guards": [
+    "radar gain acts through warning/variance/processing, not abstract combat multiplier",
+    "no free additional interceptors",
+    "Tinian remains separate",
+    "no cancelled Saipan ground line reused",
+    "no post-1415 promotion",
+    "TF58 whole-system ASW gate remains"
+  ]
+}
