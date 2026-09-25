@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_RECONCILIATION_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "question": "did longer reconnaissance contact create surface-attack desire?",
+  "answer": {
+    "planning_desire": true,
+    "actual_attack_order": false
+  },
+  "retroactive_insertions": [
+    {
+      "time": "15:38-15:45",
+      "action": "open night-surface option; fast vanguard changes to forward hold / elastic withdrawal; prepare intercept solutions"
+    },
+    {
+      "time": "16:24-16:30",
+      "action": "retain option; no eastward dash because no U.S. westward pursuit"
+    },
+    {
+      "time": "18:08",
+      "action": "fresh contact confirms U.S. remains Marianas-side; geometry increasingly unattractive"
+    },
+    {
+      "time": "19:30",
+      "action": "no night-attack course; keep organizational night-battle option temporarily, then elastic withdrawal absent new westward U.S. movement"
+    }
+  ],
+  "selected_local_W_sensitivity": {
+    "initial_vanguard_east_of_carriers_nm": [
+      30,
+      60
+    ],
+    "vanguard_hold_speed_kt": [
+      18,
+      22
+    ],
+    "vanguard_to_us_nm": {
+      "14:15": [
+        287,
+        317
+      ],
+      "15:44": [
+        329,
+        364
+      ],
+      "16:30": [
+        351,
+        389
+      ],
+      "18:08": [
+        397,
+        442
+      ],
+      "19:30": [
+        436,
+        486
+      ]
+    },
+    "not_historical_coordinates": true
+  },
+  "effects": [
+    "vanguard-carrier separation increases to roughly 50-100 nm sensitivity",
+    "option-preservation fuel cost added",
+    "no free surface battle"
+  ],
+  "guards": [
+    "better ISR can reject aggression",
+    "no automatic night attack",
+    "no post-1415 promotion",
+    "no cancelled ground reuse"
+  ]
+}
