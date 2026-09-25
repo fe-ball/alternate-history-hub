@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_CASE_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "interval": [
+    "1944-06-18T12:00",
+    "1944-06-18T18:00"
+  ],
+  "japan_noon_decision": {
+    "second_echelon_detected_assumed": true,
+    "eastward_close_terminated": "12:05-12:20",
+    "second_echelon_course": "oblique WSW/hold",
+    "speed_kt": [
+      14,
+      17
+    ],
+    "strike_release": false
+  },
+  "contacts": {
+    "japan_D4Y_update": "13:08-13:15",
+    "japan_water_air_region_update": "15:30-15:40",
+    "us_second_echelon_recontact": "13:45-14:00",
+    "us_first_line_nucleus_contact_before_1800": false
+  },
+  "range": {
+    "second_echelon_1400_nm": [
+      465,
+      505
+    ],
+    "second_echelon_1500_nm": [
+      465,
+      510
+    ],
+    "second_echelon_1630_nm": [
+      470,
+      520
+    ],
+    "second_echelon_1800_nm": [
+      485,
+      535
+    ]
+  },
+  "strike_gates": {
+    "japan": "HOLD — last clean reserve, poor escort/recovery expected value",
+    "us": "HOLD — long outbound/late return/no forward recovery"
+  },
+  "us_movement": {
+    "bounded_west_shift_kt": [
+      12,
+      16
+    ],
+    "full_pursuit": false,
+    "keep_saipan_cover": true
+  },
+  "surface_option": {
+    "reopened_amber": true,
+    "attack_course": false,
+    "reason": "U.S. bounded west shift insufficient for credible night intercept"
+  },
+  "reverse_air_rotation": {
+    "westward_ferry_aircraft": [
+      8,
+      12
+    ],
+    "departure": "15:30-16:30",
+    "immediate_MR_credit": false
+  },
+  "first_line_1800": {
+    "carriers_strong_amber_or_amber_green": [
+      3,
+      4
+    ],
+    "group_MR": [
+      86,
+      108
+    ],
+    "fighter_MR": [
+      42,
+      52
+    ],
+    "attack_recon_MR": [
+      44,
+      56
+    ]
+  },
+  "guards": [
+    "no strike merely because both sides have contact",
+    "no Marianas ferry aircraft immediate combat credit",
+    "no first-line nucleus discovery by inference",
+    "no full refuel reset",
+    "no post-1415 promotion",
+    "no cancelled ground reuse"
+  ]
+}
