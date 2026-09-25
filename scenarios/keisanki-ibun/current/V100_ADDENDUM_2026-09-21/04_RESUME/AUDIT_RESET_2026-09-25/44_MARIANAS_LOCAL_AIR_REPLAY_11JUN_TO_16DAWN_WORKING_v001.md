@@ -108,11 +108,14 @@ Use 2–3 approach elements.
 Do not launch from a suppressed Saipan runway by fiat; selected launch nodes are Guam/Tinian-side surviving facilities.
 
 ### Timing
+This is a **preplanned alert mission**, enabled by 14/15-night invasion confirmation rather than generated cold after H-hour.
+
 Selected:
-- launch around **08:35–09:00**;
+- mission preparation begins before the landing is visually confirmed;
+- launch around **08:35–09:00** after final morning update;
 - terminal approach around **09:15–09:40**.
 
-This occurs after the assault has begun and does not move H-hour.
+This is especially compatible with a Guam-centered launch because the 115–120-nm-class transit consumes roughly a half-hour-plus. It occurs after the assault has begun and does not move H-hour.
 
 ### U.S. defense
 - radar warning;
@@ -183,27 +186,28 @@ If a fresh unloading/artillery target is observed, preferred exploitation hierar
 3. armed water-air attack only if target soft and risk acceptable;
 4. D4Y/B6N quick strike only if aircraft already armed/ready and CAP window favorable.
 
-## 9. 15 Jun evening/night — mandatory replay gate
+## 9. 15 Jun evening/night — SELECTED WORKING event
 
-Historical physical calibration shows a substantial evening Japanese air reaction was possible.
+Validation is closed in `46_MARIANAS_LOCAL_AIR_VALIDATION_v001.md` and the selected event is in `47_MARIANAS_15JUN_EVENING_LOCAL_AIR_STRIKE_WORKING_v001.md`.
 
-Branch question is not "could they fly?" but:
-- how many morning survivors are serviceable;
-- how many separate night-qualified crews remain after 12-Jun night;
-- which attack aircraft were held back;
-- whether target information is fresh;
-- whether a beachhead/logistics or carrier/support target has better expected value.
+Historical physical calibration shows an actual evening multi-group Japanese attack against U.S. carriers during recovery. Branch does not import the historical OOB, but there is no physical reason to suppress the opportunity.
 
-Candidate envelope to test:
-- **6–12 aircraft**, 2–3 groups;
-- dusk/night low-level attack;
-- targets: carrier/support group OR transport/unloading/logistics box;
-- not both at full strength.
+Selected:
+- **10–14 attack aircraft**, 2–3 groups;
+- **0–2 fighter escorts** if point-defense cost permits;
+- D4Y contribution limited to **2–4** in the center to preserve fast ISR;
+- primary target = carrier/support group during late flight/recovery activity;
+- handling-zone diversion only for a small subelement if a fresh persistent target exists.
 
-Do NOT insert result yet.
+Center result:
+- Japan irreversible **5–8**;
+- additional damaged/abort **1–3**;
+- U.S. F6F irreversible **0–1**;
+- **4–7** attackers reach usable release geometry;
+- no major-hull direct hit;
+- **10–25 min** local recovery/maneuver sequencing disruption.
 
-Reason:
-this event can consume enough local attack aircraft/crews to affect the 16-Jun ISR/recovery-defense wallet and therefore must be propagated forward if selected.
+This debit is propagated into 16-Jun local attack-air availability.
 
 ## 10. Compatibility check
 
