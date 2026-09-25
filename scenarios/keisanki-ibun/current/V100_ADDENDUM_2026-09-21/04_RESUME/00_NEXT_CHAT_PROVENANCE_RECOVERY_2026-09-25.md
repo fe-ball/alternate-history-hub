@@ -1,9 +1,9 @@
-# NEXT CHAT — 17日11:40 WORKING、第二撃発進後のTF58防空戦へ
+# NEXT CHAT — 17日14:50 WORKING、第二撃後の午後判断へ
 
 Updated: 2026-09-26
 Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT PROMOTION
 
-正本はBranch B v100 / 1944-06-16T14:15据置。最新の作業進行は17日11:40までの一つのWORKINGケース。Saipan地上の承認済み線は6/16夜明けまで。その後の取消し済み陸戦・人数・死傷・補給・予備・Aslito見通しを初期値へ戻さない。
+正本はBranch B v100 / 1944-06-16T14:15据置。最新の作業進行は17日14:50までの一つのWORKINGケース。Saipan地上の承認済み線は6/16夜明けまで。その後の取消し済み陸戦・人数・死傷・補給・予備・Aslito見通しを初期値へ戻さない。
 
 ## 最新：16:25–17:15 Guam回収系への限定攻撃
 
@@ -74,6 +74,20 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - 第一線艦艇燃料はAMBER。攻撃前夜間給油を仮定せず、初期決戦行動fuel-feasibleを使って中速接近＋限定発進は許容。発進後は西へ戻り実補給gateを通す必要がある。
 - 第二梯団85–105MR級はこの第二撃へ自動合流せず別管理予備。旧17日66–74攻撃・損耗・軽空母命中結果はまだ再利用禁止。
 - 次は11:35–14:30。TG58.4帰投時刻、17朝の全デッキ/CAP/AA、米深索敵のcarrier-core再捕捉時刻、Marianas第二軸の実生成可否を閉じ、第二撃の終末戦闘を再裁定する。
+
+## 最新：17日第二撃の終末戦闘
+
+先に [11:35–14:50第二撃戦闘26](AUDIT_RESET_2026-09-25/26_RECON17_1135_1450_SECOND_STRIKE_COMBAT_WORKING_v001.md) と [14:50状態27](AUDIT_RESET_2026-09-25/27_RECON17_1450_STATE_v001.json) を読む。
+
+- 17日昼のTF58防空は、Lexington/Hornetを通常打撃母艦から外しつつBelleau Wood/Princeton/Bunker Hillを復帰・部分復帰させ、Bonins帰投TG58.4（Essex/Intrepid/Langley/Cowpens）を11:00–12:30頃に広域防空網へ戻す中心。14物理usable deck、12.5–13.5 deck-equivalent級。
+- system-wide MRは750–840級、F6F MR400–435級のW帯。日本第二撃に実際に関与するF6Fは二軸合計82–100級。全機同時空中ではない。
+- 米深索敵は10:45頃前衛を見た後、13:05–13:20に日本空母2–3隻以上をようやく再発見。ただし日本第二撃は11:15–35に既に発進済み。距離590–620nm級・開距離で、通常米反撃はrange REDのまま。
+- Marianas側は12:52–58に追加D4Y再接触を取り、Tinian中心で13–16機（fighter4–5、D4Y5–6、B6N4–5）を13:22–35発進。第一線48–56機と8–18分級の終末圧縮を狙う。追加偵察D4Yは攻撃機数から控除。
+- 二軸合計61–72機、escort18–21級。米F6F/CIC/VT/5in38とTG58.4復帰を反映し、外戦で日本不可逆16–22、追加損傷/abort8–12、米F6F不可逆4–6。AA外縁へ攻撃姿勢で30–38機級、escort8–12級。
+- 終末AA/再迎撃後のvalid releaseは20–27。中心艦艇結果はlight-carrier-class flight deckへの爆弾直撃1、45–75分級閉鎖。fleet carrier torpedo hitなし、沈没なし。正確なCVL艦名はformation audit未閉鎖につき固定しない。
+- 日本combat不可逆22–30。Marianas shuttle回収時の低燃料・損傷着陸/ditchで2–4追加、総不可逆24–34級。4–7追加短期非即応。旧22–29よりやや厳しくなる。
+- 米側はdirect hit以外にも30–50分級のgroup cycle disruption、6–10機waveoff/resequence、0–1不可逆＋2–4短期取扱損傷。TF58全体は戦闘不能にならない。
+- 第二梯団は未使用のまま。第一線は発進後WSWへ戻り補給幾何へ。次は14:50–17:30、米側が590–620nm/openingの日本空母へ盲目的深攻撃するか、Marianas再抑圧を選ぶか、日本第二梯団・補給・CAP再生をどう扱うかを見る。
 
 ## 今回から読む
 
