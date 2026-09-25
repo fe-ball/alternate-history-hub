@@ -1,0 +1,82 @@
+{
+  "version": "v003",
+  "date": "2026-09-25",
+  "authority_version": "Branch B v100",
+  "canonical_clock": "1944-06-16T14:15",
+  "status": "SELECTED_WORKING_REFERENCE_NOT_CAMPAIGN_AUTHORITY",
+  "configuration": "v002 accepted by user; feasibility evidence enables a bounded compromise, not externally imposed hindsight",
+  "epistemic_separation": {
+    "inherited": "configuration and prior working polar/fuel/mass assumptions",
+    "new_selected": "host design, unit table, acceptance schedule, operating budgets",
+    "not_established": "measured flight/catapult certification; global spare industrial capacity; dated operational sorties or battle outcomes"
+  },
+  "aircraft": {
+    "dry_mission_mass_kg": 3430,
+    "usable_fuel_kg": 980,
+    "normal_launch_mass_kg": 4410,
+    "selected_ship_launch_mass_ceiling_kg": 4500,
+    "speed_standard_5_to_6km_kmh": [510, 530],
+    "speed_field_median_5_to_6km_kmh": [500, 520],
+    "cruise_tas_kmh": [320, 350],
+    "economy_tas_kmh": [260, 290],
+    "mission_profiles": [
+      {"radius_nm":350,"contact_minutes":60,"sprint_minutes":15,"holding_minutes":30,"host_kn_along_search_axis":0,"remaining_fuel_kg":131.8},
+      {"radius_nm":400,"contact_minutes":60,"sprint_minutes":0,"holding_minutes":30,"host_kn_along_search_axis":0,"remaining_fuel_kg":161.7},
+      {"radius_nm":400,"contact_minutes":30,"sprint_minutes":15,"holding_minutes":30,"host_kn_along_search_axis":0,"remaining_fuel_kg":106.5},
+      {"radius_nm":300,"contact_minutes":60,"sprint_minutes":15,"holding_minutes":30,"host_kn_along_search_axis":-20,"remaining_fuel_kg":125.9}
+    ],
+    "reserve_gate_kg":100,
+    "sprint_climb_assumption":{"minutes":6,"fuel_kg":30,"measured":false}
+  },
+  "production_reference": {
+    "scope":"center-case schedule, not recovered production history",
+    "periods":["1943-10","1943-11","1943-12","1944-01","1944-02","1944-03","1944-04","1944-05","1944-06-01/16"],
+    "new_completed":[2,2,3,3,3,3,4,2,2],
+    "new_accepted":[0,2,2,3,3,3,3,4,2],
+    "production_completed":24,
+    "accepted":22,
+    "pending_acceptance":2,
+    "prototype_program_separate":6,
+    "prototype_allocation":{"flight_test":2,"ground_test_or_retired":3,"expendable_test_loss":1},
+    "no_new_production_airframe_attrition_event_is_claimed":true,
+    "nodes":[
+      {"node":"Oyodo detachment","physical_accepted":6,"serviceable":5,"mission_ready":4,"first_launch_group":2,"complete_crews":7,"maintainers":32},
+      {"node":"Palau shore relief and maintenance","physical_accepted":6,"serviceable":5,"mission_ready":4,"first_launch_group":2,"complete_crews":5,"maintainers":24},
+      {"node":"Home acceptance training repair","physical_accepted":10,"serviceable":6,"mission_ready":3,"first_launch_group":0,"complete_crews":6,"maintainers":28}
+    ],
+    "shared_requests":{"Kasei_engine_bodies":40,"contra_drive_sets":38,"complete_front_rear_propeller_pairs":38,"main_float_sets":32,"side_float_pairs":36,"complete_crews":18,"maintainers":84},
+    "shared_wallet_status":"COSTED_DEMAND_PENDING_GLOBAL_CAPACITY_RECONCILIATION; not free additional capacity"
+  },
+  "oyodo": {
+    "role":"First Mobile Fleet reconnaissance and information support; inner heavy-support layer",
+    "historical_flagship_conversion_automatically_inherited":false,
+    "new_torpedo_or_gun_battery_added":false,
+    "aircraft_capacity_selected":6,
+    "parking_plan":{"hangar_normal":4,"hangar_work_position":1,"deck_staging":1},
+    "special_long_catapult_retained":true,
+    "qualification_design_point":{"mass_ceiling_kg":4500,"rail_exit_ms":40,"illustrative_wind_over_rail_ms":10,"stroke_for_calculation_m":35,"not_historical_rating":true},
+    "ready_first_aircraft_notice_minutes":[20,30],
+    "planned_launch_spacing_minutes":[8,10],
+    "planned_recovery_speed_kn":[3,6],
+    "planned_recovery_minutes_per_aircraft":[10,20],
+    "routine_long_sorties_per_day":[2,4],
+    "operating_sea_state_gate":{"green_Hs_m_max":0.5,"conditional_Hs_m_max":1.0,"not_measured_aircraft_limit":true,"wave_period_and_direction_can_override":true},
+    "aviation_fuel_design":{"gross_m3":24,"usable_m3":20,"reserved_m3":4,"density_kg_m3":720,"nominal_sortie_draw_kg":850,"long_sorties_before_reserve":13,"historical_capacity_claim":false},
+    "spares_from_common_pool":{"engines":2,"contra_drives":2,"front_rear_propeller_pairs":2},
+    "computer":{"sets":1,"kind":"derived electromechanical/electronic dedicated contact-processing auxiliary","mass_t":6,"continuous_power_kw":8,"short_peak_kw":12,"equipment_room_m2":16,"adjacent_radio_plot_m2":24,"information_staff":24,"main_track_workload":8,"track_records":"paper cards/manual plotting plus sequential computation; not eight automatic digital radar tracks","post_decode_to_plot_minutes_normal":[3,6],"post_decode_to_plot_minutes_burst":[8,15],"direct_urgent_report_path_preserved":true,"raw_radar_video_processing":false,"Type3_automatically_assigned":false},
+    "mission_billets":{"aircrew_people":14,"aviation_maintainers":32,"handling":18,"information":24,"total":88,"not_all_new_additions_to_historical_complement":true},
+    "extra_mission_refit_mass_budget_t":[25,35],
+    "refit_windows_selected":{"1943_autumn_days":[20,30],"1944_March_days":[10,14]},
+    "selected_movement":"late Apr to early May: Kure -> southwest islands/Taiwan fuel -> southern Philippines; no old Bengal route",
+    "precise_16Jun_coordinates":null,
+    "coordinates_status":"derive in actual fleet-track replay, not supplied by equipment audit"
+  },
+  "other_hosts": [
+    {"ships":["Chitose","Chiyoda"],"permanent_Shiun_allocation":0,"possible_temporary_capacity":2,"mode":"conditional recovery/transport/support, not accepted full-fuel catapult operations","existing_aircraft_and_cargo_capacity_must_be_debited":true},
+    {"ships":["Nisshin"],"permanent_Shiun_allocation":0,"mode":"support candidate; catapult load alone is insufficient"},
+    {"ships":["Tone","Chikuma","other cruisers and battleships"],"permanent_Shiun_allocation":0,"mode":"existing types retained; rescue recovery subject to crane/sea-state limits"},
+    {"ships":["Niyodo"],"physical_operational_hulls_credited":0,"mode":"no automatic sister-ship construction"},
+    {"ships":["I-400","I-401"],"permanent_Shiun_allocation":0,"mode":"retain Seiran system; no substitution"}
+  ],
+  "propagation_guards":["No post-1415 combat promotion","No cancelled ground estimates reused","No old Bengal deployment revived","No retrospective detection success manufactured","Shared supply shortage revises allocation rather than hiding its cost","Required TF58 whole-system ASW audit remains"]
+}
