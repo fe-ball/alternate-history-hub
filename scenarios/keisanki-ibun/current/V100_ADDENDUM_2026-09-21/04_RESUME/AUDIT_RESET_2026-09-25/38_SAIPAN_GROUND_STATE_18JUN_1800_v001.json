@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_GROUND_STATE_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "approved_ground_frontier": "1944-06-16 dawn",
+  "working_interval": [
+    "1944-06-16 dawn",
+    "1944-06-18T18:00"
+  ],
+  "pre_fortification": {
+    "saipan_priority_maturity": "D3.0-D3.3 working; selected key terrain D3.3-D3.5",
+    "beach_direct_fire": "heavily degraded by 16 Jun dawn",
+    "reverse_slope_indirect_fire": "major surviving value",
+    "alternate_C2_comms": "active with local breaks",
+    "sector_caches": "distributed; access varies",
+    "deep_tunnel_new_build_during_combat": false
+  },
+  "rework_rules": {
+    "target_data_expires_with_front_shift": true,
+    "priority_new_target_boxes_per_surviving_fire_cell": [
+      1,
+      3
+    ],
+    "new_deep_tunnel_overnight": false,
+    "shell_hole_rail_cut_road_embankment_reuse": true
+  },
+  "front": {
+    "16 Jun sunset": {
+      "Aslito": "fully Japanese",
+      "Afetna": "west/low ground increasingly U.S.; inland fire wedge survives",
+      "Susupe": "east exits under Japanese fire",
+      "tank_MR": [
+        30,
+        35
+      ]
+    },
+    "17 Jun sunset": {
+      "Aslito": "Japanese physical control; U.S. at western/northwestern approach system",
+      "seam": "physical connection improved but tactically dirty",
+      "tank_MR": [
+        26,
+        31
+      ]
+    },
+    "18 Jun 18:00": {
+      "Aslito": "U.S. partial physical occupation west/north margin; not secure or operational; Japanese east/southeast fire interdiction survives",
+      "seam": "substantially connected physically; fire-control problem remains",
+      "tank_MR": [
+        21,
+        27
+      ]
+    }
+  },
+  "us_support": {
+    "CVE_and_old_BB_support_not_zero": true,
+    "fast_carrier_task_competition": true,
+    "18 Jun": "partial transport/support displacement due carrier threat; shore artillery carries more load"
+  },
+  "ground_casualty_totals_closed": false,
+  "reason": "fresh Japanese ground-force denominator audit required",
+  "guards": [
+    "no cancelled post-dawn ground line reused",
+    "no fortification multiplier",
+    "no instant new caves",
+    "physical stock != accessible stock",
+    "physical occupation != operational security",
+    "no post-1415 campaign promotion"
+  ]
+}
