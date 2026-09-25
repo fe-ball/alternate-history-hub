@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_CASE_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "interval": [
+    "1944-06-17T00:30",
+    "1944-06-17T08:00"
+  ],
+  "japan_dawn_search": {
+    "selected_aircraft": [
+      {
+        "origin": "Tinian",
+        "type": "D4Y dedicated reconnaissance",
+        "launch": "05:05",
+        "result": "contact 05:42-05:47; report transmitted; irreversible"
+      },
+      {
+        "origin": "Guam",
+        "type": "D4Y dedicated reconnaissance",
+        "launch": "05:18",
+        "result": "contact 06:03-06:08; report transmitted; damaged return"
+      }
+    ],
+    "escorts": 0,
+    "priority_route_nm": [
+      70,
+      140
+    ],
+    "extra_channels_unresolved_not_zero": [
+      "C6N",
+      "H6K/H8K",
+      "Zuiun/E13A",
+      "Shiun"
+    ]
+  },
+  "us_anti_recon_CAP": {
+    "F6F_class": [
+      10,
+      14
+    ],
+    "debit_other_tasks": true
+  },
+  "japan_command_info_time": "06:12-06:16",
+  "us_dawn_search": {
+    "aircraft": 8,
+    "sectors": 4,
+    "aircraft_per_sector": 2,
+    "safe_depth_nm": [
+      325,
+      350
+    ],
+    "launch": "04:55-05:10",
+    "center_result_through_0800": "no Japanese carrier-core or fast-vanguard contact"
+  },
+  "japan_mobile_decision": {
+    "time": "~06:20",
+    "first_line": "controlled eastward re-approach",
+    "speed_kt": [
+      18,
+      20
+    ],
+    "strike_release": false,
+    "fuel_state": "AMBER pending oiler/refueling and air-group ledger",
+    "vanguard_ahead_nm": [
+      60,
+      100
+    ],
+    "second_echelon": "separate reserve"
+  },
+  "us_decision": {
+    "deep_pursuit": false,
+    "keep_saipan_cover": true,
+    "continue_search": true,
+    "position_likely_compromised": true
+  },
+  "comparison_to_old_working": {
+    "japan_dawn_reacquisition": "qualitatively reproduced",
+    "us_dawn_failure_to_find_carrier_core": "qualitatively reproduced",
+    "japan_later_reapproach": "qualitatively reproduced",
+    "mechanism": "reconstructed and costed"
+  },
+  "guards": [
+    "no automatic C6N/H8K credit",
+    "no four-carrier count from two two-carrier observations",
+    "negative search is information, not a current fix",
+    "no immediate Marianas strike",
+    "no carrier strike release without fuel/oiler/air-group gate",
+    "no post-1415 promotion",
+    "no cancelled ground reuse"
+  ]
+}
