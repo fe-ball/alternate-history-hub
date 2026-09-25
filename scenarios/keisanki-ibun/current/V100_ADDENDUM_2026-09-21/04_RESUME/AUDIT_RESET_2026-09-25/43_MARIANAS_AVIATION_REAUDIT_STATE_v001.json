@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "status": "WORKING_REAUDIT_NOT_CAMPAIGN_AUTHORITY",
+  "interval": [
+    "1944-06-11",
+    "1944-06-18"
+  ],
+  "under_modeled_functions": [
+    "ground observation/artillery cooperation",
+    "photo target-board renewal",
+    "opportunity attack on unloading/handling",
+    "small anti-shipping reaction",
+    "counter-observation/spotter denial",
+    "liaison/inter-island reporting",
+    "SAR/aircrew recovery",
+    "bombardment damage survey/repair-priority recon",
+    "reverse ferry/reconcentration"
+  ],
+  "material_replay_gates": [
+    {
+      "date": "1944-06-15",
+      "event": "local anti-shipping air reaction",
+      "priority": "HIGH",
+      "authority_change": "not yet"
+    },
+    {
+      "date": "1944-06-15",
+      "event": "air observation -> artillery/handling-zone chain",
+      "priority": "HIGH",
+      "authority_change": "not yet"
+    },
+    {
+      "date": "1944-06-15/16 night",
+      "event": "bounded logistics harassment",
+      "priority": "MEDIUM",
+      "authority_change": "requires comparison to approved ground band"
+    },
+    {
+      "date": "1944-06-13/14 night",
+      "event": "small harassment strike",
+      "priority": "OPEN",
+      "authority_change": "none unless selected"
+    }
+  ],
+  "center_observation_workload": {
+    "water_air_ground_observation_sorties_per_day": [
+      2,
+      4
+    ],
+    "D4Y_ground_photo_confirmation_per_day": [
+      0,
+      2
+    ],
+    "note": "same Marianas aircraft wallet; can fall during heavy suppression"
+  },
+  "guards": [
+    "one sortie one primary mission at a time",
+    "no free Ki-36/Ki-51 Marianas allocation",
+    "no instant observer-to-strike conversion",
+    "no daily large local strike assumption",
+    "no silent change to approved 15Jun-16Jun dawn ground result"
+  ]
+}
