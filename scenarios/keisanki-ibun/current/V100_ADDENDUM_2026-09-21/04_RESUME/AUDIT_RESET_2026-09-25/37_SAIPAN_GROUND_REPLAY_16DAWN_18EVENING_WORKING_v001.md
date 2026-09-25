@@ -306,6 +306,18 @@ Newly created/reworked:
 
 The Branch fortification advantage therefore persists by **changing shape**, not by keeping the original bunkers alive.
 
+## Aerial ground-observation correction
+
+Read `40_MARIANAS_JAPANESE_GROUND_AIR_OBSERVATION_LEDGER_v001.md`.
+
+This replay should not be read as ground OPs being the sole Japanese observation layer. In the selected center:
+- 2–4 short water-air ground-observation / artillery-spotting sorties per daylight period are available when the air situation permits;
+- 0–2 D4Y fast photo/confirmation sorties per day can be assigned to high-value ground targets;
+- these are debited from the same Marianas aviation wallet used for maritime ISR/SAR/attack-recon;
+- exact Ki-36/Ki-51 Marianas allocation remains OPEN and is not credited in the center case.
+
+Operationally this improves target-board freshness and re-registration at Afetna/Susupe/Aslito, but U.S. F6F pressure prevents continuous aerial spotting.
+
 ## 10. Casualty and force-denominator guard
 
 Do NOT close cumulative infantry casualty totals yet.
