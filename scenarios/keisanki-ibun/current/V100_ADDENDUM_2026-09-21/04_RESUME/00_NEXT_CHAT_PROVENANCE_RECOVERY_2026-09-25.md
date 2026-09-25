@@ -1,9 +1,9 @@
-# NEXT CHAT — 18日18:00 WORKING、相互接触後のstandoffから夜間交代へ
+# NEXT CHAT — 18日18:00 WORKING、海空standoffとSaipan地上再演を接続
 
 Updated: 2026-09-26
 Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT PROMOTION
 
-正本はBranch B v100 / 1944-06-16T14:15据置。最新の作業進行は18日18:00までの一つのWORKINGケース。Saipan地上の承認済み線は6/16夜明けまで。その後の取消し済み陸戦・人数・死傷・補給・予備・Aslito見通しを初期値へ戻さない。
+正本はBranch B v100 / 1944-06-16T14:15据置。最新の海空作業進行は18日18:00まで。Saipan地上も承認済み16日夜明けから再演し18日18:00までWORKINGで接続した。Saipan地上の承認済み線は6/16夜明けまで。その後の取消し済み陸戦・人数・死傷・補給・予備・Aslito見通しを初期値へ戻さない。
 
 ## 最新：16:25–17:15 Guam回収系への限定攻撃
 
@@ -147,6 +147,23 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - 第二梯団がvisible threatを担う間に第一線補給/整備が進み、18時には3–4空母がF-AMBER-GREEN/strong AMBER級、五空母船上MR86–108（fighter42–52、attack/recon44–56）へ。ただしprebattle340–375MRには戻らない。
 - U.S.はcarrier strikeも重いMarianas suppressionも出さず、CAP/search/Saipan support/ASW/SARへ甲板を使う。日本の見えるcarrier threatそのものが米deck/fuelを消費させる。
 - 18時時点で日本は第二梯団が485–535nmのvisible threat、第一線nucleusは farther west/hidden。米側は第二梯団の13:45–14:00 contactを持つが第一線位置は不明。次は18/19夜間に、第二梯団を前に残すかrefueled第一線と再交代するかを見る。
+
+## 最新：Saipan地上を16日夜明けから再演
+
+先に [事前要塞化・戦闘中再工事台帳36](AUDIT_RESET_2026-09-25/36_SAIPAN_PRE_FORTIFICATION_AND_COMBAT_REWORK_LEDGER_v001.md)、[16日夜明け→18日18:00地上再演37](AUDIT_RESET_2026-09-25/37_SAIPAN_GROUND_REPLAY_16DAWN_18EVENING_WORKING_v001.md)、[18日18:00地上状態38](AUDIT_RESET_2026-09-25/38_SAIPAN_GROUND_STATE_18JUN_1800_v001.json) を読む。
+
+- 取消し済みpost-dawn地上線は再利用せず、v100承認済み16日夜明けのfront/tank stateから再開。
+- 3月防御networkのSaipan May-end D2.9–D3.4/key terrain D3.5 target、4月末のdispersal/revetment/alternate C2、v097のPeleliu-type depth-defense logicを回収し、15日中心をpriority terrain D3.0–D3.3/key D3.3–D3.5のW maturityとして再接続。fortification multiplierにはしない。
+- 工事台帳をcoast/direct fire、reverse-slope mortar/artillery、C2/signals/OP、sector ammo-water/logistics、armor cell、engineer/reworkへ分離。物理陣地・usable・fire data・route/accessを別状態にする。
+- 前線移動で旧射撃諸元はSTALEになる。各surviving fire cellは同夜1–3個のhigh-value target boxを優先再登録し、U.S. artillery/tank assembly/road-seam/logisticsへ火力を移す。地図座標だけでcurrent targetにしない。
+- 0–2hは既存alternateへの移動/電線迂回/弾薬再配分、2–8hはshell hole/rail cut/road embankmentの新陣地、OP/overhead cover、8–24hはより強いfield revetment。新deep tunnel beltや重concreteを一夜で生成しない。
+- 16日昼：CVE/old-BB/shore artillery支援は残り、TF58 task competitionだけ払う。夕刻もAslitoは完全日本側、Afetna/Susupe fire wedge継続、tank MR30–35級。
+- 16/17夜は大規模反撃でなくrework night。Afetna/SusupeのOP/wire/target board、Aslito west/north anti-tank lane、ammo-water移動を優先。17日夕刻までにU.S.はAslito outer west/north approachへ到達するがairfield secureには至らず、tank MR26–31級。
+- 17/18夜はAslito防御再構成が中心。shell crater/rail cut/road embankmentを利用し、U.S. 105mm/armor assemblyの諸元を取り直し、field loss後もeast/southeastからrunwayをinterdictできるfallback fireを準備。
+- 18日は日本carrier threatでU.S. transport/support stationingを一部東へずらすが、CVE/old-BBをゼロにはしない。shore artilleryの比重が上がる。
+- 18日18:00：U.S.はAslito west/north marginと一部runway-side groundへ物理進入するが、airfieldは未secure/未operational。east/southeastから日本observed mortar/artillery/direct fireが残る。2d/4th physical connectionは改善するがSusupe/Afetna seamはfire-control problem。tank MR21–27級。
+- 累積歩兵死傷はまだ閉じない。31st Army/Navy ground denominator、engineer/artillery subgroup、medical/evacuation分類を再構築してから付与する。terrain/control、tank MR、support、fortification/C2/logisticsを先に閉じた。
+- 次は18/19夜の再工事と、地上OOB denominatorを閉じ、19日Aslitoがいつphysical secure/usableになるかを海空支援状態と同じ時計で見る。
 
 ## 今回から読む
 
