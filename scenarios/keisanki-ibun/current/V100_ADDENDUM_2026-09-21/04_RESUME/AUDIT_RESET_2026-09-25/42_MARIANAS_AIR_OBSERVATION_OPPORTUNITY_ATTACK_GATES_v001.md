@@ -77,19 +77,24 @@ If carrying suitable light ordnance:
 - best against small craft, vehicles, exposed handling, not heavily defended major ships.
 
 ### Alert D4Y with bomb
-If fueled/armed and launch field usable:
-- selected reaction class roughly 25–50 min to launch/short transit for Saipan-adjacent targets;
-- additional time if route/escort/briefing changes.
+Cold-start timing must include base geometry:
+- Tinian / Saipan-adjacent launch: roughly **30–60 min** observation-to-target class;
+- Guam launch to Saipan area: roughly **55–95 min**.
 
-This is a plausible response to FRESH-30/FRESH-60 ground targets.
+If the aircraft is prearmed/prebriefed and only awaiting a final go/no-go update, part of this preparation has already been paid.
+
+This is a plausible response to FRESH-30/FRESH-60 ground targets, especially from Tinian-side facilities.
 
 ### B6N / torpedo attack
-For torpedo mission:
-- selected planning/arming/briefing reaction generally 45–90+ min;
-- target must be a large/slow ship group with fresh enough position;
-- not a snap response to a fleeting artillery observation.
+Cold-start torpedo timing:
+- Tinian-side: roughly **50–100 min** observation-to-target class;
+- Guam-side: roughly **80–140 min**.
 
-Bomb-configured B6N can react faster if already armed for ground/support attack.
+Target must be a large/slow ship group with fresh enough position.
+This is not a snap response to a fleeting artillery observation.
+
+A preplanned alert package can react faster after the final update because arming/briefing occurred earlier.
+Bomb-configured B6N can also react faster if already armed for ground/support attack.
 
 ### Preplanned dusk/night package
 Best use of older target information:
