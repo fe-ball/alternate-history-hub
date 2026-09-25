@@ -178,6 +178,19 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - 16–18日の再演ではbeach fire boardを徐々に退役させ、Afetna/Susupe、U.S.105mm/armor assembly、Aslito west/north approach、runway interdictionへ1–3個/火力cellのhigh-value target boxを夜ごとに更新する。全front再計算はしない。
 - これによりBranch利得は万能命中率ではなく、移動後の復帰時間、alternate positionの有効数、座標変換ミス低減、fire-data freshness、物理占領後もinterdictionを続ける能力として反映する。
 
+## 最新：Marianas日本側航空の地上観測機能
+
+先に [地上航空観測・砲兵協同台帳40](AUDIT_RESET_2026-09-25/40_MARIANAS_JAPANESE_GROUND_AIR_OBSERVATION_LEDGER_v001.md) を、[射撃諸元台帳39](AUDIT_RESET_2026-09-25/39_SAIPAN_ARTILLERY_SURVEY_FIRE_DATA_LEDGER_v001.md) と [地上再演37](AUDIT_RESET_2026-09-25/37_SAIPAN_GROUND_REPLAY_16DAWN_18EVENING_WORKING_v001.md) の間に挟んで読む。
+
+- 現行正本上、Ki-36/Ki-51は前線観測・連絡・砲兵協同、F1M/E13A/瑞雲は偵察・砲観測、D4Yは高速写真/確認の役割を持つ。今までのSaipan再演はground OPへ寄り過ぎで、ground-air observationを過小評価していた。
+- ただしKi-36/Ki-51の6月Marianas実配備は未閉鎖なのでcenter 0。既にMarianasに存在が認められているwater-air layerとD4Y poolからbounded taskを払う。
+- center workloadはair situationが許す日にwater-air ground observation/spotting 2–4 sorties/day、D4Y fast photo/confirmation 0–2/day。別poolではなく、maritime ISR/SAR/attack-reconから控除。
+- ground OPを置換しない。OPはpersistent correction、航空観測はreverse-slope/urban maskingを越えた更新、U.S. artillery/armor/road flow確認、old target boxの廃棄、新target box候補、post-bombardment checkを担う。
+- air reportはTARGET REGISTRATION / OBSERVATION PATH / freshnessを更新できるが、lost SITE SURVEY / BALLISTIC TABLE / GUN CORRECTIONを自動修復しない。
+- 16–18 JunのAfetna/Susupe/Aslito target-board renewalは、ground OP/patrolだけでなくこのair observation layerからも入力を得る。F6F CAP pressureで長時間orbitは困難、短時間visual/photo→送信→離脱が中心。
+- U.S.側にはobserver denialのF6F sortie/fuel taxが発生する。日本側もcounter-recon/observer denialを別任務として持つが、常時制空は得ない。
+- 日本航空のMarianas効能はfleet決戦/海上偵察だけでなく、battlefield observation、photo target renewal、liaison、counter-recon、water-air continuity/SARまである。主効果はground fire-control freshnessの維持。
+
 ## 今回から読む
 
 1. [16日14:15–16:30：電探・触接・来襲警報のWORKING進行11](AUDIT_RESET_2026-09-25/11_RECON16_1415_1630_RADAR_AND_CONTACT_WORKING_v001.md)
