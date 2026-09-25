@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_CASE_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "interval": [
+    "1944-06-16T17:15",
+    "1944-06-16T19:30"
+  ],
+  "selected_tinian_package": {
+    "D4Y": 8,
+    "fighters": 4,
+    "total": 12,
+    "lead_D4Y_recontact": true,
+    "B6N_center_case": 0
+  },
+  "target_geometry_nm": {
+    "at_1715": 150,
+    "at_1815": 140,
+    "local_W_not_historical_coordinates": true
+  },
+  "timings": {
+    "lead_launch": "17:22",
+    "main_launch": "17:31-17:36",
+    "recontact": "18:08",
+    "report": "18:09-18:10",
+    "terminal": "18:16-18:31"
+  },
+  "us_cap_reaction": {
+    "F6F_available_relevant": [
+      20,
+      28
+    ],
+    "Guam_returning_F6F_not_instant_fresh_CAP": true
+  },
+  "combat": {
+    "japan_irreversible": [
+      5,
+      7
+    ],
+    "japan_additional_damaged": [
+      1,
+      2
+    ],
+    "us_F6F_irreversible": [
+      1,
+      2
+    ],
+    "us_F6F_damaged": [
+      2,
+      3
+    ],
+    "D4Y_usable_releases": [
+      4,
+      6
+    ],
+    "direct_carrier_hits_center": 0
+  },
+  "recovery_friction": {
+    "us_recovery_interruption_min": [
+      18,
+      25
+    ],
+    "us_waveoff_divert_aircraft": [
+      5,
+      8
+    ],
+    "us_recovery_irreversible": [
+      1,
+      2
+    ],
+    "us_recovery_damaged_short": [
+      2,
+      4
+    ]
+  },
+  "japan_return": {
+    "additional_landing_irreversible": [
+      0,
+      1
+    ],
+    "additional_damaged": [
+      0,
+      2
+    ]
+  },
+  "info_1930": {
+    "japan_last_actual_us_carrier_observation": "18:08",
+    "us_fresh_japanese_carrier_main_fix": false
+  },
+  "decisions": {
+    "japan": "no further large strike this evening",
+    "us": "no carrier mission-kill; recover and reconstitute"
+  },
+  "guards": [
+    "no B6N torpedo stock assumed",
+    "no second-echelon free dusk strike",
+    "no perfect tracking",
+    "no post-1415 promotion",
+    "no cancelled ground reuse"
+  ]
+}
