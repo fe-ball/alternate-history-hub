@@ -11,7 +11,16 @@ Working canonical clock: **1944-06-16T14:15**
 Clock state: **OPEN / EVENT-SIMULATION**  
 Post-14:15 working syntheses exist, but are **NOT AUTHORITY** and do not advance the canonical clock.
 
-Current frontier: **Japanese fleet hull/equipment/refit/readiness re-audit first; TF58 whole-system ASW meta-audit remains a mandatory gate before any post-14:15 event promotion.**
+Current frontier: **Aircraft-type and shared-production audit, including a dedicated Shiun/Oyodo review; then naval ISR/defense/ASW re-audit and separate ground replay with bidirectional feedback. TF58 whole-system ASW remains mandatory before post-14:15 promotion.**
+
+## 最新の監査・取消し指示（2026-09-25）
+
+[今回の再開入口](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_NEXT_CHAT_PROVENANCE_RECOVERY_2026-09-25.md)を先に読む。
+
+- 承認済みSaipan地上線は **6月16日夜明けまで**。その後に今回の会話で組んだ地上進行・人数・死傷・補給・予備・Aslito見通しはユーザー承認で取消し。次の初期値に使わない。
+- 回収した大淀＋4DDの旧インド洋派遣／継続は、チッタゴン喪失を伴う旧ベンガル実行系統に接続する。現行6月の拘束根拠から除外するが、逆に太平洋へ自動配置もしない。
+- 機種の性能・時計・数量・装備・乗員・所在を分離。生産は共通発動機／工場／修理予備／教育枠で照合する。紫雲は結論を丸めず専用監査を行う。
+- 「CVEが十分」を理由に日本航空の積極的関与を無視しない。海戦監査後の陸戦への影響、その逆方向の影響も再計算対象とする。
 
 ## 物語・設定解説を読む
 
@@ -50,24 +59,26 @@ Approved through 1944-06-16T14:15:
 - U.S. deep carrier counterstrike range gate = HOLD / RED at 14:15.
 
 Current immediate analytical task:
-- rebuild the 1944 Japanese fleet by actual hull, dated refit and equipment allocation;
-- distinguish physical / serviceable / crewed / mission-ready / location;
-- close common equipment wallets before assigning scarce equipment to individual ships;
-- audit battleships, then CA/CL/DD, carriers/seaplane tenders and support hulls;
-- only then return to TF58 whole-system ASW and post-14:15 event promotion.
+- inventory unresolved aircraft-type fields and reconnect retained technical/institutional baselines;
+- perform the dedicated Shiun/Oyodo audit without assuming either rescue or historical failure;
+- reconcile shared production, repair, spares, training and dated theater allocations;
+- complete the Japanese hull/equipment/refit/readiness and U.S. task/deck/escort ledgers;
+- re-audit bidirectional reconnaissance, air defense, ASW, naval combat and regeneration;
+- replay post-dawn Saipan ground action separately, accepting feedback in both directions.
 
 China 29 May–14 Jun detailed event sequence remains a parallel OPEN ledger and must not be inferred from the global date.
 
 ## Reading order
 
-1. [v100 current read-first](current/00_CURRENT_AUTHORITY/00_READ_FIRST_CURRENT_V100_2026-09-21.md)
-2. [v100 full handoff](current/V100_ADDENDUM_2026-09-21/00_HANDOFF/00_READ_FIRST_V100_FULL_HANDOFF.md)
-3. [v100 supersession/status map](current/V100_ADDENDUM_2026-09-21/01_AUTHORITY/V100_SUPERSESSION_AND_STATUS_MAP.md)
-4. [ship/equipment/fleet re-audit resume](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_READ_FIRST_SHIP_EQUIPMENT_AND_FLEET_REAUDIT_2026-09-23.md)
-5. [v100 next frontier](current/V100_ADDENDUM_2026-09-21/04_RESUME/NEXT_FRONTIER_1944-06-16_1415.md)
-6. [v099 aircraft / Homare audit](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/01_AIRCRAFT_AUDIT_AND_HOMARE_POOL_1944H1.md)
-7. [v099 anti-magic method guard](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/03_USER_METHOD_GUARD_ANTI_MAGIC.md)
-8. retained v098/v097/v096 authority where not superseded.
+1. [latest audit/reset instruction and source-lineage corrections](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_NEXT_CHAT_PROVENANCE_RECOVERY_2026-09-25.md)
+2. [v100 current read-first](current/00_CURRENT_AUTHORITY/00_READ_FIRST_CURRENT_V100_2026-09-21.md)
+3. [v100 full handoff](current/V100_ADDENDUM_2026-09-21/00_HANDOFF/00_READ_FIRST_V100_FULL_HANDOFF.md)
+4. [v100 supersession/status map](current/V100_ADDENDUM_2026-09-21/01_AUTHORITY/V100_SUPERSESSION_AND_STATUS_MAP.md)
+5. [ship/equipment/fleet re-audit resume](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_READ_FIRST_SHIP_EQUIPMENT_AND_FLEET_REAUDIT_2026-09-23.md)
+6. [v100 next frontier](current/V100_ADDENDUM_2026-09-21/04_RESUME/NEXT_FRONTIER_1944-06-16_1415.md)
+7. [v099 aircraft / Homare audit](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/01_AIRCRAFT_AUDIT_AND_HOMARE_POOL_1944H1.md)
+8. [v099 anti-magic method guard](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/03_USER_METHOD_GUARD_ANTI_MAGIC.md)
+9. retained v098/v097/v096 authority where not superseded.
 
 ## Clean aviation references
 
