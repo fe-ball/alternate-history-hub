@@ -5,6 +5,10 @@ Status: SELECTED WORKING TECHNICAL LEDGER / NO CAMPAIGN AUTHORITY PROMOTION
 Canonical authority remains Branch B v100 / 1944-06-16T14:15.
 Approved ground frontier remains 1944-06-16 dawn.
 
+## Air-observation interface
+
+For Japanese aerial ground observation / artillery spotting / photo-confirmation in the Marianas, read `40_MARIANAS_JAPANESE_GROUND_AIR_OBSERVATION_LEDGER_v001.md`. Aerial observation updates target registration and observation freshness but does not replace lost site survey / ballistic data.
+
 ## 0. Purpose
 
 Refine the ground replay's artillery/fire-control assumption.
