@@ -1,9 +1,9 @@
-# NEXT CHAT — 18日12:00 WORKING、梯団交代後の相互空母接触から攻撃閾値へ
+# NEXT CHAT — 18日18:00 WORKING、相互接触後のstandoffから夜間交代へ
 
 Updated: 2026-09-26
 Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT PROMOTION
 
-正本はBranch B v100 / 1944-06-16T14:15据置。最新の作業進行は18日12:00までの一つのWORKINGケース。Saipan地上の承認済み線は6/16夜明けまで。その後の取消し済み陸戦・人数・死傷・補給・予備・Aslito見通しを初期値へ戻さない。
+正本はBranch B v100 / 1944-06-16T14:15据置。最新の作業進行は18日18:00までの一つのWORKINGケース。Saipan地上の承認済み線は6/16夜明けまで。その後の取消し済み陸戦・人数・死傷・補給・予備・Aslito見通しを初期値へ戻さない。
 
 ## 最新：16:25–17:15 Guam回収系への限定攻撃
 
@@ -132,6 +132,21 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - 米側は第二梯団を10:35–50に495–525nm級で確認しCONTACT/POSITION GREENだがSTRIKE RANGE RED/AMBER edge。正午まで攻撃releaseなし。
 - したがって18日朝は「日本だけが見える」状態ではなく、正午には双方がcarrier contactを持つ。ただし米側は第二梯団、日本側はTF58を見ており、日本第一線nucleusは隠れている。
 - 次は正午以後、双方が400nm台へ近づいた時のstrike threshold、追加recontact、第一線nucleusをどこまで前へ出すかを判定する。
+
+## 最新：18日12:00–18:00 相互接触からstandoff
+
+先に [18日午後相互standoff34](AUDIT_RESET_2026-09-25/34_RECON18_1200_1800_MUTUAL_STANDOFF_WORKING_v001.md) と [18:00状態35](AUDIT_RESET_2026-09-25/35_RECON18_1800_STATE_v001.json) を読む。
+
+- 正午、第二梯団は自群が米索敵に通報されたと判断し、20–22kt東進を12:05–20頃に終了。14–17kt級のoblique WSW/holdへ。第一線refueled nucleusも8–12kt WSW/reorgへ戻る。fuel leapfrogで得た予備を自分から米strike regimeへ差し出さない。
+- 日本側は12:28発D4Yで13:08–15にTF58再確認、14:45発water-air reliefで15:30–40にregion-level更新。最新実観測15:35頃。偵察機はattack/recon poolから控除され、連続trackではない。
+- 米側も12:20–40に8–12機級relief searchを出し、13:45–14:00に第二梯団3空母を再確認。courseはWSW/holdへ変化、range465–505nm級。第一線nucleusは正面では未発見。
+- 14時gateでは日本第二梯団MR68–88級だが、465–500nmから最後のclean reserveをMarianas shuttleへ出す期待値が悪くHOLD。米側も長距離往復・late return・forward recoveryなしでHOLD。
+- 米TF58は14:10–16:30に12–16kt級のbounded westward pressureを試すが、第二梯団も14–17ktで西へ動くため相対closureは小さい。rangeは15時465–510、16:30 470–520、18時485–535nm級へ。full pursuitなし。
+- U.S. bounded west shiftで日本水上前衛のnight-intercept計算は再びAMBERになるが、本格west chaseでないためattack courseは出さない。
+- 空地分離は逆方向にも使い、Marianasで整備済みのcarrier-qualified survivors 8–12機を15:30–16:30に小分けで西へferry。D4Y/B6N中心＋少数長距離fighter、combat storesなし。夕刻到着後の点検を要し、即MRへ足さない。
+- 第二梯団がvisible threatを担う間に第一線補給/整備が進み、18時には3–4空母がF-AMBER-GREEN/strong AMBER級、五空母船上MR86–108（fighter42–52、attack/recon44–56）へ。ただしprebattle340–375MRには戻らない。
+- U.S.はcarrier strikeも重いMarianas suppressionも出さず、CAP/search/Saipan support/ASW/SARへ甲板を使う。日本の見えるcarrier threatそのものが米deck/fuelを消費させる。
+- 18時時点で日本は第二梯団が485–535nmのvisible threat、第一線nucleusは farther west/hidden。米側は第二梯団の13:45–14:00 contactを持つが第一線位置は不明。次は18/19夜間に、第二梯団を前に残すかrefueled第一線と再交代するかを見る。
 
 ## 今回から読む
 
