@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_CASE_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "interval": [
+    "1944-06-18T06:00",
+    "1944-06-18T12:00"
+  ],
+  "geometry_0600": {
+    "fast_vanguard_nm": [
+      520,
+      560
+    ],
+    "second_echelon_nm": [
+      600,
+      630
+    ],
+    "first_line_refueled_nucleus_nm": [
+      680,
+      720
+    ]
+  },
+  "japan_ISR": {
+    "water_air_broad_contact": "06:18-06:28",
+    "water_air_irreversible": 1,
+    "D4Y_confirm": "06:52-06:58",
+    "water_air_relief": "09:08-09:15 region refresh",
+    "D4Y_update": "10:38-10:45",
+    "latest_actual_us_carrier_observation": "~10:42",
+    "Shiun_intermediate_sweep": {
+      "launch": "06:20",
+      "range_nm": [
+        300,
+        350
+      ],
+      "carrier_contact": false,
+      "return": "09:30-10:00"
+    }
+  },
+  "japan_movement": {
+    "second_echelon_east_start": "07:05-07:15",
+    "second_echelon_speed_kt": [
+      20,
+      22
+    ],
+    "first_line_nucleus_speed_kt": [
+      16,
+      18
+    ],
+    "noon_second_echelon_range_nm": [
+      455,
+      490
+    ],
+    "noon_first_line_nucleus_range_nm": [
+      575,
+      620
+    ]
+  },
+  "us_search": {
+    "first_deep_search_aircraft": 12,
+    "vanguard_recontact": "08:00-08:20",
+    "second_search_aircraft": [
+      12,
+      16
+    ],
+    "second_echelon_contact": "10:35-10:50",
+    "carriers_seen": 3,
+    "first_line_nucleus_contact_before_noon": false
+  },
+  "noon_japan": {
+    "second_echelon_MR": [
+      72,
+      92
+    ],
+    "fighters": [
+      28,
+      36
+    ],
+    "attack_recon": [
+      44,
+      56
+    ],
+    "strike_release": false,
+    "reason": "455-490 nm, escort/recovery/base-receiving cost remains high"
+  },
+  "noon_us": {
+    "second_echelon_range_nm_at_contact": [
+      495,
+      525
+    ],
+    "contact": "GREEN",
+    "position": "GREEN",
+    "strike_range": "RED_AMBER_EDGE",
+    "strike_release": false
+  },
+  "guards": [
+    "no direct Shiun TF58 detection beyond its mission radius",
+    "water-air layer survives runway suppression but is not invulnerable",
+    "no first-line nucleus discovery by fiat",
+    "no strike just because carrier contact exists",
+    "no post-1415 promotion",
+    "no cancelled ground reuse"
+  ]
+}
