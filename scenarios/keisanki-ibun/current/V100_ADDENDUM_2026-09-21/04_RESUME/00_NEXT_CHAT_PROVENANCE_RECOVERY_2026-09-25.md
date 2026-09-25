@@ -1,9 +1,19 @@
-# NEXT CHAT — 紫雲・大淀の運用／搭載基準から共通供給と海空再監査へ
+# NEXT CHAT — 承認済み紫雲・大淀から偵察全体系の再監査へ
 
-Updated: 2026-09-25, after Shiun air-group / host reference v003
-Status: USER-INSTRUCTION RECORD / SELECTED WORKING DESIGN AND ALLOCATION / NOT EVENT PROMOTION
+Updated: 2026-09-25, after user acceptance of Shiun/host v003 and system-reconnaissance review
+Status: USER-APPROVED REFERENCE / REPLAY METHOD / NOT EVENT PROMOTION
 
 正本はBranch B v100 / 1944-06-16T14:15据置。Saipan地上の承認済み前線は6/16夜明けまで。その後に今回の会話で組んだ陸戦進行・人数・死傷・補給・予備・Aslito見通しはユーザー承認で取消し。初期値に戻さない。
+
+## 最新の承認と監査方針
+
+ユーザーは06/07までの紫雲・搭載艦艇の参照ケースを承認した。先に [偵察全体系の承認・診断・再演方法08](AUDIT_RESET_2026-09-25/08_RECON_SYSTEM_APPROVAL_AND_REPLAY_METHOD_v001.md) を読む。
+
+問うのは「高性能化した機体群、偵察護衛、水上航空、教育・交代、大淀の情報処理が、マリアナ／艦隊のTF58捕捉と過去のシナリオへ正しく反映されたか」。既存結果の保存を目的にしない。直感比較は不整合候補を出すため、最終判定は出動・観測・伝送・処理・判断から行う。
+
+承認済み技術・制度は残し、発見時刻・触接継続・攻撃見送り・進路は結果として再計算する。承認は性能を実測へ変換せず、共通生産余力・実出動・post-14:15を自動承認しない。
+
+17日handoffには朝・昼・夕の日本側TF58接触と米側の日本艦隊接触がある。これを採用する限り、18日朝の情報盤を理由なく白紙へ戻さない。夜間の失探と、過去の所在域・接触履歴を全て失うことを分ける。一方、16日14:15正本の「接触良好でも攻撃距離不適」は有効な比較基準。新しい接触時刻・勝敗はまだ判定していない。
 
 ## 最初に読む
 
@@ -44,7 +54,7 @@ Status: USER-INSTRUCTION RECORD / SELECTED WORKING DESIGN AND ALLOCATION / NOT E
 
 ## 次の順序
 
-この紫雲・母艦基準を共通供給と他機種の配置へ接続 → 日米索敵・防空・ASW・海戦・再生を再監査 → 別途の陸戦再演。艤装の詳細積算と正確な航跡は基準表への検証入力として扱う。
+承認された機体・母艦基準と既存機種／護衛／通信を実配分へ接続 → 同一条件での機構比較と、判断を自由にするBranch再演を分けて実施 → 日米索敵・防空・ASW・海戦・再生を再監査 → 別途の陸戦再演。艤装の詳細積算と正確な航跡は基準表への検証入力として扱う。
 
 「CVEが十分」だけで日本航空の積極的関与を消さない。対地、観測、CVE／輸送／砲撃艦攻撃、米CAP/ASW/SAR/発着艦、実際に届くCAS・艦砲・荷役・後送を同じ時間線で追う。海から陸、陸から海空への再計算を拒まない。
 
