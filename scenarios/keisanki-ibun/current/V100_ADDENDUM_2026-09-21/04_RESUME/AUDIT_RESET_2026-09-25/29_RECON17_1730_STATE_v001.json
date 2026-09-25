@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_CASE_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "interval": [
+    "1944-06-17T14:50",
+    "1944-06-17T17:30"
+  ],
+  "us_decision": {
+    "deep_carrier_strike": false,
+    "reason": "630-670nm class ageing/opening target; no safe normal return",
+    "marianas_suppression": true
+  },
+  "us_suppression": {
+    "launch": "15:35-15:55",
+    "total": [
+      72,
+      82
+    ],
+    "F6F": [
+      48,
+      54
+    ],
+    "SB2C": [
+      14,
+      16
+    ],
+    "TBM": [
+      10,
+      12
+    ],
+    "Tinian": [
+      42,
+      48
+    ],
+    "Guam": [
+      28,
+      34
+    ],
+    "arrival": "16:25-16:45"
+  },
+  "japan_defense": {
+    "fighters_engaged": [
+      24,
+      32
+    ],
+    "Tinian": [
+      14,
+      18
+    ],
+    "Guam": [
+      10,
+      14
+    ],
+    "incoming_aircraft_diverted_or_delayed": [
+      8,
+      14
+    ]
+  },
+  "combat": {
+    "japan_fighter_irreversible": [
+      7,
+      11
+    ],
+    "japan_fighter_damaged": [
+      5,
+      8
+    ],
+    "us_F6F_irreversible": [
+      4,
+      6
+    ],
+    "us_F6F_damaged": [
+      5,
+      8
+    ],
+    "us_attack_irreversible": [
+      2,
+      4
+    ],
+    "us_attack_damaged_abort": [
+      3,
+      6
+    ]
+  },
+  "base_effects": {
+    "Tinian": {
+      "runway_interrupt_min": [
+        45,
+        70
+      ],
+      "handling_min": [
+        90,
+        150
+      ],
+      "ground_irreversible": [
+        3,
+        5
+      ],
+      "short_unavailable": [
+        5,
+        8
+      ]
+    },
+    "Guam": {
+      "runway_interrupt_min": [
+        25,
+        50
+      ],
+      "handling_min": [
+        60,
+        120
+      ],
+      "ground_irreversible": [
+        2,
+        3
+      ],
+      "short_unavailable": [
+        3,
+        5
+      ]
+    },
+    "combined_ground_irreversible": [
+      5,
+      8
+    ],
+    "combined_short_unavailable": [
+      8,
+      13
+    ],
+    "service_queue_aircraft_class": [
+      15,
+      22
+    ],
+    "service_delay_hours": [
+      2,
+      4
+    ],
+    "principal_warning_plot_mission_kill": false,
+    "catastrophic_fuel_ammo_loss": false
+  },
+  "japan_mobile_1730": {
+    "carrier_range_nm": [
+      660,
+      700
+    ],
+    "first_line_MR": [
+      78,
+      100
+    ],
+    "first_line_fighter_MR": [
+      38,
+      48
+    ],
+    "first_line_attack_recon_MR": [
+      38,
+      52
+    ],
+    "ship_fuel": "AMBER-RED for renewed eastward offense",
+    "second_echelon_MR": [
+      80,
+      100
+    ],
+    "second_echelon_attack_release": false
+  },
+  "us_search": {
+    "vanguard_recontact": "16:00-16:25",
+    "fresh_carrier_core_contact": false
+  },
+  "next": "replenishment/oiler and evening cumulative regeneration",
+  "guards": [
+    "no CVE double count",
+    "no free second-echelon strike",
+    "no carrier strike at impossible range",
+    "no base neutralization by runway cratering alone",
+    "no post-1415 promotion",
+    "no cancelled ground reuse"
+  ]
+}
