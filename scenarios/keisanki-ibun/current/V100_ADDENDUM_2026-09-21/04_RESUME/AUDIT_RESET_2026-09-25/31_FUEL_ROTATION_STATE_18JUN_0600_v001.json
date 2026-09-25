@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_LOGISTICS_CASE_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "interval": [
+    "1944-06-17T17:30",
+    "1944-06-18T06:00"
+  ],
+  "fuel_state_scale": {
+    "GREEN": "normal operational day plus bounded high-speed cycle",
+    "AMBER": "defense/withdrawal plus bounded maneuver; replenish before prolonged offense",
+    "AMBER_RED": "withdraw/rendezvous/defense only; no renewed eastern offensive",
+    "RED": "replenishment or mission relief required"
+  },
+  "state_1730": {
+    "first_line": "AMBER_RED",
+    "second_echelon": "AMBER_to_AMBER_GREEN",
+    "fast_vanguard": "AMBER_RED, DD most urgent",
+    "heavy_support": "AMBER"
+  },
+  "rotation": {
+    "carrier_leapfrog": "20:30-22:00",
+    "threat_side_layer_after_swap": "second echelon",
+    "first_line_role": "passes west into replenishment/maintenance cycle",
+    "DD_rotation": true,
+    "shore_ISR_reduces_mobile_eastern_station_burden": true
+  },
+  "oiler_capacity_case": {
+    "primary_oiler_class_hulls": [
+      3,
+      4
+    ],
+    "secondary_oiler_class_hulls": [
+      1,
+      2
+    ],
+    "exact_named_OOB_closed": false,
+    "first_replenishment_area": "22:30-00:30",
+    "secondary_support_usable": "00:00-02:30"
+  },
+  "priority": [
+    "critical DD/escorts",
+    "2-3 first-line carriers",
+    "remaining first-line carriers",
+    "fast-vanguard rotating elements",
+    "second echelon as needed"
+  ],
+  "state_0600": {
+    "first_line_carriers_substantial_topoff": [
+      2,
+      3
+    ],
+    "first_line_carriers_partial_or_queue": [
+      1,
+      2
+    ],
+    "critical_DD_topoff": [
+      6,
+      10
+    ],
+    "first_line_nucleus": "AMBER_GREEN",
+    "first_line_remainder": "AMBER",
+    "second_echelon": "AMBER_to_AMBER_GREEN mostly by conservation",
+    "fast_vanguard": "mixed AMBER to AMBER_RED"
+  },
+  "air_interaction": {
+    "first_line_MR_repair_return": [
+      4,
+      8
+    ],
+    "second_echelon_MR": [
+      76,
+      96
+    ],
+    "marianas": "ISR/limited defense recovers before major strike regeneration"
+  },
+  "ASW_sensitive": true,
+  "guards": [
+    "partial not full refuel",
+    "role rotation adds no fuel",
+    "no named oiler imported as Branch fact",
+    "no DD double-count",
+    "no automatic major strike on 18 Jun",
+    "no post-1415 promotion"
+  ]
+}
