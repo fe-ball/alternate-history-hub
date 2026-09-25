@@ -1,9 +1,9 @@
-# NEXT CHAT — 18日06:00 WORKING、補給・交代後の朝偵察と作戦選択へ
+# NEXT CHAT — 18日12:00 WORKING、梯団交代後の相互空母接触から攻撃閾値へ
 
 Updated: 2026-09-26
 Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT PROMOTION
 
-正本はBranch B v100 / 1944-06-16T14:15据置。最新の作業進行は18日06:00までの一つのWORKINGケース。Saipan地上の承認済み線は6/16夜明けまで。その後の取消し済み陸戦・人数・死傷・補給・予備・Aslito見通しを初期値へ戻さない。
+正本はBranch B v100 / 1944-06-16T14:15据置。最新の作業進行は18日12:00までの一つのWORKINGケース。Saipan地上の承認済み線は6/16夜明けまで。その後の取消し済み陸戦・人数・死傷・補給・予備・Aslito見通しを初期値へ戻さない。
 
 ## 最新：16:25–17:15 Guam回収系への限定攻撃
 
@@ -117,6 +117,21 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - したがって18日朝は「満タン再攻勢艦隊」でも「燃料切れ撤退艦隊」でもない。比較的freshな第二梯団＋部分給油済み第一線nucleus＋混合燃料状態の前衛/護衛＋生きたMarianas ISRという系になる。
 - この補給成功はTF58全体系ASW監査で再確認必須。潜水艦datumが出れば給油lane一つの遅延/中止や護衛転用を許すが、油槽船無敵にも一撃全滅にも固定しない。
 - 次は18日朝偵察から、どのechelonを前に出すかをfresh contactとfuel/air MRで決める。旧18日先行発見/攻撃見送り結果はまだ守らない。
+
+## 最新：18日06:00–12:00 梯団交代と相互空母接触
+
+先に [18日朝の梯団交代・相互接触32](AUDIT_RESET_2026-09-25/32_RECON18_0600_1200_ECHELON_ROTATION_AND_MUTUAL_CONTACT_WORKING_v001.md) と [12:00状態33](AUDIT_RESET_2026-09-25/33_RECON18_1200_STATE_v001.json) を読む。
+
+- 06:00中心幾何はfast vanguard520–560nm、第二梯団600–630nm、部分給油済み第一線nucleus680–720nm。第二梯団76–96MRが最もfuel/air-group余裕を持つためthreat-side carrier layerを担当。
+- Marianas ISRはD4Yだけでなく、水上航空2機級＋D4Y高速確認/更新を使う最小layered case。06:18–28に水上偵察が空母域を見つけ1機不可逆、06:52–58にD4Y確認、09:08–15にwater-air relief、10:38–45にD4Y再更新。D4Y2機はattack/recon poolから控除。
+- 大淀/紫雲は西側で一機を06:20に300–350nm intermediate sweepへ。TF58は射程外なので直接発見させず、western laneにcarrier-sized forceなしというnegative informationを09:30–10:00頃持ち帰る。大淀はMarianas positive contactと相関する。
+- 07:05–15頃、第二梯団が20–22ktで東進、第一線の2–3 carrier refueled nucleusが16–18ktで追随。残余第一線は補給/再編継続。12時中心で第二梯団455–490nm、第一線nucleus575–620nm。
+- 米側は06:00–15に12機/6 sectorの480–520nm深索敵で08:00–20に高速前衛を再捕捉。08:35–55のrelief/deeper search12–16機が10:35–50に第二梯団の3空母を発見。第一線nucleusは80–120nmさらに西で正午まで未発見。
+- これはfuel leapfrogの代価：第二梯団は燃料余力を前線へ持ち込むが、米索敵に最初に晒されるcarrier layerになる。
+- 正午日本側の第二梯団MR72–92（fighter28–36、attack/recon44–56）。最新TF58実観測は10:42頃。455–490nmではnormal-return strikeはなお厳しく、Marianas shuttleも受入基地回復/escort costがあるためrelease HOLD。
+- 米側は第二梯団を10:35–50に495–525nm級で確認しCONTACT/POSITION GREENだがSTRIKE RANGE RED/AMBER edge。正午まで攻撃releaseなし。
+- したがって18日朝は「日本だけが見える」状態ではなく、正午には双方がcarrier contactを持つ。ただし米側は第二梯団、日本側はTF58を見ており、日本第一線nucleusは隠れている。
+- 次は正午以後、双方が400nm台へ近づいた時のstrike threshold、追加recontact、第一線nucleusをどこまで前へ出すかを判定する。
 
 ## 今回から読む
 
