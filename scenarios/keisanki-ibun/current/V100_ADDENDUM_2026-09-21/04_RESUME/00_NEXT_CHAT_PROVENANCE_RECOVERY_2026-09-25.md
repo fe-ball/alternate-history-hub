@@ -1,9 +1,9 @@
-# NEXT CHAT — 17日14:50 WORKING、第二撃後の午後判断へ
+# NEXT CHAT — 17日17:30 WORKING、Marianas再抑圧後の補給・夕刻再生へ
 
 Updated: 2026-09-26
 Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT PROMOTION
 
-正本はBranch B v100 / 1944-06-16T14:15据置。最新の作業進行は17日14:50までの一つのWORKINGケース。Saipan地上の承認済み線は6/16夜明けまで。その後の取消し済み陸戦・人数・死傷・補給・予備・Aslito見通しを初期値へ戻さない。
+正本はBranch B v100 / 1944-06-16T14:15据置。最新の作業進行は17日17:30までの一つのWORKINGケース。Saipan地上の承認済み線は6/16夜明けまで。その後の取消し済み陸戦・人数・死傷・補給・予備・Aslito見通しを初期値へ戻さない。
 
 ## 最新：16:25–17:15 Guam回収系への限定攻撃
 
@@ -88,6 +88,19 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - 日本combat不可逆22–30。Marianas shuttle回収時の低燃料・損傷着陸/ditchで2–4追加、総不可逆24–34級。4–7追加短期非即応。旧22–29よりやや厳しくなる。
 - 米側はdirect hit以外にも30–50分級のgroup cycle disruption、6–10機waveoff/resequence、0–1不可逆＋2–4短期取扱損傷。TF58全体は戦闘不能にならない。
 - 第二梯団は未使用のまま。第一線は発進後WSWへ戻り補給幾何へ。次は14:50–17:30、米側が590–620nm/openingの日本空母へ盲目的深攻撃するか、Marianas再抑圧を選ぶか、日本第二梯団・補給・CAP再生をどう扱うかを見る。
+
+## 最新：17日14:50–17:30 米Marianas再抑圧
+
+先に [14:50–17:30 Marianas再抑圧28](AUDIT_RESET_2026-09-25/28_RECON17_1450_1730_US_MARIANAS_SUPPRESSION_WORKING_v001.md) と [17:30状態29](AUDIT_RESET_2026-09-25/29_RECON17_1730_STATE_v001.json) を読む。
+
+- 米側は13:05–13:20の日本空母接触を保持するが、14:50には約630–670nm級・開距離・90–105分古い。15時台発進の通常対空母打撃は夕刻到達＋夜間帰投となりrange RED。攻撃力不足ではなく距離/回収解がないため見送る。
+- 固定目標のMarianas再生系を代替目標に選び、15:35–55に72–82機（F6F48–54/SB2C14–16/TBM10–12）を発進。Tinian42–48、Guam28–34級へ分担。CVE機は足さない。
+- 日本第二撃生残34–43機は15:00–15:40頃Marianasへ流入し、低燃料・損傷・整備列中。基地電探/作図で8–14機をlanding hold/divertし、駐機集中を緩和するが、燃料と整備負担は増える。
+- 日本側即時迎撃はTinian14–18、Guam10–14、計24–32級。米fighter-heavy packageが優勢。日本fighter不可逆7–11＋損傷5–8、米F6F不可逆4–6、attack irreversible2–4。
+- Tinian runway45–70分、handling90–150分、ground irreversible3–5＋short5–8。Guam25–50分/60–120分、ground irreversible2–3＋short3–5。合計ground不可逆5–8、short8–13、15–22機級の整備/再配分が2–4h遅延。主要警戒作図系と大燃料/弾薬庫壊滅は与えない。水上航空もrunway craterだけで消さない。
+- 日本第一線は17:30頃660–700nm級まで再び離隔、艦載MR78–100級、fighter38–48、attack/recon38–52級。艦燃料はrenewed offenseにAMBER-REDで、実補給まで第三撃なし。
+- 第二梯団は80–100MR級を保持し独立長距離攻撃を見送る。距離がさらに悪く、米CAP健在、Marianas受入系も被攻撃中なので、最後のきれいな予備を消耗させる合理性がない。
+- 米側は16:00–16:25頃高速前衛を再捕捉するが日本空母本隊の新しいcarrier fixは得ない。17:30以後はoiler/rendezvous、第一線・第二梯団補給、両軍累積MR/deck output、夕刻偵察/水上案を閉じる。
 
 ## 今回から読む
 
