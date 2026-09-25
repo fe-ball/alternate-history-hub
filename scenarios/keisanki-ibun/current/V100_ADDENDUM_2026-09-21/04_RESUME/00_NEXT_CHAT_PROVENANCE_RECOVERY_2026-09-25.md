@@ -191,6 +191,21 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - U.S.側にはobserver denialのF6F sortie/fuel taxが発生する。日本側もcounter-recon/observer denialを別任務として持つが、常時制空は得ない。
 - 日本航空のMarianas効能はfleet決戦/海上偵察だけでなく、battlefield observation、photo target renewal、liaison、counter-recon、water-air continuity/SARまである。主効果はground fire-control freshnessの維持。
 
+## 最新：11–18 Jun Marianas日本航空の全役割再監査
+
+先に [全役割再監査41](AUDIT_RESET_2026-09-25/41_MARIANAS_JAPANESE_AVIATION_FULL_ROLE_REAUDIT_11_18JUN_v001.md)、[観測→機会攻撃gate42](AUDIT_RESET_2026-09-25/42_MARIANAS_AIR_OBSERVATION_OPPORTUNITY_ATTACK_GATES_v001.md)、[再監査state43](AUDIT_RESET_2026-09-25/43_MARIANAS_AVIATION_REAUDIT_STATE_v001.json)、[11Jun→16dawn局地航空overlay44](AUDIT_RESET_2026-09-25/44_MARIANAS_LOCAL_AIR_REPLAY_11JUN_TO_16DAWN_WORKING_v001.md)、[運用価値matrix45](AUDIT_RESET_2026-09-25/45_MARIANAS_JAPANESE_AVIATION_OPERATIONAL_VALUE_MATRIX_v001.md) を読む。
+
+- 既存再演はfighter defense / maritime ISR / fleet-decisive strikeを厚く、battlefield observation、砲兵協同、bombardment BDA、unloading/handling opportunity attack、counter-observation、SAR/liaison、ferry/regenerationを薄く扱っていた。
+- 一機一primary missionで同じMarianas航空財布から控除。F1M/E13A/Zuiunはlocal maritime ISR、砲観測、battlefield observation、liaison、SAR、限定armed recon。D4Yは高速photo/visual confirmationとattack。B6N/older attackはanti-shipping/preplanned strike。Ki-36/Ki-51は doctrine上ground observation/artillery cooperationだが6月Marianas配備未閉鎖なのでcenter0。
+- 観測目標をFRESH-10/30/60/FIXEDに分け、ground artilleryはcurrent fire dataなら5–30分級、alert D4Y bombは25–50分級、B6N torpedoは45–90分+級のreaction。observer sees→instant torpedo attackは禁止。
+- 11 Junは2–4 short water-air/liaison/BDA/SAR workload、独立昼counterstrikeなし。12 Junは既存12–16機night attackを主offenseとして維持。13 Junは2–3 water-air BDA＋0–1 D4Y photo、counter-observer small attempts、daylight anti-BB strike HOLD。13/14夜small harassmentはnight crew turnaround未閉鎖なのでOPEN。
+- 14 JunはBDA/road/battery access/ship-sector observationを行い、14/15夜にsubmarine+island observationでSaipan landing systemが高確度となる。この時点からtransport/support/minesweeper/approach lanesへの局地航空攻撃が合理的候補。
+- 15 Jun morningは現行で最大の欠落。W centerとしてGuam/Tinian側からattack8–12＋fighter0–4、2–3 approach elements、09:15–09:40 terminal。U.S. radar/CAP/AA下でJapan不可逆4–7、damaged/abort1–3、usable release3–6、major hull direct hitなし。affected groupで10–25分級のlocal maneuver/flight-support/unloading sequencing disturbance。H-hour/landing system全体は止めない。
+- 15日昼はwater-air2–4級＋D4Y0–1 photo/confirmationでLVT/LCM lanes、Sherman/105mm assembly、beach dumps、Afetna/Susupe movementを更新。approved groundの105mm first-effective-fire 10–20min delay等を上積みせず、一部因果をground OP-onlyからfresh air observation+fire-data renewalへ再配賦する。
+- 15日夕刻/夜は史実物理校正でも日本航空反応があったためmandatory replay gate。candidate6–12機/2–3 groupsだが、morning survivors、night-qualified crews、target freshnessを閉じるまで結果を挿入しない。ここを入れると16日local ISR/recovery-defense walletへ波及する。
+- 16–18日はfleet ISR/recovery defense/ground observation/regenerationが優先され、daily big beachhead strikeにはしない。18日dusk small logistics raidはlocal attack-air/night crew ledgerを閉じた後のOPEN。
+- 日本航空のMarianas効能は「kill count」より、ground fire freshness、U.S. observer denial/CAP tax、ship maneuver、unloading/repair friction、aircrew preservation、ferry/regenerationで評価する。
+
 ## 今回から読む
 
 1. [16日14:15–16:30：電探・触接・来襲警報のWORKING進行11](AUDIT_RESET_2026-09-25/11_RECON16_1415_1630_RADAR_AND_CONTACT_WORKING_v001.md)
