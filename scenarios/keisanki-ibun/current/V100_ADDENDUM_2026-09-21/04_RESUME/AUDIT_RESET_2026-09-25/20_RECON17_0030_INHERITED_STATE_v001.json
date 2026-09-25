@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_CASE_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "interval": [
+    "1944-06-16T19:30",
+    "1944-06-17T00:30"
+  ],
+  "surface_option": {
+    "desire_exists": true,
+    "attack_order": false,
+    "amber_to_red": "20:45-21:00",
+    "reason": "no new U.S. westward movement; intercept range too large",
+    "vanguard_action": "forward hold then elastic WSW withdrawal"
+  },
+  "us_night_move": {
+    "direction": "E/ENE",
+    "speed_kt": [
+      10,
+      12
+    ],
+    "purpose": "break surface intercept while retaining Saipan-cover geometry"
+  },
+  "japan_night_track": {
+    "new_carrier_fix": false,
+    "last_actual_observation": "18:08"
+  },
+  "us_night_track": {
+    "last_carrier_box_observation": "13:32-13:38",
+    "last_vanguard_observation": "14:42"
+  },
+  "midnight_geometry_sensitivity": {
+    "time": "00:30",
+    "box1_to_us_nm": 695,
+    "vanguard_to_us_nm": 629,
+    "vanguard_ahead_of_box1_nm": 67,
+    "not_historical_coordinates": true
+  },
+  "submarine_centered_events": {
+    "japanese_carrier_fix": false,
+    "japanese_torpedo_hit": false,
+    "us_torpedo_hit_japanese_carrier_or_oiler": false
+  },
+  "dawn_inputs": [
+    "Japan search box from 18:08 observation age",
+    "U.S. westward search from 13:35/14:42 sources",
+    "TF58 no westward chase",
+    "Japanese core 650-700 nm class sensitivity"
+  ],
+  "guards": [
+    "no continuous night track without asset",
+    "no automatic night surface attack",
+    "no automatic night refueling",
+    "no post-1415 promotion",
+    "no cancelled ground reuse"
+  ]
+}
