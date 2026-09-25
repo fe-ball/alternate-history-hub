@@ -12,7 +12,15 @@ jobs:
   retired-sources:
     runs-on: ubuntu-latest
     steps:
+      # Only materialize the checker; git ls-tree still inspects the entire commit.
+      # Imported archive filenames can exceed the runner filesystem's name limit.
       - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /scripts/check_retired_sources.py
+            /retired-keisanki-sources.json
+          sparse-checkout-cone-mode: false
+          persist-credentials: false
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
