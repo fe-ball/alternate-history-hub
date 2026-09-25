@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_CASE_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "interval": [
+    "1944-06-17T08:00",
+    "1944-06-17T11:40"
+  ],
+  "corrected_geometry": {
+    "first_line_to_us_nm_0800": [
+      640,
+      670
+    ],
+    "first_line_to_us_nm_1045": [
+      570,
+      600
+    ],
+    "first_line_to_us_nm_1130": [
+      550,
+      580
+    ],
+    "vanguard_ahead_nm": [
+      60,
+      100
+    ]
+  },
+  "first_line_air": {
+    "MR_0800": [
+      135,
+      160
+    ],
+    "fighters_MR": [
+      58,
+      68
+    ],
+    "attack_recon_MR": [
+      77,
+      92
+    ],
+    "derivation": "prestrike 340-375 minus launched 220-243, then CAP/search/maintenance, 17-24 carrier-return MR, 4-8 overnight repair/recombination"
+  },
+  "japanese_recon": [
+    {
+      "id": "J-17-R3",
+      "origin": "Tinian",
+      "type": "D4Y attack-capable borrowed for recon",
+      "launch": "08:22",
+      "contact": "09:02-09:08",
+      "irreversible": false
+    },
+    {
+      "id": "J-17-R4",
+      "origin": "Guam",
+      "type": "D4Y attack-capable borrowed for recon",
+      "launch": "10:00",
+      "contact": "10:42-10:48",
+      "result": "damaged return"
+    }
+  ],
+  "us_second_search": {
+    "aircraft": 12,
+    "sectors": 6,
+    "depth_nm": [
+      480,
+      520
+    ],
+    "launch": "08:05-08:20",
+    "vanguard_contact": "10:38-10:50",
+    "carrier_core_contact_before_1140": false
+  },
+  "japanese_second_strike": {
+    "decision": "~10:55",
+    "launch": "11:15-11:35",
+    "total": [
+      48,
+      56
+    ],
+    "center": 52,
+    "fighters": [
+      14,
+      16
+    ],
+    "D4Y": [
+      15,
+      17
+    ],
+    "B6N": [
+      15,
+      17
+    ],
+    "B7A": [
+      4,
+      6
+    ],
+    "recovery": "shuttle to Tinian primary; Guam/Rota overflow",
+    "carrier_roundtrip": false
+  },
+  "second_echelon": {
+    "MR_inherited": [
+      85,
+      105
+    ],
+    "attack_release": false,
+    "role": "reserve/defense"
+  },
+  "fuel": {
+    "first_line": "AMBER",
+    "prestrike_oiler_transfer_assumed": false,
+    "postlaunch_replenishment_required_for_prolonged_ops": true
+  },
+  "stop_point": "Japanese launch / U.S. vanguard contact; terminal combat unresolved",
+  "guards": [
+    "no old 17 Jun combat result reused",
+    "no automatic C6N/H8K/water-air credit",
+    "no B6N all-torpedo assumption",
+    "no post-1415 promotion",
+    "no cancelled ground reuse"
+  ]
+}
