@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_CASE_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "interval": [
+    "1944-06-17T11:35",
+    "1944-06-17T14:50"
+  ],
+  "us_midday": {
+    "usable_physical_decks": 14,
+    "deck_equivalents": [
+      12.5,
+      13.5
+    ],
+    "Lexington_normal_strike_host": false,
+    "Hornet_normal_strike_host": false,
+    "Belleau_Wood_usable": true,
+    "Princeton_usable_reduced_margin": true,
+    "Bunker_Hill_usable": true,
+    "TG58_4_reentry": "11:00-12:30 broad defense umbrella",
+    "mission_ready_aircraft": [
+      750,
+      840
+    ],
+    "F6F_MR": [
+      400,
+      435
+    ],
+    "F6F_materially_engaged": [
+      82,
+      100
+    ]
+  },
+  "us_carrier_recontact": {
+    "time": "13:05-13:20",
+    "carriers_seen": "2-3+",
+    "range_nm": [
+      590,
+      620
+    ],
+    "opening": true,
+    "strike_range": "RED"
+  },
+  "japan_main_axis": {
+    "aircraft": [
+      48,
+      56
+    ],
+    "arrival": "14:20-14:40"
+  },
+  "japan_marianas_axis": {
+    "recon_update": "12:52-12:58 D4Y",
+    "fighters": [
+      4,
+      5
+    ],
+    "D4Y": [
+      5,
+      6
+    ],
+    "B6N": [
+      4,
+      5
+    ],
+    "total": [
+      13,
+      16
+    ],
+    "arrival": "14:12-14:28"
+  },
+  "total_japanese_committed": [
+    61,
+    72
+  ],
+  "air_battle": {
+    "japan_outer_irreversible": [
+      16,
+      22
+    ],
+    "japan_outer_damaged_abort": [
+      8,
+      12
+    ],
+    "us_F6F_irreversible": [
+      4,
+      6
+    ],
+    "us_F6F_damaged": [
+      6,
+      9
+    ],
+    "japan_attackers_reach_AA": [
+      30,
+      38
+    ],
+    "escorts_reach_AA": [
+      8,
+      12
+    ],
+    "japan_terminal_irreversible": [
+      6,
+      8
+    ],
+    "valid_releases": [
+      20,
+      27
+    ]
+  },
+  "ship_result": {
+    "direct_hits_center": 1,
+    "hit": "light-carrier-class flight deck bomb hit",
+    "identity_closed": false,
+    "deck_closure_min": [
+      45,
+      75
+    ],
+    "fleet_carrier_torpedo_hit": false,
+    "major_carrier_sink": false
+  },
+  "japan_recovery": {
+    "combat_irreversible": [
+      22,
+      30
+    ],
+    "physical_marianas_arrival_attempt": [
+      34,
+      43
+    ],
+    "landing_ditch_irreversible": [
+      2,
+      4
+    ],
+    "short_unavailable": [
+      4,
+      7
+    ],
+    "total_irreversible": [
+      24,
+      34
+    ]
+  },
+  "us_friction": {
+    "group_cycle_disruption_min": [
+      30,
+      50
+    ],
+    "waveoff_resequence": [
+      6,
+      10
+    ],
+    "handling_irreversible": [
+      0,
+      1
+    ],
+    "handling_short_damage": [
+      2,
+      4
+    ]
+  },
+  "guards": [
+    "no old result copied",
+    "no exact CVL identity until formation audit",
+    "no fleetwide U.S. radar collapse",
+    "no second-echelon attack credit",
+    "no post-1415 promotion",
+    "no cancelled ground reuse"
+  ]
+}
