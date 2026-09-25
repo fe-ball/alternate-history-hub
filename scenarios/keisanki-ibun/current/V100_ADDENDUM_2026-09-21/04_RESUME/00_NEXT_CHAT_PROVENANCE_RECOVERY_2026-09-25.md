@@ -1,9 +1,9 @@
-# NEXT CHAT — 17日17:30 WORKING、Marianas再抑圧後の補給・夕刻再生へ
+# NEXT CHAT — 18日06:00 WORKING、補給・交代後の朝偵察と作戦選択へ
 
 Updated: 2026-09-26
 Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT PROMOTION
 
-正本はBranch B v100 / 1944-06-16T14:15据置。最新の作業進行は17日17:30までの一つのWORKINGケース。Saipan地上の承認済み線は6/16夜明けまで。その後の取消し済み陸戦・人数・死傷・補給・予備・Aslito見通しを初期値へ戻さない。
+正本はBranch B v100 / 1944-06-16T14:15据置。最新の作業進行は18日06:00までの一つのWORKINGケース。Saipan地上の承認済み線は6/16夜明けまで。その後の取消し済み陸戦・人数・死傷・補給・予備・Aslito見通しを初期値へ戻さない。
 
 ## 最新：16:25–17:15 Guam回収系への限定攻撃
 
@@ -101,6 +101,22 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - 日本第一線は17:30頃660–700nm級まで再び離隔、艦載MR78–100級、fighter38–48、attack/recon38–52級。艦燃料はrenewed offenseにAMBER-REDで、実補給まで第三撃なし。
 - 第二梯団は80–100MR級を保持し独立長距離攻撃を見送る。距離がさらに悪く、米CAP健在、Marianas受入系も被攻撃中なので、最後のきれいな予備を消耗させる合理性がない。
 - 米側は16:00–16:25頃高速前衛を再捕捉するが日本空母本隊の新しいcarrier fixは得ない。17:30以後はoiler/rendezvous、第一線・第二梯団補給、両軍累積MR/deck output、夕刻偵察/水上案を閉じる。
+
+## 最新：17日17:30–18日06:00 艦隊燃料の「相対回復」
+
+先に [補給・交代による燃料回復30](AUDIT_RESET_2026-09-25/30_FUEL_ROTATION_17JUN_1730_18JUN_0600_WORKING_v001.md) と [18日06:00状態31](AUDIT_RESET_2026-09-25/31_FUEL_ROTATION_STATE_18JUN_0600_v001.json) を読む。
+
+- 燃料回復を油槽船会合回数だけで見ない。絶対給油、低速化、第一線／第二梯団のrole rotation、DD screen rotation、Marianas ISRが東側観測を肩代わりする効果を分離。
+- 17:30の第一線五空母はrenewed eastward offenseにF-AMBER-RED、第二梯団はF-AMBER～AMBER-GREEN、fast vanguardはDDを中心にAMBER-RED、heavy supportはAMBERのW状態。
+- 17:30–22:00に第一線がWSW18–20kt級で西へ、第二梯団は西進を落として相対的に前へ残る。20:30–22:00頃に両空母梯団がparallel/overlapし、第二梯団がthreat-side CAP/search layerを引き受け、第一線はそのまま補給側へ抜ける「leapfrog」を採用。燃料そのものは増えないが前方航空戦力の燃料余力は回復する。
+- fast vanguardも一括給油せず、低燃料DDを小分けで西へ抜き、後方/第二梯団screenから比較的余裕のあるDDが一時代替。前方水雷打撃力は薄くなるが、DD燃料が艦隊全体のhard stopになるのを防ぐ。
+- 正確なBranch油槽船個艦・位置は未閉鎖。W throughput caseはprimary 3–4 AO級＋secondary 1–2 AO級。これは史実A-GOの複数補給群を物理校正にした能力帯で、史実艦名をBranch事実へ輸入しない。
+- 第一線/後方screenが22:30–00:30頃に第一補給域へ、secondary supportは00:00–02:30頃使用可能という中心。全艦満タンではなく、critical DD→第一線空母2–3隻→残余第一線→fast-vanguard回転要素→第二梯団必要分の順でmission-margin top-off。
+- ASW大事故なしの中心では18日06:00までに第一線2–3空母をsubstantial top-off、1–2空母をpartial/queue、DD6–10隻級を有用top-off。第一線nucleusはF-AMBER-GREEN、残余AMBER、第二梯団は主に節約でAMBER～AMBER-GREEN。full prebattle resetではない。
+- 第一線航空は補給/低flight-op中に4–8機級のshort repair/crew-airframe recombination、第二梯団MR76–96級。Marianasは大攻撃再生より先にISR/limited defenseが戻る。
+- したがって18日朝は「満タン再攻勢艦隊」でも「燃料切れ撤退艦隊」でもない。比較的freshな第二梯団＋部分給油済み第一線nucleus＋混合燃料状態の前衛/護衛＋生きたMarianas ISRという系になる。
+- この補給成功はTF58全体系ASW監査で再確認必須。潜水艦datumが出れば給油lane一つの遅延/中止や護衛転用を許すが、油槽船無敵にも一撃全滅にも固定しない。
+- 次は18日朝偵察から、どのechelonを前に出すかをfresh contactとfuel/air MRで決める。旧18日先行発見/攻撃見送り結果はまだ守らない。
 
 ## 今回から読む
 
