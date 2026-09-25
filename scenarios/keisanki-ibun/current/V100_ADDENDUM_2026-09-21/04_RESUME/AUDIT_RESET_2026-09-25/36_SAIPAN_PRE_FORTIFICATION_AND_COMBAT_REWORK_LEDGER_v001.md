@@ -5,6 +5,10 @@ Status: SELECTED WORKING GROUND LEDGER / NO CAMPAIGN AUTHORITY PROMOTION
 Canonical authority remains Branch B v100 / 1944-06-16T14:15.
 Approved ground frontier remains 1944-06-16 dawn.
 
+## Fire-data refinement
+
+For artillery survey / site-specific firing-data depth and combat re-registration clocks, read `39_SAIPAN_ARTILLERY_SURVEY_FIRE_DATA_LEDGER_v001.md`. It supersedes any reading of this file that would imply universal bespoke fire tables. Heavy fixed batteries, priority medium batteries, field artillery/mortars and direct-fire cells have different preparation depth.
+
 ## 0. Purpose
 
 Recover the pre-invasion fortification work that was already established in current authority/reference material, then turn it into a combat-time ledger.
