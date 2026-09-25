@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "status": "WORKING_INFORMATION_ANCHOR_AND_CONSTRAINT_RESULTS_NOT_EVENT_PROMOTION",
+  "canonical_authority": "Branch B v100",
+  "canonical_clock": "1944-06-16T14:15",
+  "source_commit": "0b788522ae243311102e1873e99c09dc5f40edf3",
+  "new_detected_groups": [],
+  "new_combat_losses": [],
+  "approved_observations": [
+    {"id":"JP-AM-01","time_band":["07:05","07:05"],"time_precision":"approximate","fact":"contact green","observer_airframe":null,"status":"APPROVED_GATE_OBSERVER_ID_UNCLOSED"},
+    {"id":"JP-AM-02","time_band":["09:00","09:00"],"time_precision":"approximate","fact":"position green","observer_airframe":null,"status":"APPROVED_GATE_OBSERVER_ID_UNCLOSED"},
+    {"id":"JP-AM-03","time_band":["09:50","10:00"],"fact":"recontact with mutually supporting U.S. carrier groups before first strike","observer_airframe":null,"continuous_afternoon_track_implied":false},
+    {"id":"JP-STRIKE-OBS","time_band":null,"fact":"attack aircraft observed enemy during approved strike","received_report_details":null,"all_hits_known_to_Japan":false,"status":"OBSERVATION_EXISTS_RECEIPT_AND_QUALITY_NEED_RECONSTRUCTION"},
+    {"id":"US-01","time_band":["12:42","12:50"],"fact":"at least three carriers with heavy screen, WSW; shadow broken by Japanese CAP","already_airborne":true,"observer_airframe":null},
+    {"id":"US-02","time_band":["13:20","13:25"],"fact":"Japanese forward surface force withdrawing; not a carrier fix","already_airborne":true,"observer_airframe":null},
+    {"id":"US-03","time_band":["13:32","13:38"],"fact":"three carriers with heavy screen, WSW 26–28 kt","position_error_nm":[15,25],"transmitted_before_loss":true,"already_airborne":true,"observer_airframe":null,"box2_confirmed":false,"range_at_observation_nm":[300,330]}
+  ],
+  "approved_1415_state": {
+    "Japanese_carrier_egress":"WSW 26–28 kt, two boxes",
+    "Japan_immediate_firstline_second_strike":"HOLD",
+    "US_main_deep_carrier_strike":"HOLD_RANGE_RED",
+    "Lexington":{"normal_strike_deck":false,"CIC":true,"main_communications":true,"major_air_search":true},
+    "Hornet":{"normal_strike_deck":false,"command_survives":true},
+    "Marianas_recovery_CAP":{"total":[26,36],"outer":[10,16],"inner":[16,22]},
+    "Guam_expected_arrivals":[50,62],
+    "Tinian_expected_arrivals":[32,40],
+    "expected_arrivals_are_not_final_landings_or_ready_scouts":true
+  },
+  "allocation_requests_not_executed_sorties": [
+    {"id":"J-EAST-REQ-01","requested_ready_airframes":2,"role":"first fast reconnaissance pass and staggered relief","preferred":"dedicated D4Y reconnaissance if locally traced","fallback":"attack D4Y charged to strike/service pool","candidate_origin":"functioning Guam/Tinian-side node","release_state":"PENDING_AIRFRAME_CREW_LOCATION_AND_RUNWAY_MATCH","actual_takeoff":null,"actual_detection":null},
+    {"id":"J-ESCORT-OPTION-01","airframes":4,"role":"short dangerous-sector or return-corridor support","source":"existing outer recovery CAP, not new fighters","remaining_outer_CAP_if_switched":[6,12],"release_state":"OPTION_ONLY_FUEL_TIMING_AND_CONTROL_GATE","actual_takeoff":null},
+    {"id":"J-OYODO-NEW-01","airframes":2,"role":"new afternoon long recontact sortie","reference_notice_min":[20,30],"release_state":"DO_NOT_AUTO_RELEASE_WITHOUT_ATTAINABLE_RECOVERY","night_qualification_verified":false,"already_airborne_alternative_is_not_assumed":true,"actual_takeoff":null},
+    {"id":"US-RELIEF-REQ-01","airframes":null,"role":"recontact withdrawing Japanese carriers","type_and_host_need_match":true,"existing_airborne_first":true,"actual_takeoff":null,"actual_detection":null}
+  ],
+  "conditional_geometry_results": {
+    "not_actual_coordinates":true,
+    "timezone_not_inferred":true,
+    "Shiun":{"launch":"14:40","enemy_away_kn":10,"host_retreat_kn":24,"contact_min":30,"sprint_min":0,"holding_min":30,"fuel_start_kg":980,"reserve_kg":100,"cases":[
+      {"range_nm":250,"arrival":"16:22","return":"19:43","fuel_left_kg":322.8},
+      {"range_nm":275,"arrival":"16:31","return":"20:04","fuel_left_kg":278.7},
+      {"range_nm":300,"arrival":"16:40","return":"20:25","fuel_left_kg":234.8},
+      {"range_nm":325,"arrival":"16:48","return":"20:45","fuel_left_kg":191.0}],"daylight_cutoff_example":"18:30, operating sensitivity not sunset","all_four_fail_example_daylight_gate":true},
+    "shore_recon":{"cruise_TAS_kmh":[340,380],"target_axial_kn":[-10,10],"overhead_min":[10,20],"search_allowance_min":[0,20],"cases":[
+      {"range_nm":100,"elapsed_min":[37.4,75.7]},
+      {"range_nm":150,"elapsed_min":[51.4,93.0]},
+      {"range_nm":200,"elapsed_min":[65.3,110.3]}],"elapsed_is_not_a_detected_contact_time":true},
+    "US_new_west_search":{"launch_range_nm":[330,380],"target_away_kn":27,"cruise_TAS_kmh":[300,340],"overhead_min":15,"arrival_elapsed_min":[144.0,186.9],"search_and_return_feasibility_not_yet_included":true},
+    "escort_safe_profile_nm":{"Zuisei_late_Zero":[351.0,405.0],"Kinsei_Zero_mod":[297.0,334.8],"retreat_and_combat_must_be_added":true}
+  },
+  "unknowns_not_zero":["16 June dedicated C6N and Ki-46 locations/ready crews","16 June E16A/E13A/F1M physical and ready allocations","H6K/H8K and U.S. patrol-aircraft deployments/support","Oyodo actual morning sorties and remaining daily budget","all actual weather/visibility/sea-state and geographic coordinates"],
+  "guards":["Never refresh observation timestamp when extrapolating a plot","Relay duplicates are not independent observations","Carrier group not equal TF58 entirety","Damaged deck not equal destroyed fighter direction","Sighting an aircraft type does not prove launch base","Arrival in a search region not equal successful detection","No historic Enterprise/PBM event automatically transferred into this roster/date","No cancelled ground estimates reused","No post-1415 promotion; TF58 system ASW gate remains"]
+}
