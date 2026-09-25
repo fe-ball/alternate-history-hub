@@ -1,5 +1,7 @@
 # 計算機異聞
 
+> **旧資料の廃止（2026-09-25）**：別置きの旧 FULL HANDOFF v003 とその作業・レビュー派生資料は廃止済み。Git履歴・ZIP・検索結果から復元・再取り込み・根拠への採用をしない。[廃止ルール](../../RETIRED-SOURCES.md)を参照。
+
 Status: **active**
 
 Authority: **Branch B v100**

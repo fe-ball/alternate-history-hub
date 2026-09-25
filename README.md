@@ -21,7 +21,7 @@
 | Scenario | Status | Authority | Canonical clock | Clock state | Current frontier |
 |---|---|---|---|---|---|
 | [浅井世界線](scenarios/asai/README.md) | active | V23 | 1946-06-30T24:00 | history-working-closed-through-1946-armistice; retro-audit-1939-1940-open | 1939-1940遡及監査 |
-| [計算機異聞](scenarios/keisanki-ibun/README.md) | active | Branch B v098 | 1944-06-14T12:00 | OPEN / EVENT-SIMULATION | FORAGER: 14 Jun bombardment/submarines -> 15 Jun Bonins/D-day approach -> mobile-fleet contact |
+| [計算機異聞](scenarios/keisanki-ibun/README.md) | active | Branch B v100 | 1944-06-16T14:15 | OPEN / EVENT-SIMULATION（以後はWORKING） | 艦艇装備・6月出撃配置・空母防空の再監査。正本化前にTF58 ASW監査 |
 | [発動機転生者](scenarios/hatsudoki-tenseisha/README.md) | active | PC技術台帳（2026-06-07保存版） | 未指定 | 技術台帳を回収 | 旧引き継ぎの性能値を台帳の訂正に合わせる |
 | [豊国IF](scenarios/toyokuni-if/README.md) | active | v3＋執筆規律 | 一律の確定時計は未指定 | 派生叙述は1613年まで、提言採否はOPEN | 呂宋統治・後金問題・国内政治 |
 
@@ -73,7 +73,7 @@ AIの推論、ユーザー指定、未確定案、superseded事項を可能な�
 - [浅井世界線 V22B: 原本ZIPと全1,122ファイル](scenarios/asai/import/IMPORT-STATUS.md)
 - [計算機異聞 v097: 原本ZIPと全2,071ファイル](scenarios/keisanki-ibun/import/IMPORT-STATUS.md)
 
-全件CRC・SHA-256検証済み。現行正本V23 / v098と歴史時計は維持。
+取り込み時点で全件CRC・SHA-256検証済み。当時の正本V23 / v098と歴史時計を維持した記録。現在の正本は scenarios.yaml を参照。
 
 ## PC資料の追加統合 — 2026-09-20
 
