@@ -1,49 +1,27 @@
 # 浅井世界線 — Scenario Rules
 
-## Authority
+## Authority / navigation
 
-- Current authority: **V25**
-- Canonical clock: **1941-08-11T24:00**
-- History state: **China-war-continuation replay WORKING-CLOSED through 1941-08-11**
-- Current frontier: **synthetic-fuel/hydrogen audit, then coupled Japan-US hard-line crystallization**
-- V25 explicit results override conflicting V24/V23/V22B/V21 working results inside the active continuation route.
-- Non-conflicting technical parent state remains inherited.
-- Exact counts/dates/losses marked WORKING remain bands, not archival exactitudes.
+現行軸・正本時計・working到達点・次ゲートは [current/ACTIVE-STATE.json](current/ACTIVE-STATE.json) と同軸の原記録を照合する。ここに版番号や旧stop lineを重複固定しない。標準の読み順は [汎用ガイド](00-READ-FIRST-GENERIC.md)。
+
+V24中国戦継続→V25→V26の同軸の明示決定を継承し、post-V26 WORKINGは原statusのまま後続作業へ使用する。V23/V22B/V21中国和平枝の歴史結果は親履歴として自動継承しない。非矛盾の技術基盤は別に継承できる。明示的な新決定があればその対象と下流だけ上書きする。
 
 ## Clock / backflow guard
 
-Canonical clock, clock state and frontier are separate.
+Canonical clock, working event frontier, clock state and discussion frontier are separate. Analytical look-aheads do not move the historical clock. The 1941 Moscow look-ahead remains analysis-only unless separately adopted.
 
-Analytical look-aheads do not move the historical clock. In particular, the conversation's 1941 Moscow look-ahead is analysis-only.
-
-Do not backflow:
-- later German E5-D/E6-D field lessons;
-- later Pacific-war or no-Pacific-war outcomes;
-- V23/V22B China-peace results;
-- later Soviet/German/postwar outcomes.
+Do not backflow later German E5-D/E6-D field lessons, later Pacific-war or no-Pacific-war outcomes, V23/V22B China-peace results, or later Soviet/German/postwar outcomes.
 
 ## Knowledge boundary
 
-Existing future knowledge and technical advantage do not auto-copy across institutions or states.
-
-Transfer requires real channels such as:
-- product/machine;
-- drawings/process specification;
-- tooling/gauges;
-- engineer/training;
-- documented method;
-- joint test;
-- license/local redevelopment;
-- maintenance/service system;
-- operational feedback.
+Existing future knowledge and technical advantage do not auto-copy across institutions or states. Transfer requires real channels: product/machine; drawings/process specifications; tooling/gauges; engineer/training; documented method; joint test; license/local redevelopment; maintenance/service system; operational feedback.
 
 ## Simulation guard
 
+- Separate capability / physical article / qualification / adopted / factory accepted / service released / assigned / serviceable / forward / combat-present by date, variant/lot, mission and location. Unknown is not zero. Combat result is another field.
 - Separate technical feasibility, prototype, mass production, deployability, serviceability, tactical effect, operational effect and strategic effect.
-- Separate produced / present / assigned / serviceable / sortie-ready.
-- Separate unit performance from theater effect.
-- Preserve enemy adaptation.
-- Do not decide campaigns from catalog performance alone.
+- Separate produced / present / assigned / serviceable / sortie-ready and unit performance from theater effect.
+- Preserve enemy adaptation. Do not decide campaigns from catalog performance alone.
 - Track recovery, abandonment, repair and trained-human-capital loss separately.
 - China manpower survival does not imply survival of modern-war capital.
 - US economic controls are not a single switch; legal freeze, licensing, actual contracts, payment and physical shipment are separate.
@@ -51,27 +29,10 @@ Transfer requires real channels such as:
 
 ## Political / stochastic guard
 
-V25 permits bounded stochastic events where historically/plausibly available:
+The V25 method permits bounded stochastic events where plausible at the date: unusually consequential bombing hit/miss; plant/bridge/depot/command damage; intelligence/fiscal report; policy study; industrial test result; diplomatic leak; shipping/field incident.
 
-- unusually consequential bombing hit or miss;
-- plant/bridge/depot/command damage;
-- intelligence or fiscal report;
-- policy study;
-- industrial test result;
-- diplomatic leak;
-- shipping/field incident.
+Conditions: a real information channel; actors know only what it reveals; no event selected solely to force a preferred Pacific-war outcome; downstream effects pass through institutions, logistics and decision gates.
 
-Conditions:
-1. plausible at the date;
-2. arrives through a real information channel;
-3. actors know only what the channel reveals;
-4. event is not chosen solely to force a preferred Pacific-war outcome;
-5. downstream effects pass through institutions, logistics and decision gates.
+## Continuation updates
 
-## V25 stop line / next gate
-
-Current replay stops at 1941-08-11T24:00.
-
-Next:
-1. synthetic fuel / coal liquefaction / Asai hydrogen-high-pressure audit;
-2. then direct replay of how Japanese US-war preparation and US/Allied anti-Japanese hard-line policy become self-reinforcing or fail to do so.
+Original records retain their status. Navigation may mark an old next gate SUPERSEDED-NEXT without promoting the successor to CANON or erasing narrower unresolved questions. Update the active manifest, active four-file view and central Asai registry together; inspect newer same-axis checkpoints/progress before resuming.

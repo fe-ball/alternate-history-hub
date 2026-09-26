@@ -1,0 +1,12 @@
+浅井世界線の継続を再開します。最初に汎用ガイドを読んでください。
+https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/00-READ-FIRST-GENERIC.md
+
+次にcurrent/ACTIVE-STATE.jsonで、対象枝・日米戦/日ソ戦・正本時計・直近戦役・working到達点・次ゲートを照合してください。固定入口を無条件に信用せず、同軸のhandoff・register・checkpoint・progress、必要ならLibraryの後発引継ぎを確認し、新しい明示的継続を検証してください。版番号・更新日・未来の時計だけで枝を選ばないでください。
+
+現行軸確定後、manifest指定のsession handoff→decision register→chronology/state→open items/next gatesを読み、必要箇所だけrecords原文で確認。原確定度と現在の読む役割を分け、SUPERSEDED-NEXTの旧指示へ戻らないでください。
+
+継続の目印は真珠湾/Enterprise→南方を局所確認→Wake/Saratoga→1941航空輸送WORKING-CLOSE→AT-3再監査です。後発更新も照合してください。正本時計・working履歴・局所ケース・将来計画を分け、WORKINGをCANONへ昇格させないでください。
+
+archive・旧入口・別シナリオは通常探索から外し、旧パスはnavigation/SOURCE-ROUTES.jsonで解決。技術は具体論点だけcurrent/technical、不足時のみ該当親へ。非矛盾のbranch-neutral技術基盤は継承できますが、別枝の歴史結果を逆流させないでください。
+
+capability / physical article / qualification / adopted / factory accepted / service released / assigned / serviceable / forward / combat-presentを分離。技術成立を配備・戦闘使用へ変換せず、未確認を0にしないでください。現行軸・各時計・次ゲートを短く示してください。

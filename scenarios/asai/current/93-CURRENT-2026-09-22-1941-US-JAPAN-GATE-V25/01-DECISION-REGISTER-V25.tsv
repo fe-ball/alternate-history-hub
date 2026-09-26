@@ -1,26 +1,2 @@
-id	status	date_or_period	topic	decision_or_state	note
-V25-001	CURRENT-CLOSE	1941-08-11T24:00	active_clock	V25 working-closed through 1941-08-11; replay remains China-war-continuation branch	V23/V22B peace route remains sibling
-V25-002	WORKING-CLOSE	1941-01-03_to_14	wannan	New Fourth Army organized HQ destroyed; large organized breakout fails; 2-3k escape/disperse class; exact reorganizable strength OPEN	No Japanese E6 causal intervention
-V25-003	WORKING-CLOSE	1941-01-24_to_02-12	south_henan	Japan abandons grand encirclement when geometry fails; Nanyang time-limited raid; no Fifth-War-Zone destruction	Japanese irreversible abandonment lower directionally
-V25-004	WORKING-CLOSE	1941-03_to_04	shanggao	Operation occurs; 34th Division does not continue a deep poor-geometry push after reinforcement indicators	Map result broadly historical-type; casualty totals OPEN
-V25-005	WORKING-CLOSE	1941-04-08_and_04-29	kunming_repair_suppression	Repeated observation/attack cycle against airfield/repair/truck/fuel/comms nodes becomes explicit	Do not equate BDA with permanent destruction
-V25-006	CURRENT-CLOSE	1941-04-13	soviet_japanese_neutrality	Historical-date neutrality pact retained	Does not kill conditional northern option
-V25-007	WORKING-CLOSE	1941-04-19	zhejiang_fuzhou	East-Zhejiang/coastal operations retained; high-value network nodes favored over low-value protrusions	Exact local OOB/losses remain OPEN
-V25-008	WORKING-CLOSE	1941-05-07_to_06-15	zhongtiaoshan	Clear Japanese operational success; equipment/organization destruction more important than pure personnel count	No total annihilation claim
-V25-009	CURRENT-CLOSE	1941-06-17	dei_resource_talks	Dutch East Indies resource talks fail on historical-type anchor	No automatic immediate war
-V25-010	CURRENT-CLOSE	1941-06-22	barbarossa	Germany invades USSR; Japanese E5 transfer remains upstream and active	No later German lessons backflow
-V25-011	WORKING-CLOSE	1941-06-23_to_07-02	north_option	Japan does not immediately attack USSR; northern preparation remains conditional on actual Soviet collapse	Kantokuen-style preparation can continue
-V25-012	WORKING-CLOSE	1941-07-02	imperial_policy	Continue China war, southern preparations, conditional north option; no immediate Soviet attack	Historical-type broad policy retained
-V25-013	WORKING	1941-07-02	air_oob_audit	China/N Indochina aviation is a mobile portfolio; E6 ISR/high-cover does not replace conventional bomb mass	Exact Aug OOB remains OPEN
-V25-014	WORKING-CLOSE	1941-07-24_to_28	southern_indochina	Occupation implementation delayed in short increments; policy and force preparation not renounced	Political-system correction: not a simple PM cancellation
-V25-015	WORKING-CLOSE	1941-07-25	us_asset_freeze	US asset-freeze regime can still activate despite Japanese pause	Freeze is licensing control, not mechanically zero oil
-V25-016	WORKING-CLOSE	1941-08-01_to_11	oil_licensing	General licensing becomes restrictive; selected small/ship/lower-priority petroleum licenses can still move because Japan has not occupied southern Indochina	Bulk normal flow and premium aviation fuel remain constrained
-V25-017	WORKING-CLOSE	1941-08	japanese_option_overload	Diplomacy, China war, north preparation and south-war planning run in parallel; better information does not create unitary rational policy	Deadline politics expected later
-V25-018	WORKING	1941-08	china_modern_warfare_attrition	Chinese manpower/state survives while heavy weapons, vehicles, radios, logistics, skilled technical capital and real incomes erode	No national combat-power scalar
-V25-019	WORKING-CLOSE	1941-08	us_redline_learning	Tokyo learns both the US southern-expansion red line and the limited size of the economic carrot	Supports both compromise and hard-line readings
-V25-020	WORKING-CLOSE	1941-08	us_internal_policy	US policy is not unitary; deterrence, China support, Europe-first risk, licensing and Allied coordination can point in different directions	No automatic omniscient reading of Tokyo
-V25-021	WORKING-CLOSE	1941-08	soviet_interest	USSR wants Japan out of Soviet war and also benefits from continued Chinese resistance; China peace is judged partly by where released Japanese forces go	Material Soviet aid is constrained by German war
-V25-022	WORKING-CLOSE	1941	crypto_intelligence	Do not assume historical continuous high-grade MAGIC coverage of Tokyo-Washington traffic; traffic analysis/other intelligence remain	Foreign-Ministry diffusion path requires explicit working ledger
-V25-023	OPEN	1941-08	synthetic_fuel_hydrogen	Close FT/direct-liquefaction outlook and Asai hydrogen/high-pressure-chemistry adjacency before using fuel optimism/pessimism politically	Do not equate hydrogen competence with turnkey Bergius process
-V25-024	OPEN	1941-08_onward	hardline_crystallization	Replay how Japanese war-preparation/deadline politics and US/Allied hard-line policy become self-reinforcing	Do not assume inevitability
-V25-025	OPEN	1941-08_onward	bounded_stochastic_shocks	Allow plausible accidental hits, policy studies, intelligence/fiscal shocks or industrial surprises through real channels	Never choose shock only to force war
+record_kind	status	resume_pointer	source_route_index
+LEGACY-NAVIGATION-ONLY	NOT-A-SOURCE-OR-CURRENT-DECISION	https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/current/ACTIVE-STATE.json	https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/navigation/SOURCE-ROUTES.json

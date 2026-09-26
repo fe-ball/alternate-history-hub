@@ -1,0 +1,12 @@
+priority	item	status	next_action
+1	Enterprise_damage_control	NEXT-GATE	Resolve fire/flooding/steering/shaft/power state after 14:30 and derive speed curve instead of keeping one 10-15 kt scalar.
+2	Enterprise_retreat_route	NEXT-GATE	Choose Halsey/escort course changes using damage, air threat, Pearl status, daylight and submarine uncertainty; do not simply draw a straight line to Pearl.
+3	I74_intercept_geometry	NEXT-GATE	Reconstruct I-74 historical position, ordered movement and achievable night gate against Enterprise future track.
+4	I2_I3_northern_gate	OPEN	Test Kauai-channel/northern return branch only if Enterprise course makes it relevant.
+5	I68_I69_I75_southwest_gate	OPEN	Test southwest-Oahu return branch only if Enterprise course makes it relevant.
+6	Type95_attack_result	GATED	Only generate a firing solution after a specific submarine acquires Enterprise; use FCS tier, visibility, escort screen, range and target motion.
+7	Lexington_track	NEXT-GATE	Move Lexington independently through afternoon/night; Japan remains unaware of its exact position in the central branch.
+8	KidoButai_poststrike_state	NEXT-GATE	Close returning third-strike aircraft, CAP, damaged-aircraft burden, destroyer/fleet fuel and withdrawal/rendezvous decision.
+9	Enterprise_BDA	OPEN	Complete Japanese photo/flash BDA after return/development and keep 'mission kill' separate from 'sunk'.
+10	Pearl_port_repair	OPEN	Later audit repair-cycle effects, including period-plausible emergency resin/epoxy/sealing methods where actually available; do not back-port modern composite repair practice.
+11	Malaya_ground_replay	DEFERRED	Return later to 25th Army ground/landing/logistics/Ki-76/H2 integration; previous conversation work remains non-conflicting working context.

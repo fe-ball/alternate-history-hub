@@ -1,0 +1,22 @@
+id	status	topic	decision_or_guard
+V26-D01	CURRENT-CLOSE	branch clock	Advance canonical replay clock to 1941-12-07T14:30:00-10:30 HST.
+V26-D02	CURRENT-CLOSE	war path	Southern Indochina pause is temporary; late-Aug/early-Sep occupation and autumn deadline hardening lead to war without requiring one deterministic invented shock.
+V26-D03	CURRENT-CLOSE	Pearl calendar	Keep historical-order Pearl Harbor date and carrier-operation skeleton unless a strong upstream physical/political cause is separately introduced.
+V26-D04	CURRENT-CLOSE	US carrier butterfly guard	Enterprise and Lexington remain outside Pearl at the historical attack date/time; nearby dispositions are historical anchors.
+V26-D05	WORKING-CLOSE	H7Y-D inventory	Dec-1941 central physical 4-5 class; mission-capable about 3; two extreme-range mission-ready aircraft support Hawaii outer search.
+V26-D06	CURRENT-CLOSE	AAR	Prewar AAR study/trial provenance exists; no operational 1941 fleet aerial refueling.
+V26-D07	CURRENT-CLOSE	carrier air groups	Six-carrier operational group = 108 A6M / 135 D3A / 144 B5N = 387; reserves/spares separate.
+V26-D08	WORKING-CLOSE	A6M2 Pearl state	Sakae A6M2 Model 21; 543-550 km/h class working; bounded exhaust/QC/radio/boresight gains; no blanket armor/self-sealing tank.
+V26-D09	CURRENT-CLOSE	B5N2/D3A1	Retain piston historical-lineage aircraft; modest top-speed gains, stronger repeatability/serviceability/attack-chain completion, no serial TP frontline conversions.
+V26-D10	CURRENT-CLOSE	Pearl shallow torpedo	Historical shallow-water Type 91 concept retained; worldline gain is test/release/lot repeatability, separate from open-water high-speed release.
+V26-D11	WORKING-CLOSE	800kg AP bomb	Historical shell-derived AP concept retained; worldline gain is calibration/drop-table/QC; 8-11 direct-hit band, center 9-10 for first-wave 49-aircraft level-bomb package.
+V26-D12	CURRENT-CLOSE	first wave	183 attack-capable central; 21-23 torpedo hits; first-wave losses 6-8 central; major historical battleship neutralization pattern broadly retained.
+V26-D13	CURRENT-CLOSE	second wave	171 planned and 170-171 attack-capable central; losses 15-17 central; Nevada heavily attacked; no retroactive systematic fuel-farm attack.
+V26-D14	CURRENT-CLOSE	search network	Use local floatplanes + historical submarine barrier + H7Y-D outer layer; do not spend carrier attack aircraft on broad pre-attack search without a new reason.
+V26-D15	CURRENT-CLOSE	Enterprise contact	D1 finds TF8 around 08:17-08:20 HST; track is retained through H7Y/E13A relay long enough to support a carrier strike.
+V26-D16	CURRENT-CLOSE	Lexington central branch	D2 does not find Lexington; Japan must preserve uncertainty about the second US carrier.
+V26-D17	CURRENT-CLOSE	counter-carrier priority	After Enterprise contact, anti-Enterprise strike preparation outranks a Pearl infrastructure third wave.
+V26-D18	CURRENT-CLOSE	third strike	18 A6M + 27 D3A + 27 B5N = 72 aircraft, launched around 12:22-12:35 HST.
+V26-D19	CURRENT-CLOSE	Enterprise combat result	Central result: 3 bomb hits + 2 torpedo hits; Enterprise afloat but flight operations disabled and speed reduced to about 10-15 kt class; Japanese losses 11-13.
+V26-D20	CURRENT-CLOSE	submarine intercept state	I-74 is first natural west/southwest candidate; I-2/I-3 and I-68/I-69/I-75 form alternative return gates; intercept orders issued but no torpedo attack result yet.
+V26-D21	GUARD	night outcome	Do not predetermine Enterprise survival/sinking; resolve damage control, retreat geometry and submarine contact next.

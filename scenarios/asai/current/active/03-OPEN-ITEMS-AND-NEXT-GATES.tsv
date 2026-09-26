@@ -1,0 +1,9 @@
+priority	id	source_status	navigation_role	position	sources
+1	AT3-PROTOTYPE	NEXT	CURRENT-NEXT	構造/ランプ/脚/E6搭載の試験条件・合否と1942調達発動条件を扱う。	V26:11#at3_next_gate
+2	AT3-MEASUREMENTS	WORKING	TEST-DEPENDENT	実測抗力・搭載高度出力・大型床/ランプ/重心・減速機/プロペラ等の実証を計画値から分ける。	V26:10;V26:11
+3	AIRLIFT-FUTURE	WORKING-CLOSE/PLAN	FUTURE-EVENT	輸送入力の閉鎖は維持。実天候・戦闘損失・占領飛行場・1942納入結果は将来イベント。	V26:08
+4	ENTERPRISE-DETAIL	WORKING	DEFERRED-DETAIL	正確な曳航編成・Pearl入港/入渠・恒久修理完了は未決。全夜間戦を白紙にしない。	V26:06#enterprise_repair
+5	CARDIV2-DETAIL	WORKING/OPEN	DEFERRED-DETAIL	米反撃で被弾する日本空母名、個艦航空機/搭乗員台帳等を必要なイベントで精密化。	V26:07#8;V26:09#us_counterstrike_cardiv2
+6	REPAIR-PROJECTION	WORKING	NOT-A-GLOBAL-CLOCK	Saratoga等の帰港・偵察・修理/再生日程はworking影響見積り。個別時刻の整合は必要時に閉じる。	V26:07#11;V26:07#12;V26:09#saratoga_repair
+7	OLD-WAKE-NEXT	NEXT	SUPERSEDED-NEXT	旧06のWake第二次着手指示からは再開しない。	V26:06#next_gate;V26:09#wake_fall_dec23
+8	OLD-AT3-NEXT	NEXT	SUPERSEDED-NEXT	旧09のAT-3再監査開始指示は10/11後の現在指示ではない。	V26:09#next_gate;V26:11#at3_next_gate

@@ -1,19 +1,2 @@
-id	priority	status	topic	next_action
-V24-O01	HIGH	OPEN	Wannan/New Fourth Army early-January replay	Verify orders/routes/forces and replay 1941-01-03 onward day by day; do not import peace-route defusal
-V24-O02	HIGH	OPEN	South Henan operation exact start/OOB	Verify historical date range, 11th-Army axes and Fifth-War-Zone OOB before combat replay
-V24-O03	HIGH	OPEN	Central-China E6 exact 1940Q4 allocation	Replace Twin 28-30 / Single 22-24 working operation pool if a dated unit/allocation ledger is recovered
-V24-O04	HIGH	OPEN	Gia Lam E6 growth ledger	Close exact date/quantity from JF2 test detachment to working 8 assigned; keep 8 as replay assumption until then
-V24-O05	MEDIUM	OPEN	North-Indochina monthly sortie/target ledger	Build sorties by mission/radius/load and separate target-visits from unique targets/destruction
-V24-O06	MEDIUM	OPEN	Guanjiannao absolute casualties/personal events	Do not infer from partisan casualty claims; preserve directional-only result unless primary evidence closes
-V24-O07	MEDIUM	OPEN	Central Hubei absolute casualties	Keep directional delta only until reliable Japanese/Chinese evidence is reconciled
-V24-O08	MEDIUM	OPEN	E6-B 1941 service-evaluation block	Replay exact flight-test progress and procurement gate before any combat allocation
-V24-O09	MEDIUM	OPEN	TP high-altitude recon first flight	Recover/close exact achieved first-flight date around 1940Q4 and 1941H1 service-test status
-V24-O10	MEDIUM	OPEN	Material No.2 achieved flight chronology	Recover actual first-flight/high-q/fatigue milestones rather than treating schedule targets as accomplishments
-V24-O11	MEDIUM	OPEN	CFRP Series I/II achieved chronology	Separate target schedule from actual flight-wing achievements at 1941-01-01
-V24-O12	MEDIUM	OPEN	German E5 transfer shipment serial/date	Keep 4-6 reference aircraft / 8-12 CKD / 20-30 engines as package working bands; exact legal text and shipments remain local
-V24-O13	MEDIUM	OPEN	Starter-system formal closeout	Choose starter-generator architecture, voltage/current, ground cart/interface and emergency start; current engineering default only
-V24-O14	MEDIUM	OPEN	New-turret Chi-Ha 1941 field allocation	Do not convert pilot/evaluation vehicles into broad China OOB without dated allocation
-V24-O15	MEDIUM	OPEN	75 mm SPG 1941 pilot allocation	Determine whether China-continuation requirements prioritize the limited 1941 pilot lot
-V24-O16	LOW	OPEN	Nanjing rear-administration manpower release	Keep effect embedded in logistics/rear state; do not add a separate scalar without ledger
-V24-O17	LOW	OPEN	Allied aid actual material delivery vs political signal	Separate announced credits/aircraft intentions from delivered aircraft, fuel, trucks and Burma-Road throughput
-V24-O18	GUARD	OPEN	No-backflow audit	At every 1941 gate check that V22B/V23 later German, Soviet, Pacific-war and postwar results are not used as actor knowledge
+record_kind	status	resume_pointer	source_route_index
+LEGACY-NAVIGATION-ONLY	NOT-A-SOURCE-OR-CURRENT-DECISION	https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/current/ACTIVE-STATE.json	https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/navigation/SOURCE-ROUTES.json

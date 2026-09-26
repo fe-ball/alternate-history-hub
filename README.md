@@ -20,7 +20,7 @@
 
 | Scenario | Status | Authority | Canonical clock | Clock state | Current frontier |
 |---|---|---|---|---|---|
-| [浅井世界線](scenarios/asai/README.md) | active | V23 | 1946-06-30T24:00 | history-working-closed-through-1946-armistice; retro-audit-1939-1940-open | 1939-1940遡及監査 |
+| [浅井世界線](scenarios/asai/README.md) | active | V26（正本）＋post-V26 WORKING | 1941-12-07T14:30:00-10:30 | 正本時計と最新継続点を分離 | [現行manifest](scenarios/asai/current/ACTIVE-STATE.json) → [最新handoff](scenarios/asai/current/active/00-SESSION-HANDOFF.md) |
 | [計算機異聞](scenarios/keisanki-ibun/README.md) | active | Branch B v100 | 1944-06-16T14:15 | OPEN / EVENT-SIMULATION（以後はWORKING） | 艦艇装備・6月出撃配置・空母防空の再監査。正本化前にTF58 ASW監査 |
 | [発動機転生者](scenarios/hatsudoki-tenseisha/README.md) | active | PC技術台帳（2026-06-07保存版） | 未指定 | 技術台帳を回収 | 旧引き継ぎの性能値を台帳の訂正に合わせる |
 | [豊国IF](scenarios/toyokuni-if/README.md) | active | v3＋執筆規律 | 一律の確定時計は未指定 | 派生叙述は1613年まで、提言採否はOPEN | 呂宋統治・後金問題・国内政治 |

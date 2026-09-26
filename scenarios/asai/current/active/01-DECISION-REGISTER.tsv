@@ -1,0 +1,16 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26正本時計1941-12-07T14:30:00-10:30。以後のworkingを正本昇格させない。	V26:01#V26-D01
+WAR-US	CURRENT-CLOSE	ACTIVE-AXIS	日米戦開戦済み。中国和平・非太平洋戦争枝ではない。	V26:01#V26-D02;V26:00
+WAR-USSR	INHERITED	ACTIVE-AXIS	V25の対ソ非開戦を継承。現行後続資料に開戦上書きなし。	records/V25/00-SESSION-HANDOFF-V25.md#4;V26:00;V26:07
+ENTERPRISE	WORKING	CARRY-FORWARD	12月8日I-75雷撃・生存修理枝を継承。正確な曳航・入渠・復帰日は未確定。	V26:06#enterprise_i75;V26:06#enterprise_repair
+SOUTH	WORKING	REPLAY-LOCAL	南方作戦は局所ケーススタディ。後日の場面を全世界時計へ変換しない。	V26:05
+WAKE-FIRST	WORKING-CLOSE	COMPLETED	第一次攻略失敗。Hayate/Kisaragi生残。	V26:06#wake_first_assault;V26:06#wake_hayate;V26:06#wake_kisaragi
+WAKE-SECOND	WORKING-CLOSE	COMPLETED	第二次攻略は12月23日14–16時現地級の午後陥落。	V26:09#wake_fall_dec23
+SARATOGA	WORKING-CLOSE	CARRY-FORWARD	12月22日爆弾2・航空魚雷1、浮航。修理日程や日本側被弾空母名まで確定したわけではない。	V26:09#saratoga_dec22_hits;V26:09#us_counterstrike_cardiv2;V26:09#saratoga_repair
+AIRLIFT	WORKING-CLOSE	COMPLETED	1941輸送航空を再監査済み。阻害OPEN=0は当該監査対象に限定。	V26:08;V26:09#airlift_conventional_subtotal
+AT3-AUDIT	WORKING-CLOSE	COMPLETED	大型輸送の構成・搭載/航続区分を再監査済み。1941年実用飛行機は0。	V26:11#at3_reaudit_architecture;V26:11#at3_dec1941_state
+AT3-X1	WORKING	FUTURE-PLAN	1942Q4初飛行目標は未来の計画。実績・認定・受領・配備を先取りしない。	V26:11#at3_x1_target
+AT3-NEXT	NEXT	CURRENT-NEXT	試作構造/ランプ/脚/E6搭載試験と1942調達発動条件。	V26:11#at3_next_gate
+NAV-04	OPEN/NEXT-GATE	HISTORICAL-QUEUE	V26:04は12月7日時点のキュー。後続05–11を読まずにここから再開しない。	V26:04;V26:06;V26:09;V26:11
+NAV-06	NEXT	SUPERSEDED-NEXT	06のWake第二次next_gateは09により後継作業へ送られた。個別未決事項は一括消去しない。	V26:06#next_gate;V26:09#next_gate
+NAV-09	NEXT	SUPERSEDED-NEXT	09のAT-3再監査next_gateは10/11で処理され、11の試験/調達gateへ進んだ。	V26:09#next_gate;V26:10;V26:11#at3_next_gate

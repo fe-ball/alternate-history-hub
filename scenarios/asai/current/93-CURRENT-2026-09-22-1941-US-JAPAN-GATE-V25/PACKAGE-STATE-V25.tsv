@@ -1,10 +1,2 @@
-path	status	purpose
-00-SESSION-HANDOFF-V25.md	CURRENT	Main resume document through 1941-08-11
-01-DECISION-REGISTER-V25.tsv	CURRENT	Persisted V25 decisions/statuses
-02-REPLAY-CHRONOLOGY-1941-01-01-1941-08-11-V25.md	CURRENT	Conversation replay chronology
-03-CHINA-WAR-ECONOMY-AIRPOWER-SNAPSHOT-V25.md	CURRENT	China military/economic/airpower working state
-04-US-JAPAN-POLITICAL-OPTION-STATE-V25.md	CURRENT	Japanese and US/Allied institutional option structure
-05-CRYPTO-ALLIED-SOVIET-STATE-V25.md	CURRENT	Crypto/intelligence and Soviet/Chongqing interaction
-06-SYNTHETIC-FUEL-HYDROGEN-NEXT-GATE-V25.md	CURRENT	Mandatory first task for next session
-07-OPEN-ITEMS-AND-NEXT-GATES-V25.tsv	CURRENT	Open gates including bounded stochastic shocks
-PACKAGE-STATE-V25.tsv	CURRENT	Package manifest
+record_kind	status	resume_pointer	source_route_index
+LEGACY-NAVIGATION-ONLY	NOT-A-SOURCE-OR-CURRENT-DECISION	https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/current/ACTIVE-STATE.json	https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/navigation/SOURCE-ROUTES.json

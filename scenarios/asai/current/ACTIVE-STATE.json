@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "navigation_revision": "2026-09-27",
+  "kind": "NAVIGATION-ONLY-NO-CANON-PROMOTION",
+  "scenario_id": "asai",
+  "repository": "fe-ball/alternate-history-hub",
+  "git_ref": "main",
+  "axis_id": "asai-china-war-v24-v26-post-v26",
+  "axis_id_semantics": "Navigation identifier; not a new Git branch or historical decision.",
+  "history_branch": "V24 CHINA-WAR-CONTINUATION -> V25 -> V26 -> POST-V26 WORKING",
+  "canonical_authority": "V26",
+  "canonical_clock": "1941-12-07T14:30:00-10:30",
+  "canonical_clock_zone": "HST (1941); source offset retained",
+  "global_working_clock": null,
+  "war_state": {
+    "Japan_US": "WAR-BEGUN",
+    "Japan_USSR": "NOT-BEGUN-INHERITED-NO-OVERRIDE",
+    "Japan_China": "WAR-CONTINUES"
+  },
+  "working_history": {
+    "latest_campaign_close": "Wake, 1941-12-23 afternoon about 14:00-16:00 local",
+    "status": "WORKING-CLOSE",
+    "coverage": "Late-Dec working continuation; 1941 year-end transport input ledger",
+    "not_global_advancement": [
+      "Malaya replay-local case studies",
+      "Jan reconnaissance / repair / regeneration projections",
+      "1942 AT-3 prototype and procurement plans"
+    ]
+  },
+  "discussion_frontier": {
+    "completed": [
+      "Pearl / Enterprise continuation",
+      "Southern operations sampled locally",
+      "Wake / Saratoga continuation",
+      "1941 airlift WORKING-CLOSE",
+      "AT-3 working technical re-audit"
+    ],
+    "next_gate": "AT-3 prototype structural/ramp/gear/E6-installed tests and 1942 procurement trigger",
+    "next_gate_source": "V26:11#at3_next_gate",
+    "combat_clock_effect": "NONE"
+  },
+  "default_read_order": [
+    "current/active/00-SESSION-HANDOFF.md",
+    "current/active/01-DECISION-REGISTER.tsv",
+    "current/active/02-CONTINUITY-STATE.md",
+    "current/active/03-OPEN-ITEMS-AND-NEXT-GATES.tsv"
+  ],
+  "source_root": "records/V26",
+  "sources": {
+    "V26:00": {
+      "path": "records/V26/00-SESSION-HANDOFF-V26.md",
+      "blob_sha": "57ea5d43e3da0dcd23ff98e2adf65f326f46c6b0"
+    },
+    "V26:01": {
+      "path": "records/V26/01-DECISION-REGISTER-V26.tsv",
+      "blob_sha": "143b6c5e9a1174b8e3ba491111f45e48b49c9cb9"
+    },
+    "V26:02": {
+      "path": "records/V26/02-REPLAY-CHRONOLOGY-1941-08-12-1941-12-07-V26.md",
+      "blob_sha": "5d0767d98e25a66383d205e240a120473a3d49b0"
+    },
+    "V26:03": {
+      "path": "records/V26/03-PEARL-HARBOR-AIR-SEARCH-CARRIER-STATE-V26.md",
+      "blob_sha": "2bfc7c039f53e8c01ac2088a805b3ad2db0ba29f"
+    },
+    "V26:04": {
+      "path": "records/V26/04-OPEN-ITEMS-AND-NEXT-GATES-V26.tsv",
+      "blob_sha": "3887f517622c2e7b852b07d2c9d8e06a8c29b6b9"
+    },
+    "V26:05": {
+      "path": "records/V26/05-POST-V26-WORKING-HANDOFF-2026-09-26.md",
+      "blob_sha": "10f1ba0be3586f5edb7567da982b55ca9df39a9b"
+    },
+    "V26:06": {
+      "path": "records/V26/06-POST-V26-WORKING-DECISION-REGISTER-2026-09-26.tsv",
+      "blob_sha": "3fffa0d309beb356973005528e0df276caaeaaea"
+    },
+    "V26:07": {
+      "path": "records/V26/07-POST-V26-WAKE-SARATOGA-CARRIER-WORKING-CONTINUATION-2026-09-26.md",
+      "blob_sha": "f9b7ba2bd19d99bd51574710f3b5407e1f3dd6f4"
+    },
+    "V26:08": {
+      "path": "records/V26/08-1941-AIRLIFT-WORKING-CLOSE-2026-09-26.md",
+      "blob_sha": "3d8383c476ea8c1e05d2c9aee68e8a39ad6d2fa5"
+    },
+    "V26:09": {
+      "path": "records/V26/09-POST-V26-WORKING-DECISION-REGISTER-ADDENDUM-2026-09-26.tsv",
+      "blob_sha": "4d2cb9181dea3f92c9d507fb74eb42e55b896c90"
+    },
+    "V26:10": {
+      "path": "records/V26/10-AT3-MATERIAL3-HEAVY-TRANSPORT-REAUDIT-WORKING-2026-09-26.md",
+      "blob_sha": "1732203f76c0e1166c76eb3d0d43ba8b398a57ba"
+    },
+    "V26:11": {
+      "path": "records/V26/11-AT3-WORKING-DECISION-REGISTER-2026-09-26.tsv",
+      "blob_sha": "6b8be9843a0cda295f7068b1aa84a07160f2c8cf"
+    }
+  },
+  "lineage_sources": [
+    "records/V24/00-SESSION-HANDOFF-V24.md",
+    "records/V25/00-SESSION-HANDOFF-V25.md"
+  ],
+  "source_routes": "navigation/SOURCE-ROUTES.json",
+  "verified_source_commit": "7bfc1ba85795e2b0a715e19aab9360098602330d",
+  "freshness_rule": "Compare same-axis handoffs/registers/checkpoints/progress and tree inventory. New or changed sources require review and manifest update; neither this pointer nor file mtime wins over contradictory explicit branch evidence.",
+  "default_search_scope": [
+    "current/active",
+    "records/V26"
+  ],
+  "excluded_from_default_history": [
+    "archive",
+    "import",
+    "records/V24",
+    "records/V25",
+    "records/essence",
+    "scenarios/keisanki-ibun"
+  ],
+  "physical_states": [
+    "capability",
+    "physical article",
+    "qualification",
+    "adopted",
+    "factory accepted",
+    "service released",
+    "assigned",
+    "serviceable",
+    "forward",
+    "combat-present"
+  ],
+  "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
+  "new_history_or_status_promoted": false
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "path_base": "scenarios/asai",
+  "status": "NAVIGATION-ONLY",
+  "original_commit": "7bfc1ba85795e2b0a715e19aab9360098602330d",
+  "normal_resume": "current/active/00-SESSION-HANDOFF.md",
+  "routes": [
+    {
+      "legacy_prefix": "current/89-CURRENT-2026-09-16-1944-YEAREND-SOVIET-PACT-HANDOFF-V21/",
+      "target_prefix": "archive/non-active-history/V21/",
+      "role": "SIBLING-HISTORY-NOT-ACTIVE",
+      "original_tree_sha": "06ecbdedb744940cc2209a9a59f405cbd7a8297d"
+    },
+    {
+      "legacy_prefix": "current/90-BRANCH-2026-09-19-CHINA-PEACE-GERMAN-JET-TRANSFER-V22B/",
+      "target_prefix": "archive/non-active-history/V22B/",
+      "role": "SIBLING-HISTORY-NOT-ACTIVE",
+      "original_tree_sha": "6f2d8fafab8f572361f22b5ba4724b15ca0faa18"
+    },
+    {
+      "legacy_prefix": "current/91-CURRENT-2026-09-19-CHINA-PEACE-SECOND-CLOSE-V23/",
+      "target_prefix": "archive/non-active-history/V23/",
+      "role": "SIBLING-HISTORY-NOT-ACTIVE",
+      "original_tree_sha": "29596376d0ba2a6baf5f8fe2a2cc6723fa5cd5da"
+    },
+    {
+      "legacy_prefix": "current/92-BRANCH-2026-09-21-CHINA-WAR-CONTINUATION-REPLAY-V24/",
+      "target_prefix": "records/V24/",
+      "role": "ACTIVE-LINEAGE-PARENT",
+      "original_tree_sha": "4894d26e97c522f52e4d9d2fc2f0bb005d9401af"
+    },
+    {
+      "legacy_prefix": "current/93-CURRENT-2026-09-22-1941-US-JAPAN-GATE-V25/",
+      "target_prefix": "records/V25/",
+      "role": "ACTIVE-LINEAGE-PARENT",
+      "original_tree_sha": "07b94fbc29e6e0888c8afc0d93c51828f1a22da1"
+    },
+    {
+      "legacy_prefix": "current/94-CURRENT-2026-09-24-PEARL-HARBOR-OPENING-REPLAY-V26/",
+      "target_prefix": "records/V26/",
+      "role": "ACTIVE-SOURCE-RECORDS",
+      "original_tree_sha": "d81eb8800f4a20e4119a4fe4e1f688bb022c0313"
+    },
+    {
+      "legacy_prefix": "current/essence/",
+      "target_prefix": "records/essence/",
+      "role": "EARLY-STATE-NOT-RESUME",
+      "original_tree_sha": "8152900a32e6a9f4adb861e66d029aa11397a83e"
+    }
+  ],
+  "files": [
+    {
+      "legacy_path": "current/00-START-HERE-2026-09-19-FULL-V22B.md",
+      "target_path": "archive/non-active-history/entrypoints/00-START-HERE-2026-09-19-FULL-V22B.md",
+      "blob_sha": "6ddc8ddc3de2c59c3a82c62aae128d50e1b27c3c"
+    },
+    {
+      "legacy_path": "current/00-START-HERE-2026-09-19-FULL-V23.md",
+      "target_path": "archive/non-active-history/entrypoints/00-START-HERE-2026-09-19-FULL-V23.md",
+      "blob_sha": "569145671be102915274d883b2fc185cdec6db78"
+    },
+    {
+      "legacy_path": "current/00-START-HERE-2026-09-21-FULL-V24.md",
+      "target_path": "records/entrypoints/00-START-HERE-2026-09-21-FULL-V24.md",
+      "blob_sha": "7e0ffa1f86412d72b89435838f824abceb4ad072"
+    },
+    {
+      "legacy_path": "current/00-START-HERE-2026-09-22-FULL-V25.md",
+      "target_path": "records/entrypoints/00-START-HERE-2026-09-22-FULL-V25.md",
+      "blob_sha": "f2f10cbcdc2e19160ef6e184e0ef915b626119f3"
+    },
+    {
+      "legacy_path": "current/00-START-HERE-2026-09-24-FULL-V26.md",
+      "target_path": "records/entrypoints/00-START-HERE-2026-09-24-FULL-V26.md",
+      "blob_sha": "6c897e81862f9bbf0664a172b18020d27c3422c6"
+    },
+    {
+      "legacy_path": "current/MACHINE-INTEGRITY-AUDIT-V22B.md",
+      "target_path": "archive/non-active-history/entrypoints/MACHINE-INTEGRITY-AUDIT-V22B.md",
+      "blob_sha": "5976cb603eb61db56721b86a645597e155fa7fa6"
+    }
+  ],
+  "preserved_technical_tree_sha": "e955a1b3865bac67184c45e62335a4fd3d5c011f",
+  "preserved_import_tree_sha": "ef8a3b49ea4261aef633c2bd9d7309b034620e62",
+  "legacy_reference_rule": "Strip scenarios/asai/ when present, apply an exact file mapping or the longest legacy prefix. The target is source evidence, not automatically the current next gate. Relative/code-span references in preserved records use their original scenario-root interpretation.",
+  "archive_access_rule": "Open only for explicit branch comparison or a specific parent-evidence gap. Historical outcomes are not inherited; branch-neutral technical foundations need applicable authority and no explicit contradiction.",
+  "external_library_rule": "Library/export copies cannot be deleted or rewritten by this repository change. Match scenario, source commit/hash and branch signature; obsolete routers are search leads only."
+}

@@ -1,13 +1,7 @@
-# MACHINE INTEGRITY AUDIT — V22B
+# LEGACY-NAVIGATION-ONLY — 現行本文ではありません
 
-Status: BUILD COMPLETE / PRE-ZIP AUDIT
+この旧URLは互換案内です。ここから旧戦況・旧next gateを再開しないでください。
 
-- root: `ASAI-WORLDLINE-HANDOFF-2026-09-19-FULL-V22B-CHINA-PEACE-GERMAN-JET-BRANCH-GATE`
-- files present (including audit/manifest/inventory): 1121
-- unpacked file bytes: 27855872
-- new branch overlay: `90-BRANCH-2026-09-19-CHINA-PEACE-GERMAN-JET-TRANSFER-V22B/`
-- legacy V21 files retained: YES
-- new SHA-256 manifest: `FULL-PACKAGE-MANIFEST-SHA256-V22B.tsv`
-- 1945 outcome intentionally open: YES
+[浅井世界線の汎用ガイド](https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/00-READ-FIRST-GENERIC.md) → [現行軸](https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/current/ACTIVE-STATE.json) → [現行handoff](https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/current/active/00-SESSION-HANDOFF.md)。
 
-The legacy V16/V18 manifests inside the inherited package remain historical snapshots of their parent package. Use the V22B manifest for this package build.
+原本文は削除していません。このURLのscenarios/asai以降のパスを [SOURCE-ROUTES.json](https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/navigation/SOURCE-ROUTES.json) の旧パス対応表で解決してください。recordsは同軸の原記録、archiveは通常探索外の旧枝・旧入口です。原確定度は保存され、移動は正本昇格を意味しません。

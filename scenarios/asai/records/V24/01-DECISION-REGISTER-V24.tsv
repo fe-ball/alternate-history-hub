@@ -1,0 +1,27 @@
+id	status	date_or_period	topic	decision_or_state	note
+V24-001	CURRENT-CLOSE	1940-09-30T24:00	replay_cutpoint	Detailed continuation replay restarts from 1940-09-30T24:00	Best data-rich exact-source cutpoint
+V24-002	CURRENT-CLOSE	1940H2	branch_premise	China war continues; US/UK support signals to Chongqing stronger; Japanese Nanjing commitment stronger; peace feelers do not create substantive settlement	Sibling to V23 peace route
+V24-003	CURRENT-CLOSE	1940-11-25	first_hard_military_divergence	Planned Central Hubei offensive is executed rather than held	Old peace route held it on 25 Nov
+V24-004	WORKING-CLOSE	1940-10-30_to_31	guanjianao	Encirclement still occurs; earlier Japanese recognition/relief reduces surprise and duration; Eighth Route withdraws earlier; no absolute casualty closure	Personal events and exact time remain OPEN
+V24-005	CURRENT-CLOSE	1940-11-25_to_30	central_hubei_operation	Japanese operation gains information and executes more orderly contraction; no Fifth-War-Zone destruction or major permanent territorial gain	Absolute casualties OPEN
+V24-006	CURRENT-CLOSE	1940-11-30	nanjing_recognition	Historical-date formal Japanese recognition of Wang Jingwei/Nanjing government retained	Strengthens political lock-in
+V24-007	CURRENT-CLOSE	1940Q4	north_indochina_airbase	Gia Lam/Haiphong evolve from reception/test use toward sustainable small-unit forward aviation support	Not an independent giant air fleet
+V24-008	WORKING-CLOSE	1940-11_end_to_12	gialam_e6_allocation	8 E6 Twin JF assigned class; ordinary checkpoint mission-capable roughly 6-7	Replay allocation, not exact inherited OOB
+V24-009	WORKING-CLOSE	1940Q4	e6_armed_recon	E6 Twin routinely mixes reconnaissance, BDA, harassment and light strike; full strike favored inside ~400-480 km, Kunming-class missions normally camera + 1 HSC-100F	Do not combine full external fuel + full 0.40 t strike as routine
+V24-010	CURRENT-CLOSE	1940H2	german_e5_transfer	German state seeks and receives E5 full production/service-generation package; Japan protects E6	Inherited V22B upstream cause
+V24-011	CURRENT-CLOSE	1941H1	german_e5d_gate	Reference hardware/material arrives and first Germanized E5-D flight/production work begins in H1	Exact serials/dates OPEN
+V24-012	CURRENT-CLOSE	1940_year_end	e6_twin_stock	Central planning trajectory ~136 physical extant / ~112 indicative mission-capable before theater allocation	Inherited E5E6 production closeout
+V24-013	CURRENT-CLOSE	1940_year_end	e6_single_acceptance	1940 cumulative accepted planning band 84-108, center ~96	Theater assignment remains local
+V24-014	WORKING-CLOSE	1941-01-01	e6b	E6-B is a separate 3-crew fast-heavy-strike prototype in flight-test/evaluation territory, not ordinary OOB	~1.0-1.2 t normal bomb; exact achieved test ledger still to replay
+V24-015	OPEN	1940Q4_to_1941H1	tp_high_alt_recon	First-flight gate reached around 1940Q4; service test 1941H1; exact achieved first-flight date not yet closed	Ki-40 only designation candidate
+V24-016	CURRENT-CLOSE	1941-01-01	e7_state	E7 has reached integrated gas-generator demonstrator by 1940H2; 1941H1 full-core ground development begins; no service/flight E7 yet	Earliest limited E6 retrofit candidate H2
+V24-017	CURRENT-CLOSE	1941-01-01	homare_state	First complete-engine assembly/testing preparation; central first full running remains 1941Q1/March; no EA-D/Q/S yet	Do not pull running into 1940
+V24-018	CURRENT-CLOSE	1941-01-01	ha43_state	1940Q3-Q4 pre-study active; formal project begins 1941Q1; no complete engine	First complete-engine run remains 1942Q1 center
+V24-019	CURRENT-CLOSE	1941-01-01	new_turret_chiha	1940 prototype/pilot evaluation closes; 1941 first serious series-fielding gate opens	No whole-regiment automatic conversion
+V24-020	CURRENT-CLOSE	1941-01-01	chihe	Development only; no ordinary OOB	1941 year-end development coordinate remains 2 complete + 2 running chassis
+V24-021	CURRENT-CLOSE	1941-01-01	75mm_spg	1940 prototype completed; 1941 limited/pilot production gate opens	Not automatically a tank-regiment vehicle
+V24-022	CURRENT-CLOSE	1941	ground_mobility	Largest ground delta is heavy-truck/tractor/recovery/engineer readiness, not a new mass tank fleet	National truck production remains historical-order
+V24-023	WORKING-CLOSE	1941-01-01	gt_start_system	Engineering default: E5/E6 aircraft use electric starter-generator/ground-power logic; mobile GT uses battery-electric start; exact standardized voltage/start package remains OPEN	Piston aircraft may retain inertia-starter families
+V24-024	OPEN	1941-01	wannan_gate	Replay New Fourth Army movement/order/contact rather than importing peace-route defusal	Exact casualties/culpability not pre-recorded
+V24-025	OPEN	1941-01_late	south_henan_gate	Replay South Henan operation with V24 reconnaissance/logistics state	Exact launch date/OOB to verify
+V24-026	CURRENT-CLOSE	1941-01-01	active_clock	V24 continuation branch working-closed through 1940-12-31; next clock 1941-01-01T00:00	V23 peace route retained as sibling provenance

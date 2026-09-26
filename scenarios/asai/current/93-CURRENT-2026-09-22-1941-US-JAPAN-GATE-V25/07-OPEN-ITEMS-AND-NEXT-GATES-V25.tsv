@@ -1,25 +1,2 @@
-id	priority	status	topic	next_action
-V25-O01	CRITICAL	OPEN	Asai hydrogen/high-pressure authority	Recover exact metallurgy/chemical parent state: hydrogen handling, embrittlement, compressors, seals, pressure vessels, purity and instrumentation
-V25-O02	CRITICAL	OPEN	synthetic-fuel historical baseline	Reverify Mitsui/Ruhrchemie FT license, German advisers in Japan, direct-hydrogenation/IG access, Manchurian/Japanese plants through 1940 autumn
-V25-O03	CRITICAL	OPEN	1941-43 synthetic-fuel outlook	Build pessimistic/central/optimistic-but-physical product-class capacity and strategic-endurance cases; keep Navy heavy fuel separate
-V25-O04	HIGH	OPEN	Japan hard-line crystallization	After fuel audit, replay how Army/Navy war-preparation and deadline politics become stronger without assuming inevitability
-V25-O05	HIGH	OPEN	US Allied hard-line crystallization	Replay State/Treasury/Army/Navy/White House/British/Dutch/Chinese pressures and how partial licensing can be judged either successful deterrence or aggression financing
-V25-O06	HIGH	OPEN	China accidental strategic shock	Allow bounded high-value bombing hit or failure through actual sortie/weather/BDA chain; propagate only observed damage and political interpretation
-V25-O07	HIGH	OPEN	China fatality-of-resistance assessment	Generate competing Chinese/Japanese/US intelligence estimates of fiscal, transport, heavy-equipment and administrative endurance; no omniscient single answer
-V25-O08	HIGH	OPEN	policy-study shock	Allow pessimistic/optimistic Japanese or US interagency/think-tank-style studies on war timing, oil, China and future force balance
-V25-O09	HIGH	OPEN	Aug aviation exact OOB	Replace 2-Jul analytical frame with dated 11-Aug theater assigned/serviceable/sortie-ready ledger for E5/E6/A6M/G3M/G4M/Army conventional aviation
-V25-O10	MEDIUM	OPEN	G4M early China entry	Close exact late-Jul/early-Aug unit conversion and combat presence
-V25-O11	MEDIUM	OPEN	new-turret Chi-Ha July/Aug allocation	Close national stock -> China/Manchuria allocation -> serviceable unit placement
-V25-O12	MEDIUM	OPEN	US oil-license actual quantities	Build dated license/contract/ship movement ledger for V25 rather than treating "some oil" qualitatively
-V25-O13	MEDIUM	OPEN	DEI oil coordination	Resolve Dutch willingness/contract quantities under no-southern-Indochina-occupation branch
-V25-O14	MEDIUM	OPEN	China fabi/price ledger	Build month-by-month currency issue, exchange, major price and government-deficit working series; separate Shanghai FX from inland real prices
-V25-O15	MEDIUM	OPEN	China heavy-equipment loss ledger	Track artillery/AT/AA/radios/vehicles/recovery/medical by major campaign and theater; do not infer from personnel losses
-V25-O16	MEDIUM	OPEN	Foreign-Ministry crypto diffusion ledger	Persist exact transfer routes and event dates behind the V25 working low/fragmentary MAGIC assumption
-V25-O17	GUARD	OPEN	bounded stochastic rule	Random/plausible shocks may alter choices but may not be selected solely to force a Pacific-war outcome
-V25-O18	GUARD	OPEN	no-backflow	Do not import the analytical Moscow look-ahead or later V22B/V23 outcomes into 1941 actor knowledge
-V25-O19	CRITICAL	OPEN	diesel aviation / diesel reconnaissance provenance	Recover old diesel-aircraft and long-endurance reconnaissance studies first; separate paper concept, hardware, evaluation, service and actual OOB before rebuilding
-V25-O20	CRITICAL	OPEN	air-to-air refueling provenance	Recover old refueling studies/trials. Specifically test the remembered GT-receiver concept using kerosene/distillate lower fire hazard vs aviation gasoline as a military selling point; do not promote beyond evidence
-V25-O21	GUARD	WORKING-CLOSE	Pearl Harbor butterfly suppression	At the corresponding historical date/time keep U.S. carriers out of Pearl Harbor and nearby carrier dispositions historical; do not let upstream butterflies casually relocate them. This does not pre-record strike outcome or even final Japanese operational choice
-V25-O22	HIGH	WORKING-HANDOFF	post-V25 naval/air/fuel reconstruction	Use 08-POST-V25-WORKING-HANDOFF-2026-09-23.md as the persisted conversation state; figures remain WORKING-CLOSE until explicitly promoted
-V25-O23	HIGH	OPEN	December 1941 exact aviation deployment	After diesel/refueling recovery, reconcile South Indochina, Taiwan, China, Manchuria/Korea, home reserve, carrier air groups, seaplane tenders and combatant floatplanes against national physical/serviceable pools
-V25-O24	HIGH	OPEN	carrier concentration decision	After O19/O20/O23, determine the role and concentration of the six principal fleet carriers without assuming a predetermined Pacific-war outcome
+record_kind	status	resume_pointer	source_route_index
+LEGACY-NAVIGATION-ONLY	NOT-A-SOURCE-OR-CURRENT-DECISION	https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/current/ACTIVE-STATE.json	https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/navigation/SOURCE-ROUTES.json
