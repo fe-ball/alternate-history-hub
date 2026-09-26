@@ -233,6 +233,21 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - ground 16–18 Junはfront-lineの大逆転より、target-board freshness、unloading/assembly friction、Aslito physical occupation→operational useの時間差に効く見込み。物理前線はtens–low hundreds m、local delay15–60min、airfield usable化はhours級に動く可能性。まだhard-codeしない。
 - rerun順は15 Jun04:30 typed MR/crew/ordnance→morning attack→day observation→dusk/night→16 dawn local air wallet→依存post-14:15 local events→ground comparison。stableな艦隊決戦やapproved frontを理由なく全面再演しない。
 
+## 最新：15 Jun局地航空を実演し16 Jun dawn財布へ繰越
+
+先に [15日04:30局地航空財布47](AUDIT_RESET_2026-09-25/47_MARIANAS_LOCAL_AIR_WALLET_15JUN_0430_v001.md)、[15日局地航空再演48](AUDIT_RESET_2026-09-25/48_MARIANAS_LOCAL_AIR_REPLAY_15JUN_WORKING_v001.md)、[15日state49](AUDIT_RESET_2026-09-25/49_MARIANAS_LOCAL_AIR_STATE_15JUN_v001.json)、[16日dawn財布50](AUDIT_RESET_2026-09-25/50_MARIANAS_LOCAL_AIR_WALLET_16JUN_DAWN_v001.md)、[16日dawn state51](AUDIT_RESET_2026-09-25/51_MARIANAS_LOCAL_AIR_STATE_16JUN_DAWN_v001.json) を読む。
+
+- 15 Jun 04:30のW centerはfighter MR64–80、nonfighter28–38、total92–118。D4Y9–12、B6N7–10、older attack4–6、water-air6–8、H6K/H8K2–3。Bonins replacementのfull6–11MRは04:30にはまだ加えず、early subset0–3をuntyped hold。
+- 12 Jun night raid後のfully useful night-qualified attack crewsは7–10、dusk/limited3–5級。魚雷即応はmorning6–8 B6N sortie級までをcenter。bomb loadの方が夕刻fixed/handling targetへ柔軟。
+- D-Day朝は08:38–52にB6N6–7＋D4Y2–3＋fighter2–3＝10–13をTinian/Guam側から発進。U.S. radar/CAP/AA下でJapan irreversible4–6＋damaged/abort1–2、usable release3–5、major hull hitなし。affected support groupに10–20min級maneuver/unloading/fire-support sequencing disturbance。H-hour/landing system全体は止めない。
+- 09:45–14:30にwater-air3 short observation sorties＋D4Y1 fast photo/confirmation。105mm/Sherman assembly、LVT/LCM lanes、beach handling、Afetna/Susupe movementを更新。water-air0不可逆/1 short unavailable中心。approved 105mm first-effective-fire delay10–20minを上積みせず、因果をground OP-onlyからair observation+fire-dataへ一部再配賦。
+- 夕刻はsecond torpedo packageをやめ、17:40–55にD4Y3–4＋bomb-config B6N/older2–3＋older/light1＝6–8機をprebriefed west-Saipan handling/logistics boxへ。fighter escort0 center、dusk/low-level route。Japan irreversible2–3＋damaged1–2、usable release3–5、major ship hitなし。one local reef/beach handling sector20–40min pause/resequence、minor local craft/vehicle/cargo damage。approved 30–60min dawn reorg taxへ加算せず、その一部因果へ組み込む。
+- 15 Jun newly explicit local-air costは不可逆6–9＋short/damaged3–5。First Mobile Fleet carrier airとは別財布。
+- 16 Jun dawnはestablished local MR（replacement除外）fighter60–75、D4Y5–8、B6N2–5、older3–5、water-air5–7、H6K/H8K2–3、total77–103。Bonins realization6–11MRをtype-open replacement layerとして加え、system total83–114級。
+- 夜間資格attack crewsは15日夕刻後4–6級まで減る。16日朝はmaritime ISR→base defense→ground observation→SAR/liaison→discretionary local strikeの優先。large independent beachhead strikeは出さない。
+- 既存post-14:15 WのGuam/Tinian D4Y各1、local defense Guam20/Tinian10はまだ物理成立。ただしpreexisting D4Y余裕は薄くなり、水上航空のground/local ISR分担が重要。Tinian dusk D4Y8は16日first-strike carrier-origin survivorsの到着/整備を前提に読む。
+- approved 16-Jun-dawn ground geometry、approved First Mobile Fleet strikeには現時点でmaterial contradictionなし。次は16 Jun local-air dependencyだけを必要箇所で再演する。
+
 ## 今回から読む
 
 1. [16日14:15–16:30：電探・触接・来襲警報のWORKING進行11](AUDIT_RESET_2026-09-25/11_RECON16_1415_1630_RADAR_AND_CONTACT_WORKING_v001.md)
