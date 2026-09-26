@@ -248,6 +248,20 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - 既存post-14:15 WのGuam/Tinian D4Y各1、local defense Guam20/Tinian10はまだ物理成立。ただしpreexisting D4Y余裕は薄くなり、水上航空のground/local ISR分担が重要。Tinian dusk D4Y8は16日first-strike carrier-origin survivorsの到着/整備を前提に読む。
 - approved 16-Jun-dawn ground geometry、approved First Mobile Fleet strikeには現時点でmaterial contradictionなし。次は16 Jun local-air dependencyだけを必要箇所で再演する。
 
+## 最新：Saipan D-Day ground rebaseline / aerial observation / kill-zone / ferry network
+
+先に [D-Day ground rebaseline52](AUDIT_RESET_2026-09-25/52_SAIPAN_DDAY_GROUND_REBASELINE_AIR_OBSERVATION_KILLZONE_v001.md)、[Marianas ferry/regeneration53](AUDIT_RESET_2026-09-25/53_MARIANAS_FERRY_REGENERATION_NETWORK_14_18JUN_v001.md)、[supersession-candidate state54](AUDIT_RESET_2026-09-25/54_SAIPAN_DDAY_SUPERSESSION_CANDIDATE_STATE_v001.json) を読む。
+
+- 日本航空観測はground OPの補助ではなく、地上から見にくい105mm/Sherman assembly、Afetna/Susupe seam、beach/road handlingのtarget freshnessを保つことで「kill zone内の滞留時間」を伸ばす。shell supplyやROFは増やさず、同じ火力の有効利用率を上げる。
+- 高価値boxの追加friction centerはreef/beach exit5–15min、105mm assembly10–25min、Sherman assembly5–15min、Afetna/Susupeで複数回10–30min級。最大差は08:45–11:00、午後はU.S. mass/support adaptationで縮む。
+- U.S.は受動的に耐えず、D-Day中にF6F observer-denial12–20 sortie-equivalent、CVE/available strike aircraft18–30 sortie-equivalentをOP/artillery/road suppressionへtask shiftするW center。追加航空機ではなくgeneric CAS/reserve等からの再配賦。
+- supersession candidate 15:00 front: Red200–400yd、Green350–600、Blue400–650、Yellow650–950、deepest900–1150。sunset: Red350–600、Green550–850、Blue600–950、Yellow850–1200、deepest1150–1400。Afetna west contested/partly lostは維持するがinland fire continuity強め。
+- NHHC historical calibrationのfirst-24h U.S. casualties up to ~3500に対し、Branch candidateは3,800–4,700 ground casualty class（15/16 night approved280–450を内包、加算ではない）。まだdenominator audit前なのでauthority化しない。
+- 15/16 dawn candidate shiftはapproved lineより50–150yd浅いsectorが中心。Aslito日本側、tank MRはmaterial change不要の見込み。night rerun前に確定しない。
+- Marianas航空はone-way attritionではない。Saipan/Tinian/Guam/Rota/water-air nodes間で2–6機cell、gross6–12 aircraft-class/day級のshort ferryをW center。14/15 night3–6、15日day4–8、15/16 night4–7 aircraft-class redistribution。これはnet reinforcementではない。
+- ferry/receiving maintenanceにより2–5 aircraft-class/day級が「trapped/delayed」からoperationally usefulへ残り得る。U.S.はferry corridor CAP/sweepで対抗可能なので無料ではない。
+- したがって本丸は observation -> kill-zone dwell -> U.S. air suppression -> Japanese displacement/rework -> ferry/regeneration の循環。approved D-Day authorityはまだ上書きせず、次に15/16 nightをこのsunset stateから再演してmaterial contradictionを判定する。
+
 ## 今回から読む
 
 1. [16日14:15–16:30：電探・触接・来襲警報のWORKING進行11](AUDIT_RESET_2026-09-25/11_RECON16_1415_1630_RADAR_AND_CONTACT_WORKING_v001.md)
