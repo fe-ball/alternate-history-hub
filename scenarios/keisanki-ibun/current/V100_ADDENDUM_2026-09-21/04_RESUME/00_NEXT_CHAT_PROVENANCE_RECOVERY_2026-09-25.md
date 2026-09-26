@@ -275,6 +275,21 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - 判定は説明補強ではなく **BOUNDED MATERIAL SUPERSESSION CANDIDATE**。橋頭堡生存、Aslito日本側、tank MR、landing strategic successは変えないが、複数sector depth/reorg/loss-fatiqueが動くため、authority置換には明示user approvalが必要。
 - 以後の16–18 Jun ground WORKINGは、もしcandidateを採用するならこのshallower dawn startから依存再演が必要。ただし海空正本16 Jun14:15は自動変更しない。
 
+## 最新：16 Jun daylight — harder ground / TF58 land-task tax
+
+先に [16日昼ground-air再演57](AUDIT_RESET_2026-09-25/57_SAIPAN_16JUN_DAYLIGHT_TF58_LAND_TASK_REPLAY_v001.md) と [14:15 ground-air state58](AUDIT_RESET_2026-09-25/58_SAIPAN_16JUN_1415_GROUND_AIR_STATE_v001.json) を読む。
+
+- 56のsupersession-candidate dawnから16 Jun昼を再演。質的転換なし：U.S.は前進、Aslitoは日本側、tank mass counterattackなし。ただしmorning startは遅く、air/NGFS suppressionへの支払いが増える。
+- 日本側morning ground observationはwater-air2 short sorties＋D4Y0–1 photo pass。maritime ISR/base defense優先なのでlarge local strikeは出さない。
+- U.S. incremental morning task shift：CVE observer-denial8–14 fighter sortie-eq、OP/mortar/artillery/route suppression14–22 strike sortie-eq。generic CAS/armed recon/reserveから再配賦。
+- harder groundはTF58にも小さく波及。06:30–10:30にF6F6–10＋attack6–10、計12–20 fast-carrier sortie-eqをland/observer/airfield pressureへ。Japanese carrier-air warningがdominantになる時点で4–8 aircraft-classがreturn/refuel/rearm pipelineにいるW感度。ただしapproved first-strike defense/loss resultを開かない。
+- main Japanese carrier strikeが始まるとTF58 discretionary Saipan supportはnear-zeroへ。CVE/old-BB/shore artilleryがground supportを担う。CVE on-call CASはlocal10–20%級を1–2h落とすが、support system collapseではない。
+- 14:15 ground W：Red500–750yd、Green700–1000、Blue800–1150、Yellow1000–1350、deepest1350–1600。Afetna west/low ground increasingly U.S.だがinland fire wedge alive、physical connection locally exists but tactically dirty。Aslito fully Japanese。tank MR32–37。
+- TF58が「陸に気を取られる」主効果はCAP崩壊ではなくmorning deck/fuel/task margin消費。さらに第一撃後はdamaged/congested decksのためland discretionary outputが消え、ground側はCVE/NGFS/shore artillery依存を強める。
+- harder SaipanはSpruanceのlodgment-protection priorityを強化するため、approved14:15 no-west-chase / Guam-Tinian recovery suppression選好をむしろ補強する。
+- 14:15以後もTF58はSaipan CASへ戻らずselected Guam/Tinian suppressionへ。日本local airもrecontact/recovery defenseに忙しく、ground observationはwater-air1–2 short sorties級へ縮む。sunsetはold Wよりcentral/southで100–300yd浅い感度だがqualitative phase changeなし、Aslito日本側center。
+- 次はこのsunset tendencyを明示frontへ閉じ、16/17 night reworkから17 Jun Aslito approachを再演する。authorityは未変更。
+
 ## 今回から読む
 
 1. [16日14:15–16:30：電探・触接・来襲警報のWORKING進行11](AUDIT_RESET_2026-09-25/11_RECON16_1415_1630_RADAR_AND_CONTACT_WORKING_v001.md)
