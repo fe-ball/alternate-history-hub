@@ -498,3 +498,27 @@ Examples used for calibration/reconstruction:
 - CombinedFleet TROMs for Japanese ship/submarine movement cross-checks.
 
 External historical anchors calibrate geometry and OOB; they do not override repository technical guards.
+
+
+## 14. Later same-day continuation files
+
+This handoff was continued later on 2026-09-26. Read these after this file and the original 06 register:
+
+1. `07-POST-V26-WAKE-SARATOGA-CARRIER-WORKING-CONTINUATION-2026-09-26.md`
+   - Wake second operation;
+   - H7Y Wake-relief search;
+   - Saratoga carrier battle / damage / repair;
+   - U.S. / Japanese carrier posture and regeneration.
+2. `08-1941-AIRLIFT-WORKING-CLOSE-2026-09-26.md`
+   - conventional transport-aircraft working ledger;
+   - E5/E6 courier layer;
+   - P2 / Ki-76;
+   - flying-boat transport subset;
+   - limited-service L5Si re-audit;
+   - Southern Operations airlift accounting.
+3. `09-POST-V26-WORKING-DECISION-REGISTER-ADDENDUM-2026-09-26.tsv`
+   - machine-readable continuation decisions and superseding next gate.
+
+The old Section 10 Wake second-operation items below/above are preserved as provenance of what was OPEN when this handoff was first written. Where 07/09 explicitly close or supersede those working questions, use the later 07/09 state.
+
+**Current requested next technical gate after this continuation: AT-3 / Material No.3 heavy-transport re-audit.**
