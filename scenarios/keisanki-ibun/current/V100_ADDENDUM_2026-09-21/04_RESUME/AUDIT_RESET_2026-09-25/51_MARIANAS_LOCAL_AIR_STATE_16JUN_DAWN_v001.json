@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_ROLL_FORWARD_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "ground_authority_frontier": "1944-06-16 dawn",
+  "local_MR_excluding_untyped_replacements": {
+    "fighters": [
+      60,
+      75
+    ],
+    "D4Y": [
+      5,
+      8
+    ],
+    "B6N": [
+      2,
+      5
+    ],
+    "older_attack": [
+      3,
+      5
+    ],
+    "water_air": [
+      5,
+      7
+    ],
+    "H6K_H8K": [
+      2,
+      3
+    ],
+    "total": [
+      77,
+      103
+    ]
+  },
+  "Bonins_replacement_layer": {
+    "physical_arrival": [
+      10,
+      16
+    ],
+    "immediate_MR": [
+      6,
+      11
+    ],
+    "type_split_closed": false
+  },
+  "system_total_MR": [
+    83,
+    114
+  ],
+  "night_attack_crews_full": [
+    4,
+    6
+  ],
+  "priority": [
+    "maritime ISR",
+    "base defense",
+    "ground observation",
+    "SAR/liaison",
+    "discretionary local strike"
+  ],
+  "dependent_working_events": {
+    "two_D4Y_afternoon_scouts": "feasible but meaningful draw",
+    "recovery_defense_30_fighters": "feasible",
+    "Tinian_D4Y8_dusk_strike": "depends on carrier-origin survivors, not local prebattle pool alone"
+  },
+  "authority_contradiction": false
+}
