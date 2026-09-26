@@ -299,3 +299,8 @@ It is:
 - the U.S. then spends airpower and artillery to break that loop.
 
 This observation -> kill-zone -> suppression -> rework cycle is the core land-battle mechanism.
+
+## Paired-comparison reconciliation
+
+For future paired ground comparison, read `59_SAIPAN_PRE_VS_AIR_INTEGRATED_PAIRED_DELTA_15_16JUN_v001.md`.
+The controlling 15-Jun evening local-air interpretation is validation 46 / selected event 47: carrier/support recovery is the center target; a 2–4-aircraft handling-zone diversion is only a branch. Therefore any larger handling-zone pause previously centered here is not used as a center input for the ground casualty/distance delta.
