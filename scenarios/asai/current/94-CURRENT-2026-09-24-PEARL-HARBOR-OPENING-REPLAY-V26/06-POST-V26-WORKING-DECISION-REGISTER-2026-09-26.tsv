@@ -1,0 +1,45 @@
+topic	status	working_decision_or_state	guard_or_next_action
+method_no_teleology	WORKING-CLOSE	Use only dated actor knowledge, actual allocation, geography, weather and logistics; do not infer doctrine from later outcomes	Carry into all future replay
+pearl_first_wave	INHERIT-V26	Do not reroll aggregate first-wave result	Use V26 authority
+pearl_second_wave	WORKING-CLOSE	170 attack-capable central = 54 B5N / 80 D3A / 36 A6M	One D3A technical abort tail
+nevada_second_wave	WORKING	18 D3A assigned; 7 bomb hits central; final Waipio grounding; channel open	Do not convert to harbor blockage
+drydock_no1	WORKING-CLOSE	Structurally survives but blocked by Pennsylvania/Cassin/Downes	Unavailable to Enterprise in immediate aftermath
+drydock_no2	WORKING	Survives; emergency usable but incomplete; temporary blocking required for Enterprise	Exact Enterprise block plan still open
+enterprise_airstrike	INHERIT-V26	72 aircraft; 3 bomb + 2 aerial torpedo hits; mission-kill / afloat	Japanese strike loss 11-13 working
+nagumo_post_enterprise	WORKING-CLOSE	Recover strike then withdraw rather than launch another large dusk/night anti-carrier strike	Lexington unlocated; submarine finish attempt continues
+enterprise_i74	WORKING	I-74 acquires at night but no shot at ~6km+ geometry	No routine 9-12km precision shot
+enterprise_i75	WORKING	~05:56 Dec8, 4 Type95 at ~3.4-3.6km; 1 aft/starboard hit central	Recheck only if earlier course/speed gate changes
+enterprise_shaft	WORKING	Outer starboard shaft shut down; cascade limited to ~2 shaft-alley compartments	No PoW-style uncontrolled wild-shaft chain
+enterprise_repair	WORKING	Pearl stabilization/ocean-passage repair -> Puget Sound permanent repair; mid-Apr 1942 combat-workup center	Precise tow/entry/completion still open
+wake_recon_bda	WORKING-CLOSE	Modest better photo/BDA from physical camera/radio/process improvements; no abstract recon-culture buff	Do not grant perfect battery/F4F accounting
+wake_first_assault	WORKING-CLOSE	Assault fails; longer-range probing recognizes live batteries; landing aborted	Input to second-assault gate
+wake_hayate	WORKING-CLOSE	Survives first assault	Availability Dec21 must still include repair/maintenance state
+wake_kisaragi	WORKING-CLOSE	Survives; light/moderate damage rather than catastrophic loss	Availability Dec21 must be checked
+wake_yayoi	WORKING	One 5-inch-class hit / moderate damage	Translate to Dec21 availability
+south_indochina_air	INHERIT-V25-WORKING	~330 frontline class; Navy G3M27+27 / G4M27 / A6M~18 / E6 Twin~18 / E6 Single~9 plus reserves	Exact OOB still replay-local
+taiwan_air	INHERIT-V25-WORKING	~430-460 frontline class; historical-scale conventional air + modest E5/E6 layer	E6 Single does not replace Zero long-range escort
+g4as_range_guard	CLOSED-TECH	~300-400km torpedo radius, ~350-450 favorable	Does not reach opening Malaya/Force Z missions from rear bases
+e6_twin_range_guard	CLOSED-TECH	~400-480km internal; ~650-800km with D320F	Full external fuel + full strike load not routine
+e6_single_range_guard	CLOSED-TECH	~400-500km internal; ~550-700km external mission-dependent	Do not use as Taiwan-Clark escort substitute
+type1_floatfighter_name	WORKING-CLOSE	一式水上戦闘機一一型; technical tag A6M2-N retained	Formal canon promotion still optional
+type1_floatfighter_perf	WORKING-CLOSE	445-450km/h, center ~448; Zero-like armament/protection	Do not inflate to 460-470 merely from materials
+type1_floatfighter_procurement	WORKING	72 firm +24 option	Kyofu service gate may stop option
+type1_floatfighter_dec7	WORKING	physical10 / service8 / frontline6; six in Taiwan; Malaya D-day 0	Southward second detachment only mid/late Dec
+h2_helicopter	INHERIT-V13	4 development aircraft; no ordinary combat OOB	At most later operational evaluation, not initial invasion force
+malaya_newturret_chiha_pool	INHERIT-V14	145 new +48 conversions nationally by 1941YE possible	Factory existence != theater assignment
+malaya_tank_allocation	WORKING	1st Regt 24x47mm +7x57mm +17 Ha-Go; 6th Regt 12x47mm +25x57mm +~20 Ha-Go; 14th mostly Ha-Go	Case-study allocation, not canon
+slim_river_case	WORKING	Result still British 11th Division collapse; V26 gains mainly tank availability/retention, bridge ~10-20min earlier	Do not exaggerate into day-scale change
+gemas_case	WORKING	47mm Chi-Ha suppresses AT guns better after contact; 2-pdr still penetrates; perhaps 1-2 fewer permanent tank losses	Prepared ambush remains effective
+bakri_case	WORKING	Historical Ha-Go detachment remains near-historical disaster	Do not teleport new-turret Chi-Ha into wrong unit
+force_z_search	WORKING-CLOSE	E6 high-speed reconnaissance layer improves reacquisition/reporting but weather remains binding	No G4As participation
+force_z_contact_dec10	WORKING	Reacquisition ~09:00-09:45, center ~09:20	Re-run only if Dec9 submarine/air disposition changes
+force_z_strike_timing	WORKING	First attack ~10:20-10:35; strike arrival scatter ~50-70min rather than ~90min	No perfect synchronization
+force_z_pow_damage	WORKING	~5 torpedo hits + ~1 bomb-class hit; no automatic copy of historical first-hit shaft catastrophe	Use damage path, not fixed historical hit locations
+force_z_repulse_damage	WORKING	~4 torpedo hits + ~1 bomb hit	Compressed follow-up reduces recovery time
+force_z_sink_times	WORKING	Repulse ~11:50; PoW ~12:25-12:45	Strategic result same, mechanism/timing differ
+force_z_japanese_losses	WORKING	~3 immediate aircraft +0-1 return writeoff; 15-20 damaged class	Broadly historical scale
+next_gate	NEXT	Wake second-operation composition and 1941-12-11 to 12-23 replay	Do before Saratoga Jan11 or resuming late Malaya
+wake_second_carrier_state	OPEN	Need exact Soryu/Hiryu aircraft/crew/serviceability after Pearl + Enterprise strike	First required calculation
+wake_second_surface_state	OPEN	Need repair/readiness of Hayate/Kisaragi/Yayoi and other first-assault ships by Dec21	First-assault survival changes OOB
+wake_garrison_dec20	OPEN	Need 5-inch battery/F4F/ammo/fuel/comms/airfield state after first assault	Cannot copy historical state blindly
+us_wake_relief	OPEN	Enterprise unavailable; Saratoga/Lexington relief geometry must be replayed	Do not copy historical cover plan automatically
