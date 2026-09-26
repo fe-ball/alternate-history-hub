@@ -1,5 +1,8 @@
 # 浅井世界線
 
+> **汎用の最初の入口:** [00-READ-FIRST-GENERIC.md](00-READ-FIRST-GENERIC.md)  
+> 新しいチャット・モデルには、まずこの汎用ガイドと `current/00-START-HERE-CURRENT.md` を読ませる。
+
 Status: **active**
 
 Authority: **V26**
