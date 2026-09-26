@@ -302,6 +302,24 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - 史実日本側同時刻総死傷は正確な公刊値が弱い。強い部分アンカーは6th Marines正面の夜襲だけで約700 dead。したがってhistorical Japan total deltaはまだ数字を固定しない。Branchはmass-night-slaughterを避ける一方、観測付き火力が有効なぶんU.S. air/NGFS suppressionを多く受ける。
 - 現時点のphase differenceはまだ量的。U.S. lodgment生存・advance継続・Aslito次目標は同じ。ただし米側は数百～千人級の追加損害とair/NGFS task taxを既に払っており、後続fatigue/artillery placement/deck taskingへ波及する。
 
+## 最新：航空統合前Branch vs 航空統合Branch — 距離・双方地上死傷のpaired delta
+
+先に [paired comparison59](AUDIT_RESET_2026-09-25/59_SAIPAN_PRE_VS_AIR_INTEGRATED_PAIRED_DELTA_15_16JUN_v001.md) と [paired state60](AUDIT_RESET_2026-09-25/60_SAIPAN_PAIRED_DELTA_STATE_16JUN_1415_v001.json) を読む。
+
+- 比較対象はhistory-like弱防御ではない。両腕ともAttu由来のterrain/reserve/logistics-depth/artillery-repeatability、Tarawa/Marshalls lesson、Saipan D3.0–D3.3/key D3.3–D3.5、reverse-slope、alternate firing positions、pre-registered choke lanes、distributed C2/cache、common grid/target number、9th Tank cell doctrineを共通保持。
+- paired deltaはsystematic aerial ground observation/photo target renewal、ground OP死角更新、observation→kill-zone dwell、counter-observation、bounded local-air attack、short ferry/regeneration、U.S. counter-air task taxのみ。
+- 並行W競合を整理：15 Jun eveningはvalidation46/selected47を制御線とし、10–14機でcarrier/support recoveryをcenter target、handling-zoneは2–4機branchのみ。48の6–8機handling-centerはground delta中心入力に使わない。48/52/55へreconciliation note追加済み。
+- 15 Jun15:00 old/new：Red250–450→200–400yd、Green450–700→350–600、Blue500–800→400–650、Yellow750–1100→650–950、deepest1000–1200→900–1150。典型差50–125yd級。
+- sunset old/new：Red400–650→350–600、Green650–900→550–850、Blue700–1050→600–950、Yellow950–1350→850–1200、deepest1300–1500→1150–1400。
+- 16 Jun dawn old/new：Red350–600→300–550、Green550–800→450–750、Blue650–950→550–850、Yellow850–1200→750–1050、deepest1200–1400→1050–1300。Aslito Japanese both。
+- old line未閉鎖だった16 Jun14:15をsame-model reconstruct：old Red550–800/Green800–1100/Blue900–1250/Yellow1100–1450/deepest1450–1700 vs new500–750/700–1000/800–1150/1000–1350/1350–1600。差はおおむね50–150yd。
+- casualtyは旧線でfull denominator未閉鎖だったため同一方法でpaired backfill。ground K/W class、ship/air casualties別。U.S. first-24h old3,450–4,250 vs new3,800–4,700、16 Jun14:15累積old3,950–5,000 vs new4,350–5,550。center差~+475、約+10–12%。
+- Japan ground first-24h old2,000–2,800 vs new2,200–3,050、16 Jun14:15累積old2,450–3,450 vs new2,700–3,800。center差~+300、約+9–11%。better observationはJapan lossを単純減らさず、U.S.がOP/artillery/observer suppressionへairpowerを増配するため双方損害が増える。
+- local aviation lossはground K/Wから分離。validation46/47でD-Day local attack-air irreversible9–15、damaged/abort2–6、U.S.F6F0–2級。
+- 16 Jun14:15判定はQUANTITATIVE/MATERIAL, NOT QUALITATIVE。bridgehead secure、Afetna/Susupe fire-control problem、Aslito Japanese、tank distributed-cell use、U.S. air superiorityは両腕共通。
+- qualitative divergence gateは17 Jun。~100yd差が16/17 nightの再工事可能位置、pre-surveyed alternate reachability、U.S.105mm displacement、Aslito fire geometryへ増幅するかを見る。
+- casualty endpointはauthorityではない。31st Army+Navy ground denominator、named artillery OOB、engineer/signal subgroup lossを閉じるまでcomparative bandとして使う。
+
 ## 今回から読む
 
 1. [16日14:15–16:30：電探・触接・来襲警報のWORKING進行11](AUDIT_RESET_2026-09-25/11_RECON16_1415_1630_RADAR_AND_CONTACT_WORKING_v001.md)
