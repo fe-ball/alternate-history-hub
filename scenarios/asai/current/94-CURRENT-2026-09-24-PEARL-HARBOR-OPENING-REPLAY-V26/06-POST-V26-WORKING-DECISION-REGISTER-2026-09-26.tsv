@@ -43,3 +43,5 @@ wake_second_carrier_state	OPEN	Need exact Soryu/Hiryu aircraft/crew/serviceabili
 wake_second_surface_state	OPEN	Need repair/readiness of Hayate/Kisaragi/Yayoi and other first-assault ships by Dec21	First-assault survival changes OOB
 wake_garrison_dec20	OPEN	Need 5-inch battery/F4F/ammo/fuel/comms/airfield state after first assault	Cannot copy historical state blindly
 us_wake_relief	OPEN	Enterprise unavailable; Saratoga/Lexington relief geometry must be replayed	Do not copy historical cover plan automatically
+
+post_v26_continuation_files	SUPERSEDING-NAV	Read 07 Wake/Saratoga/carrier continuation +08 airlift close +09 register addendum after this register	09 next_gate supersedes this file's older Wake-open next_gate
