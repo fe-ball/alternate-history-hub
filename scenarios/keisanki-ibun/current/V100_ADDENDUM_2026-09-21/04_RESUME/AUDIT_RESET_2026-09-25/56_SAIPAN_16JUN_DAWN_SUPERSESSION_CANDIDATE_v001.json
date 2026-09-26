@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "status": "BOUNDED_MATERIAL_SUPERSESSION_CANDIDATE_NOT_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "current_approved_ground_frontier": "1944-06-16 dawn",
+  "night_result": {
+    "japan_incremental_casualties": [
+      600,
+      900
+    ],
+    "us_incremental_casualties": [
+      330,
+      520
+    ],
+    "active_japanese_attackers": [
+      1800,
+      2500
+    ],
+    "tanks_used": [
+      4,
+      7
+    ]
+  },
+  "dawn_candidate": {
+    "Red_yards": [
+      300,
+      550
+    ],
+    "Green_yards": [
+      450,
+      750
+    ],
+    "Blue_yards": [
+      550,
+      850
+    ],
+    "Yellow_yards": [
+      750,
+      1050
+    ],
+    "deepest_yards": [
+      1050,
+      1300
+    ],
+    "Afetna": "west contested; inland fire wedge alive; safe connection incomplete",
+    "Aslito": "fully Japanese",
+    "Agingan": "coastal U.S.-leaning; inland Japanese fire persists",
+    "tank_MR": [
+      35,
+      40
+    ],
+    "reorganization_tax_min": [
+      45,
+      75
+    ]
+  },
+  "first_24h_us_ground_casualties": [
+    3800,
+    4700
+  ],
+  "materiality": "bounded material supersession candidate",
+  "unchanged": [
+    "bridgehead survives",
+    "Aslito Japanese at dawn",
+    "tank MR band broadly unchanged",
+    "landing strategic success"
+  ],
+  "authority_changed": false
+}
