@@ -1,0 +1,19 @@
+topic	status	working_decision_or_state	guard_or_next_action
+at3_reaudit_architecture	WORKING-CLOSE	Retain high-wing 4-TP 35.5m x48m /240m2 nonpressurized rear-ramp heavy transport	No clean-sheet redesign
+at3_weight_center	WORKING-CLOSE	X1 48-50t; normal service 54-55t; OEW29-30t; structural proof/short overload58-60t	58-60t not routine first-block service
+at3_payload_semantics	WORKING-CLOSE	13t standard;15t short/medium heavy;16-17t exceptional local approval	Do not quote all payloads at same range
+at3_e6_power	INHERIT-TECH	4x E6-M-T ~2050-2100shp high-power /1850-1870 continuous	Local installed mass/altitude map still measured gate
+at3_speed_reaudit	WORKING-CLOSE	Economy290-310; normal cruise315-335; fast340-355; max395-415km/h class	Measured X1 drag still gate
+at3_range_15t	WORKING-CLOSE	15t ~1600-2000km, center1800-1900	Planning range with reserves
+at3_range_13t	WORKING-CLOSE	13t ~2000-2400km, center2200-2300	Planning range with reserves
+at3_range_10t	WORKING-CLOSE	10t with auxiliary fuel ~2600-3200km	Fuel volume must be physically installed
+at3_runway	WORKING-CLOSE	1000-1200m favorable/lighter capability; 1200-1500m base-planning class at54-55t	Not first-wave rough-strip transport
+at3_vehicle_airland	WORKING-CLOSE	2 Ha-Go class normal neighborhood; 1 Chi-Ha class short-range heavy state after floor/ramp/CG proof	Airland only, no tank paradrop
+at3_personnel	WORKING	70-80 troop transport /50-60 paratroop /40-50 litter class	Heavy cargo remains primary mission
+at3_dec1941_state	WORKING-CLOSE	Design frozen / full-scale structural and cargo-system work;0 flying operational aircraft	No 1941 OOB
+at3_x1_target	WORKING	1942Q4, center Oct-Nov first flight at48-50t	Future event, not pre-recorded result
+at3_e7_growth	WORKING-CLOSE	E6-M-T X1/early -> 4xE7-M central TP preferred production growth	Do not delay X1 waiting for E7
+at3_two_e7l	REJECT	Do not redesign first growth around 2xE7-L	Engine-out/prop/reducer geometry unfavorable
+at3_production_rate	WORKING	~1/month initial mature low-rate;3-4/month requires dedicated new capacity	Large-airframe tooling/gear/prop more binding than raw cores
+at3_short_shuttle	WORKING-CLOSE	~100-150t/day gross on short secure route for10 ready aircraft is planning neighborhood;300t/night is surge arithmetic only	Charge handling/weather/maintenance
+at3_next_gate	NEXT	Prototype structural/ramp/gear/E6-installed test closure and 1942 procurement trigger	Do not reopen concept without contrary measured data
