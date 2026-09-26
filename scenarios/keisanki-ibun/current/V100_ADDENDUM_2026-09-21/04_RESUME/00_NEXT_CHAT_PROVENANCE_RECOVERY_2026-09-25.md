@@ -290,6 +290,18 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - 14:15以後もTF58はSaipan CASへ戻らずselected Guam/Tinian suppressionへ。日本local airもrecontact/recovery defenseに忙しく、ground observationはwater-air1–2 short sorties級へ縮む。sunsetはold Wよりcentral/southで100–300yd浅い感度だがqualitative phase changeなし、Aslito日本側center。
 - 次はこのsunset tendencyを明示frontへ閉じ、16/17 night reworkから17 Jun Aslito approachを再演する。authorityは未変更。
 
+## 最新：16 Jun 14:15までのBranch差を距離・双方地上死傷で定量化
+
+先に [Branch差距離・死傷台帳59](AUDIT_RESET_2026-09-25/59_SAIPAN_BRANCH_DIFFERENCE_DISTANCE_CASUALTY_LEDGER_16JUN_1415_v001.md) と [state60](AUDIT_RESET_2026-09-25/60_SAIPAN_BRANCH_DIFFERENCE_STATE_16JUN_1415_v001.json) を読む。
+
+- 内部rebaseline差は16日dawnでRed center約50yd、Green75、Blue100、Yellow125、deepest125yd浅い。selected sensitivityは概ね50–150yd、局地最大~200yd。
+- Branch 14:15 absolute ground：Red500–750、Green700–1000、Blue800–1150、Yellow1000–1350、deepest1350–1600yd。Aslito fully Japanese。
+- 史実14:15のsector別exact frontはsource-closedでないので偽精密比較をしない。hard historical anchorは16日終日でaverage gain~1500yd、deepest~2mi、forward echelons temporary Aslito penetration。
+- U.S. first24h Branch candidate3800–4700 vs official historical up to~3500。差+300～+1200、center+750（~20% center増）。16日dawn→14:15に250–450追加し、Branch H-hour→14:15累積4050–5150。
+- Japan Branch first24h component：prelanding180–300 + D-Day daylight850–1250 + 15/16night600–900 =1630–2450。16日dawn→14:15 300–500追加でH-hour→14:15累積1930–2950。
+- 史実日本側同時刻総死傷は正確な公刊値が弱い。強い部分アンカーは6th Marines正面の夜襲だけで約700 dead。したがってhistorical Japan total deltaはまだ数字を固定しない。Branchはmass-night-slaughterを避ける一方、観測付き火力が有効なぶんU.S. air/NGFS suppressionを多く受ける。
+- 現時点のphase differenceはまだ量的。U.S. lodgment生存・advance継続・Aslito次目標は同じ。ただし米側は数百～千人級の追加損害とair/NGFS task taxを既に払っており、後続fatigue/artillery placement/deck taskingへ波及する。
+
 ## 今回から読む
 
 1. [16日14:15–16:30：電探・触接・来襲警報のWORKING進行11](AUDIT_RESET_2026-09-25/11_RECON16_1415_1630_RADAR_AND_CONTACT_WORKING_v001.md)
