@@ -262,6 +262,19 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - ferry/receiving maintenanceにより2–5 aircraft-class/day級が「trapped/delayed」からoperationally usefulへ残り得る。U.S.はferry corridor CAP/sweepで対抗可能なので無料ではない。
 - したがって本丸は observation -> kill-zone dwell -> U.S. air suppression -> Japanese displacement/rework -> ferry/regeneration の循環。approved D-Day authorityはまだ上書きせず、次に15/16 nightをこのsunset stateから再演してmaterial contradictionを判定する。
 
+## 最新：15/16夜まで再基準化、16日夜明けはbounded material supersession candidate
+
+先に [15/16夜再演55](AUDIT_RESET_2026-09-25/55_SAIPAN_15_16_NIGHT_REBASELINE_WORKING_v001.md) と [16日dawn candidate56](AUDIT_RESET_2026-09-25/56_SAIPAN_16JUN_DAWN_SUPERSESSION_CANDIDATE_v001.json) を読む。
+
+- aerial observation + kill-zone rebaseline sunsetから、approvedと同じdistributed night operation（1800–2500人、tank4–7）を再演。大規模banzai化しない。
+- 日本夜間増分損害600–900、米330–520のW candidate。approved550–850/280–450より modestly harsh。昼のfresh target boxesで日本火力が有効化する一方、米側もより硬い昼戦を受けてdefensive artillery/illuminationを強めている。
+- Afetna–Blue/Susupe-linked sectorのdawn reorg taxは45–75min級candidate（全島一律ではない）。
+- 16 Jun dawn candidate: Red300–550yd、Green450–750、Blue550–850、Yellow750–1050、deepest1050–1300。Afetna west contested/inland fire wedge alive/safe connection incomplete、Aslito fully Japanese、Agingan coastal U.S.-leaningは維持。approvedより概ね50–150yd浅く、selected seam/southで最大~200yd感度。
+- tank MRは35–40を維持。変化は数よりfresh approach warning/ambush timing。
+- U.S. first-24h ground casualty candidate3,800–4,700級（night330–520を内包、carrier-air損失別）。historical NHHC up to~3,500を物理校正にしつつBranchのpreserved fire/observationとU.S. adaptive air suppressionを反映。
+- 判定は説明補強ではなく **BOUNDED MATERIAL SUPERSESSION CANDIDATE**。橋頭堡生存、Aslito日本側、tank MR、landing strategic successは変えないが、複数sector depth/reorg/loss-fatiqueが動くため、authority置換には明示user approvalが必要。
+- 以後の16–18 Jun ground WORKINGは、もしcandidateを採用するならこのshallower dawn startから依存再演が必要。ただし海空正本16 Jun14:15は自動変更しない。
+
 ## 今回から読む
 
 1. [16日14:15–16:30：電探・触接・来襲警報のWORKING進行11](AUDIT_RESET_2026-09-25/11_RECON16_1415_1630_RADAR_AND_CONTACT_WORKING_v001.md)
