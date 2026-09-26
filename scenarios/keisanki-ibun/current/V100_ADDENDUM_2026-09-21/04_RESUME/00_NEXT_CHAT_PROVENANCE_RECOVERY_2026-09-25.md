@@ -320,6 +320,18 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - qualitative divergence gateは17 Jun。~100yd差が16/17 nightの再工事可能位置、pre-surveyed alternate reachability、U.S.105mm displacement、Aslito fire geometryへ増幅するかを見る。
 - casualty endpointはauthorityではない。31st Army+Navy ground denominator、named artillery OOB、engineer/signal subgroup lossを閉じるまでcomparative bandとして使う。
 
+## 次回の最優先論点：航空統合前後のSaipan地上差分監査
+
+先に [次回ground delta audit brief59](AUDIT_RESET_2026-09-25/59_NEXT_CHAT_SAIPAN_GROUND_DELTA_AUDIT_BRIEF_v001.md) を読む。
+
+- 比較対象Aは「航空組み込みが不十分だった直前のBranch Saipan」であり、史実Saipanではない。AもAttu以来の要塞戦ノウハウ、Tarawa/Marshalls教訓、reverse-slope、distributed C2/logistics、pre-registration、alternate positions、tank kill-zone doctrine、D3級priority defenseを既に持つ大要塞。
+- 比較対象Bは同じ要塞基盤にwater-air observation、D4Y photo/confirmation、target-board renewal、observer denial、local anti-shipping/handling attack、ferry/regeneration、U.S. air-task responseを統合したcandidate。
+- 次回は15 Jun15:00、sunset、16 Jun dawn、16 Jun14:15、16 Jun sunsetでRed/Green/Afetna/Blue/Yellow/deepest/Aslitoを並べ、yards/meters deltaを出す。
+- casualtiesはU.S.だけでなくJapanも再構築。15 Jun daylight、15/16 night、first24h、可能なら16 Jun14:15まで。prior Branchに未閉鎖値がなければ史実を代入せず、そのBranch自身のfire/support/force assumptionsから復元する。
+- delta原因をobservation freshness、kill-zone dwell、target-board validity、tank warning、U.S. observer denial、CVE suppression、TF58 land-task tax、Japanese observer losses、ferry/regenerationへ分解。
+- 現在の50–200yd、50–150yd、100–300yd、U.S.first24h3800–4700等はAUDIT TARGETSであり、保存目標ではない。
+- 最終判定はexplanatory / quantitative-material / bounded tactical phase change / authority contradictionのいずれか。結論を先に選ばない。
+
 ## 今回から読む
 
 1. [16日14:15–16:30：電探・触接・来襲警報のWORKING進行11](AUDIT_RESET_2026-09-25/11_RECON16_1415_1630_RADAR_AND_CONTACT_WORKING_v001.md)
