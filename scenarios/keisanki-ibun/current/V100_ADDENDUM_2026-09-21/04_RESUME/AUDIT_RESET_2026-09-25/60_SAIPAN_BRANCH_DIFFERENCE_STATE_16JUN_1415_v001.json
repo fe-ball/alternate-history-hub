@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "status": "WORKING_BRANCH_DIFFERENCE_COMPARATOR_NOT_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "scope": "ground only",
+  "branch_dawn_candidate": {
+    "Red_yards": [
+      300,
+      550
+    ],
+    "Green_yards": [
+      450,
+      750
+    ],
+    "Blue_yards": [
+      550,
+      850
+    ],
+    "Yellow_yards": [
+      750,
+      1050
+    ],
+    "deepest_yards": [
+      1050,
+      1300
+    ]
+  },
+  "internal_rebaseline_delta_dawn_yards": {
+    "Red_center": 50,
+    "Green_center": 75,
+    "Blue_center": 100,
+    "Yellow_center": 125,
+    "deepest_center": 125
+  },
+  "branch_1415": {
+    "Red_yards": [
+      500,
+      750
+    ],
+    "Green_yards": [
+      700,
+      1000
+    ],
+    "Blue_yards": [
+      800,
+      1150
+    ],
+    "Yellow_yards": [
+      1000,
+      1350
+    ],
+    "deepest_yards": [
+      1350,
+      1600
+    ],
+    "Aslito": "fully Japanese"
+  },
+  "historical_anchors": {
+    "us_first_24h_casualties_max": 3500,
+    "japanese_night_dead_single_6th_Marines_sector_about": 700,
+    "june16_end_deepest_yards_about": 3520,
+    "june16_end_average_gain_yards_about": 1500,
+    "temporary_Aslito_penetration": true,
+    "exact_1415_front": false,
+    "exact_japanese_first24h_total": false
+  },
+  "branch_casualties": {
+    "us_first24h": [
+      3800,
+      4700
+    ],
+    "us_Hhour_to_1415": [
+      4050,
+      5150
+    ],
+    "japan_prelanding": [
+      180,
+      300
+    ],
+    "japan_Dday_daylight": [
+      850,
+      1250
+    ],
+    "japan_night_15_16": [
+      600,
+      900
+    ],
+    "japan_first24h": [
+      1630,
+      2450
+    ],
+    "japan_Hhour_to_1415": [
+      1930,
+      2950
+    ]
+  },
+  "us_first24h_branch_minus_history": [
+    300,
+    1200
+  ],
+  "qualitative_phase_change": false,
+  "authority_changed": false
+}
