@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_LOCAL_AIR_STATE_NOT_CAMPAIGN_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "ground_authority_frontier": "1944-06-16 dawn",
+  "start_1944_06_15_0430": {
+    "fighter_MR": [
+      64,
+      80
+    ],
+    "nonfighter_MR": [
+      28,
+      38
+    ],
+    "total_MR": [
+      92,
+      118
+    ],
+    "D4Y": [
+      9,
+      12
+    ],
+    "B6N": [
+      7,
+      10
+    ],
+    "older_attack": [
+      4,
+      6
+    ],
+    "water_air": [
+      6,
+      8
+    ],
+    "H6K_H8K": [
+      2,
+      3
+    ],
+    "night_attack_crews_full": [
+      7,
+      10
+    ],
+    "Bonins_early_MR_untyped": [
+      0,
+      3
+    ]
+  },
+  "morning_attack": {
+    "launch": "08:38-08:52",
+    "B6N_torpedo": [
+      6,
+      7
+    ],
+    "D4Y_bomb": [
+      2,
+      3
+    ],
+    "fighters": [
+      2,
+      3
+    ],
+    "total": [
+      10,
+      13
+    ],
+    "japan_irreversible": [
+      4,
+      6
+    ],
+    "japan_damaged_abort": [
+      1,
+      2
+    ],
+    "us_F6F_irreversible": [
+      0,
+      1
+    ],
+    "usable_releases": [
+      3,
+      5
+    ],
+    "major_hull_hit": false,
+    "local_disruption_min": [
+      10,
+      20
+    ]
+  },
+  "day_observation": {
+    "water_air_sorties": 3,
+    "water_air_irreversible": 0,
+    "water_air_short_unavailable": 1,
+    "D4Y_photo_sorties": 1
+  },
+  "dusk_raid": {
+    "launch": "17:40-17:55",
+    "attackers": [
+      6,
+      8
+    ],
+    "fighter_escort": 0,
+    "japan_irreversible": [
+      2,
+      3
+    ],
+    "japan_damaged_short": [
+      1,
+      2
+    ],
+    "usable_releases": [
+      3,
+      5
+    ],
+    "major_ship_hit": false,
+    "local_handling_pause_min": [
+      20,
+      40
+    ]
+  },
+  "newly_explicit_15Jun_cost": {
+    "japan_irreversible": [
+      6,
+      9
+    ],
+    "japan_damaged_short": [
+      3,
+      5
+    ]
+  },
+  "authority_effect": {
+    "ground_front_change": false,
+    "casualty_band_change": false,
+    "note": "re-attributes part of existing ground friction; propagates to local-air wallet only"
+  },
+  "next_gate": "regenerate 16-Jun dawn local aviation wallet and dependent post-14:15 local-air events"
+}
