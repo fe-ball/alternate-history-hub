@@ -221,6 +221,18 @@ Status: USER-APPROVED TECHNICAL REFERENCE / NEW WORKING EVENT CASE / NOT EVENT P
 - CINCPACは23日にもJapanese aircraftがSaipan off transportsへbombsを投じlanding craftへminor damage、同夕にground area bombingを記録。よってhandling/logistics target class自体は実戦上妥当。ただしfreshness/arming/CAP gateを通す。
 - approved 15/16 ground authorityのsupersessionは不要。air observation/局地attackは既存fire effectiveness/support frictionの因果を精密化するが、center resultだけではfront lineを変える規模ではない。
 
+## 最新：局地航空再監査の影響評価
+
+先に [影響評価46](AUDIT_RESET_2026-09-25/46_MARIANAS_LOCAL_AIR_REAUDIT_IMPACT_ASSESSMENT_v001.md) を読む。
+
+- 11–14 Junの多くはcausal/ledger correctionで、bombardment BDA、repair priority、ground fire-data freshness、counter-observation/SARを既存結果の因果へ追加するレベル。
+- 15 Jun morning local anti-shippingはmaterial event insertionだが、centerではJapan irreversible4–7＋damaged/abort1–3、U.S.局地10–25min friction、major hull hitなしなので、approved ground geometryを自動supersedeしない。
+- 一番危険なのは15 Jun dusk/night。6–12機級を選ぶ場合、night-qualified crewとlocal D4Y/B6Nを使うため、16 Jun local ISR/recovery defense以後へ実数波及する。ここがauthority-risk gate。
+- 16 Jun approved main carrier strikeはFirst Mobile Fleet walletなので直接再開しない。影響はMarianas local air側に主に出る。
+- post-14:15 WORKINGはdependent re-runが必要。local attack/recon availabilityが5–12 aircraft-class動き得て、後続D4Y missionが2–4機縮小／water-air代替／15–60min移動する程度を中心感度とする。fighter defenseはescortをどこまで払うかで小さめに動く。
+- ground 16–18 Junはfront-lineの大逆転より、target-board freshness、unloading/assembly friction、Aslito physical occupation→operational useの時間差に効く見込み。物理前線はtens–low hundreds m、local delay15–60min、airfield usable化はhours級に動く可能性。まだhard-codeしない。
+- rerun順は15 Jun04:30 typed MR/crew/ordnance→morning attack→day observation→dusk/night→16 dawn local air wallet→依存post-14:15 local events→ground comparison。stableな艦隊決戦やapproved frontを理由なく全面再演しない。
+
 ## 今回から読む
 
 1. [16日14:15–16:30：電探・触接・来襲警報のWORKING進行11](AUDIT_RESET_2026-09-25/11_RECON16_1415_1630_RADAR_AND_CONTACT_WORKING_v001.md)
