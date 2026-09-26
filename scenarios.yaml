@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-09-24"
+updated: "2026-09-27"
 
 scenarios:
   asai:
@@ -39,10 +39,10 @@ scenarios:
   hatsudoki-tenseisha:
     title: "発動機転生者"
     status: active
-    authority_version: "Relaunch R2"
-    canonical_clock: "1939-10-11T00:00"
-    clock_state: "relaunch-r2; china-war continuous operational ledger closed through first Changsha / Kiangsi-Hunan operation 1939-10-11; Ki-43 development and early production path closed through 1939 autumn; Ki-44 O2D bridge revised to limited practical use with O4 main; next national China war-state ledger"
-    frontier: "1939年末中国の国家戦争台帳を全国保有/front-serviceable availability/月次補充力に分けて閉じる。兵員・小火器だけでなくMG/迫撃砲/野砲/AT/通信/車両馬匹、後方工場再起動、ソ連・仏印・ビルマ輸入、財政・インフレ、鉄道河川道路、航空機/搭乗員/engine hours/sparesを監査し、その台帳から1939年冬季攻勢を再演"
+    authority_version: "Relaunch R3"
+    canonical_clock: "1941-12-07T08:45:00-10:30"
+    clock_state: "relaunch-r3; continuous technology/aircraft/war ledger promoted through 1941-12-07 08:45 HST; Pearl Harbor first wave closed in bounded audit form; second wave open; third-strike decision follows second-wave total-damage audit; post-1941 forward studies remain roadmap not actor-known outcomes"
+    frontier: "1941-12-07 08:45 HST、真珠湾第一波終了時点から再開。第二波を詳細再演し、第二波までの米側艦艇・航空機・基地被害と日本側機体・搭乗員損害、機動部隊のserviceable aircraft/ammunition/fuel/damaged-aircraft状態を閉じる。その次にfuel farms/dry docks/repair yard/submarine base/airfields、surprise消失、米空母所在不明、Kido Butai燃料・tanker・索敵・CAP・損傷機回収を入力として第三次攻撃可能性を評価する"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -50,7 +50,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r2-continuity-ledger-through-1939-10-11"
+    source_import: "relaunch-r3-continuity-ledger-through-pearl-harbor-first-wave-1941-12-07"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
