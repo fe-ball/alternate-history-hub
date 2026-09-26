@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "status": "SUPERSESSION_CANDIDATE_DEPENDENT_WORKING_NOT_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "start_ground": "56_SAIPAN_16JUN_DAWN_SUPERSESSION_CANDIDATE_v001",
+  "us_air_task_tax_morning": {
+    "CVE_observer_denial_sortie_equiv": [
+      8,
+      14
+    ],
+    "CVE_suppression_strike_sortie_equiv": [
+      14,
+      22
+    ],
+    "TF58_F6F_land_related_sortie_equiv": [
+      6,
+      10
+    ],
+    "TF58_attack_land_related_sortie_equiv": [
+      6,
+      10
+    ],
+    "TF58_aircraft_in_return_rearm_pipeline_at_warning": [
+      4,
+      8
+    ]
+  },
+  "japanese_ground_observation": {
+    "water_air_sorties": [
+      2,
+      2
+    ],
+    "D4Y_ground_photo": [
+      0,
+      1
+    ],
+    "no_large_local_strike": true
+  },
+  "carrier_battle_effect": {
+    "approved_first_strike_reopened": false,
+    "TF58_discretionary_land_support_during_defense": "near zero",
+    "CVE_on_call_CAS_local_degradation_percent": [
+      10,
+      20
+    ],
+    "duration_hours": [
+      1,
+      2
+    ]
+  },
+  "ground_1415": {
+    "Red_yards": [
+      500,
+      750
+    ],
+    "Green_yards": [
+      700,
+      1000
+    ],
+    "Blue_yards": [
+      800,
+      1150
+    ],
+    "Yellow_yards": [
+      1000,
+      1350
+    ],
+    "deepest_yards": [
+      1350,
+      1600
+    ],
+    "Afetna": "west/low ground increasingly U.S.; inland fire wedge alive; physical connection locally present but tactically dirty",
+    "Aslito": "fully Japanese",
+    "tank_MR": [
+      32,
+      37
+    ]
+  },
+  "sunset_tendency": {
+    "qualitative_phase_change": false,
+    "expected_shallower_than_prior_working_yards": [
+      100,
+      300
+    ],
+    "Aslito": "fully Japanese center"
+  },
+  "strategic_effect": "harder ground fight strengthens Saipan-cover priority and reduces incentive for westward TF58 chase",
+  "authority_changed": false
+}
