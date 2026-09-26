@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "status": "SUPERSESSION_CANDIDATE_NOT_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "approved_ground_frontier": "1944-06-16 dawn",
+  "dday_rebaseline": {
+    "15:00": {
+      "Red_yards": [
+        200,
+        400
+      ],
+      "Green_yards": [
+        350,
+        600
+      ],
+      "Blue_yards": [
+        400,
+        650
+      ],
+      "Yellow_yards": [
+        650,
+        950
+      ],
+      "deepest_yards": [
+        900,
+        1150
+      ],
+      "Afetna": "held; stronger inland fire continuity"
+    },
+    "sunset": {
+      "Red_yards": [
+        350,
+        600
+      ],
+      "Green_yards": [
+        550,
+        850
+      ],
+      "Blue_yards": [
+        600,
+        950
+      ],
+      "Yellow_yards": [
+        850,
+        1200
+      ],
+      "deepest_yards": [
+        1150,
+        1400
+      ],
+      "Afetna": "west contested/partly lost; inland fire wedge stronger"
+    },
+    "us_first_24h_ground_casualties": [
+      3800,
+      4700
+    ],
+    "us_air_response": {
+      "F6F_observer_denial_sortie_equiv": [
+        12,
+        20
+      ],
+      "strike_artillery_OP_sortie_equiv": [
+        18,
+        30
+      ]
+    },
+    "candidate_16dawn_shift_yards": [
+      50,
+      150
+    ]
+  },
+  "ferry_network": {
+    "gross_relocations_per_day": [
+      6,
+      12
+    ],
+    "pre_dday_redistribution": [
+      3,
+      6
+    ],
+    "dday_day_relocations": [
+      4,
+      8
+    ],
+    "night_15_16_relocations": [
+      4,
+      7
+    ],
+    "relative_operational_availability_saved_per_day": [
+      2,
+      5
+    ]
+  },
+  "authority_changed": false,
+  "next": "rerun 15/16 night from rebaselined sunset; compare with approved dawn; propose explicit supersession only if material"
+}
