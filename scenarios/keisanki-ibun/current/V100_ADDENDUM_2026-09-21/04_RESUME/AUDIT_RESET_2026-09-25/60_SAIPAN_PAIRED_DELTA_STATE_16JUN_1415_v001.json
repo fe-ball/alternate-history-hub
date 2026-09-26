@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "status": "WORKING_PAIRED_COMPARISON_NOT_AUTHORITY",
+  "canonical_clock": "1944-06-16T14:15",
+  "comparison_arms": {
+    "pre_air_integration": "same D3 fortress / Attu-derived doctrine; aviation target-renewal under-modeled",
+    "air_integrated": "same fortress + systematic aerial observation/counter-observation/ferry/U.S. air-task response"
+  },
+  "controlling_evening_air_line": "46/47 validation: carrier/support center; handling-zone only branch",
+  "distances": {
+    "1944-06-15T15:00": {
+      "old": {
+        "Red": [
+          250,
+          450
+        ],
+        "Green": [
+          450,
+          700
+        ],
+        "Blue": [
+          500,
+          800
+        ],
+        "Yellow": [
+          750,
+          1100
+        ],
+        "deepest": [
+          1000,
+          1200
+        ]
+      },
+      "new": {
+        "Red": [
+          200,
+          400
+        ],
+        "Green": [
+          350,
+          600
+        ],
+        "Blue": [
+          400,
+          650
+        ],
+        "Yellow": [
+          650,
+          950
+        ],
+        "deepest": [
+          900,
+          1150
+        ]
+      }
+    },
+    "1944-06-15_sunset": {
+      "old": {
+        "Red": [
+          400,
+          650
+        ],
+        "Green": [
+          650,
+          900
+        ],
+        "Blue": [
+          700,
+          1050
+        ],
+        "Yellow": [
+          950,
+          1350
+        ],
+        "deepest": [
+          1300,
+          1500
+        ]
+      },
+      "new": {
+        "Red": [
+          350,
+          600
+        ],
+        "Green": [
+          550,
+          850
+        ],
+        "Blue": [
+          600,
+          950
+        ],
+        "Yellow": [
+          850,
+          1200
+        ],
+        "deepest": [
+          1150,
+          1400
+        ]
+      }
+    },
+    "1944-06-16_dawn": {
+      "old": {
+        "Red": [
+          350,
+          600
+        ],
+        "Green": [
+          550,
+          800
+        ],
+        "Blue": [
+          650,
+          950
+        ],
+        "Yellow": [
+          850,
+          1200
+        ],
+        "deepest": [
+          1200,
+          1400
+        ]
+      },
+      "new": {
+        "Red": [
+          300,
+          550
+        ],
+        "Green": [
+          450,
+          750
+        ],
+        "Blue": [
+          550,
+          850
+        ],
+        "Yellow": [
+          750,
+          1050
+        ],
+        "deepest": [
+          1050,
+          1300
+        ]
+      }
+    },
+    "1944-06-16T14:15": {
+      "old_reconstructed": {
+        "Red": [
+          550,
+          800
+        ],
+        "Green": [
+          800,
+          1100
+        ],
+        "Blue": [
+          900,
+          1250
+        ],
+        "Yellow": [
+          1100,
+          1450
+        ],
+        "deepest": [
+          1450,
+          1700
+        ]
+      },
+      "new": {
+        "Red": [
+          500,
+          750
+        ],
+        "Green": [
+          700,
+          1000
+        ],
+        "Blue": [
+          800,
+          1150
+        ],
+        "Yellow": [
+          1000,
+          1350
+        ],
+        "deepest": [
+          1350,
+          1600
+        ]
+      }
+    }
+  },
+  "casualties_ground": {
+    "US": {
+      "15Jun_1500": {
+        "old": [
+          2100,
+          2700
+        ],
+        "new": [
+          2350,
+          3000
+        ]
+      },
+      "15Jun_sunset": {
+        "old": [
+          3000,
+          3700
+        ],
+        "new": [
+          3300,
+          4100
+        ]
+      },
+      "16Jun_dawn": {
+        "old": [
+          3450,
+          4250
+        ],
+        "new": [
+          3800,
+          4700
+        ]
+      },
+      "16Jun_1415": {
+        "old": [
+          3950,
+          5000
+        ],
+        "new": [
+          4350,
+          5550
+        ]
+      }
+    },
+    "Japan": {
+      "15Jun_1500": {
+        "old": [
+          1050,
+          1450
+        ],
+        "new": [
+          1100,
+          1550
+        ]
+      },
+      "15Jun_sunset": {
+        "old": [
+          1450,
+          1950
+        ],
+        "new": [
+          1600,
+          2150
+        ]
+      },
+      "16Jun_dawn": {
+        "old": [
+          2000,
+          2800
+        ],
+        "new": [
+          2200,
+          3050
+        ]
+      },
+      "16Jun_1415": {
+        "old": [
+          2450,
+          3450
+        ],
+        "new": [
+          2700,
+          3800
+        ]
+      }
+    }
+  },
+  "local_air_separate": {
+    "japan_irreversible_aircraft": [
+      9,
+      15
+    ],
+    "japan_damaged_abort": [
+      2,
+      6
+    ],
+    "us_F6F_irreversible": [
+      0,
+      2
+    ]
+  },
+  "classification_1415": "quantitative/material, not qualitative",
+  "confidence": {
+    "US_casualties": "MEDIUM",
+    "Japan_casualties": "LOW-MEDIUM"
+  },
+  "authority_changed": false
+}
