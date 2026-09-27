@@ -21,19 +21,20 @@ Repository:
    - reality -> observation -> inference -> decision;
    - no future knowledge;
    - no magical reinforcement;
+   - post-14:15 events remain WORKING unless explicitly promoted;
    - TF58 whole-system ASW audit remains required before post-14:15 promotion.
 
 ## Current next frontier
 
 Read:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/59_NEXT_CHAT_SAIPAN_GROUND_DELTA_AUDIT_BRIEF_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/60_NEXT_CHAT_20JUN_RELIEF_US_DECISION_PROJECTILE_HANDOFF_v001.md`
 
 Current task:
-- compare the PRE-full-air-integration Branch Saipan ground model against the FULL-air-integration candidate;
-- both baselines are already heavily fortified Branch Saipan, not historical Saipan;
-- quantify distance and both-side casualty deltas;
-- re-open the fortification ledgers before judging aviation integration;
-- determine whether the difference is explanatory, quantitative/material, or a bounded tactical phase change.
+- preserve the 20 Jun daytime carrier/surface/ground working sequence and the projectile/Type-3-shell re-audit recorded in that handoff;
+- do **not** immediately force a cinematic night battle;
+- reconstruct the U.S. command decision at ~20:30 on 20 Jun from the information actually available to Spruance / Turner / Holland Smith / Lee;
+- determine how strongly U.S. ground pressure to stop bombardment/relief competes with TF58 preservation, transport protection, Lee battle-line preservation, and the option to wait for next-day air power;
+- only after that decision is closed, advance the relief-interdiction night action, unloading, naval bombardment, and Saipan ground response on one shared clock.
 
 ## Maintenance rule
 
