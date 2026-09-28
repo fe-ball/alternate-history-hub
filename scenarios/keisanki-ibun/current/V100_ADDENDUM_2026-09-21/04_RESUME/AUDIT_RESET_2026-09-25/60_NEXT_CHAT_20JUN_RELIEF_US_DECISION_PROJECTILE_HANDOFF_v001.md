@@ -27,9 +27,12 @@ Main relief should be **20/21 Jun**, not a magical 19/20 full run.
 Working transport concept:
 - DD transport group 6 ships;
 - center split: **4 direct Saipan, 2 Tinian/relay**;
+- **Nisshin is now INCLUDED as the heavy-transport second element**, not merely a candidate; read `61_NISSHIN_RELIEF_FORCE_REAUDIT_WORKING_v001.md`;
+- Nisshin is held in the western relief-support box through the initial DD penetration and is released toward Saipan only if a real corridor is created;
+- Chitose / Chiyoda remain centered in water-air reconnaissance / illumination / recovery support rather than being added as more cargo hulls;
 - submarines 4–6 support separately;
 - Tinian small-craft shuttle continues;
-- actual Saipan useful delivery center remains roughly **200–350 t + 600–1000 personnel** for the main night, pending final load/discharge/access audit.
+- the old **200–350 t + 600–1000 personnel** band is retained only as the DD-centered / limited-relief reference and is **not the total ceiling** once Nisshin is released; exact total useful delivery remains OPEN until the Nisshin load/discharge window is audited.
 
 ---
 
@@ -217,26 +220,70 @@ Japanese ground response remains disciplined:
 
 ---
 
-## 7. Immediate next decision problem
+## 7. Current night-action re-open point (~21:30 WORKING)
 
-The next session must **not** jump straight into a cinematic night battle.
+The earlier U.S.-decision question has now been substantially closed for the WORKING center:
 
-The critical unresolved question is U.S. operational/political command behavior:
+- Spruance's operational priority remains Saipan protection, not prestige annihilation;
+- U.S. CA/CL/DD are allowed to **actively enter the relief route and make contact**;
+- Lee's fast-battleship line acts as a close stopper / bounded acquisition force rather than making an unlimited westward night chase;
+- TF58 preservation and next-day daylight strike remain part of the higher-level plan.
 
-> After a day in which TF58 has paid heavy aircraft/deck-cycle costs without stopping the Japanese surface force, Lee has already been pulled into a Saipan blocking role, and Aslito/U.S. artillery positions are now taking destructive Japanese battleship/cruiser + island fire, how far are Spruance / Turner / Holland Smith / Lee actually willing to push U.S. cruisers, DDs, and fast battleships into a night surface battle against the layered Japanese surface fleet?
+The night contact sequence has been re-opened after auditing moonlight, Tapotchau observation, U.S. darkening, Japanese RWR limits, illumination, shore guns and Japanese heavy-gun counter-interdiction.
 
-The answer must account for:
-- primary U.S. mission: protect the Saipan lodgment / stop relief, not prestige annihilation;
-- pressure from the ground situation and threatened transport/support anchorage;
-- TF58 preservation and next-day air capability;
-- Lee's radar/night-fighting strengths but finite battleship/cruiser/DD losses;
-- incomplete U.S. knowledge of Yamato-class true gun power;
-- the Japanese force being damaged but still mobile;
-- U.S. political/command sensitivity to risking a modern battle line in a night melee;
-- the fact that **not** contesting the sea allows more bombardment + unloading, while **overcommitting west** may uncover Saipan and feed Japan the fleet battle it wants.
+Mandatory night observations:
+- 20/21 Jun is essentially a **new-moon dark night**;
+- Tapotchau height gives a very long geometric horizon but does not make an unlit DD visually easy to identify at 15–20+ nmi;
+- U.S. forward ships can use near-maximum visual darkening and center the approach on SG;
+- Branch Japanese metric RWR does **not** provide universal warning against U.S. SG / 10-cm emissions;
+- therefore first clean / weapon-quality contact can still favor U.S. SG;
+- once U.S. guns fire, Tapotchau + ridge/coast OP + DD reports + radar/plot can rapidly build a shared Japanese battle-area track;
+- Japanese floatplane / star-shell illumination becomes valuable **after** the dark approach has already been spent, especially after torpedo release or when a heavy-gun target handoff is needed;
+- most Saipan coast guns become a direct naval factor only at roughly **7–9 nmi class** unless a separately traced longer-range battery is found;
+- before that point the more serious Japanese fire threat is the **mobile heavy battle line**.
+
+Japanese heavy-gun posture is now active, not passive:
+- Yamato / Musashi may use the ~20–22 nmi outer band for short counter-interdiction fire against U.S. cruiser/DD pursuers;
+- purpose is to break the relief pursuit and create time, not to wait for a full fleet-battle commitment;
+- firing is followed by course/position change and reacquisition, not by static station keeping;
+- Nagato / Mutsu and the other heavy layers remain reserved until their geometry / target quality justifies fire;
+- the U.S. can respond with Lee's bounded westward acquisition maneuver and Mk.8 fire-control radar, but this is not an automatic unlimited charge.
+
+Current center has been carried only to roughly **21:30**:
+- U.S. SG is favored for the first clean track;
+- Japanese DDs were already prepared for torpedo / smoke / formation change rather than being tactically surprised;
+- U.S. first fire makes the battle visible to the Tapotchau network;
+- Japanese torpedo release and subsequent illumination can improve the shared Japanese track;
+- Yamato / Musashi conduct the first short long-range counter-interdiction pulse;
+- **no direct 46-cm hit is booked in that first pulse**;
+- the U.S. light screen must maneuver / interrupt the pursuit;
+- Lee begins a limited westward acquisition movement rather than a general pursuit;
+- **no DD torpedo hit, DD sinking, cruiser hit or battleship hit after 20:30 is currently booked**; earlier provisional night damage results were reopened.
+
+### Nisshin correction
+
+The recovered support-hull audit must now be propagated into the relief force.
+
+Read:
+- `61_NISSHIN_RELIEF_FORCE_REAUDIT_WORKING_v001.md`
+
+Selected center:
+- DD6 remain the fast relief layer (4 Saipan / 2 Tinian-relay);
+- **Nisshin joins as the heavy-transport second element**;
+- she is not sent into the first SG/DD clash;
+- at ~21:30 she remains in the western relief-support holding band, waiting for a positive release;
+- Chitose / Chiyoda remain in the water-air support layer;
+- the old DD-only useful-delivery band is no longer the total relief ceiling.
+
+The immediate decision now is:
+> does the DD / heavy-gun disruption create a long enough corridor to release Nisshin, or does Lee's bounded acquisition and the renewed U.S. light-force pursuit close that corridor first?
+
+Only after that is closed should unloading tonnage, losses, rescue and Saipan ground conversion be adjudicated.
 
 ---
 
 # NEXT CHAT PROMPT (~1000 Japanese characters target)
 
-以下を読み、Branch B v100をauthority、1944-06-16T14:15をcanonical clockのまま維持し、20日昼以降はWORKINGとして継続せよ。まず `NEXT_CHAT_ENTRYPOINT.md`、本handoff、Saipan砲兵・航空観測・艦隊再監査ファイルを読むこと。現状、日本は「決戦後救援」ではなくCAP付き水上救援を開始し、米軍が阻止に集中した時だけ決戦条件を利用する。20日昼、TF58は日本水上群へ約140、125、80–100機級の三波を投入し損耗したが、日本側は比叡魚雷1、蒼龍航空mission-kill、武蔵魚雷1、長門・大和等の上部損害を受けつつ主力進撃能力を維持。日本空母防空は摩耶・秋月型を含む実screen、艦戦CAP・金星零戦改予備を持ち、米VT/5in38/CIC優位は残る。昼間水上戦では航空観測・共通target番号・作図・電探/光学I/Oにより米レーダー先制は自動数斉射差ではなく1–数分級へ縮む一方、夜間・悪視界では米SG/CIC優位が再拡大する。大和級46cm性能は米側に確定していない。砲弾は九一/一式APを史実弾道のまま製造品質改善、零式通常弾を対地破壊主力、三式弾を主力対空から降格しつつ改良信管・ロット・教程で退避路、砲員、弾薬取扱、車両、通信、再展開帯の面制圧に使用。伊勢・日向＋重巡＋島内登録火力によりAslito西北の米陣地は実損害・局地再編を強要され、救援DD6隻（4 Saipan直行、2 Tinian/中継）と潜水艦・小艇系が20/21夜に接近する。次は海戦を即発生させず、Spruance、Turner、Holland Smith、Leeの任務・性格・指揮関係、陸上からの救援阻止要求、輸送船団保全、TF58翌日能力、Lee戦艦線の損失許容、未知の大和級、夜戦SG優位を踏まえ、米側が①巡洋艦/DDのみ前出、②Leeを近接stopperとして限定投入、③戦艦を積極夜戦へ投入、④東寄り遮断と翌朝航空攻撃を優先、のどこへ傾くかを情報時系列で裁定せよ。結論ありきにせず、各司令部がその時点で何を知り、何を守る必要があり、何を恐れるかから決め、その後に20:30以降の救援阻止夜戦・荷揚げ・Saipan地上反応を同一時計で進めよ。
+以下を読み、Branch B v100をauthority、1944-06-16T14:15をcanonical clockのまま維持し、20日夜以降はWORKINGとして継続せよ。まず `NEXT_CHAT_ENTRYPOINT.md`、本handoff、`61_NISSHIN_RELIEF_FORCE_REAUDIT_WORKING_v001.md`、Saipan砲兵・航空観測・艦隊再監査ファイルを読むこと。20/21夜は新月級暗夜。米前衛は最大級の灯火管制とSGを使うため、発砲前の最初のclean/weapon-quality contactは米側が優位になり得る。一方Tapotchau高地・別稜線・沿岸OP・基地plotは発砲炎、DD報告、電探、必要時の水偵/照明を統合し、発砲後は日本側の共有battle-area trackを急速に改善する。日本DDは不意打ちされてから準備するのではなく、事前警戒下で隊形変更・魚雷・煙幕・次運動を準備済み。日本重部隊は受け身に待たず、大和/武蔵が20–22nm級外縁から米CA/CL/DD追撃群へ短いcounter-interdiction fireを行い、射撃後は移動・再捕捉・再射撃を狙う。最初の46cm pulseは命中0だが米前衛の追撃を切り、Leeは全速西進でなく3–4nm級のbounded acquisitionを開始したところまでをWORKING中心とする。20:30以降のDD/巡洋艦/戦艦の追加損害は未確定。
+
+救援編成はDD6のみではない。DD6（4 Saipan直行、2 Tinian/relay）を高速先行層として維持し、**日進を重量物第二梯団として採用**する。日進は最初のSG夜戦へ突入せず、21:30時点ではSaipan西方35–50nm級の救援支援帯でrelease待ち。千歳/千代田は水上航空・照明・回収側に残す。旧200–350t＋600–1000名はDD中心の参考帯で、日進成功時の総上限ではない。次は21:30時点で、DDが作った通路、Tapotchau/水偵track、Leeのbounded acquisition、米前衛の再追撃を同時計で進め、日進をreleaseできるかを先に裁定せよ。release後に初めて荷揚げ量、損害、救難、Saipan地上への変換を決める。
