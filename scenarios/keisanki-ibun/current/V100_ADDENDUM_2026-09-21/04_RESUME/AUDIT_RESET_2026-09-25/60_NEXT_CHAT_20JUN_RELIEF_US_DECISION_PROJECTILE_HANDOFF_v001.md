@@ -6,6 +6,8 @@ Status: **WORKING HANDOFF / NOT AUTHORITY / NO CANONICAL CLOCK ADVANCE**
 Current authority remains Branch B v100. Canonical clock remains **1944-06-16T14:15**.  
 Everything below after 14:15 is WORKING until explicitly promoted. Preserve reality -> observation -> inference -> decision, no future knowledge, no magical reinforcement, and the TF58 whole-system ASW audit gate.
 
+> **2026-09-29 supersession pointer:** for the latest four-old-BB / full-OOB / surface-AA / third-wave / bombardment replay state, read `67_NEXT_CHAT_FOUR_BB_OOB_AA_BOMBARDMENT_HANDOFF_v001.md`. Where this older handoff conflicts with files 62–67, **67 and its dependencies control**. In particular, do not restore the old DD6 planning center, old Musashi/Yamato/Nagato third-wave damage, or any provisional post-20:30 night hit.
+
 ---
 
 ## 1. Immediate operational state carried forward
