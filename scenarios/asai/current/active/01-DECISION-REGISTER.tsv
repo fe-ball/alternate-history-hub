@@ -6,11 +6,26 @@ ENTERPRISE	WORKING	CARRY-FORWARD	12月8日I-75雷撃・生存修理枝を継承�
 SOUTH	WORKING	REPLAY-LOCAL	南方作戦は局所ケーススタディ。後日の場面を全世界時計へ変換しない。	V26:05
 WAKE-FIRST	WORKING-CLOSE	COMPLETED	第一次攻略失敗。Hayate/Kisaragi生残。	V26:06#wake_first_assault;V26:06#wake_hayate;V26:06#wake_kisaragi
 WAKE-SECOND	WORKING-CLOSE	COMPLETED	第二次攻略は12月23日14–16時現地級の午後陥落。	V26:09#wake_fall_dec23
-SARATOGA	WORKING-CLOSE	CARRY-FORWARD	12月22日爆弾2・航空魚雷1、浮航。修理日程や日本側被弾空母名まで確定したわけではない。	V26:09#saratoga_dec22_hits;V26:09#us_counterstrike_cardiv2;V26:09#saratoga_repair
+SARATOGA-WAKE	WORKING-CLOSE	CARRY-FORWARD	12月22日爆弾2・航空魚雷1、浮航。修理・復帰中心は3月上中旬級のWORKING。	V26:09#saratoga_dec22_hits;V26:07#11
 AIRLIFT	WORKING-CLOSE	COMPLETED	1941輸送航空を再監査済み。阻害OPEN=0は当該監査対象に限定。	V26:08;V26:09#airlift_conventional_subtotal
 AT3-AUDIT	WORKING-CLOSE	COMPLETED	大型輸送の構成・搭載/航続区分を再監査済み。1941年実用飛行機は0。	V26:11#at3_reaudit_architecture;V26:11#at3_dec1941_state
 AT3-X1	WORKING	FUTURE-PLAN	1942Q4初飛行目標は未来の計画。実績・認定・受領・配備を先取りしない。	V26:11#at3_x1_target
-AT3-NEXT	NEXT	CURRENT-NEXT	試作構造/ランプ/脚/E6搭載試験と1942調達発動条件。	V26:11#at3_next_gate
-NAV-04	OPEN/NEXT-GATE	HISTORICAL-QUEUE	V26:04は12月7日時点のキュー。後続05–11を読まずにここから再開しない。	V26:04;V26:06;V26:09;V26:11
-NAV-06	NEXT	SUPERSEDED-NEXT	06のWake第二次next_gateは09により後継作業へ送られた。個別未決事項は一括消去しない。	V26:06#next_gate;V26:09#next_gate
-NAV-09	NEXT	SUPERSEDED-NEXT	09のAT-3再監査next_gateは10/11で処理され、11の試験/調達gateへ進んだ。	V26:09#next_gate;V26:10;V26:11#at3_next_gate
+AT3-NEXT	NEXT	DEFERRED-NEXT	試作構造/ランプ/脚/E6搭載試験と1942調達発動条件は未処理だが、現在の会話再開点ではない。	V26:11#at3_next_gate;V26:12#1
+WEST-IO	WORKING	REPLAY-LOCAL-CLOSE	第一次インド洋作戦と西方基地航空・GT水雷艇需要は当面一区切り。量産・配備未確定事項は保持。	V26:12#2
+DOOLITTLE	WORKING	DEFERRED-GATE	Doolittle型作戦は構想・訓練を残すが4月18日へ固定しない。Enterprise/Saratoga、中国受入余力、本土防空を再評価して後続。	V26:12#3
+MO-TIMING	WORKING	REPLAY-LOCAL	MOは最大数週間前倒し可能とし、Tulagi 1942-04-08級、Port Moresby上陸当初1942-04-16級を作業中心に置く。後者は空母戦で遅延。	V26:12#4
+MO-BASES	WORKING	REPLAY-LOCAL	Tulagi/Rekata/Shortland水上機網、Buka E6 Twin橋、Rabaul主基地、Lae前進基地を分離。D+0 Tulagiに実用電探なし。	V26:12#5
+MO-US-CARRIERS	WORKING	REPLAY-LOCAL	4月8日級Yorktown戦域内、Saratoga南下中、Lexington後発、Enterprise修理中、Hornet西岸/Doolittle準備。	V26:12#6
+MO-CARRIER-APR09-11	WORKING	REPLAY-LOCAL	4月9日YorktownがTulagi攻撃後1爆弾+1魚雷、11日Shokaku航空運用不能、Yorktown累積2爆弾+2魚雷で戦列外、Saratogaは継戦。	V26:12#7;V26:12#8
+MO-ROUTE-COVER	WORKING	REPLAY-LOCAL	Shoho近接援護、Zuikaku外周打撃、Deboyne水上機、Rabaul/Lae基地航空の多層援護。Saratoga持続後、船団はJomardよりChina Straitへ傾く。	V26:12#9
+MO-PM-AIR	WORKING	REPLAY-LOCAL	4月中旬Port Moresbyは損傷しているが航空基地として健在。LaeとChina Straitでは双方基地航空圏が重なる。	V26:12#10
+MO-E6	WORKING	REPLAY-LOCAL	4月15日Laeへ海軍E6 Twin 6機級。South Pacificで高速双発戦闘機として初の明瞭な戦闘確認が起こり得るが、連合軍が全能力を理解したとはしない。	V26:12#12
+MO-LAND-ATTACK	WORKING	REPLAY-LOCAL	SaratogaがLouisiades/China Strait側へ寄ることでRabaul G4Mの通常対艦雷撃圏に入る。鮮度の高いdatum更新が成立条件。	V26:12#13
+MO-APR16	WORKING	REPLAY-LOCAL	4月16日H7Y→H6K更新からZuikaku+G4M複合攻撃。Saratogaは浮航・自航可能だがMO戦場から離脱。船団主力はChina Strait西側へ進出。	V26:12#14;V26:12#15
+TYPE93-AUDIT	WORKING	TECH-GUARD	九三式弾体性能は史実級。世界線差は発射・再装填・FCS・夜間光学/通信・編隊同期。長距離では目標針路速力誤差が支配。	V26:12#16
+ALLIED-LONGLANCE	OPEN	NEXT-AUDIT	1942年4月連合軍が九三式長射程挙動を正しく理解していたとは未確定。明示的探知・情報・戦訓がなければ偶然の変針を意図的雷撃回避としない。	V26:12#16.2
+JAPAN-POST-SALVO	WORKING	NEXT-AUDIT	発射後変針は秘匿演出より自艦安全、魚雷航跡干渉回避、再装填/次斉射/砲戦位置、敵雷撃回避、船団保護を優先。具体角度は接触幾何から算出。	V26:12#16.2
+MO-SURFACE-NEXT	NEXT	CURRENT-NEXT	1942-04-16夕刻以後、Crace型連合軍水上部隊対MO船団護衛を個艦OOB・九三式・FCS/夜戦光学/電探・損傷速度・天候月齢・船団幾何まで監査して再演する。	V26:12#17;V26:12#19
+NAV-04	OPEN/NEXT-GATE	HISTORICAL-QUEUE	V26:04は12月7日時点のキュー。後続05–12を読まずにここから再開しない。	V26:04;V26:12
+NAV-06	NEXT	SUPERSEDED-NEXT	06のWake第二次next_gateは後続07/09/12で処理済み。	V26:06#next_gate;V26:09;V26:12
+NAV-09	NEXT	SUPERSEDED-NEXT	09のAT-3再監査next_gateは10/11で処理済み。AT3試験gate自体は未処理だが現会話frontierではdeferred。	V26:09#next_gate;V26:10;V26:11;V26:12
