@@ -6,6 +6,8 @@ Status: **SELECTED WORKING DECISION / NOT AUTHORITY / NO CANONICAL CLOCK ADVANCE
 Current authority remains **Branch B v100**. Canonical clock remains **1944-06-16T14:15**.
 All 20/21 Jun relief events remain WORKING.
 
+> **2026-09-29 supersession note:** surface/escort accounting continued in `63_20JUN_SURFACE_ESCORT_TRANSPORT_OOB_CLOSEOUT_WORKING_v001.md`. Its DD8 pre-daylight planning center (6 Saipan / 2 Tinian), damage-dependent night count, and revised personnel bands supersede this file's earlier DD6 planning center. Nisshin's heavy-transport role remains in force.
+
 ---
 
 ## 1. Correction
