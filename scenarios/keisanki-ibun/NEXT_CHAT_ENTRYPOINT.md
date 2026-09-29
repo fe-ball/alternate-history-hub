@@ -27,7 +27,8 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/71_20JUN_DD7_NISSHIN_RECEPTION_FORMATION_WORKING_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/72_20JUN_2000_2130_RELIEF_CONTACT_REPLAY_WORKING_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/71_20JUN_DD7_NISSHIN_RECEPTION_FORMATION_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/70_20JUN_NAVAL_VS_ISLAND_FIRE_COUNTERATTACK_REPROCESS_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/69_20JUN_US_CASUALTY_COMPOSITION_FUNCTIONAL_LOSS_WORKING_v001.md` for medical/disposition taxonomy
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/68_20JUN_TYPE3_SUPPRESSION_OBSERVATION_GROUND_REGEN_WORKING_v001.md`
@@ -44,7 +45,10 @@ Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
 
 Current task:
-- **file 71 is the latest WORKING relief-formation close. File 70 controls casualty/effect boundaries; file 69 remains valid for medical/disposition categories only; file 68 controls bombardment/Type-3/observation/regeneration mechanics, and file 67 the preceding consolidated OOB/AA state.**
+- **file 72 is the latest WORKING event replay through ~21:30 on 20 Jun. File 71 controls relief formation; file 70 casualty/effect boundaries; file 68 bombardment/observation/regeneration mechanics.**
+- carry file-72 center: U.S. TG58.7 forward intercept = 2 CA + 6 DD (4 main direct axis, 2 southern/Tinian axis), Lee retains 7 BB + 2 CA + ~11 DD; U.S. SG gets first clean contact; D1 torpedo attack mission-kills one U.S. DD; one Japanese D1 DD takes medium damage, one D2/D3 DD light damage; no CA/BB direct hit centered; 1–2 Japanese coast/direct-fire cells are locally suppressed by U.S. counterbattery;
+- carry file-72 observation guard: before U.S. firing Japan has only a bounded area estimate; after muzzle flashes, DD reports, Tapotchau/coast OP and paid water-air/illumination rapidly improve the shared track; coast guns only become direct naval factors inside ~7–9 nmi; field artillery attacks land-support/receiving interdiction channels, not moving ships;
+- carry file-72 decision: at ~21:25–21:30 Nisshin receives a **conditional RELEASE**, attaches its two already-paid DD escorts, begins the 26–28 kt eastward approach, and remains roughly low-30s to mid-40s nmi from Saipan at 21:30; no unloading yet.
 - carry file-71 formation: DD7 = 5 Saipan + 2 Tinian center; direct Saipan = 2 lead combat + 2 transport + 1 staggered transport; Nisshin has 2 separate already-paid modern-DD escorts, so Nisshin release gives DD9 + Nisshin in the close relief system; fast S1/S2 lose the original DD ring when DD7 detach and must not double-count those screens;
 - carry file-70 separated casualties: naval fire 410–640; island-fire exploitation +90–160; local counterattack/infiltration +55–115; combined U.S. physical evening/early-night 555–915 / center ~720–735; combined dead 100–177 / center ~140–150; recognized NP/exhaustion 35–70 total plus 70–140 undocumented functional degradation, not additive to physical totals;
 - carry file-70 Japanese exploitation cost: 70–140 physical casualties / 15–30 dead; local terrain effect bounded to 1–3 exposed positions and ~50–200 m micro-sector bending, not island-wide rollback;
