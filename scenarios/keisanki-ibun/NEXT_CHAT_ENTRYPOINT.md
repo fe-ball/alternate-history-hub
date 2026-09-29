@@ -27,7 +27,8 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/70_20JUN_NAVAL_VS_ISLAND_FIRE_COUNTERATTACK_REPROCESS_WORKING_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/71_20JUN_DD7_NISSHIN_RECEPTION_FORMATION_WORKING_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/70_20JUN_NAVAL_VS_ISLAND_FIRE_COUNTERATTACK_REPROCESS_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/69_20JUN_US_CASUALTY_COMPOSITION_FUNCTIONAL_LOSS_WORKING_v001.md` for medical/disposition taxonomy
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/68_20JUN_TYPE3_SUPPRESSION_OBSERVATION_GROUND_REGEN_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_NEXT_CHAT_FOUR_BB_OOB_AA_BOMBARDMENT_HANDOFF_v001.md` for the immediately preceding consolidated state
@@ -43,7 +44,8 @@ Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
 
 Current task:
-- **file 70 is the latest WORKING casualty/effect boundary correction. File 69 remains valid for medical/disposition categories only; file 68 controls bombardment/Type-3/observation/regeneration mechanics, and file 67 the preceding consolidated OOB/AA state.**
+- **file 71 is the latest WORKING relief-formation close. File 70 controls casualty/effect boundaries; file 69 remains valid for medical/disposition categories only; file 68 controls bombardment/Type-3/observation/regeneration mechanics, and file 67 the preceding consolidated OOB/AA state.**
+- carry file-71 formation: DD7 = 5 Saipan + 2 Tinian center; direct Saipan = 2 lead combat + 2 transport + 1 staggered transport; Nisshin has 2 separate already-paid modern-DD escorts, so Nisshin release gives DD9 + Nisshin in the close relief system; fast S1/S2 lose the original DD ring when DD7 detach and must not double-count those screens;
 - carry file-70 separated casualties: naval fire 410–640; island-fire exploitation +90–160; local counterattack/infiltration +55–115; combined U.S. physical evening/early-night 555–915 / center ~720–735; combined dead 100–177 / center ~140–150; recognized NP/exhaustion 35–70 total plus 70–140 undocumented functional degradation, not additive to physical totals;
 - carry file-70 Japanese exploitation cost: 70–140 physical casualties / 15–30 dead; local terrain effect bounded to 1–3 exposed positions and ~50–200 m micro-sector bending, not island-wide rollback;
 - carry file-70 support-state handoff: around 20:00–20:15 broader Aslito west/north useful artillery output remains ~10–20% below no-bombardment case, hardest local boxes ~20–35% below, then continues recovering;
