@@ -500,6 +500,72 @@ Enterprise SBD strike central:
 
 このarrival bandを次のdecision treeの時間制約として使う。次に、米側が日本surface approachを何時にdetectできるか（PBY / cruiser floatplane / radar / shadowing report）を置き、そのwarning timeからHornet自沈開始・Enterprise曳航継続・screen concentrationを再計算する。
 
+#### 10.0C 米側は追撃隊をいつ知るか — PROVISIONAL central
+
+**PBYは「常時そこにいる早期警戒線」ではない。**
+- 史実6/4朝、Midwayから22機のPBYが主に北西方面へ長距離索敵に出た。
+- 当時のcombat narrativeでは、PBY search groupは**425 milesまで索敵**し、4空母を発見した場合を除き深く飛ぶ計画で、帰投先もMidwayだけでなくLaysan/Lisianskiを指定されていた。
+- Midway空襲後はpowerhouse / hangar / gasoline systemが損傷し、航空燃料補給は手作業化した。
+- よって13時台に「朝のPBY群がそのままTF16西方で連続shadowingしている」は採らない。
+- Midwayには戦前配備32 PBYがあり、全機を失ったわけではないため、**少数の追加PBY/B-17を特定方向へ出すことは可能**。ただし広域・即時の再索敵網はPROVISIONALであり、central early-warning sourceにはしない。
+
+**TF16のcruiser floatplaneを主力の近距離scoutとする。**
+- U.S. heavy cruisersはCurtiss SOC等のcatapult scout-observation aircraftを運用し、Hornet/Doolittle航海でもEnterprise航空隊とcruiser SOCがtask forceの「eyes」として用いられていた。
+- R3ではEnterprise/Hornet双方のflight deckがmission-killされるため、carrier SBDによる新規scoutingを期待しにくい。
+- したがってSpruanceが13時台に**west–northwest sectorへ4–6機級のcruiser SOCを発進**させるのをcentral candidateとする。
+- NorthamptonはHornet曳航候補なのでscout母艦から外し、Pensacola / New Orleans / Minneapolis / Vincennesから1–2機ずつ出す形が自然。
+- 目的は攻撃でなく、**50–100 nmi級西方のsurface approach warning**。帰投・回収よりcontact reportを優先する。
+
+**weather / detection uncertainty:**
+- 6/4午後の当該海域は概ねvisibility 12–30 milesの場所がある一方、front後面のcumulus / shower帯では2–6 milesまで落ちる。
+- よってsurface pursuit groupは大集団でも必ず一発で見つかるとはしない。
+- centralでは13:30–13:45にSOC search launch、**14:05–14:40 first contact band**を置く。
+- shower gapを抜けて見落とす場合、contactは14:45–15:15へ遅れる。
+- 日本側fighter cover / floatplane interceptionでSOCを落とす枝はあるが、視認後の短いradio contact reportまで完全に止めるとは自動仮定しない。
+
+**radarはlong-range surface early warningの主役にしない。**
+- MidwayではPensacolaのair-search radarが日本雷撃隊を33 milesで探知した実績がある。
+- ただし1942-06のTF16で、後世のSG級surface-search radarによる80–100 nmi surface pictureを置かない。
+- cruiser scoutが失敗した場合、shipboard radar / visual contactによるsurface warningは**20–30 nmi級、約30–60分前**まで遅れ得る。
+
+**Midway-based late warning:**
+- 史実6/4午後にもMidwayは1500 / 1600級にB-17を発進させており、基地航空が完全停止したわけではない。
+- ただし午後・夕刻はsquallで視界が悪化し、1700級の捜索が敵を見失った実例もある。
+- よってMidway aircraftからのsurface-pursuit発見は**backup / late warning**とし、SOCより確実なcentral sourceにはしない。
+
+**warning-time consequence:**
+- 日本追撃隊のcontact windowを15:15–16:30 centralとした場合、SOC contactが14:05–14:40なら米側warningは概ね**45分–2時間強**。
+- SOCが見失い、radar/visual onlyなら**30–60分級**まで縮む。
+- この差がHornetの処分可否を直接支配する。
+
+**米側actor decision central:**
+1. 追撃隊を14時台前半に探知:
+   - Hornet salvageを中止。
+   - nonessential / DC personnelまで退艦を加速。
+   - Phelpsをscuttling shipへ指定し、最後の人員収容後に魚雷処分へ。
+   - Northamptonはtowを切ってscreenへ復帰、またはsurvivor pickupへ転用。
+   - Enterpriseは救難優先艦として残し、Minneapolis/New Orleans級tow attemptを継続する。
+2. 14:45–15:15探知:
+   - Hornet全員退艦と魚雷処分が日本接触までに**完了する保証なし**。
+   - Phelpsの魚雷発射中または処分直後に日本水上隊が視認圏へ入る枝を強く残す。
+3. 15時台後半まで探知失敗:
+   - 二艦救難群は日本隊の接近をほぼsurface-contact直前に知る。
+   - Hornet scuttleは間に合わない可能性が高く、米screenは救助途中のままcombat formationへ戻ることになる。
+
+**historical scuttling timing anchor:**
+- Santa CruzのHornetでは、一般退艦完了後もscuttle decisionからMustinのfirst torpedo firingまで20分強を要した。
+- LexingtonではPhelpsの5 torpedo処分自体にも数十分を要した。
+- したがってR3でも「追撃発見 → 即沈没」にはしない。特にcrew still aboardなら、退艦・救助・最終機密処分が先行する。
+
+**central working branch:**
+- 13:35級: TF16 cruiser SOC search発進。
+- 14:20 ±20分: 1機が霧島・利根・筑摩を含む高速surface groupを西方50–70 nmi級で視認・報告。
+- 14:25–14:40: Spruanceが**Hornet救艦中止 / Enterprise優先救難 / screen再集中**を決断。
+- 14:30以後: Hornet総員退艦加速、Phelps魚雷処分準備。
+- 15:30–16:15級: Hornet scuttle attemptと日本追撃隊接触が競合する。
+
+このbranchは次段で、Hornet残留人員数・boats/DD pickup capacity・Phelps発射位置・日本側visual contact時刻を入れて10–15分刻みに詰める。
+
 ### 10.1 まず再判定する論点
 
 **A. 米側は本当に両空母を早期放棄するか**
