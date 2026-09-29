@@ -22,7 +22,7 @@
 |---|---|---|---|---|---|
 | [浅井世界線](scenarios/asai/README.md) | active | V26（正本）＋post-V26 WORKING | 1941-12-07T14:30:00-10:30 | 正本時計と最新継続点を分離 | [現行manifest](scenarios/asai/current/ACTIVE-STATE.json) → [最新handoff](scenarios/asai/current/active/00-SESSION-HANDOFF.md) |
 | [計算機異聞](scenarios/keisanki-ibun/README.md) | active | Branch B v100 | 1944-06-16T14:15 | OPEN / EVENT-SIMULATION（以後はWORKING） | 艦艇装備・6月出撃配置・空母防空の再監査。正本化前にTF58 ASW監査 |
-| [発動機転生者](scenarios/hatsudoki-tenseisha/README.md) | active | PC技術台帳（2026-06-07保存版） | 未指定 | 技術台帳を回収 | 旧引き継ぎの性能値を台帳の訂正に合わせる |
+| [発動機転生者](scenarios/hatsudoki-tenseisha/README.md) | active | Relaunch R3 | 1942-06-04T13:30:00-10:30 | ミッドウェー相互空母打撃後、米二空母の最終運命はOPEN | Enterprise/Hornet個艦損傷・曳航可否 → 米救援risk → 日本の第三撃／水上追撃／拿捕判断 |
 | [豊国IF](scenarios/toyokuni-if/README.md) | active | v3＋執筆規律 | 一律の確定時計は未指定 | 派生叙述は1613年まで、提言採否はOPEN | 呂宋統治・後金問題・国内政治 |
 
 ## 読み方
