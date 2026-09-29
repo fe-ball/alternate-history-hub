@@ -27,7 +27,8 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_NEXT_CHAT_FOUR_BB_OOB_AA_BOMBARDMENT_HANDOFF_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/68_20JUN_TYPE3_SUPPRESSION_OBSERVATION_GROUND_REGEN_WORKING_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_NEXT_CHAT_FOUR_BB_OOB_AA_BOMBARDMENT_HANDOFF_v001.md` for the immediately preceding consolidated state
 
 Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/60_NEXT_CHAT_20JUN_RELIEF_US_DECISION_PROJECTILE_HANDOFF_v001.md`
@@ -37,9 +38,12 @@ Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/64_20JUN_JAPANESE_SURFACE_AIR_DEFENSE_FORMATION_WORKING_v001.md`
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/65_20JUN_THIRD_ANTISURFACE_WAVE_TARGET_VALUE_REPLAY_v001.md`
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/66_20JUN_SLOW_BB_SECONDARY_BATTERY_BOMBARDMENT_REAUDIT_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
 
 Current task:
-- **file 67 is the controlling consolidated handoff for the latest replay state; where older bullets below conflict, file 67 wins.**
+- **file 68 is the latest WORKING integration for the 20-Jun bombardment-to-night transition; where it conflicts with older bombardment bullets, file 68 wins. File 67 remains the preceding consolidated OOB/AA/bombardment handoff.**
+- carry the file-68 corrections: Kongo-class short 35.6-cm shore pulse 24–40 rounds; total naval bombardment ~1,124–1,549 / center ~1,330; Type-3 expenditure ~143–247 / center ~190; Japanese ground regeneration begins during the bombardment; one short dusk water-air observation mission is centered; intermittent illumination is allowed after suppression/target confidence is established;
+- preserve the Type-3 gun-family distinction: all 12 BB main batteries and selected 20.3-cm CAs are Type-3-capable; Ise/Hyuga and Nagato/Mutsu 14-cm are capable; Kongo/Fuso 15.2-cm and Yamato/Musashi 15.5-cm are not credited Type 3; Type 89 12.7-cm Type 3 exists but shore expenditure remains zero-centered to preserve AA reserve;
 - preserve the 20 Jun daytime carrier/surface/ground working sequence and projectile/Type-3-shell re-audit;
 - preserve the re-opened 20/21 Jun night sensor model: new-moon darkness, U.S. darkening + SG first-contact advantage, Tapotchau/shore/air observation becoming much stronger after gunfire/illumination, and active Japanese heavy-gun counter-interdiction;
 - continue from the ~21:30 WORKING decision point without importing the earlier provisional night damage results;
