@@ -656,6 +656,108 @@ Surface command / covering group:
 **日本高速追撃隊 vs 退艦・曳航作業から急造した米巡洋艦covering force**
 として処理する。
 
+
+#### 10.0E 14:20–16:20を10分刻みで流す — CENTRAL WORKING BRANCH
+
+ここでは時計を固定して競合を見る。後でrange / weather / scout contactを振ってsensitivityを出す。
+
+**central assumptions**
+- 日本追撃隊: 霧島・利根・筑摩・DD5、**12:30級に分離、29kt sustained**。
+- 分離時の米救難群までの距離: **100–110 nmi級**。したがって損傷空母がほぼ停止ならsurface arrivalは概ね**16:00–16:20**。
+- 13:35級、TF16からwest-sectorへcruiser SOC発進。
+- **14:20級、SOCが日本追撃隊を約45–60 nmi西方で発見**。これは29ktなら約1時間35分–2時間5分のwarning。
+- Hornetは第一撃後から救難しており、第二撃までに重傷者・nonessential personnelの一部を既に移送。Santa Cruz実例の「500人を先行移送」を物理anchorとし、R3でも**400–600人級を先行移送済み**をPROVISIONAL centralとする。
+- Hornetにはなお**1,200–1,500人級**のship / DC / engineering / gunnery / command personnelが残るcentral band。空中に出た航空隊員が相当数いるため、full peacetime complementをそのまま艦内人数にしない。
+- Enterpriseは第二撃後に本格救難開始。救艦優先のため大規模総員退艦はまだ行わない。
+
+**14:20**
+- SOC contact report受信。
+- Spruance/Pensacolaは日本側を「1 BB + CA-class複数 + DD群」級と認識するが、正確な艦名までは不明でもよい。
+- Hornet salvage continuationの期待値が急落。
+- Enterpriseはなおstrategic priority rescue target。
+
+**14:30**
+- **Hornet救艦中止・general abandon acceleration — CENTRAL decision。**
+- Minneapolis / New Orleansのtow担当艦はtowlineを切り、combat screenへの復帰準備。
+- Hornet近傍DD 3–4隻がpersonnel pickupへ寄る。
+- 重要書類・暗号・radar/IFF等の機密破壊を最終確認。
+- Enterprise側はNorthampton towを維持し、Pensacola指揮下でsurface cover再形成。
+
+**14:40**
+- Hornetから大規模退艦開始。
+- list 14–18°級、powerなしなので、cargo net / line / raft / boat主体。DDの直接横付けは海況・傾斜で一部のみ。
+- outer screenは一時的に薄くなる。
+- Minneapolis / New Orleans / AtlantaはHornetから離れて西側coverへ移る。
+- 日本隊残距離central **35–50 nmi級**。
+
+**14:50**
+- Hornet surviving DC / engineering teamsを順次退艦。
+- 艦内に残すのは最終damage-control、機密破壊、abandon coordination、gunnery minimum程度。
+- Santa Cruzの実例では500人先行移送後でも総員退艦に約1時間を要したため、まだ数百人以上が艦内/raft/水面にいるcentral。
+- Enterprise tow groupは2–3kt東進を試みる。成功しても日本とのclosureは26kt級。
+
+**15:00**
+- Hornet退艦継続。
+- DDはsurvivor pickupで低速・不規則運動となり、surface battle readinessが低下。
+- Pensacola / Vincennes / Minneapolis / New Orleans / Atlantaを西側に集める。
+- Phelps / Balch / Benham等をcruiser screenへ寄せる。
+- 日本隊残距離 **25–40 nmi級**。Tone/Chikuma floatplaneや先行scoutが米群の分離を視認し得る。
+
+**15:10**
+- Hornet艦内残留は数百人級へ低下するcentral。
+- 1–2 DDをscuttle candidateとして指定し、魚雷残数・射点・退避方向を確認。
+- ただしsurvivorsが海面に多数残るなら即時魚雷発射不可。
+- 日本側は艦隊煙・水偵報告から、Hornetが放棄過程、Enterpriseが別方向へ曳航中らしいと判断し得る。
+
+**15:20**
+- Hornet captain / senior damage-control personnelの最終離艦準備。
+- centralでは**15:25–15:45にlast organized party off ship**。
+- Santa Cruzのadditional torpedo hit→abandon order→captain last offが約1時間だった実例と整合させる。
+- 日本追撃隊残距離 **15–30 nmi級**。
+
+**15:30**
+- Hornetは実質abandonedへ近づくが、rafts / boats / swimmersの回収がまだ続く可能性。
+- scuttle DDは2,000–3,000yd級射点へ入る準備。
+- 米surface coverはEnterprise西側へ戦列形成。
+- 日本艦隊の煙柱・mastheadが天候次第でvisual / optical horizonへ入り始める。
+
+**15:40**
+- **Hornet last organized party off — central median。**
+- survivor pickupは継続するが、艦内人員はほぼゼロへ。
+- scuttle DDへ「処分実施」命令可能。
+- Santa Cruzではscuttle order 1840→Mustin first firing 1903で23分。R3でも**命令から第1魚雷まで15–25分級**を置く。
+- 日本隊残距離 **10–20 nmi級**。
+
+**15:50**
+- scuttle DD射点進入。
+- 米covering cruisersは日本隊との接触に備えて西へ展開。
+- Enterprise towを継続するならNorthamptonは戦列から拘束されたまま。
+- 日本側floatplane / lookoutからHornetへのDD接近を観測すれば、**「自沈処分が始まる」**と推定でき、追撃隊に最大速前進を促す。
+
+**16:00**
+- **Hornetへの第1自沈魚雷発射 central window開始（15:55–16:10）。**
+- 同時に日本追撃隊が**10 nmi前後～visual gun-action range外縁**へ入るcentral branch。
+- 良視界なら双方が主力艦を視認。squallならまだ断続接触。
+- 史実Santa CruzではMustinの8本だけで沈没させられず、追加Anderson魚雷・砲撃でも失敗した。従って1回目のscuttle salvoを撃てても**Hornet拿捕拒否成功とはしない**。
+
+**16:10**
+- 日本追撃隊と米covering forceのsurface-action開始可能帯。
+- Hornetに魚雷が命中していても浮存している可能性が高い。
+- 米側はscuttle DDを回収して退避させるか、第二salvoを続けるかの選択を迫られる。
+- 日本側は「Hornetへ直行」より先に、Pensacola groupを排除 / towを切らせる必要がある。
+
+**16:20**
+- 日本隊が救難現場へ直接圧力を掛ける時間帯。
+- Enterpriseは3kt tow成功でも14:30以後約5–6 nmiしか東進していない。
+- Hornetはabandoned + scuttle damageだが、**まだ浮いている**をcentral candidate。
+- 以後はsurface battle resultが両空母の最終運命を決める。
+
+**この10分刻みで閉じられるもの**
+- Hornetの拿捕拒否は「魚雷を撃てるか」ではなく、**日本接触前に十分な数の有効魚雷を入れ、沈没/不可逆沈下まで進められるか**がgate。
+- centralでは最初のscuttle salvo開始は間に合う可能性が高いが、**沈没完了は間に合わない**。
+- Enterpriseはscuttleではなくtow継続がcentralなので、日本側がsurface coverを押し退ければ拿捕/撃沈のdecision windowがさらに長く残る。
+
+
 ### 10.1 まず再判定する論点
 
 **A. 米側は本当に両空母を早期放棄するか**
