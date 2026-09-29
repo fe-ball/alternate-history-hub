@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-09-27"
+updated: "2026-09-29"
 
 scenarios:
   asai:
@@ -43,9 +43,9 @@ scenarios:
     title: "発動機転生者"
     status: active
     authority_version: "Relaunch R3"
-    canonical_clock: "1941-12-07T08:45:00-10:30"
-    clock_state: "relaunch-r3; continuous technology/aircraft/war ledger promoted through 1941-12-07 08:45 HST; Pearl Harbor first wave closed in bounded audit form; second wave open; third-strike decision follows second-wave total-damage audit; post-1941 forward studies remain roadmap not actor-known outcomes"
-    frontier: "1941-12-07 08:45 HST、真珠湾第一波終了時点から再開。第二波を詳細再演し、第二波までの米側艦艇・航空機・基地被害と日本側機体・搭乗員損害、機動部隊のserviceable aircraft/ammunition/fuel/damaged-aircraft状態を閉じる。その次にfuel farms/dry docks/repair yard/submarine base/airfields、surprise消失、米空母所在不明、Kido Butai燃料・tanker・索敵・CAP・損傷機回収を入力として第三次攻撃可能性を評価する"
+    canonical_clock: "1942-06-04T13:30:00-10:30"
+    clock_state: "relaunch-r3; continuous war/technology ledger advanced through Midway mutual carrier strikes; Akagi/Kaga flight operations disabled but hull fates unresolved; Enterprise/Hornet mission-killed after two Japanese strikes; US carrier abandonment/scuttling/sinking/capture explicitly OPEN; next gate is towing feasibility and rescue-screen risk tolerance"
+    frontier: "1942-06-04 13:30級、ミッドウェー海戦中。現行入口はrelaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md。Enterprise/Hornetはmission killまでCLOSED/PROVISIONALだが最終運命はOPEN。まず両艦の浮力・傾斜・主機/操舵・火災・曳航可能性を個艦別に再構築し、米側が救援のため重巡/駆逐艦screenをどこまで危険に残すか、日本側が追加航空雷撃・水上追撃・拿捕/曳航をどう比較するかを閉じる。その後にのみ夕刻/夜戦、米二空母最終運命、Midway第二撃へ進む"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-ledger-through-pearl-harbor-first-wave-1941-12-07"
+    source_import: "relaunch-r3-continuity-ledger-through-midway-mutual-carrier-strikes-1942-06-04-1330-working-checkpoint"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
