@@ -32,6 +32,7 @@ Read:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/62_FUSO_YAMASHIRO_RELEASE_REAUDIT_WORKING_v001.md`
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/63_20JUN_SURFACE_ESCORT_TRANSPORT_OOB_CLOSEOUT_WORKING_v001.md`
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/64_20JUN_JAPANESE_SURFACE_AIR_DEFENSE_FORMATION_WORKING_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/65_20JUN_THIRD_ANTISURFACE_WAVE_TARGET_VALUE_REPLAY_v001.md`
 
 Current task:
 - preserve the 20 Jun daytime carrier/surface/ground working sequence and projectile/Type-3-shell re-audit;
@@ -42,7 +43,8 @@ Current task:
 - first propagate the slow-battle-line provenance correction: center **Fuso/Yamashiro/Ise/Hyuga as a four-ship trailing reserve by 14–16 Jun**, then release all four together on the **17 Jun ~17:30–20:00 Saipan-relief clock**; pay fuel/escort/opportunity-cost together;
 - use file 63 as the controlling pre-20-Jun force architecture: 12 BB layered 4/4/4, selected CA10/CL6, modern-DD 38-slot center, DD8 relief plan (6 Saipan / 2 Tinian) with actual night count damage-dependent;
 - carry file 64 first-wave result: distributed multi-box defense; Hiei 1 torpedo remains, Kongo direct hit removed to damaging near-miss center, one S1/S2 CA damaged, one fast-vanguard DD mission-killed, leaving **7 relief-convertible DDs**;
-- next replay the **third anti-surface wave** against both H1/H2 heavy line and the newly materialized L1/L2 slow four-BB line before returning to evening bombardment or the Nisshin night;
+- carry file 65 third-wave center: slow line attracts ~40–50% of the wave, Fuso/Yamashiro specifically ~25–30%; one Fuso-class receives 1 torpedo and falls to ~20–22 kt / earliest bombardment timetable degraded; no Musashi torpedo, no mandatory Yamato major near miss, no added Nagato degradation, and relief-convertible DD count remains **7**;
+- next close the damaged Fuso-class timing and regenerate the **evening shore-bombardment rotation / shell expenditure** with Ise/Hyuga + one healthy Fuso-class immediately available and the damaged sister delayed/degraded, then split DD7 for Saipan/Tinian and return to the Nisshin night;
 - after that replay, re-adjudicate whether the DD/heavy-gun disruption creates a safe enough Nisshin release window before Lee's bounded acquisition / U.S. re-interdiction closes it;
 - only after Nisshin release/abort is re-closed, advance unloading tonnage, losses, rescue, and Saipan ground conversion on one shared clock.
 
