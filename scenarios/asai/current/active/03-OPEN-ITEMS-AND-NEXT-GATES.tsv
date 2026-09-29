@@ -1,9 +1,17 @@
 priority	id	source_status	navigation_role	position	sources
-1	AT3-PROTOTYPE	NEXT	CURRENT-NEXT	構造/ランプ/脚/E6搭載の試験条件・合否と1942調達発動条件を扱う。	V26:11#at3_next_gate
-2	AT3-MEASUREMENTS	WORKING	TEST-DEPENDENT	実測抗力・搭載高度出力・大型床/ランプ/重心・減速機/プロペラ等の実証を計画値から分ける。	V26:10;V26:11
-3	AIRLIFT-FUTURE	WORKING-CLOSE/PLAN	FUTURE-EVENT	輸送入力の閉鎖は維持。実天候・戦闘損失・占領飛行場・1942納入結果は将来イベント。	V26:08
-4	ENTERPRISE-DETAIL	WORKING	DEFERRED-DETAIL	正確な曳航編成・Pearl入港/入渠・恒久修理完了は未決。全夜間戦を白紙にしない。	V26:06#enterprise_repair
-5	CARDIV2-DETAIL	WORKING/OPEN	DEFERRED-DETAIL	米反撃で被弾する日本空母名、個艦航空機/搭乗員台帳等を必要なイベントで精密化。	V26:07#8;V26:09#us_counterstrike_cardiv2
-6	REPAIR-PROJECTION	WORKING	NOT-A-GLOBAL-CLOCK	Saratoga等の帰港・偵察・修理/再生日程はworking影響見積り。個別時刻の整合は必要時に閉じる。	V26:07#11;V26:07#12;V26:09#saratoga_repair
-7	OLD-WAKE-NEXT	NEXT	SUPERSEDED-NEXT	旧06のWake第二次着手指示からは再開しない。	V26:06#next_gate;V26:09#wake_fall_dec23
-8	OLD-AT3-NEXT	NEXT	SUPERSEDED-NEXT	旧09のAT-3再監査開始指示は10/11後の現在指示ではない。	V26:09#next_gate;V26:11#at3_next_gate
+1	MO-SURFACE-OOB	NEXT	CURRENT-NEXT	1942-04-16夕刻のCrace型連合軍水上部隊と日本MO船団護衛の実際の集中可能艦・損傷・速度・弾薬・燃料・疲労を確定する。	V26:12#17;V26:12#19
+2	TYPE93-SHIP-FIT	NEXT	CURRENT-NEXT	日本側各艦の九三式発射管数・発射弧・再装填可否/残数と、再装填中の戦術制約を確認する。	V26:12#16;V26:12#17
+3	SURFACE-FCS-SENSORS	NEXT	CURRENT-NEXT	日米豪各艦のFCS、夜戦光学、通信、照明弾/探照灯、1942年4月時点の実用電探有無を個艦で確認する。R-levelから電探を推定しない。	V26:12#16;V26:12#17
+4	SURFACE-GEOMETRY	NEXT	CURRENT-NEXT	月齢・日没/月出・視程・雲・降雨・海況、船団位置/速度/隊形、護衛離脱余地を確定して最初の接触幾何を作る。	V26:12#17
+5	ALLIED-TYPE93-KNOWLEDGE	OPEN	AUDIT	連合軍が1942年4月時点で九三式の長射程/低視認航跡をどこまで認識しているか、情報・戦訓・実見から確認する。未確認なら偶然の変針を意図的回避扱いしない。	V26:12#16.2
+6	JAPAN-POST-SALVO-MANEUVER	OPEN	REPLAY-DEPENDENT	発射後の日本艦隊変針を自艦安全、味方魚雷線回避、再装填/次斉射/砲戦位置、敵雷撃回避、船団保護から計算する。秘匿演出を主因にしない。	V26:12#16.2
+7	SHOHO-CURRENT	WORKING	REPLAY-DETAIL	Shohoの4月14日被弾後の速度、甲板/昇降機状態、4月16日夕刻の使用可能機・CAP継続力を精密化する。	V26:12#11;V26:12#15;V26:12#17
+8	ZUIKAKU-AIRGROUP	WORKING	REPLAY-DETAIL	4月9/11/14/16の損耗後の実働機・搭乗員・再武装/整備余力を必要なら個数化する。	V26:12#7;V26:12#8;V26:12#11;V26:12#14
+9	PM-LAE-AIR-COVER	WORKING	REPLAY-DETAIL	水上戦が昼間へ及ぶ場合、Lae A6M/E6 TwinとPort Moresby P-40/P-39/A-24の時限援護可能数を再計算する。	V26:12#10;V26:12#12;V26:12#15
+10	DOOLITTLE-FOLLOWUP	WORKING	DEFERRED-GATE	MO後にHornet/B-25作戦を再開する場合、Enterprise/Saratoga状況、中国受入余力、本土防空を再監査する。	V26:12#3
+11	WEST-GT-TORPEDO-BOAT	WORKING	DEFERRED-GATE	西方のGT水雷艇需要は成立方向だが、現行design closure・要求・試作/調達時期を別途閉じる。	V26:12#2.3
+12	AT3-PROTOTYPE	NEXT	DEFERRED-NEXT	構造/ランプ/脚/E6搭載の試験条件・合否と1942調達発動条件。未処理だが現在の戦役再開点ではない。	V26:11#at3_next_gate;V26:12#1
+13	ENTERPRISE-DETAIL	WORKING	DEFERRED-DETAIL	正確な曳航編成・Pearl入港/入渠・恒久修理完了は未決。全夜間戦を白紙にしない。	V26:06#enterprise_repair
+14	CARDIV2-DETAIL	WORKING/OPEN	DEFERRED-DETAIL	Wake反撃で被弾した日本空母名、個艦航空機/搭乗員台帳等は必要イベントで精密化。	V26:07#8;V26:09#us_counterstrike_cardiv2
+15	OLD-WAKE-NEXT	NEXT	SUPERSEDED-NEXT	旧06のWake第二次着手指示からは再開しない。	V26:06#next_gate;V26:09#wake_fall_dec23
+16	OLD-AT3-NEXT	NEXT	SUPERSEDED-NEXT	旧09のAT-3再監査開始指示は10/11で処理済み。	V26:09#next_gate;V26:10;V26:11
