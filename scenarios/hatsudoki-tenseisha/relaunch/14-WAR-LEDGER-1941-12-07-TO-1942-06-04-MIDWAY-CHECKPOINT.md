@@ -480,14 +480,14 @@ Enterprise SBD strike central:
 - historical 90–110 mile-class separationを保守的anchorとし、R3では早期敵発見・日本側closure・米空母停止を考慮して、追撃開始時rangeを**90–110 nmi-class central、80–100 nmi sensitivity**とする。
 - 霧島を含む追撃隊のsustained advanceを**28–30kt**とする。
 - 米損傷空母が停止ならclosure 28–30kt。重巡曳航が成立しても東向き2–3kt級なのでclosureは25–28kt程度。
-- 12:00–12:30に出れば、central contact windowは概ね**15:15–16:30**。
-- 発令/編成が13:00まで遅れても、おおむね**16:00–17:15**に接触し得る。
-- 従って**13:30 checkpointでは追撃隊は既に1時間前後走っており、残距離は概ね50–80 nmi級**というpictureをcentral candidateとする。
+- broad sensitivityとして、早い12:00発進・90 nmi級なら15:15級、遅い12:30発進・110 nmi級なら16:20級まで振れる。
+- ただし10分刻みcentralでは、**12:30分離 / 100–110 nmi / 29kt**へ固定し、surface arrivalを**16:00–16:20**とする。
+- 従って**13:30 checkpointでは追撃隊は約1時間走っており、残距離は概ね70–85 nmi級**をcentralとする。
 
 **米側救難とのoverlap:**
 - Hornetは第一撃後から救難が始まり、Northamptonをtow candidateとするのが自然。Santa Cruz実例ではHornet dead-in-water後、DD3隻が横付け消火し、Northamptonの曳航成立まで複数時間を要した。
 - Enterpriseは第二撃後に初めて本格救難時計が始まるため、13:30でもtow preparation / wounded transfer / damage-controlの途中。
-- 15:15–16:30に日本追撃隊が来るなら、米側が13:30以後に使える猶予は**約2–3時間**しかない。
+- centralの16:00–16:20に日本追撃隊が来るなら、米側が13:30以後に使える猶予は**約2時間半–3時間弱**。早期発進sensitivityではさらに短くなる。
 - これは「二空母の全員救助 + 両艦曳航成立 + screen再編」を完了するには短いが、「救艦を諦めた一艦の退艦を加速し、自沈魚雷を準備する」には意味のある時間である。
 - したがって日本側接近を認知した米側は、**Hornetを先に処分候補、Enterpriseを優先救難/曳航候補**へ分ける圧力が強い。
 - ただし自沈命令と沈没完了は分離する。Santa Cruz Hornetは米DDの大量魚雷・砲撃でも直ちに沈まず、後に日本側が拿捕・曳航を検討できるほど長時間浮いた。
@@ -534,7 +534,7 @@ Enterprise SBD strike central:
 - よってMidway aircraftからのsurface-pursuit発見は**backup / late warning**とし、SOCより確実なcentral sourceにはしない。
 
 **warning-time consequence:**
-- 日本追撃隊のcontact windowを15:15–16:30 centralとした場合、SOC contactが14:05–14:40なら米側warningは概ね**45分–2時間強**。
+- 10分刻みcentralのsurface arrivalを16:00–16:20とした場合、SOC contactが14:05–14:40なら米側warningは概ね**1時間20分–2時間15分**。早期到来sensitivityでは45分級まで縮み得る。
 - SOCが見失い、radar/visual onlyなら**30–60分級**まで縮む。
 - この差がHornetの処分可否を直接支配する。
 
