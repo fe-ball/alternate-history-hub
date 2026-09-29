@@ -289,8 +289,15 @@ central strike result:
 - 敵位置既知で一・二航戦第二対艦撃を09:45–10:05級に発進可能。
 
 Enterprise SBD strike central:
-- 加賀: 1000lb級2発 + near miss、**大破・航空作戦不能**。史実ほど格納庫に燃料/兵装済攻撃機を抱えていないため即喪失へ自動移行しない。
-- 赤城: 1000lb級1発、**中～大破・航空作戦停止**。船体生存。
+- **加賀: 直撃2発 + near miss級、航空作戦不能 — CLOSED。**
+  - 旧「1000lb級2発」は撤回する。史実Enterprise strikeではVS-6/McClusky群に500lb + 2×100lb、VB-6に1000lbが混在し、R3の「史実より命中数が減る」counterfactualだけから残存命中弾の重量を一意には決められない。
+  - damage energeticsのworking centralは**500lb級2発**。一方、1000lb級1発が残るsensitivity caseはPROVISIONALで保持する。
+  - 命中位置centralは史実Kagaの命中順を参照し、**前部elevator周辺 + 後部elevator/flight-deck周辺**。艦橋直撃は起こらず、岡田艦長以下の指揮中枢は生存。
+  - 前後elevator/flight deck損傷と局所hangar fireで**航空母艦としてはmission kill**。ただし史実の「艦橋壊滅 + 多数のarmed/fueled aircraft誘爆」連鎖は起こらない。
+- **赤城: 1000lb級直撃1発 + damaging near miss 2級、航空作戦不能 — CLOSED。**
+  - 中央elevator/upper hangar付近への直撃で航空運用を止める。
+  - R3では一・二航戦第二対艦撃がすでに発進済みのため、史実よりhangar内の燃料・兵装済攻撃機密度が低く、史実型の連鎖誘爆・全艦火災へ自動移行しない。
+  - ただし**艦尾側near miss由来のsteering damageは残す**。機関そのものの全喪失とは分離する。
 - 蒼龍、飛龍、翔鶴、瑞鶴: central hitなし。
 - Enterprise SBD未帰還8–11級 + operational loss追加。
 
@@ -313,23 +320,67 @@ Enterprise SBD strike central:
 - 米空母から既に発進した生残航空機の相当数はMidwayへのdivertが可能。
 - 日本側は赤城/加賀の甲板が使えず、蒼龍/飛龍/翔鶴/瑞鶴4甲板で他艦所属機を含め収容。着艦事故・燃料切れ等の追加損失4–7級を許容。
 
-### 9.4 現在の日本第一機動部隊 — 約13:30
+### 9.4 日本側損害を閉じる — 約13:30
 
-| 艦 | working state |
+#### CLOSED / PROVISIONAL — 赤城
+
+- **航空母艦としてはmission kill。**
+- 直撃1 + 前後near miss級。中央elevator/upper hangar損傷、局所火災。
+- 史実では直撃後、hangar内の燃料・兵装済航空機の誘爆、消火設備損傷、熱・煙の拡大が致命化した。R3では第二対艦撃発進済みのため、このfire loadを大幅に下げる。
+- ただし史実で独立に確認できる**艦尾near miss→steering damage**は残す。
+- 主機は全喪失させない。応急操舵・左右機関差動を含め、**8–12kt級のcontrolled withdrawalをPROVISIONAL central**とする。修復成功なら上振れ、rudder hard-over継続なら下振れ。
+- 艦載機発着能力はゼロだが、側面AA・20cm砲等が一斉に全滅する理由はない。煙、局所停電、射界制限で効率は低下するが、**軍艦としては武装を残す**。
+- 分類: **「空母として丸腰、軍艦として小刀あり、脚を傷めた要介護」**。
+
+#### CLOSED / PROVISIONAL — 加賀
+
+- **航空母艦としてはmission kill。**
+- 直撃2 + near miss級。working centralは500lb級2発、前部elevator周辺 + 後部elevator/flight-deck周辺。
+- **艦橋直撃なし**をcentralとする。したがって史実の岡田艦長・航海/砲術中枢喪失は発生せず、damage-control command chainも残る。
+- 局所hangar fireとelevator/flight-deck破壊は重いが、史実の4直撃 + bridge destruction + armed/fueled aircraft誘爆より明確に軽い。
+- 主機・rudderはcentralで生存。**12–18kt級、中心16kt前後のcontrolled withdrawalをPROVISIONAL**とし、火災収束後は機関的にはさらに上げ得るが、消火・構造監視中は抑速する。
+- 側面AA・20cm砲の相当部分を使用可能とする。煙・局所電源喪失・被弾区画は差し引く。
+- 分類: **「空母として丸腰、軍艦として小刀あり、自力歩行できる要介護」**。
+
+#### CLOSED — その他の第一機動部隊major damage
+
+| 艦 | 13:30 working state |
 |---|---|
-| 赤城 | 中～大破、航空作戦不能、自航可能性あり |
-| 加賀 | 大破、航空作戦不能、速力制限/自航可能性あり |
-| 蒼龍 | 健在 |
-| 飛龍 | 健在 |
-| 翔鶴 | 健在 |
-| 瑞鶴 | 健在 |
-| 榛名/霧島/利根/筑摩等 | major damageなし中央 |
+| 蒼龍 | 健在、航空作戦可能 |
+| 飛龍 | 健在、航空作戦可能 |
+| 翔鶴 | 健在、航空作戦可能 |
+| 瑞鶴 | 健在、航空作戦可能 |
+| 榛名 | major damageなし |
+| 霧島 | major damageなし |
+| 利根 | major damageなし |
+| 筑摩 | major damageなし |
+| 長良 | major damageなし |
 
-航空:
+米側の戦果誤認をscenario damageへ採用しない。追加の直撃入力がない艦はmajor damageなしで閉じる。
+
+#### CLOSED/PROVISIONAL — 当座措置と護衛拘束
+
+- **南雲司令部は赤城に拘束しない。** 赤城が航空作戦不能 + steering troubleとなった段階で、戦闘指揮を健在艦へ移す。史実同様、野分をtransfer / close supportへ使い、長良を第一航空艦隊の指揮platformとするのがcentral。
+- **野分 → 赤城**を当面の近接救難・通信・対潜護衛1隻として置く。
+- **萩風 → 加賀**を当面の近接救難・対潜護衛1隻として置く。史実でも萩風は最終的な加賀処分を担当しており、同艦担当へ置くのが自然。
+- 嵐・舞風等を最初から損傷艦へ固定しない。赤城の操舵修復失敗、加賀火災再燃、乗員移乗等が生じた時だけ増援する。
+- よって**13:30時点の損傷空母介護による確定DD拘束はまず2隻**をcentralとする。
+- 六空母化で護衛駆逐艦を史実よりやや増強している既存R3条件もあり、損傷空母二隻が第一機動部隊の高速水上追撃能力を全面停止させる状態ではない。
+
+#### 航空・整備
+
 - 四健在空母上に相当数の機体を保持するが、連戦・被弾・他艦所属機混在でdeck/maintenance congestion。
 - 即座に100機級第三撃を無料で出せる状態ではない。
+- 赤城・加賀所属の帰還機を四空母へ吸収するため、fuel / rearm / spotting / maintenance / pilot debriefが平時より悪化。
 - Midway基地は朝の打撃で損傷したが使用可能。
 - 米艦載機生残の一部がMidwayへ流入し得る。
+
+#### Historical anchors used for this closure
+
+- USN 1942 combat narrative / Enterprise group reports: VS-6系は500lb + 2×100lb、VB-6は1000lb搭載。Kaga/Akagiへの実際の命中数・重量は戦中報告と戦後再構成に差があるため、R3では**命中数とmission effectをCLOSED、残存弾重量をPROVISIONAL**に分離する。
+- Japanese Midway action account: Akagiでは直撃後にCO2消火、弾火薬庫注水、pump投入が行われ、後にsteering damageが記録された。R3ではfire load減少によりこれら初動措置の成功率を上げるが、steering damage自体は消さない。
+- Japanese postwar interrogation: Kagaの史実4直撃のうちforward elevator / after elevator周辺 / island付近 / aftの命中が報告され、bridge destructionが指揮・消火能力を大きく悪化させた。R3の2-hit branchではbridge hitを落とす。
+- 史実の第一機動部隊screenは長良 + DesDiv 4/10/17。R3では六空母化で護衛をやや増強する既存条件を維持する。
 
 ## 10. **CURRENT OPEN GATE — Enterprise / Hornetをどうするか**
 
