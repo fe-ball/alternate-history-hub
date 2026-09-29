@@ -386,6 +386,43 @@ Enterprise SBD strike central:
 
 ここから先は**未解決**。前会話で一度置いた「米側が17時台までに放棄・自沈処分し、日本追撃隊が夕刻に残骸を撃沈」は正本化しない。
 
+### 10.0 米側再監査baseline — WORKING / historical anchors
+
+まずTF16自体の救難・曳航・自沈能力を過小評価しない。
+
+**史実Midway TF16構成:**
+- CV: Enterprise, Hornet
+- CA: New Orleans, Minneapolis, Vincennes, Northampton, Pensacola
+- CL: Atlanta
+- DD: Phelps, Worden, Monaghan, Aylwin, Balch, Conyngham, Benham, Ellet, Maury
+- 1942-06-04のTF16 action reportも **2 CV / 5 CA / 1 CL / 9 DD** を確認する。
+
+したがって二空母がmission killされても、周囲に救難・対空・対潜・曳航・自沈処分へ回し得る艦は相当数残る。ただし二艦同時救援ではscreen分割が必要で、四健在日本空母・追加航空撃・水上追撃が存在するR3では「救難艦が多い＝安全」ではない。
+
+**Yorktown級damage-control physical anchors:**
+- 史実YorktownはMidwayで3 bomb hit後、一度停止したが約1時間強で20kt級まで復旧した。
+- その後、同一側へのair torpedo 2 hitでsteam/electric powerを失い、rudder約15°左でjam、dead in water、listは急速に増大し26°級となって一時総員退艦した。
+- それでも船体は沈まず、後日salvage partyが戻り、list低減・排水・曳航が実施できた。
+- 史実HornetはSanta Cruzで初期攻撃のair torpedo 2 hit + bomb/crash damageによりdead in waterとなったが、Northamptonによる約3kt曳航まで実施された。
+- Hornetは最終的にair torpedo計3 + bomb複数 + aircraft crashを受けても長時間浮き続け、米DDによる自沈処分も直ちには成功しなかった。
+
+**R3への直接含意:**
+- 現行9.1の **Hornet「2 torpedo + 2 bomb後に12–18kt」** は、hit geometryをまだ定義していない状態では楽観的すぎる可能性が高い。**この速度値をPROVISIONAL RE-AUDITへ降格**する。
+- Enterpriseの「1 torpedo + 1 bomb後20–24kt」は、命中位置がmachinery/steeringを外れ、damage controlが成功する枝なら物理的に可能なので、現段階ではPROVISIONALのまま保持する。
+- 11時台の第二撃後は両艦とも累積約3 torpedo + 3 bomb。**dead in water / severe power lossをcentral候補**として、torpedo side/distribution・boiler/engine room・switchboard・rudder hitを個艦別に置き直す。
+- ただし「dead in water = 沈没」ではない。Yorktown/Hornetの実例から、浮力を維持したまま数時間〜日単位で残存し、救難・曳航・自沈・拿捕のdecision windowが開くことは十分あり得る。
+
+**米側は曳航能力を持つ:**
+- Northamptonは後のSanta CruzでHornetを実際に曳航し、約3ktを出した。R3のTF16にもNorthamptonがいる。
+- 他CAも曳航作業へ参加可能だが、battle damage・海況・曳索・接近航空攻撃下での成立は別gate。
+
+**米側は自沈能力も持つ:**
+- Phelpsはわずか27日前のCoral SeaでLexington自沈を実行した実艦であり、R3のTF16にもいる。
+- Lexington処分では5 torpedoを発射し4本が作動して沈没に至った。したがって「米側は空母を魚雷で処分する手段・経験を知らない」は不可。
+- 一方、YorktownやSanta Cruz Hornetの例から、**魚雷発射命令を出せば即座に沈む**とも置かない。船体状態・命中位置・信管作動・乗員退避・処分艦の接近に実時間が必要。
+
+この段階ではEnterprise/Hornetの最終損傷状態をCLOSEDにしない。次に各艦について、第一撃と第二撃の命中位置を置き、power / propulsion / rudder / list / fire / DC / AA / tow pointを再計算する。
+
 ### 10.1 まず再判定する論点
 
 **A. 米側は本当に両空母を早期放棄するか**
