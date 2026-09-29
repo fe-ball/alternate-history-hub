@@ -141,62 +141,38 @@ canonical clockより未来の正本記述があっても、
 史実の部隊配置、作戦目的、天候、移動、工場移転、生産、援助、政治決定等が因果に効く場合は、その都度外部資料で確認する。
 
 特に、
-- 「史実でも既にやっていたこと」をR2独自効果にしない
+- 「史実でも既にやっていたこと」をこの世界線固有の効果にしない
 - 後世の俗説・誤った損害数字を採用しない
 - 一つの史料の誤認をscenario factへ直結させない
 - 史料事実とscenario audit estimateを明示的に区別する
 
 こと。
 
-## 8. 現checkpoint — 2026-09-24更新
+## 8. 現checkpointはこのファイルへ固定しない
 
-authority version: **Relaunch R2**
-canonical historical clock: **1939-10-11T00:00**
+この汎用プロンプトは、authority version / canonical clock / clock state / frontier の可変スナップショットを保持しない。
 
-必読の後続正本:
-- `relaunch/09-CHINA-WAR-LEDGER-1938-05-21-TO-1939-10-11.md`
-- `relaunch/10-FIGHTER-DEVELOPMENT-1938-1940.md`
+毎回必ず、
+- `scenarios.yaml` の `hatsudoki-tenseisha`
+- そこが指す `authority_entrypoint`
+- authority entrypointが指定するcurrent war ledger / technical ledger
 
-現在までに閉じた大筋:
-- 黄河決壊、武漢、Wanjialing、南昌、随県棗陽、ノモンハン裏番組、第一次長沙まで連続再生済み
-- 第一次長沙は中国側の長沙防衛成功を維持する一方、日本第11軍は誘致後退をやや早く認識して撤退損失を軽減
-- 中国側は人員を残す一方、砲・AT・radio・vehicle・horse・熟練等の希少戦力が相対的に薄い
-- 武漢疎開のcritical machineryは大半を保存するが、一般設備・原料・補機・輸送損失により後方工業の立上がりが弱る
-- 日本側はノモンハンで敗北するが、staff / support cadreと中国方面航空availabilityを史実相当より多く保存
-- Ki-43は1939秋にpilot / early serial実用段階。1939 formal adoption中央なら九九式戦闘機
-- Ki-44はO2D少数実用・O4/昴本命
-- 1939 O2Dは70–100基、中央約85へ下方監査。O2Cへ生産mixを寄せる
+から現在地を復元する。
 
-## 9. 次にやること
+このファイル内の説明とregistry / authority entrypointが競合した場合は、**registryとauthority entrypointを優先**する。
 
-current frontier:
-**1939年末中国の国家戦争台帳を閉じ、その台帳から1939年冬季攻勢を再演する。**
+## 9. authority解決直後にやること
 
-中国について最低限、
-- organized personnel
-- rifles / ammunition
-- LMG / HMG / mortar
-- field / mountain artillery / AT
-- radio / signal
-- truck / tractor / horse / cart
-- officer / NCO / mechanic quality
-- domestic arms production by category
-- migrated factory restart / throughput
-- Soviet / French Indochina / Burma imports
-- fiscal mobilization / inflation
-- rail / river / motor transport
-- aircraft / pilots / engine hours / spares
+current ledgerから、
+- authority / canonical clock / frontier
+- 艦艇・航空機・発動機・搭乗員・整備・燃料・弾薬の継続在庫
+- CLOSED / PROVISIONAL / OPEN
+- 直前戦役から持ち越す損傷・疲労・学習
+- 次に閉じるdecision gate
 
-を、
+を再構成する。
 
-**全国保有量
-/ front-serviceable availability
-/ monthly replenishment capacity**
-
-へ分ける。
-
-「中国にまだ武器がある／ない」の二値にしない。
-小銃・小銃弾のような再生しやすい品目と、砲・AT・radio・truck・precision equipmentのような希少品目を分ける。
+過去checkpoint専用の再開プロンプトはREFERENCEとして扱い、現行authorityの代用にしない。
 
 ## 10. 回答スタイル
 
