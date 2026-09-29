@@ -293,7 +293,23 @@ Arithmetic:
 Selected center:
 **~140–150 dead**.
 
-The rest are surviving wounded with the same severity categories used in file 69.
+### Combined surviving-wound disposition
+
+Severe surviving WIA / no return to this Saipan campaign:
+**~79–132**.
+
+Within that group, eventual major permanent-disability sensitivity:
+**~35–65**.
+Do not decide exact lifelong disability at the battlefield clock; the campaign-level fact is that the full 79–132 group does not return promptly.
+
+Moderate WIA / medically unfit for several days to weeks:
+**~183–305**.
+
+Light WIA / short-term medically impaired:
+**~193–301**.
+Some return in hours to 1–3 days; others remain present but perform below normal during the night transition.
+
+These three surviving-wound groups plus the 100–177 dead sum to the selected **555–915 physical-casualty envelope**.
 
 Do not add NP cases to this physical total.
 
