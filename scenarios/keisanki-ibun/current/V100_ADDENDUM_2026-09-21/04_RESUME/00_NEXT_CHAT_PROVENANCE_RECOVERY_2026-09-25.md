@@ -1,3 +1,22 @@
+# LATEST POINTER — 2026-09-29
+
+The rolling resume below is retained for provenance, but the latest active replay state has advanced materially.
+
+**Read first now:**
+`AUDIT_RESET_2026-09-25/67_NEXT_CHAT_FOUR_BB_OOB_AA_BOMBARDMENT_HANDOFF_v001.md`
+
+Latest recovery/replay closes:
+- common Fuso/Yamashiro/Ise/Hyuga Saipan release;
+- 12-BB / CA / CL / DD mission-slot OOB;
+- distributed Japanese surface AA formation;
+- regenerated first anti-surface wave;
+- third-wave Fuso/Yamashiro target-value allocation;
+- slow-BB 14/15.2-cm secondary-battery shore-fire geometry and ammunition.
+
+Older post-20:30 night hit adjudications are **not inherited** after this reset. Rebuild them from the new evening state.
+
+---
+
 # NEXT CHAT — 18日18:00 WORKING、海空standoffとSaipan地上再演を接続
 
 Updated: 2026-09-26
