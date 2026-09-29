@@ -564,7 +564,97 @@ Enterprise SBD strike central:
 - 14:30以後: Hornet総員退艦加速、Phelps魚雷処分準備。
 - 15:30–16:15級: Hornet scuttle attemptと日本追撃隊接触が競合する。
 
-このbranchは次段で、Hornet残留人員数・boats/DD pickup capacity・Phelps発射位置・日本側visual contact時刻を入れて10–15分刻みに詰める。
+このbranchは次段で、Hornet残留人員数・boats/DD pickup capacity・scuttling DD・日本側visual contact時刻を入れて10–15分刻みに詰める。
+
+#### 10.0D TF16を艦名単位で再配置する — PROVISIONAL central
+
+**史実の初期screen assignmentをそのまま出発点にする。**
+
+Enterprise group:
+- **Pensacola / Northampton / Vincennes**
+- **Phelps / Aylwin / Monaghan / Balch / Benham**
+
+Hornet group:
+- **Minneapolis / New Orleans / Atlanta**
+- **Worden / Conyngham / Ellet / Maury**
+
+史実ではYorktown被弾後、SpruanceがPensacola / Vincennes / Balch / BenhamをTF17救援へ出したためEnterprise screenが一時薄くなった。R3ではYorktown/LexingtonがCoral Seaで失われTF17自体が存在しないので、この4隻もTF16内に残る。したがって**二空母救難を始める時点のTF16は史実Midwayよりsurface escort余力が大きい**。
+
+**第一撃後 — Hornetだけがdead in waterの時間帯**
+- Hornetの元screenで救難開始。
+- **Minneapolis / New Orleansのどちらか1隻をtow candidate**。centralはMinneapolisとするが、両艦は同級でありlocal geometry次第なので艦名はPROVISIONAL。
+- AtlantaはAA centerとしてHornet近傍を維持。
+- Worden / Conyngham / Ellet / Mauryの2–3隻がfirefighting / wounded / personnel transfer、残りがASW / AA screen。
+- Enterprise側は自航を維持し、元screenを概ね保持する。
+
+**第二撃後 — Enterpriseもdead in water化**
+- Enterpriseはpower / communications lossによりflagship機能が大幅低下。
+- 史実でFletcherがimmobilized YorktownからAstoriaへflagを移したのと同じ理由から、**SpruanceはEnterpriseに残らずcruiserへflag transferする方向をCLOSED**。
+- central transfer先は**Pensacola**。PensacolaはEnterprise groupかつKinkaidのcruiser command platformで、TF16全体のsurface coordinationを継続しやすい。
+- exact transfer completionは**11:45–12:15級 PROVISIONAL**。
+- Enterprise tow candidateは**Northampton**をcentral。大型CAとして十分なbollard / deck-handling capabilityがあり、後のSanta Cruzで実際にYorktown-class Hornetを曳航できたことをphysical benchmarkとする。
+- VincennesはPensacolaとともにcommand / surface screen。
+- Phelps / Aylwin / Monaghan / Balch / Benhamから、2–3隻をEnterprise近接救難、残りをouter screenへ置く。
+
+**14:20級に日本surface pursuitを探知した後**
+Spruanceの優先順位を次でcentralとする。
+
+1. **Hornet salvage中止。**
+2. **Enterprise salvage / towは継続。**
+3. Hornet側のCA/CLを速やかにcombat screenへ復帰させる。
+4. Hornetの最終退艦・scuttleは元Hornet screenのDDで処理する。
+5. surface gunlineをEnterpriseの西側へ再集中し、日本追撃隊とEnterpriseの間に入れる。
+
+**Phelpsの扱いを修正する。**
+- PhelpsはCoral SeaでLexington処分経験を持つが、MidwayではDesRon 1のflagshipでありEnterprise側screenにいる。
+- 追撃接近時にわざわざHornetまで横断させるとdestroyer command / timeを浪費する。
+- よって旧workingの「PhelpsをHornet scuttling shipへ指定」はcentralから外す。
+- Hornetのscuttleは**Worden / Conyngham / Ellet / Mauryのうち現場に残る1–2隻**で行う。どの艦が最も近く、何本の魚雷を残すかは次の10–15分刻み処理で決める。
+- PhelpsはPensacola / Enterprise救難群側に残し、Capt. Earlyのdestroyer command continuityを維持する。
+
+**14:30–15:00級のworking allocation**
+
+Enterprise rescue group:
+- Enterprise
+- **Northampton — tow**
+- **Aylwin / Monaghan — close rescue / ASW / tow support**
+- 必要なら1隻追加。ただしsurface action警報後は増やしすぎない。
+
+Hornet disposal group:
+- Hornet
+- **Worden / Conyngham / Ellet / Mauryのうち2–3隻**
+- 退艦収容 + 1–2隻によるscuttle準備。
+- Minneapolisはtowを切り、退艦が進み次第combat screenへ戻す。
+
+Surface command / covering group:
+- **Pensacola — Spruance + Kinkaid command nucleus**
+- **Vincennes**
+- **Minneapolis**
+- **New Orleans**
+- **Atlanta**
+- **Phelps / Balch / Benham**
+- Hornetから解放されたDDを順次追加。
+
+この段階でNorthampton 1 CAとEnterprise近接DD 2隻、Hornet処分DD 2–3隻が拘束されても、米側は概ね**4 CA + 1 CL + 3–5 DD**をsurface coverへ戻せる。
+
+**surface firepower implication**
+- Pensacola: 10×8-inch
+- Vincennes / Minneapolis / New Orleans: 各9×8-inch
+- よって4 CAを揃えれば**37門の8-inch**。
+- Atlantaは16×5-inch/38 DPの強いAA / close surface battery。
+- これは「救難船団が丸腰」という状態ではない。
+- 対する日本追撃centralは霧島 + 利根 + 筑摩 + DD5。日本側は14-inch砲とLong Lanceを持つが、昼間の正面水上戦を無傷で一方的に押し切れる相手でもない。
+
+ただし米側のsurface groupは**Enterpriseを守るため後退方向・戦闘位置を拘束される**。日本側は必ずしも米巡洋艦隊を撃滅する必要はなく、
+- towを切らせる
+- Hornet scuttleを急がせる
+- Enterpriseを放棄させる
+- rescue DDを散らす
+だけでも作戦目的の大半を達成し得る。
+
+したがって15–16時台のsurface contactは「日本追撃隊 vs 無防備な残骸」ではなく、
+**日本高速追撃隊 vs 退艦・曳航作業から急造した米巡洋艦covering force**
+として処理する。
 
 ### 10.1 まず再判定する論点
 
