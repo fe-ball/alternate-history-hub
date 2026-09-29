@@ -27,7 +27,8 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/68_20JUN_TYPE3_SUPPRESSION_OBSERVATION_GROUND_REGEN_WORKING_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/69_20JUN_US_CASUALTY_COMPOSITION_FUNCTIONAL_LOSS_WORKING_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/68_20JUN_TYPE3_SUPPRESSION_OBSERVATION_GROUND_REGEN_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_NEXT_CHAT_FOUR_BB_OOB_AA_BOMBARDMENT_HANDOFF_v001.md` for the immediately preceding consolidated state
 
 Supporting detail:
@@ -41,7 +42,9 @@ Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
 
 Current task:
-- **file 68 is the latest WORKING integration for the 20-Jun bombardment-to-night transition; where it conflicts with older bombardment bullets, file 68 wins. File 67 remains the preceding consolidated OOB/AA/bombardment handoff.**
+- **file 69 is the latest WORKING human/effect close for the 20-Jun bombardment; file 68 remains controlling for bombardment/Type-3/observation/regeneration mechanics, and file 67 for the preceding consolidated OOB/AA state.**
+- carry file-69 casualty composition: physical U.S. casualties ~500–780 / center ~630–650; dead ~95–155 / center ~125; severe surviving no-return 75–115; moderate WIA 170–260; light/short-term WIA 160–250; separate recognized combat-exhaustion/NP cases 35–70 plus 70–140 undocumented functional-degradation class; do not add overlapping blast/auditory cases twice;
+- carry file-69 fire-support effect: hardest-hit boxes can fall ~60–80% in useful output briefly; broader Aslito west/north ~30–45% during peak, ~20–35% during reconstitution, residual ~10–25% debit around 20:00–20:15 vs no-bombardment case;
 - carry the file-68 corrections: Kongo-class short 35.6-cm shore pulse 24–40 rounds; total naval bombardment ~1,124–1,549 / center ~1,330; Type-3 expenditure ~143–247 / center ~190; Japanese ground regeneration begins during the bombardment; one short dusk water-air observation mission is centered; intermittent illumination is allowed after suppression/target confidence is established;
 - file 68 now also closes ammunition feasibility at bounded granularity: nominal magazine capacity easily covers the selected evening expenditure even under a conservative earlier-day debit; preserve AP/AA/illumination reserves and **do not reopen per-turret/per-magazine/per-shell accounting unless a later operational contradiction requires it**;
 - preserve the Type-3 gun-family distinction: all 12 BB main batteries and selected 20.3-cm CAs are Type-3-capable; Ise/Hyuga and Nagato/Mutsu 14-cm are capable; Kongo/Fuso 15.2-cm and Yamato/Musashi 15.5-cm are not credited Type 3; Type 89 12.7-cm Type 3 exists but shore expenditure remains zero-centered to preserve AA reserve;
