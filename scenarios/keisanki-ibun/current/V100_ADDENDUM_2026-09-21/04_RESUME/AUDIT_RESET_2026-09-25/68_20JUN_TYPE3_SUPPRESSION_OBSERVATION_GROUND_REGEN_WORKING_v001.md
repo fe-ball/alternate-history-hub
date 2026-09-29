@@ -396,7 +396,75 @@ It changes the initial conditions of the night replay.
 
 ---
 
-## 12. Selected close
+## 12. Bounded ammunition-stock sanity close
+
+Do **not** open an individual-shell magazine reconstruction after this section unless a later contradiction makes it necessary.
+
+Historical gun-family magazine capacities are large compared with the selected evening expenditure:
+- 46-cm Type 94: about **100 rounds/gun**;
+- 41-cm 3rd Year Type: about **90 rounds/gun**;
+- 35.6-cm 41st Year Type: about **80 rounds/gun**;
+- 20.3-cm No.2: about **120–126 rounds/gun**.
+
+Against those capacities, the selected evening shore-fire burden is modest per barrel:
+- Yamato/Musashi 46-cm: ~36–54 / 18 guns = **~2–3 rounds/gun**;
+- Nagato/Mutsu 41-cm: ~24–40 / 16 = **~1.5–2.5 rounds/gun**;
+- slow-line 35.6-cm: ~250–335 / 48 = **~5–7 rounds/gun average**;
+- Kongo-class shore pulse: ~24–40 / 32 = **~0.75–1.25 rounds/gun**;
+- selected CA 20.3-cm layer: ~360–480 / 94 guns = **~3.8–5.1 rounds/gun average**.
+
+Therefore total magazine capacity is **not** the hard limiter for this bombardment.
+The hard limits remain:
+- ammunition **mix** at the ready/magazine level;
+- AP reserve for surface action;
+- observer / target channels;
+- sea room;
+- damage / handling;
+- time before U.S. re-interdiction.
+
+### Type-3 stock sanity
+
+The selected Type-3 demand is also small relative to aggregate gun-family magazine volume:
+- 46-cm: **2–6 total**;
+- 41-cm: **2–6 total**;
+- all 35.6-cm: **~59–95 total** including the Kongo pulse;
+- selected CA 20.3-cm: **40–70 total**;
+- Ise/Hyuga 14-cm: **40–70 total**.
+
+For the 35.6-cm fleet alone, aggregate nominal magazine space is ~6,400 rounds class before battle expenditure. The selected 59–95 Type-3 use is therefore only ~1–1.5% of that aggregate capacity.
+For the selected 94-gun CA 20.3-cm layer, nominal magazine space is >11,000 rounds class; 40–70 Type-3 rounds are well below 1%.
+
+Thus the selected Type-3 program does **not** require a high special-ammunition fraction.
+A modest retained stock is enough.
+
+### Earlier-day expenditure debit
+
+Exact shell-by-shell daylight expenditure remains unclosed and will **not** be invented here.
+
+Use a conservative reserve test instead:
+even if a heavily engaged gun family is charged an additional **~10 rounds/gun planning debit** for earlier surface / AA / ranging use, the selected evening shore-fire still leaves a large numerical magazine margin on 46/41/35.6/20.3-cm systems.
+
+This reserve test is not an event claim.
+It exists only to show that the evening program is not secretly consuming an impossible magazine fraction.
+
+### Surface-action reserve guard
+
+Do not convert the available margin into more shore fire.
+
+The reason the ships stop is operational, not because the magazines are empty.
+
+Preserve:
+- substantial AP reserve on every battleship;
+- Type-3 / HE reserve for later target-driven use;
+- Type 89 12.7-cm AA ammunition reserve;
+- illumination reserve for the night transition;
+- no automatic second full bombardment merely because shells remain aboard.
+
+This closes the ammunition question at the level needed for the 20-Jun replay.
+
+---
+
+## 13. Selected close
 
 Use going forward:
 
@@ -407,10 +475,13 @@ Use going forward:
 - Ise/Hyuga and Nagato/Mutsu 14-cm batteries are Type-3-capable;
 - Fuso/Kongo 15.2-cm and Yamato/Musashi 15.5-cm batteries are **not** credited Type 3;
 - Type 89 12.7-cm Type 3 exists but shore expenditure remains zero-centered to preserve AA reserve;
+- magazine-capacity sanity check = **PASS**; exact individual shell ledgers are deliberately not opened;
 - physical U.S. gun kill remains much smaller than the temporary/medium silence effect;
 - Japanese ground regeneration starts during the naval bombardment;
 - one short dusk water-air observation mission is centered;
 - intermittent illumination is permitted after suppression / target-box confidence is established.
 
-Next:
+**Granularity stop:** do not subdivide this bombardment further into per-turret / per-magazine / per-shell serial accounting unless a later operational contradiction specifically requires it.
+
+Next operational task, when resumed:
 recalculate the DD7 split and 20:00–21:30 surface geometry from this new U.S. artillery / observation / recovery state before re-adjudicating Nisshin release.
