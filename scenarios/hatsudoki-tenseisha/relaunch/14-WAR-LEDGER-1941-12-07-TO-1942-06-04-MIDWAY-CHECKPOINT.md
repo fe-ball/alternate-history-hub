@@ -269,8 +269,9 @@ Craceは5/8夜～5/9撤退方向。
 - shadowing継続。
 
 central strike result:
-- Hornet: 2 torpedo + 2 bomb級、航空作戦停止、12–18kt級まで低下。
-- Enterprise: 1 torpedo + 1 bomb級、中～大破、一時航空作戦停止、20–24kt級。
+- Hornet: 2 torpedo + 2 bomb級、**航空作戦停止 — CLOSED。速力・power stateはRE-AUDIT。**
+  - 旧「12–18kt級まで低下」はcentralから外す。Yorktown級の史実damage例では同側2 torpedoでpower/steeringを一挙に失うため、hit geometryを定義するまで速度を固定しない。
+- Enterprise: 1 torpedo + 1 bomb級、中～大破、一時航空作戦停止。**20–24kt級はPROVISIONAL**で、torpedoがmachinery/steeringを外す場合に限る。
 - 日本攻撃隊未帰還10–15級 + 被弾帰還多数。
 - 両米空母はこの時点では**沈没ではない**。
 
