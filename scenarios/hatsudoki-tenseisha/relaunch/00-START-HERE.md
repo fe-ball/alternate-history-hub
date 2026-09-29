@@ -1,8 +1,8 @@
 # 発動機転生者・リランチ正本
 
 > **Authority:** Relaunch R3
-> **Canonical historical clock:** **1941-12-07T08:45:00-10:30 (HST)**
-> **Checkpoint:** 真珠湾第一波終了、第二波未解決
+> **Canonical historical clock:** **1942-06-04 約13:30（Midway battle-local working clock）**
+> **Checkpoint:** ミッドウェー海戦、日米相互空母打撃後。Enterprise/Hornetはmission kill、最終運命はOPEN
 > 旧 `current/`・`archive/` はpre-relaunch REFERENCE。
 > canonical clockより未来の議論は、その時点で開始済みのresearch / requirement / planning / forward-studyとしてのみ保持し、後年結果をactor knowledgeへ逆流させない。
 
@@ -67,7 +67,13 @@ CLOSED central / bounded:
 - 日本側第一波未帰還は5–7機級のPROVISIONAL band
 - 第一波終了時、組織的米CAPはほぼ存在しない
 - 飛行場の「数時間で復帰可能」fighter poolは史実型より30–40%小さい方向
-- 第二波結果はOPEN
+
+### 14 — 真珠湾後〜ミッドウェー午後チェックポイント
+`14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md`
+
+現行再開台帳。第二波・第三撃判断、Wake、南方、Operation C、Doolittle、MO、Port Moresby、AL/MI兵力配分、零戦派生/次期艦戦、ミッドウェー索敵・相互空母打撃までをCLOSED/PROVISIONAL/OPENで整理する。
+
+**重要:** Enterprise/Hornetは二度の日本空襲でmission killまで。放棄・自沈・撃沈・拿捕はOPENへ戻してあり、次回は曳航可否と米側の救援リスク許容から再判定する。
 
 ## 現在の読み順
 
@@ -86,8 +92,9 @@ CLOSED central / bounded:
 13. [技術・航空機 1940–41](11-ENGINE-AIRCRAFT-ROADMAP-1940-1941.md)
 14. [戦争・動員 1939–41](12-WAR-MOBILIZATION-1939-1941.md)
 15. [真珠湾第一波](13-PEARL-HARBOR-FIRST-WAVE-1941-12-07.md)
-16. [今回の再開プロンプト](../SESSION-START-PROMPT-1941-12-07.md)
-17. [pre-relaunch参考](../pre-relaunch/README.md)
+16. **[現行戦役台帳・ミッドウェー午後](14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)**
+17. [旧再開プロンプト（真珠湾時点・REFERENCE）](../SESSION-START-PROMPT-1941-12-07.md)
+18. [pre-relaunch参考](../pre-relaunch/README.md)
 
 後続正本が旧planningと競合する場合は、後続正本の明示的なsupersessionを優先する。
 
@@ -107,26 +114,20 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**1941-12-07 08:45 HST、真珠湾第一波終了直後。**
+**1942-06-04 約13:30、ミッドウェー海戦中。**
 
-次の論点を順番どおり閉じる。
+詳細は `14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md` を最優先で読む。
 
-1. **第二波を詳細再演**
-   - 第一波後に実際に再生するP-36/P-40
-   - 昴二一零戦escort/sweep
-   - D3A/B5Nの対空砲損耗
-   - 飛行場の二度目の破壊
-   - 日本側第二波損失
+現在のcentral working state:
+- 第一機動部隊は赤城・加賀・蒼龍・飛龍・翔鶴・瑞鶴の六空母集中。
+- 赤城は中～大破、加賀は大破で両艦とも航空作戦不能。ただし沈没確定ではない。
+- 蒼龍・飛龍・翔鶴・瑞鶴は健在。
+- 米Enterprise/Hornetは五航戦第一撃＋一/二航戦第二撃で両艦とも航空作戦不能・航行能力重大低下のmission kill。
+- **ここから先の米二空母の運命はOPEN。** 直前に一度置いた「米側が放棄・自沈し、日本追撃隊が夕刻撃沈」は採用しない。
 
-2. **第二波終了時点までの総括**
-   - 米側艦艇・航空機・基地被害
-   - 日本側機体・搭乗員損害
-   - 機動部隊のserviceable aircraft / ammunition / fuel / damaged-aircraft state
+次の論点はこの順番で閉じる。
 
-3. **第三次攻撃可能性**
-   - fuel farms / dry docks / repair yard / submarine base / airfields
-   - surprise消失
-   - 米空母所在不明
-   - Kido Butaiの燃料、tanker、索敵、CAP、損傷機回収
-   - R2の強い艦戦が判断余地を変えるか
-   - ただし史実系のblue-water sustainment weaknessは消さない
+1. Enterprise/Hornet個艦ごとの13時台損傷状態と曳航可能性。
+2. 米側が空母救援のため、重巡・駆逐艦screenをどこまで危険に残すか。
+3. 日本側が追加航空雷撃、水上追撃、拿捕・曳航のどれを選ぶか。拿捕は価値が大きいが、Midway航空基地・米潜水艦・自軍赤城/加賀退避・低速曳航の危険をすべて支払う。
+4. その判断後にのみ、夕刻/夜戦、米二空母の最終運命、Midway第二撃を進める。
