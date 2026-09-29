@@ -26,7 +26,10 @@ Repository:
 
 ## Current next frontier
 
-Read:
+Read FIRST:
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_NEXT_CHAT_FOUR_BB_OOB_AA_BOMBARDMENT_HANDOFF_v001.md`
+
+Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/60_NEXT_CHAT_20JUN_RELIEF_US_DECISION_PROJECTILE_HANDOFF_v001.md`
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/61_NISSHIN_RELIEF_FORCE_REAUDIT_WORKING_v001.md`
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/62_FUSO_YAMASHIRO_RELEASE_REAUDIT_WORKING_v001.md`
@@ -36,6 +39,7 @@ Read:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/66_20JUN_SLOW_BB_SECONDARY_BATTERY_BOMBARDMENT_REAUDIT_v001.md`
 
 Current task:
+- **file 67 is the controlling consolidated handoff for the latest replay state; where older bullets below conflict, file 67 wins.**
 - preserve the 20 Jun daytime carrier/surface/ground working sequence and projectile/Type-3-shell re-audit;
 - preserve the re-opened 20/21 Jun night sensor model: new-moon darkness, U.S. darkening + SG first-contact advantage, Tapotchau/shore/air observation becoming much stronger after gunfire/illumination, and active Japanese heavy-gun counter-interdiction;
 - continue from the ~21:30 WORKING decision point without importing the earlier provisional night damage results;
