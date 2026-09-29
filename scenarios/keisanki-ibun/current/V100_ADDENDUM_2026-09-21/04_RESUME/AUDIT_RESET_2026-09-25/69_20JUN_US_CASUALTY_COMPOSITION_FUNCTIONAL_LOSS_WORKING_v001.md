@@ -7,6 +7,8 @@ Authority remains **Branch B v100**.
 Canonical clock remains **1944-06-16T14:15**.
 Post-14:15 events remain WORKING.
 
+> **2026-09-29 boundary correction:** the casualty boundary in this file was too broad because it allowed Japanese island artillery/recovery-denial fire to contribute inside the same "bombardment" envelope. Read `70_20JUN_NAVAL_VS_ISLAND_FIRE_COUNTERATTACK_REPROCESS_WORKING_v001.md` first. File 70 supersedes the 500–780 figure as a combined/naval-fire interpretation and separates naval-fire casualties from island artillery and local counterattack. The medical/disposition taxonomy in this file remains useful where non-conflicting.
+
 Depends on:
 - `68_20JUN_TYPE3_SUPPRESSION_OBSERVATION_GROUND_REGEN_WORKING_v001.md`
 - `67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
