@@ -37,7 +37,7 @@ Current task:
 - continue from the ~21:30 WORKING decision point without importing the earlier provisional night damage results;
 - preserve the selected relief architecture: DD6 fast layer (4 Saipan / 2 Tinian-relay) **plus Nisshin as the heavy-transport second element**; Chitose/Chiyoda remain water-air support;
 - **pause the late-20-Jun night replay before promoting any new 22:30–23:00 hits**;
-- first propagate the slow-battle-line provenance correction: recover/restage the existing working release point at which Ise/Hyuga leave reserve for the Saipan relief/bombardment operation, and release Fuso/Yamashiro on that **same order and clock**; pay the four-ship package fuel/escort/western-opportunity-cost together;
+- first propagate the slow-battle-line provenance correction: center **Fuso/Yamashiro/Ise/Hyuga as a four-ship trailing reserve by 14–16 Jun**, then release all four together on the **17 Jun ~17:30–20:00 Saipan-relief clock**; pay fuel/escort/opportunity-cost together;
 - close Fuso/Yamashiro actual arrival timing, then replay their post-14:15 exposure and the 18–20 Jun heavy-force allocation before returning to the Nisshin night;
 - after that replay, re-adjudicate whether the DD/heavy-gun disruption creates a safe enough Nisshin release window before Lee's bounded acquisition / U.S. re-interdiction closes it;
 - only after Nisshin release/abort is re-closed, advance unloading tonnage, losses, rescue, and Saipan ground conversion on one shared clock.
