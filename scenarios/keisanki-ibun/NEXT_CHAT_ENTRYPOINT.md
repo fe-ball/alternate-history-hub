@@ -31,6 +31,7 @@ Read:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/61_NISSHIN_RELIEF_FORCE_REAUDIT_WORKING_v001.md`
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/62_FUSO_YAMASHIRO_RELEASE_REAUDIT_WORKING_v001.md`
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/63_20JUN_SURFACE_ESCORT_TRANSPORT_OOB_CLOSEOUT_WORKING_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/64_20JUN_JAPANESE_SURFACE_AIR_DEFENSE_FORMATION_WORKING_v001.md`
 
 Current task:
 - preserve the 20 Jun daytime carrier/surface/ground working sequence and projectile/Type-3-shell re-audit;
@@ -40,7 +41,8 @@ Current task:
 - **pause the late-20-Jun night replay before promoting any new 22:30–23:00 hits**;
 - first propagate the slow-battle-line provenance correction: center **Fuso/Yamashiro/Ise/Hyuga as a four-ship trailing reserve by 14–16 Jun**, then release all four together on the **17 Jun ~17:30–20:00 Saipan-relief clock**; pay fuel/escort/opportunity-cost together;
 - use file 63 as the controlling pre-20-Jun force architecture: 12 BB layered 4/4/4, selected CA10/CL6, modern-DD 38-slot center, DD8 relief plan (6 Saipan / 2 Tinian) with actual night count damage-dependent;
-- replay 20-Jun anti-surface air target allocation against that architecture before returning to evening bombardment or the Nisshin night;
+- carry file 64 first-wave result: distributed multi-box defense; Hiei 1 torpedo remains, Kongo direct hit removed to damaging near-miss center, one S1/S2 CA damaged, one fast-vanguard DD mission-killed, leaving **7 relief-convertible DDs**;
+- next replay the **third anti-surface wave** against both H1/H2 heavy line and the newly materialized L1/L2 slow four-BB line before returning to evening bombardment or the Nisshin night;
 - after that replay, re-adjudicate whether the DD/heavy-gun disruption creates a safe enough Nisshin release window before Lee's bounded acquisition / U.S. re-interdiction closes it;
 - only after Nisshin release/abort is re-closed, advance unloading tonnage, losses, rescue, and Saipan ground conversion on one shared clock.
 
