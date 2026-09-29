@@ -93,6 +93,46 @@ Selected arrival:
 - exact contact and air-attack exposure must be replayed;
 - they are available in principle for the 20-Jun evening bombardment and later relief battle if not disabled en route / during daylight.
 
+
+## 5A. Selected staged approach after the 17-Jun release
+
+The 17-Jun release is a **mission change**, not an immediate straight-line charge into TF58 daylight search.
+
+Selected approach:
+
+### 17 Jun evening / 17–18 night
+- four-BB group separates organizationally from generic rear reserve;
+- remains behind / offset from the visible fast-vanguard and carrier threat layers;
+- eastward component roughly 18–20 kt class;
+- preserve fuel and avoid becoming the nearest obvious U.S. daylight surface target.
+
+### 18 Jun daylight
+- remain in the western support / carrier-threat geometry rather than outrunning the carrier cover;
+- the U.S. mutual-contact problem remains centered on the visible second carrier echelon and fast vanguard;
+- **no automatic U.S. weapon-quality contact on the four old BBs is awarded**;
+- a broad heavy-surface report remains possible, but it does not become a free strike-quality fix.
+
+### 18/19 Jun night
+- move one layer east while retaining route freedom;
+- keep enough western separation that daylight 19 Jun does not begin with the group sitting 150–200 nmi from Saipan as an easy fixed target.
+
+### 19 Jun daylight
+- hold / oblique in a roughly **350–450 nmi class western / southwestern Saipan support band** (exact point intentionally not fixed);
+- use carrier / water-air / search information to decide whether the final run is viable;
+- U.S. may obtain stale/ambiguous heavy-surface indications, but no centered deep strike is pre-awarded without a fresh weapon-quality fix.
+
+### 19 Jun dusk / night 19–20
+- if Saipan relief remains GO and TF58 has not moved into a blocking geometry that makes the run suicidal, begin the final approach;
+- working speed roughly **20–22 kt class**;
+- from a 350–400 nmi class release band, arrival into the outer Marianas support geometry is roughly **20 Jun late morning to early afternoon class** after tactical deviations.
+
+This preserves:
+- real transit time;
+- daylight-search risk;
+- fuel cost;
+- the decision value of carrier / Marianas ISR;
+while avoiding a magical two-day straight-line dash through an alerted TF58 search system.
+
 ## 6. Escort / opportunity cost
 
 The four BBs do not receive free destroyers.
