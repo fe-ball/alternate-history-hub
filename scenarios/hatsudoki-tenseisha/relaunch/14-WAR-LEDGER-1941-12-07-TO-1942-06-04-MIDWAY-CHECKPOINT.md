@@ -424,6 +424,36 @@ Enterprise SBD strike central:
 
 この段階ではEnterprise/Hornetの最終損傷状態をCLOSEDにしない。次に各艦について、第一撃と第二撃の命中位置を置き、power / propulsion / rudder / list / fire / DC / AA / tow pointを再計算する。
 
+#### 10.0A 救難・退艦・曳航は別々の時計 — WORKING
+
+米側の「救助」を一括処理しない。最低でも、
+1. fire / flooding control
+2. wounded / nonessential personnel transfer
+3. tow preparation
+4. actual towing
+5. general abandon ship
+6. scuttling preparation / execution
+を別時計として並列に進める。
+
+**historical timing anchors:**
+- MidwayのYorktownでは約2,270名を複数DDが救助し、救助作業は夕刻まで継続した。大傾斜艦の周囲に多数の人員が海中へ出ると、DDは容易に横付けできず、screenそのものが救助へ吸われる。
+- Santa CruzのHornetでは、被弾後に複数DDが横付けしてhoseを渡し、約1,000名規模で消火に従事。Northamptonは1105級から曳航準備、1223に最初のstrainを取ったがline破断、1430に太いtowlineを確保し、1540には約3ktで曳航しつつ重傷者・余剰人員の移送を概ね終えていた。すなわち**「曳航できる」まで2–5時間級**を要し得る。
+- Hornetは追加雷撃でlistが増大した後も、abandon orderから艦長離艦・survivor collection完了までさらに時間を要した。
+- したがって「退艦命令 = 数分で無人化」「曳航命令 = すぐ3ktで移動」は不可。
+
+**R3 direct implication:**
+- 五航戦第一撃でHornetが早い時点にdead in waterとなるなら、第二撃到着までの数時間は**消火・負傷者移送・Northampton級CAによる曳航準備**へ使われるのが自然。
+- よって第二撃は、Hornetが単独漂流中ではなく、CA/DDが近接し、場合によってはtowlineを取る直前または曳航開始直後の救難群を襲う可能性がある。
+- 追加空襲警報時には曳航艦はtowを切る/緩める、横付けDDは離れる必要があり、**救難そのものがAA formationと回避運動を悪化させる**。
+- Enterpriseは第一撃後に自航可能なら大規模退艦を開始しない。第二撃でdead in water化した時点から初めて別個の救難時計が始まる。
+- 二空母同時に完全退艦を急ぐ場合、各艦が2,000名級の船体要員を抱えるため、TF16の9DDの多くと一部CAを1–2時間以上救助へ拘束し得る。これは水上screen / AA / ASW / retreat speedを大きく削る。
+- 逆に艦を救うなら、damage-control / engineering / gunnery要員を相当数残す必要があり、**人命退避を速めるほどsalvage capabilityが落ちる**。救助と救艦は同一目的ではない。
+
+**13:30 checkpointへのworking expectation:**
+- Hornet: 第一撃後から救難が先行しているため、第二撃後13:30までに重傷者・一部非essential personnelの移送は相当進み得る。しかし、救艦意思が残る限りDC/engineering要員まで完全退艦しているとは置かない。
+- Enterprise: 第二撃後からの救難開始なので、13:30時点では負傷者移送・damage assessment・tow preparationの途中で、全員退艦完了は置かない。
+- 従って13:30時点の米側は、**二隻の空母を囲む救難群がまだ動いている最中**をcentral working pictureとする。これは日本側がshadowingで観測し得る重要な行動指標となる。
+
 ### 10.1 まず再判定する論点
 
 **A. 米側は本当に両空母を早期放棄するか**
