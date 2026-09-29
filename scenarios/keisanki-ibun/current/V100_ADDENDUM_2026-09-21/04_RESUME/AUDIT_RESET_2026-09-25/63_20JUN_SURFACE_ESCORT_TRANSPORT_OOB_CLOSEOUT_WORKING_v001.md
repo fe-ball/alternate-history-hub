@@ -6,6 +6,8 @@ Status: **SELECTED WORKING FORCE-ALLOCATION CLOSE / NOT AUTHORITY / NO CANONICAL
 Authority remains Branch B v100. Canonical clock remains **1944-06-16T14:15**.
 Post-14:15 combat remains WORKING.
 
+> **2026-09-29 continuation:** read `64_20JUN_JAPANESE_SURFACE_AIR_DEFENSE_FORMATION_WORKING_v001.md` for the distributed AA formation and regenerated first anti-surface wave. The pre-wave DD8 relief plan is reduced to **7 surviving relief-convertible DDs** after the selected first-wave DD mission-kill.
+
 This file closes the mission architecture that had previously been left too implicit.
 It does **not** promote 20 Jun battle damage.
 
