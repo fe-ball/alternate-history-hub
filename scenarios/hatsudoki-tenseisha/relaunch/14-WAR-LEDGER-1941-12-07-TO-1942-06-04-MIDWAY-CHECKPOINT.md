@@ -454,6 +454,52 @@ Enterprise SBD strike central:
 - Enterprise: 第二撃後からの救難開始なので、13:30時点では負傷者移送・damage assessment・tow preparationの途中で、全員退艦完了は置かない。
 - 従って13:30時点の米側は、**二隻の空母を囲む救難群がまだ動いている最中**をcentral working pictureとする。これは日本側がshadowingで観測し得る重要な行動指標となる。
 
+#### 10.0B 日本水上追撃の到来を救難時計へ重ねる — WORKING / PROVISIONAL
+
+**historical range / intent anchors:**
+- 史実Midwayでは0700級、米TFから日本空母隊まで約155 milesと推定されていた。
+- その後の日本側action accountでは、敵の燃える空母/巡洋艦群が日本機動部隊から**約90 miles級**、のち約100–110 miles級で報告され、Nagumoは夜戦接触を実際に企図した。
+- 史実では「敵は東へ20ktで退避」「自軍DDが損傷空母へ拘束」「距離約100 miles」が夜戦成立を難しくした。
+- R3では逆に、Enterprise/Hornetが11時台までにmission killされて高速退避できず、四健在日本空母とshadowingが残る。この差はsurface pursuitを史実より早く・合理的にする。
+
+**日本側surface-force accounting — central candidate:**
+- 赤城近接: **野分**
+- 加賀近接: **萩風**
+- 四健在空母cover: **榛名 + DesDiv 17（磯風・浦風・浜風・谷風）**をminimum coreとして残す。既存R3の「六空母化で護衛DDやや増強」は別途余裕として扱い、ここでは未定義艦を無料計上しない。
+- surface pursuit candidate: **霧島 + 利根 + 筑摩 + 嵐 + 舞風 + 風雲 + 夕雲 + 巻雲**。
+- 長良はscreen command維持のため四健在空母側に残すcentral。追撃隊へ加える枝も物理的には可能だが、必須とはしない。
+- この分割なら、損傷空母2隻の介護をしつつ、四健在空母を完全無護衛にせず、なお**1 BB + 2 CA + 5 DD**の高速追撃隊を作れる。
+
+**追撃発令時計:**
+- 一・二航戦第二撃が11時台にEnterprise/Hornet双方のmission killを報告。
+- shadowing機が「両空母停止/低速、巡洋艦・DDが近接救難中」を継続報告する。
+- 日本側にとって、米側が救援成功・退艦・自沈のいずれへ進んでも時間価値が急減するため、**11:40–12:10 decision、12:00–12:30追撃隊分離・東進開始**をPROVISIONAL centralとする。
+- 「夜になってから追う」では遅い。拿捕可能性を評価するほど、昼間のうちに距離を詰める誘因が強い。
+
+**range / arrival band:**
+- historical 90–110 mile-class separationを保守的anchorとし、R3では早期敵発見・日本側closure・米空母停止を考慮して、追撃開始時rangeを**90–110 nmi-class central、80–100 nmi sensitivity**とする。
+- 霧島を含む追撃隊のsustained advanceを**28–30kt**とする。
+- 米損傷空母が停止ならclosure 28–30kt。重巡曳航が成立しても東向き2–3kt級なのでclosureは25–28kt程度。
+- 12:00–12:30に出れば、central contact windowは概ね**15:15–16:30**。
+- 発令/編成が13:00まで遅れても、おおむね**16:00–17:15**に接触し得る。
+- 従って**13:30 checkpointでは追撃隊は既に1時間前後走っており、残距離は概ね50–80 nmi級**というpictureをcentral candidateとする。
+
+**米側救難とのoverlap:**
+- Hornetは第一撃後から救難が始まり、Northamptonをtow candidateとするのが自然。Santa Cruz実例ではHornet dead-in-water後、DD3隻が横付け消火し、Northamptonの曳航成立まで複数時間を要した。
+- Enterpriseは第二撃後に初めて本格救難時計が始まるため、13:30でもtow preparation / wounded transfer / damage-controlの途中。
+- 15:15–16:30に日本追撃隊が来るなら、米側が13:30以後に使える猶予は**約2–3時間**しかない。
+- これは「二空母の全員救助 + 両艦曳航成立 + screen再編」を完了するには短いが、「救艦を諦めた一艦の退艦を加速し、自沈魚雷を準備する」には意味のある時間である。
+- したがって日本側接近を認知した米側は、**Hornetを先に処分候補、Enterpriseを優先救難/曳航候補**へ分ける圧力が強い。
+- ただし自沈命令と沈没完了は分離する。Santa Cruz Hornetは米DDの大量魚雷・砲撃でも直ちに沈まず、後に日本側が拿捕・曳航を検討できるほど長時間浮いた。
+
+**US TF16救難group working allocation — not yet CLOSED:**
+- Hornet: **Northampton**をtow ship central、Phelpsをscuttling-capable DDとして近傍保持。ほか2–3DDをfirefighting / personnel transferへ。
+- Enterprise: **Minneapolis または New Orleans**をtow candidate。残りCA + Atlanta + 4–5DDでAA / ASW / surface screen。
+- PensacolaはCruDiv 5 flag/command continuityの価値が高く、最初からtowへ固定しない。
+- 二空母を同時曳航する場合、CA2隻とDD多数を低速救難群へ縛るため、5CA + 1CL + 9DDというTF16の見かけのsurface strengthは大幅に分散する。
+
+このarrival bandを次のdecision treeの時間制約として使う。次に、米側が日本surface approachを何時にdetectできるか（PBY / cruiser floatplane / radar / shadowing report）を置き、そのwarning timeからHornet自沈開始・Enterprise曳航継続・screen concentrationを再計算する。
+
 ### 10.1 まず再判定する論点
 
 **A. 米側は本当に両空母を早期放棄するか**
