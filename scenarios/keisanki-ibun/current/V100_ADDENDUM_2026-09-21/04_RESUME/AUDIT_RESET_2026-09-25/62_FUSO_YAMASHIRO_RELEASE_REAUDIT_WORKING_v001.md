@@ -1,177 +1,150 @@
-# 20 Jun heavy-fleet provenance correction — Fuso / Yamashiro western-release re-audit
+# Slow-battle-line provenance correction — Fuso / Yamashiro / Ise / Hyuga
 ## 2026-09-29
 
 Status: **SELECTED WORKING CORRECTION / NOT AUTHORITY / NO CANONICAL CLOCK ADVANCE**
 
 Current authority remains **Branch B v100**. Canonical clock remains **1944-06-16T14:15**.
-All post-14:15 events remain WORKING.
+All later events remain WORKING.
 
-## 1. Why this re-audit exists
+## 1. Core correction
 
-The 20 Jun working night line had already materialized Ise / Hyuga around Saipan as shore-bombardment / second-line battleships, while Fuso / Yamashiro were implicitly absent.
+Fuso / Yamashiro / Ise / Hyuga are one four-hull slow-battleship wallet for the Saipan crisis.
 
-The 25 May fleet-disposition ledger does **not** support a physical distinction of that kind.
+The selected reconstruction is:
 
-At 1944-05-25 all four slow battleships were in the same western commitment:
-- Fuso — WEST, Indian Ocean / Bengal strategic rotation;
-- Yamashiro — WEST, same;
-- Ise — WEST, conventional 12-gun battleship, no aviation conversion;
-- Hyuga — WEST, same.
+- the four older battleships had useful western / Indian-Ocean employment before the Marianas crisis rather than remaining idle for two years;
+- that older employment does **not** mean the obsolete Bengal-operation location is copied into June 1944;
+- before the decisive Marianas battle they have cycled back into the Philippines / DEI inner heavy-reserve system;
+- when Ise / Hyuga are released from reserve into the Saipan relief / bombardment operation, **Fuso / Yamashiro receive the same order at the same clock**;
+- no separate late Fuso / Yamashiro release gate is retained.
 
-Therefore:
-- Fuso / Yamashiro were not excluded because they were physically incapable of long transit;
-- Ise / Hyuga also require a dated release / transit decision before appearing in the Marianas;
-- the prior 20 Jun working line contained an untraced western-to-Pacific transfer for Ise / Hyuga.
+## 2. What the existing current files actually say
 
-## 2. Physical mission fit
+The recovered fleet audit explicitly records:
+- Ise / Hyuga: conventional 12-gun 35.6-cm battleships; candidate roles include bombardment / anti-landing reserve / slow battle line;
+- Fuso / Yamashiro: physical current 12-BB wallet; candidate roles include second battle line / bombardment / training / heavy support;
+- the old “Ise / Hyuga depart Kure on 17 Jun and arrive 20 Jun” line was only a provisional estimate whose origin/order/fuel/escort were never traced.
 
-Branch ship-design ledger:
-- Fuso class working maximum ~24.6–24.7 kt;
-- Ise class working maximum ~25.5–25.7 kt;
-- Fuso class retains twelve 35.6-cm guns;
-- Ise class retains twelve 35.6-cm guns;
-- Fuso class remains less balanced / less reliable than Ise class, but is not a non-operational coast-defense ship.
+The 14-Jun current maritime state places:
+- the five first-line carriers in the western Philippine Sea;
+- Kurita surface vanguard as a separate layer;
+- **second battleship / fast-BB elements as a trailing reserve**.
 
-Therefore the <1 kt speed difference does not justify:
-- allowing Ise / Hyuga to make the western-to-Pacific redeployment,
-- while treating Fuso / Yamashiro as unable to do so.
+This unclosed trailing-reserve layer is the natural place to close the four old battleships without putting them into the first-line carrier formation.
 
-Fuso / Yamashiro are unsuitable for a 27–30 kt carrier screen or fast pursuit, but remain suitable for:
-- second battle line;
-- bombardment;
-- fixed-amphibious-system heavy fire;
-- slow-group cover;
-- positional blocking / reserve fire.
+## 3. Selected pre-release disposition
 
-## 3. Why all four were WEST on 25 May
+By **14–16 Jun**, center the four old battleships in the:
 
-The 25 May decision itself remains rational.
+**Philippines / Davao–Celebes / inner western-Philippine-Sea trailing heavy reserve**
 
-Western value was:
-- Bengal / Andaman / Indian Ocean heavy-surface deterrence;
-- convoy / show-of-force / British heavy-unit readiness binding;
-- support for an existing submarine / reconnaissance pressure system.
+not:
+- at Kure by fiat;
+- in the obsolete Bengal-operation position;
+- in the fast carrier screen;
+- or already inside the Saipan close battle.
 
-A wholesale immediate evacuation of the western theater on 25 May was not mandatory because:
-- exact U.S. D-day was still unknown;
-- the western pressure system imposed a real Allied readiness and escort tax;
-- transfer requires fuel, escort, replacement and time.
+Their earlier western employment is retained as useful prior history.
+Their June operational position is rebuilt from the current A-Go geometry.
 
-Thus **do not retroactively place all four slow BBs in Davao on 25 May**.
+The four ships are fueled and materially prepared as a second-line heavy group, but remain unreleased for a blind fast-carrier chase.
 
-## 4. What changed by early June
+## 4. Common release clock
 
-The critical decision gate is not 25 May but **5 Jun**.
+Selected release gate:
 
-By 5 Jun existing Branch working logic judged:
-- Marianas attack virtually certain;
-- Saipan clearly the leading first target;
-- waiting for exact D-day risked missing the decisive preparation window;
-- the 47th Division first echelon was therefore released.
+**17 Jun ~17:30–20:00 class.**
 
-Once the Army pays the strategic cost of releasing another division, Combined Fleet must also re-evaluate low-speed capital ships still held for western deterrence.
+Causal board:
+1. the Japanese 17-Jun second carrier strike has been executed;
+2. TF58 remains a coherent Saipan-support force rather than being driven away;
+3. the U.S. answers with another Marianas suppression cycle;
+4. by 17-Jun sunset the U.S. has reached the outer western/northwestern Aslito approach system while the airfield remains Japanese;
+5. therefore waiting to “win the carrier battle first” is no longer sufficient to relieve Saipan.
 
-The Indian Ocean burden ledger shows that the mature western pressure is primarily a persistent uncertainty / escort / reconnaissance / submarine system. Its normal Japanese surface demonstrations are CA/CL + DD scale rather than repeated battleship raids.
+Combined Fleet / surface command changes the slow-battle-line mission from:
+**rear reserve / fleet-in-being**
+to:
+**Saipan direct relief-support / bombardment / positional surface cover**.
 
-Therefore retaining **four** slow battleships in the west after the 5 Jun Marianas gate is no longer the center-value allocation.
+At this gate:
+- Ise sorties;
+- Hyuga sorties;
+- Fuso sorties;
+- Yamashiro sorties.
 
-## 5. Selected release — four-ship slow-battleship package
+One order, one movement clock.
 
-The prior staggered proposal is superseded.
+## 5. Transit
 
-**Fuso / Yamashiro sortie on the same order and at the same operational clock as Ise / Hyuga when the current working line changes Ise / Hyuga from reserve status to active participation in the Saipan relief operation.**
+Mission route is from the Philippines / Davao–Celebes inner reserve toward the Marianas support arc.
 
-Do not create a separate later release gate for Fuso / Yamashiro.
+Operational transit:
+- formation speed roughly **20–22 kt class** where sea state / machinery permit;
+- no 25-kt continuous fantasy sprint;
+- fueled before release;
+- no free at-sea refueling;
+- escort and ASW screen must be debited from the existing surface / rear-support wallet.
 
-The correct reconstruction is:
-- Fuso / Yamashiro / Ise / Hyuga have a common western-use lineage and later common slow-battle-line reserve lineage;
-- when the Saipan crisis causes the slow-battleship reserve to be released, all four are released as one operational wallet;
-- their transit / fuel / escort cost is paid together at that release;
-- their tactical employment after arrival may split by ship/pair.
+At Davao-to-Saipan class distance this is a roughly 55–65 h movement before tactical deviations.
 
-This reflects the intended Branch role:
-- the four older battleships were not left idle for two years;
-- western / Indian-Ocean activity gave them training, deterrence, convoy-cover and fleet-presence work;
-- once Saipan becomes an existential fleet commitment, retaining two 12-gun battleships merely for marginal western deterrence is not the selected center.
+Selected arrival:
+- **20 Jun pre-dawn to late morning class** into the western / southwest Marianas heavy-support geometry;
+- exact contact and air-attack exposure must be replayed;
+- they are available in principle for the 20-Jun evening bombardment and later relief battle if not disabled en route / during daylight.
 
-### Tactical differentiation after common sortie
+## 6. Escort / opportunity cost
 
-Common sortie does **not** require identical tactical use.
+The four BBs do not receive free destroyers.
 
-Working role preferences:
-- Ise / Hyuga: better-balanced pair; first choice for sustained observed shore bombardment / electronics-comparison / fire-support work;
-- Fuso / Yamashiro: second heavy bombardment pair / AP-ready reserve / positional surface-fire support;
-- all four can rotate bombardment and anti-surface readiness so the slow battle line does not have to choose between maximum shore fire and zero immediate surface reserve.
+Working escort requirement to close next:
+- CL / command support: 0–1;
+- DD-equivalent screen: roughly 4–6;
+- route air / ASW support from the existing Philippines / water-air system where geometry permits.
 
-Exact pair rotation is a replay item, not pre-awarded.
+These slots must be debited against:
+- carrier screens;
+- heavy surface screen;
+- oiler / rear support;
+- relief groups.
 
-### Timing rule
+Do not double-count Akizuki / Maya / Tone / Chikuma already assigned elsewhere.
 
-Do not invent a new independent Fuso / Yamashiro date.
+## 7. Tactical differentiation after arrival
 
-The replay must first recover / restate the existing working decision point at which Ise / Hyuga cease being reserve and are assigned to the Saipan relief / bombardment operation. **That same timestamp is controlling for Fuso / Yamashiro.**
+Common sortie does not mean identical employment.
 
-If the older Ise / Hyuga timing itself proves to have been only an untraced provisional insertion, rebuild one common four-ship release clock rather than preserving an artificial two-pair split.
+Role preference:
+- **Ise / Hyuga**: better-balanced slow pair; sustained observed shore bombardment / fire-support lead;
+- **Fuso / Yamashiro**: second bombardment pair and/or AP-ready anti-surface reserve;
+- pairs may rotate so that heavy shore fire does not leave the entire slow battle line with HE first-ready and exhausted crews.
 
-## 6. Western opportunity cost
+This is especially important on 20 Jun:
+- two ships can be actively bombarding;
+- two can remain more ready for Lee / cruiser interference;
+- then roles can swap.
 
-With all four slow BBs gone by early/mid June, western pressure is reduced, not erased.
+Exact rotation remains a replay result.
 
-Retained western system still includes:
-- Ashigara / older cruiser layer as physically available by the active ledger;
-- Oyodo / Oi / Kitakami western functions subject to later exact assignment;
-- named DD / escort elements;
-- 7–9 allocated submarines class in the 25 May ledger;
-- Andaman / Bengal reconnaissance / air / base network.
+## 8. Replay boundary
 
-Consequences to carry later:
-- lower Japanese heavy-surface deterrence in the Indian Ocean;
-- some British heavy-unit readiness can eventually relax;
-- no free British instant Pacific transfer is created;
-- Indian Ocean submarine / reconnaissance / convoy tax persists;
-- western opportunity cost must be recorded rather than ignored.
+Do **not** simply add two undamaged battleships to the already-adjudicated 20-Jun evening/night result.
 
-## 7. 20 Jun slow-battle-line correction
+Replay from the common 17-Jun release:
 
-Selected WORKING slow-battleship family released toward the Saipan operation becomes, on one common order:
+1. close escort/fuel allocation;
+2. transit 17/18/19 Jun and submarine/search exposure;
+3. establish 20-Jun morning detection state;
+4. re-run U.S. anti-surface air-wave target allocation because four extra capital ships now exist in the Saipan-support geometry;
+5. re-run Japanese daylight surface layering and damage;
+6. re-run evening shore-bombardment allocation across four slow BBs plus the elite heavy ships;
+7. re-run the 20/21-Jun Nisshin relief battle.
 
-- Ise
-- Hyuga
-- Fuso
-- Yamashiro
+All previously discussed post-22:30 night hits remain WORKING and are not carried through this reset until regenerated.
 
-subject to replay of:
-- 16–20 Jun air attack exposure;
-- escort / fuel allocation;
-- exact arrival timing;
-- ammunition state;
-- daylight surface action;
-- evening bombardment assignment;
-- night layer.
+## 9. Selected decision
 
-Do not simply add Fuso / Yamashiro on top of already-adjudicated 20 Jun results.
+**Fuso / Yamashiro / Ise / Hyuga are released together on the current Saipan-relief slow-battle-line release clock, centered on 17 Jun evening.**
 
-## 8. Mandatory replay boundary
-
-This correction requires a replay, but not an automatic rewrite of v100 authority through 16 Jun 14:15.
-
-Replay sequence:
-1. Recover / restate the existing working clock at which Ise / Hyuga are released from reserve for the Saipan relief / bombardment operation.
-2. Apply that same release order and clock to Fuso / Yamashiro.
-3. Pay the four-ship package fuel / escort / western-opportunity-cost together.
-4. Establish the four ships' actual arrival / staging state relative to 16 Jun 14:15.
-5. Re-run post-14:15 surface / air exposure from the common package's actual arrival state.
-6. Re-run 18–20 Jun heavy-force target allocation and damage.
-7. Re-run 20 Jun evening shore bombardment / anti-surface rotation with four slow BBs available.
-8. Only then return to the 20/21 Jun Nisshin relief night.
-
-No previously discussed 22:30–23:00 night hit is promoted while this replay is open.
-
-## 9. Current decision
-
-**SELECTED WORKING CORRECTION: Fuso and Yamashiro sortie together with Ise and Hyuga at the same existing working decision point that releases the slow-battleship reserve into the Saipan relief operation.**
-
-There is no separate Fuso/Yamashiro late-release gate.
-
-The error was not using the older battleships in the west. Their western employment is retained as useful Branch activity rather than two years of inactivity.
-The error was allowing Ise/Hyuga to become Saipan relief combatants while Fuso/Yamashiro silently remained outside the same reserve-release decision.
+The old Kure-origin insertion is discarded.
+The older western-use history remains meaningful background, not June current location.
