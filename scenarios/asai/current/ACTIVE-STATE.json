@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "navigation_revision": "2026-09-27",
+  "navigation_revision": "2026-09-29",
   "kind": "NAVIGATION-ONLY-NO-CANON-PROMOTION",
   "scenario_id": "asai",
   "repository": "fe-ball/alternate-history-hub",
@@ -20,11 +20,14 @@
   "working_history": {
     "latest_campaign_close": "Wake, 1941-12-23 afternoon about 14:00-16:00 local",
     "status": "WORKING-CLOSE",
-    "coverage": "Late-Dec working continuation; 1941 year-end transport input ledger",
+    "coverage": "Late-Dec working continuation; 1941 year-end transport input ledger; later replay-local West / Doolittle / early-MO discussion",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
-      "1942 AT-3 prototype and procurement plans"
+      "1942 AT-3 prototype and procurement plans",
+      "First Indian Ocean / western-base working discussion",
+      "Doolittle-type raid working gate",
+      "Early-MO replay through 1942-04-16 evening"
     ]
   },
   "discussion_frontier": {
@@ -33,11 +36,14 @@
       "Southern operations sampled locally",
       "Wake / Saratoga continuation",
       "1941 airlift WORKING-CLOSE",
-      "AT-3 working technical re-audit"
+      "AT-3 working technical re-audit",
+      "First Indian Ocean / western base-air / GT torpedo-boat demand discussion",
+      "Doolittle-type raid feasibility gate",
+      "Early-MO replay from Tulagi through 1942-04-16 evening"
     ],
-    "next_gate": "AT-3 prototype structural/ramp/gear/E6-installed tests and 1942 procurement trigger",
-    "next_gate_source": "V26:11#at3_next_gate",
-    "combat_clock_effect": "NONE"
+    "next_gate": "Audit and replay the Crace-type Allied surface interception versus the MO convoy escort after 1942-04-16 evening",
+    "next_gate_source": "V26:12#19",
+    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION"
   },
   "default_read_order": [
     "current/active/00-SESSION-HANDOFF.md",
@@ -94,6 +100,10 @@
     "V26:11": {
       "path": "records/V26/11-AT3-WORKING-DECISION-REGISTER-2026-09-26.tsv",
       "blob_sha": "6b8be9843a0cda295f7068b1aa84a07160f2c8cf"
+    },
+    "V26:12": {
+      "path": "records/V26/12-POST-V26-WEST-DOOLITTLE-EARLY-MO-WORKING-HANDOFF-2026-09-29.md",
+      "blob_sha": "2b9c9f2834c32b3aa00238310fffa30930155c14"
     }
   },
   "lineage_sources": [
