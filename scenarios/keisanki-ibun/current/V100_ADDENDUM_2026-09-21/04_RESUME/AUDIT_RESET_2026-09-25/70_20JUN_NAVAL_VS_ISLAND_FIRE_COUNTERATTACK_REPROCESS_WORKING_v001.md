@@ -352,6 +352,31 @@ This is the proper initial ground-support state for the night-relief geometry.
 
 ---
 
+## 10. Deferred second-order tails — acknowledged, not yet quantified
+
+The current close stops at the immediate evening / early-night casualty and local-ground-effect boundary.
+
+Do **not** infer that the system is fully recovered at ~20:15.
+
+Three second-order tails are explicitly acknowledged and deferred:
+
+1. **recovery-phase casualties**
+   - casualties incurred while U.S. artillery / signals / transport / medical / engineer systems continue restoring normal function after the immediate suppression window;
+   - includes renewed Japanese observed fire, accidents, exposure during displacement, and additional losses while replacing killed/wounded specialists.
+
+2. **casualties caused by local ground loss / displacement**
+   - abandoning or losing forward positions can expose subsequent withdrawal routes, observation posts, supply movement and later reoccupation attempts;
+   - these are not included in the immediate naval / island-fire / counterattack bands above.
+
+3. **morale / stress aftereffect**
+   - repeated heavy naval shelling followed by renewed Japanese island fire and local counterattack can create a larger fatigue / confidence / neuropsychiatric tail than the immediately recognized NP cases;
+   - this may alter willingness to occupy exposed positions, reaction speed, sleep, unit cohesion and subsequent casualty exposure even where no new formal medical case is recorded.
+
+These effects are real causal continuations of the 20-Jun event but are **left unquantified here by design**.
+Carry them as a deferred tail only if later operational replay requires them.
+
+---
+
 ## 10. Boundary close
 
 From now on:
