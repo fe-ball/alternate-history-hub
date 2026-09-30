@@ -53,6 +53,10 @@ Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
 
 Current task:
+- **file 82 is the latest WORKING doctrine/reception-engineering audit. It reconstructs Santo -> New Caledonia -> Attu -> Marianas counterlanding learning, first-touch load priorities, hydrographic preparation, and the physical meaning of the 'Secret Cape' reception system.**
+- carry file-82 selected interpretation: Saipan by Jun44 has at least one R3-class low-signature 'Secret Cape' candidate plus multiple R2 alternates; Tinian R2-R3; Guam distributed R2. Exact named sectors / craft lanes remain OPEN. This is a prepared transshipment network, not a secret deep-water port.
+- file-82 amphibious-vehicle rule: historical Ka-Mi-class amphibious tanks are niche second/third-cycle mobile-fire/support assets, not LVT/cargo substitutes; engineers/signals/mortars/AT/75mm-class guns/ammunition/prime movers take precedence. Shipborne, island-local, and inter-island craft are separate wallets.
+- next task: name the actual 20-Jun R3/R2 reception sectors that remain usable under the current front, then close the named landing-craft wallet and the 2,000-3,500-man thick lift.
 - **file 81 is the latest WORKING strategic hypothesis for the thick branch. It treats the pre-existing counterlanding culture (file 80) plus KON-style fast lift (file 79) as the first credible route from Saipan delay/attrition to FORAGER project fracture.**
 - carry file-81 phase ladder: P1 delay/attrition -> P2 follow-on break -> P3 FORAGER operational lock -> P4 campaign redesign. Do not select P3/P4 until U.S. ground/amphibious/naval support depletion and Japanese regeneration are quantified on one clock.
 - next task under thick branch: build the dated 13–21 Jun reinforcement force, then measure U.S. division/cadre depletion, amphibious-wallet depletion, naval-support expenditure/damage, and Japanese post-intervention regeneration/re-engagement clock.
