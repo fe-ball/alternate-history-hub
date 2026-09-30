@@ -53,6 +53,9 @@ Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
 
 Current task:
+- **file 81 is the latest WORKING strategic hypothesis for the thick branch. It treats the pre-existing counterlanding culture (file 80) plus KON-style fast lift (file 79) as the first credible route from Saipan delay/attrition to FORAGER project fracture.**
+- carry file-81 phase ladder: P1 delay/attrition -> P2 follow-on break -> P3 FORAGER operational lock -> P4 campaign redesign. Do not select P3/P4 until U.S. ground/amphibious/naval support depletion and Japanese regeneration are quantified on one clock.
+- next task under thick branch: build the dated 13–21 Jun reinforcement force, then measure U.S. division/cadre depletion, amphibious-wallet depletion, naval-support expenditure/damage, and Japanese post-intervention regeneration/re-engagement clock.
 - **file 80 is the latest WORKING doctrinal premise. It selects preplanned Marianas counterlanding mobilization as a probable A-Go contingency, based on the established Branch Attu/Gilberts/New-Caledonia/Santo lineage. File 79 now audits the physical force realization rather than the existence of the doctrine.**
 - carry file-80 status: mobilization intent for a fast ~2,000–3,500-person combined-arms reinforcement is SELECTED; named units/hulls/staging/timing remain OPEN; current DD7+Nisshin result is the fallback/minimum fast layer until that audit closes;
 - next task is the named force audit: Army/Navy manpower source, KON/amphibious transport assets, 13–20 Jun movement, Nisshin+Chitose/Chiyoda allocation, landing-craft wallet, Tanapag/Garapan usability, escort/fuel/CAP cost.
