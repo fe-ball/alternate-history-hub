@@ -590,7 +590,7 @@ Hornet group:
 **第二撃後 — Enterpriseもdead in water化**
 - Enterpriseはpower / communications lossによりflagship機能が大幅低下。
 - 史実でFletcherがimmobilized YorktownからAstoriaへflagを移したのと同じ理由から、**SpruanceはEnterpriseに残らずcruiserへflag transferする方向をCLOSED**。
-- central transfer先は**Pensacola**。PensacolaはEnterprise groupかつKinkaidのcruiser command platformで、TF16全体のsurface coordinationを継続しやすい。
+- central transfer先は**Pensacola**をworking candidateとする。これはR3上の旗艦移乗案であり、Kinkaidの史実旗艦をPensacolaと断定するものではない。Kinkaidはcruiser screen commandを別系統で継続する。
 - exact transfer completionは**11:45–12:15級 PROVISIONAL**。
 - Enterprise tow candidateは**Northampton**をcentral。大型CAとして十分なbollard / deck-handling capabilityがあり、後のSanta Cruzで実際にYorktown-class Hornetを曳航できたことをphysical benchmarkとする。
 - VincennesはPensacolaとともにcommand / surface screen。
@@ -627,7 +627,7 @@ Hornet disposal group:
 - Minneapolisはtowを切り、退艦が進み次第combat screenへ戻す。
 
 Surface command / covering group:
-- **Pensacola — Spruance + Kinkaid command nucleus**
+- **Pensacola — Spruance working command nucleus**
 - **Vincennes**
 - **Minneapolis**
 - **New Orleans**
@@ -935,6 +935,103 @@ Surface command / covering group:
 - しかし主目的の一つである**Enterprise tow break**を達成し、二空母とも戦場に固定した。
 - 米側はここから「Enterpriseを救う戦闘」ではなく、**Enterpriseを敵に渡さないための戦闘 / 退艦 / scuttle**へ目的を切り替える圧力が極めて高い。
 - 次gateは、Spruanceが何時にEnterprise放棄を命じるか、またPensacolaからどの艦へflagを移すか、そして日本側が米coverを追うのかEnterpriseへ直接DD/CAを走らせるのか、である。
+
+
+#### 10.0H 16:50–17:50 — Enterprise abandon / prize race — PROVISIONAL central
+
+**米側decision threshold**
+- CINCPACの史実Midway guidanceは、敵にattritionを与えつつ**carriers / cruisersをunduly riskしない**ことだった。
+- 16:45級にEnterprise towが切れ、再曳航を戦闘中に設定できず、日本surface groupが現に射撃圏内へいるなら「救艦のため4CA + CL + DDを長時間固定する」閾値を越える。
+- よって**16:50–17:00にSpruanceがEnterprise general abandon + scuttle preparationを命じる**のをcentralとする。
+- Pensacolaは356mm hitで損傷しているが20–25kt / communicationsをcentralで残しているため、**戦闘中の二度目のflag transferは直ちには行わない**。SpruanceはPensacolaでcommandを継続し、communications loss / fire worsening時だけMinneapolis / New Orleans等への再移乗を検討する。
+
+**Enterprise残留人員 — working band**
+- exact headcountはまだCLOSEDにしない。
+- air groupの相当数は既に発進・損失・Midway divert / 他艦収容で艦内にいない一方、ship's company / engineering / DC / gunnery / medical / aviation maintenance要員は大量に残る。
+- 第二撃後から負傷者・一部nonessential transferを進めていたとして、16:50時点の艦内を**1,400–1,800人級 PROVISIONAL**とする。
+- Yorktownの史実救助では約2,270人を7DDが収容するのに約1時間45分級を要した。R3 Enterpriseはlistが10–15°級で作業条件はやや良いが、**日本surface fire下**なので横付け・低速救助ははるかに危険。
+
+**16:50–17:00**
+- Enterpriseへabandon order。
+- Northamptonはtowを再取得せず、survivor pickup / local AA / smokeへ転用。
+- **Phelps / Aylwin / Monaghan**をEnterprise救助核とし、Balch / Benhamはsurface coverと救助の間で逐次投入。
+- wounded → nonessential → engineering/DC minimum → captain/final inspectionの順。
+- code / crypto / radar/IFF / CIC資料、作戦文書、recognition / intelligence materialを最終破壊。
+- machinery / seacock / flooding等の内部scuttle actionは補助として準備してよいが、無動力・損傷状態で短時間確実沈没を保証する主手段にはしない。
+
+**日本側16:50 decision**
+- 米coverを延々追うより、停止Enterpriseへ先行部隊を差し込む価値が急上昇。
+- central exploitation group:
+  - **筑摩**
+  - **巻雲**
+  - **夕雲**
+  - 必要に応じ風雲を後続
+- 霧島 + 損傷利根 + 嵐 / 舞風を米CA lineへ残し、米coverをpin / chaseする。
+- 筑摩groupの目的は当初から「日本へ曳航完了」ではなく、
+  1. Enterprise scuttle DDを追い払う
+  2. carrierへ接触
+  3. 艦内残留米兵 / fire / floodingを確認
+  4. 可能ならboarding partyを送り**prize secure**
+  5. その後にtow feasibilityを判定
+  である。
+- 後世のSanta Cruzでは日本側が19:20にHornetのcapture / towを命じ、先行DDが現物を確認して曳航不能なら処分した。これを1942-06 actor knowledgeへ逆流させないが、**米空母拿捕という発想が日本海軍の制度・運用上不自然ではないphysical/organizational anchor**として使う。
+
+**distance / arrival**
+- 16:50時点でEnterpriseは日本main lineの東**10–15 nmi級**をcentral。
+- 筑摩groupが32–34kt級で突破に移れば、無妨害なら約20–28分。
+- ただし米covering CA / Atlanta / DDがcrossing fireを行うため、**first close approach 17:15–17:30**をcentral bandとする。
+- 「17:10に即横付け」は採らない。
+
+**17:00–17:15 — evacuation under fire**
+- Enterprise乗員はflight deck / hangar edge / stern nets / boats / raftsから退艦。
+- 日本砲撃がcarrier本体ではなくrescue DD / CAを優先するなら、米側は一定時間救助継続可能。
+- しかしDDが横付けしたまま203mm / 127mm fireを受けるのは不可。日本先行groupが15kyd以内へ入ると、DDはcast offしてsmoke / maneuverへ移らざるを得ない。
+- centralでは17:15までに**600–900人級を追加移送**。まだ**500–900人級**がEnterpriseまたは直近raft / waterへ残る。
+
+**17:15–17:30 — US delaying action**
+- Minneapolis / New Orleans / Atlanta + available DDが一時的にwestward turnし、Chikuma groupをEnterpriseから遠ざける。
+- これは「空母を救う」ためではなく**残留乗員を降ろす30分を買う**ためのdelaying action。
+- SpruanceはPensacola / Vincennesを含むmain bodyの東退を開始しつつ、Kinkaid screenへ必要最小限の時間を買わせる。
+- 日本側はcapture valueを意識するほどEnterprise本体への356 / 203mm direct fireを抑え、rescue / scuttle escortsを先に撃つ。米側にとっては退艦時間を稼げる反面、日本側がcarrier hullを保存する結果にもなる。
+
+**Phelps scuttle role**
+- PhelpsはHornetではなく**Enterprise scuttle shipのcentral candidate**。
+- Coral SeaでLexingtonへ5 torpedoを発射した実戦経験があり、位置的にもEnterprise screen側。
+- general abandonが進んだ後、**17:25–17:40にPhelpsへscuttle order**を出すcentral。
+- ただしsurvivorsが水面 / boatsに密集する間は魚雷発射不能。
+- Phelpsが2,000–3,000yd級射点へ入り、8-tube salvoを準備するにはさらに10–20分を見込む。
+
+**17:30–17:45**
+- Enterpriseのorganized crew evacuationは終盤。centralで**17:35–17:50にcaptain / final organized party off**。
+- Yorktown級の低いlistと午後からの事前transferで史実Yorktownの2270人救助より速くするが、敵接近下なので極端には短縮しない。
+- 筑摩groupは10kyd級以内へ圧力をかけ、Phelps / pickup DDへ砲撃可能。
+- 米側が最後まで乗員救助を優先すると、Phelpsの魚雷発射開始は日本groupの接近と競合する。
+
+**17:40–17:55 — scuttle race**
+- central first Enterprise scuttle salvo window: **17:45–18:00**。
+- ただし筑摩 / DDがPhelpsを射撃・追い払う場合、full salvoを撃てない / 射点へ入れない枝を強く残す。
+- Phelpsが8本全部を撃てても、1942米魚雷の信頼性とYorktown-class hull survivabilityから**即時沈没を保証しない**。
+- centralは「0–数発有効爆発、Enterpriseは追加list / floodingするがなお浮存」。
+- 日本DDが先にcarrierへ1–3 nmiまで達すれば、Phelpsはscuttle完遂より生還・survivor回収を優先して離脱する。
+
+**17:50 central picture**
+- Enterprise: abandonedまたは最終残留班が離艦済み、scuttle attemptは開始/開始直前。**まだ浮存**。
+- Hornet: abandoned + earlier scuttle damage、なお浮存。
+- 日本: 筑摩 + DD2–3がEnterpriseへ直接接触可能圏。Kirishima / Tone groupは米coverを拘束。
+- 米: main cruiser forceはまだ戦闘力を残すが、二空母を守る目的は失い、survivor recoveryを終えつつeastward withdrawalへ移る。
+
+**captureの意味を分離する**
+- 17:50級に日本側が「Enterpriseを拿捕」しても、それは**board / secure / prevent further scuttling**まで。
+- 20,000t超の損傷空母をDD2隻で直ちに29kt fleetへ連れて帰ることではない。
+- prize crewはまず消火、浸水境界、弾火薬庫、残存米兵、booby-trap / sabotage、tow point、rudder / shaft状態を確認する。
+- 実際のtowはその後、Chikuma / DDによる即席曳航を試すか、より適切な艦 / tug / supportを呼ぶ別gate。
+- したがって**拿捕成功 ≠ 回航成功**。まず「米側が沈め切る前に船体へ人員を置けるか」をこのphaseの判定対象とする。
+
+**central inference**
+- 米側はEnterprise放棄判断そのものは16:50–17:00に間に合う。
+- 多数乗員の大部分も17:40級までに降ろせる可能性が高い。
+- しかし**完全な自沈を日本先行group到来前に保証する時間は足りない**。
+- よって18時前後にEnterpriseが「無人またはほぼ無人、米scuttle damageあり、なお浮く」という状態で日本側のboarding圏へ残るbranchをcentral candidateとする。
 
 
 ### 10.1 まず再判定する論点
