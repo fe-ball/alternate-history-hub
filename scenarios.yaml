@@ -19,7 +19,7 @@ scenarios:
     canonical_source: "scenarios/asai/records/V26/00-SESSION-HANDOFF-V26.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "relaunch-r3-continuity-ledger-through-midway-eastern-capture-sand-contested-1942-06-06-1400"
+    source_import: "relaunch-r3-continuity-ledger-through-midway-capture-1942-06-06-2030"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository; source-record-trees-preserved-during-navigation-restructure"
 
   keisanki-ibun:
@@ -43,9 +43,9 @@ scenarios:
     title: "発動機転生者"
     status: active
     authority_version: "Relaunch R3"
-    canonical_clock: "1942-06-06T14:00:00-10:30"
-    clock_state: "relaunch-r3; Midway advanced through 1942-06-06 14:00; beachheads established and reinforcement race CLOSED central; one reef channel usable for Japanese heavy-weapon shuttle from ~10:45; Eastern Island tactically captured ~13:15; Sand Island still contested; next gate Sand reduction, surrender/final-resistance decision, Eastern runway assessment, and Enterprise prize daylight logistics"
-    frontier: "1942-06-06 14:00級。US 08-09時 counterattacks fail to eliminate either bridgehead。10:45級に日本側がreef channel 1本をheavy-weapon shuttleへ使用可能となり、Easternには70mm/37mm級direct-fire weapon、SandにはAT guns/light tanks級が流入。Eastern organized defenseは12:45-13:30にcollapseし~13:15 tactical capture CLOSED。SandはJapanese effective ashore 1950-2200級、cumulative casualties 620-780級でcentral/northwest coreがなお抵抗。次は14:00-night Sand reduction、surrender/final-resistance、Eastern runway assessment、Enterprise prize daylight logistics"
+    canonical_clock: "1942-06-06T20:30:00-10:30"
+    clock_state: "relaunch-r3; Midway advanced through 1942-06-06 20:30; Eastern captured ~13:15, Sand organized surrender ~19:25, Midway Atoll tactically secured ~20:30 CLOSED; no same-day US relief and no organized PBY evacuation central; next gate captured-base restoration, US post-loss response, Enterprise prize daylight logistics, and damaged-carrier/four-carrier disposition"
+    frontier: "1942-06-06 20:30級。Easternは~13:15 tactical capture、Sandは14時以後のmethodical reduction後19:15-19:35級にorganized surrender、20:15-20:30級にJapanese tactical secure。Midway Atoll tactical capture CLOSED。Saratogaは6/6 Pearl到着だが同日救援不可、PBY organized evacuationなしcentral。次はrunway/fuel/radar/UXOを含むcaptured-base restoration、US post-loss response、Enterprise prize daylight tow logistics、Akagi/Kaga/four-carrier dispositionを閉じる"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
