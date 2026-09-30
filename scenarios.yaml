@@ -44,8 +44,8 @@ scenarios:
     status: active
     authority_version: "Relaunch R3"
     canonical_clock: "1942-06-04T18:45:00-10:30"
-    clock_state: "relaunch-r3; main decision clock 1942-06-04 18:45; Enterprise capture/Hornet sinking CLOSED; Enterprise first-night forward audit CLOSED; four-carrier 13:30-18:45 aviation ledger CLOSED; 81-aircraft Midway afternoon second strike CLOSED; additional dusk carrier strike NO GO; next gate CruDiv7 night bombardment then 6/5 dawn third-suppression strike"
-    frontier: "Main clock 1942-06-04 18:45。四健在空母13:30 immediate serviceable約212機central、14:35-14:50にMidway午後第二撃81機級を発進し17時台回収、18:45 immediate serviceable約192機centralまでCLOSED。Midwayのrunway/fuel/radar/AA/parked aircraftは追加劣化。18:45以後の追加dusk carrier strikeはNO GO。次は史実にも命令されたI-168→CruDiv7のMidway夜間砲撃をcoast guns/searchlight/PT/remaining aircraft込みで再演し、その結果から6/5 dawn 75-95機級third-suppression strikeとlanding timetableを閉じる"
+    clock_state: "relaunch-r3; Midway night-bombardment side advanced to 1942-06-05 first light; Enterprise capture/Hornet sinking and Enterprise first-night survival CLOSED; 81-aircraft afternoon Midway second strike CLOSED; CruDiv7 night bombardment CLOSED; next gate exact four-carrier first-light third-suppression strike and landing go/no-go"
+    frontier: "6/5 first light直前。CruDiv7夜間砲撃は203mm約480発centralでCLOSED、PT/shore torpedo-gun hit 0 central、Mogami/Mikuma collisionなし。Midwayはheavy-aircraft normal runway operation不能、radar partial/intermittent、AA further degradedだがcoast guns/ground defenseは大半健在。次は四健在空母からprize CAP/main-body CAP/searchを控除した75-95機級first-light third-suppression strikeを具体化し、Midway responseとlanding go/no-goを閉じる"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
