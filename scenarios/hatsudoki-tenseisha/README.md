@@ -5,7 +5,7 @@
 
 > **Navigation status:** current router
 > **Current authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-06T14:00:00-10:30**
+> **Canonical historical clock:** **1942-06-06T20:30:00-10:30**
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 
@@ -23,7 +23,7 @@
 
 ## 現checkpoint
 
-**1942-06-06 約14:00、Eastern戦術的占領・Sand継戦中。**
+**1942-06-06 約20:30、Midway Atoll戦術的占領。**
 
 - 赤城・加賀は航空作戦不能だが船体は生存し、自航退避中。
 - 蒼龍・飛龍・翔鶴・瑞鶴は健在。
@@ -34,26 +34,22 @@
 
 ## current frontier
 
-1942-06-06 約14:00。
+1942-06-06 約20:30。
 
 CLOSED central:
-- 6/6上陸成立
-- 08:00–14:00 US counterattack / Japanese reinforcement race
-- **10:45級 reef channel 1本 open for heavy-weapon shuttle**
-- **Eastern Island tactical capture ~13:15**
-- Sand Japanese effective ashore 1,950–2,200級
-- Sand Japanese cumulative casualties 620–780級
-- Sand remains contested
-
-装備注記:
-- Midway US tank force = 5 Marine light tanks。M2A4/M3 subtypeは未固定。
-- Hokuriku Maru表記へ修正。
+- Eastern Island tactical capture ~13:15
+- Sand organized surrender ~19:25
+- **Midway Atoll tactical capture ~20:30**
+- Japanese landing casualties 1,330–1,660 KIA/WIA級
+- Saratogaは6/6 Pearl到着だが同日救援不可
+- organized PBY evacuationなし
+- Enterpriseを見せにMidwayへ戻すpropaganda towなし
 
 次は、
-1. Sand 14:00–night reduction
-2. Midway surrender / final resistance
-3. Eastern runway repair / Japanese use
-4. Enterprise prize daylight logistics
+1. Midway captured-base restoration
+2. US post-loss response / Saratoga disposition
+3. Enterprise prize daylight logistics
+4. Akagi / Kaga / four-carrier post-MI disposition
 
 ## Authority / status規律
 
