@@ -1358,6 +1358,71 @@ Prize保存のため既に拘束されたもの:
 を、上記prize commitmentを差し引いて処理する。
 
 
+#### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
+
+**夕刻carrier second strike — NO GO, CLOSED**
+- Midwayの日没は6月上旬で19:40級、civil twilightは20:10級まで。
+- 18:45から大規模strikeをspot / launchし、100–150 nmi級の往復・攻撃・再集合を行えば、帰投はsunset後または薄明末へ入る。
+- R3の四健在空母はdeck congestion、他艦所属機混在、整備疲労を抱え、夜間carrier recovery能力が突然向上しているわけではない。
+- よって**18:45以後の80–100機級第二撃は実施しない**。
+- duskまで可能なのはprize / carrier CAP、search、短距離recon、回収作業。fighter-bomber小編隊を無理にMidwayへ投げない。
+- 友永の「第二撃必要」という朝の要求自体は未解決のまま翌朝へ持ち越す。
+
+**night bombardment — GO, central**
+- 史実でも6/4 1730、Combined Fleetは**I-168にEastern Islandを2300まで砲撃し、その後CruDiv 7が継続**する命令を出していた。
+- さらにOccupation Forceは夜戦・Midway air-base destructionを具体的に準備していた。
+- R3では米carrier threatがEnterprise/Hornet mission kill / lossで大幅低下し、四日本carrierが健在。よって史実よりこのnight bombardmentを中止する理由が弱い。
+- central:
+  1. **I-168** — harassment / ranging。shore defenseを眠らせず、searchlight / battery reactionを測る。submarine gunfireでairfieldを破壊することは期待しない。
+  2. **CruDiv 7: Mogami / Mikuma / Suzuya / Kumano + close DD screen** — main night bombardment。
+  3. Kongo / Hiei等のfast BBはcentralではshore battery / submarine / reef / PT-boat riskへ直接入れず、offshore heavy coverとして保持。
+- 史実I-168は実際に6/5 0120頃Midwayを8発砲撃したが、searchlightに捕捉され5-inch / 3-inch coast fireを受けて4分程度で潜航離脱した。よってI-168 phaseは**harassment only**。
+- decisive shore suppressionはCruDiv 7へ任せる。
+
+**CruDiv 7 bombardment concept — next detailed gate**
+- Midwayは固定座標目標なので、夜間でもairfield / hangar / fuel / radar / radio / AA positionへpreplanned area fireが可能。
+- ただしMidwayには5-inch / 7-inch coast-defense artillery、3-inch AA、searchlight、11 PT boats、mines / obstaclesがある。
+- したがって「湾口へ突入してpoint-blank fire」は不可。
+- working concept:
+  - 18–22 kyd級standoff
+  - charted bearings / preplanned fire
+  - HE中心
+  - DD screenを外側へ置きPT / submarine警戒
+  - short high-volume runs → course change → second run
+- night bombardmentの目的はlanding直接支援ではなく、**6/5 dawn air strikeのためにrunway repair、radar、AA、fueling、aircraft dispersalをもう一段悪化させること**。
+
+**Midway側も夜に動く**
+- 史実6/4夜、残存Marine SBD / SB2U 11機級が1900に出撃したがsquallで日本艦隊を発見できなかった。
+- PT boats 11隻も1930頃出撃したが、悪天候・低視界で目標を見つけられなかった。
+- R3でもMidway側は「受け身」ではない。
+- ただし日本側targetはdamaged carrierではなく、CruDiv7 bombardment group / support forceへ変わる。
+- PT / remaining SBD-SB2U / PBYによるnight counterattackは次の砲撃simulationへ入れる。
+
+**6/5 dawn carrier strike — GO planning**
+- 四健在carrierは一夜でdeck / aircraft assignmentを整理する。
+- prize protectionへdawn CAP **12–16 fighters級**を差し引く。
+- main-body CAP / search / reserveも必要なので、「残存全機をMidwayへ一斉投入」はしない。
+- それでも四甲板が健在なため、**90–110 aircraft級第二撃をplanning band**として置く。
+- exact splitはnight bombardment後のMidway damage / Japanese serviceabilityを見て閉じる。
+- mission priority:
+  1. Eastern Island runway / taxi / revetment
+  2. radar / plotting / command
+  3. AA / coast defense positions
+  4. remaining B-17 / SBD / PBY service / fueling infrastructure
+  5. Sand Island radio / fuel / support
+- 「島を瓦礫化」ではなく、**landing dayに米航空反撃を継続できない状態へ落とす**ことを目的とする。
+
+**Occupation Force**
+- 米carrier threatが消えたため、Kondo / Occupation Forceを史実のように全面退避させる理由はない。
+- ただし夜間砲撃が成功する前にtransport groupをMidway航空圏へ突っ込ませない。
+- central: **transport / landing forceは一夜stand-off、support / bombardment elementsだけ前進**。
+- 6/5 dawn strike結果を見てlanding timetableを再設定する。
+
+**next simulation gate**
+- 23:00級以後のCruDiv 7 night bombardmentを、Midway shore battery / PT / remaining aircraft response込みで再演する。
+- その結果を使い、6/5 dawn strike packageとlanding go/no-goを閉じる。
+
+
 #### 10.0L 18:45→06:00 first-night audit — **CLOSED central: Enterprise survives the night under tow**
 
 これはmain battle clockを6/5へ進めるための章ではなく、Enterprise prize保存策が「翌朝まで持たない空論」ではないかを先に潰すforward audit。
