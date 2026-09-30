@@ -2,9 +2,9 @@
 
 > **Status:** mixed — CLOSED / PROVISIONAL / OPEN を節ごとに明示
 > **Authority:** Relaunch R3 continuation
-> **Resume clock:** **1942-06-04 約13:30、ミッドウェー海戦中**
+> **Resume clock:** **1942-06-04 約18:45、ミッドウェー海戦中**
 > **Purpose:** 長時間チャット分断後の再開用チェックポイント。ここに明示したCLOSED/PROVISIONALのみを次計算へ持ち越す。
-> **Critical caution:** 直前会話で一度置いた「Enterprise/Hornetを米側が放棄・自沈し、日本側追撃隊が夜に撃沈確認」は**撤回してOPENへ戻す**。現時点で閉じているのは両艦のmission killまで。
+> **Critical caution:** 旧workingの「Enterprise/Hornetを米側が放棄・自沈し、日本側追撃隊が夜に撃沈確認」は撤回済み。再監査の結果、**Enterpriseは米自沈措置を受けつつ日本側が18:45級に船体を完全確保、Hornetは救艦不能として最終的に沈没処分**をCLOSEDとする。
 
 ## 0. 再開規律
 
@@ -1031,12 +1031,117 @@ Surface command / covering group:
 - 米側はEnterprise放棄判断そのものは16:50–17:00に間に合う。
 - 多数乗員の大部分も17:40級までに降ろせる可能性が高い。
 - しかし**完全な自沈を日本先行group到来前に保証する時間は足りない**。
-- よって18時前後にEnterpriseが「無人またはほぼ無人、米scuttle damageあり、なお浮く」という状態で日本側のboarding圏へ残るbranchをcentral candidateとする。
+- よって18時前後にEnterpriseが「無人またはほぼ無人、米scuttle damageあり、なお浮く」という状態で日本側のboarding圏へ残る。
+
+#### 10.0I Enterprise最終運命を閉じる — **CLOSED: 日本側が浮存船体を完全確保**
+
+ここでは「Phelpsが魚雷を撃てるか」ではなく、**何本が実際に走り、当たり、爆発し、その後に追加処分を続けられるか**まで閉じる。
+
+**Mk 15の1942年条件**
+- PhelpsはPorter級で**21-inch TT 8門**。Coral SeaでLexingtonの処分を実行した実艦であり、scuttle task自体の練度・心理的障壁は低い。
+- ただしMk 15はMk 14と多数のcomponent、特に問題のあるMk 6 exploderを共有し、1942年6月時点では深走・magnetic premature / contact-pistol failure問題がまだ制度的に解決されていない。
+- 静止大型目標への2,000–3,500yd級射撃なのでaiming errorは小さいが、**命中 = 高位爆発ではない**。
+- 後のSanta CruzではMustin / AndersonがHornetへ計16本を撃ち、9 hit級を得てもcarrierを沈め切れなかった。これをYorktown-class hull survivability + early-war US torpedo reliabilityの強いphysical anchorとする。
+- LexingtonでPhelpsが成功した事例は残すが、Lexingtonはscuttle前からgasoline-vapor爆発と大火災で致命状態にあり、Enterpriseへその成功率をそのまま移植しない。
+
+**17:35–17:47 — 最後の米側処分run**
+- Enterpriseのorganized evacuationは17:40級までに概ね終わる。
+- Phelpsへ**全8本で処分**を命令。
+- 筑摩・巻雲・夕雲が接近しており、Phelpsは長時間の5-inch砲撃や第二回の静的処分作業を期待できない。
+- Phelpsはsmoke下からEnterpriseの**port / low side**へ2,500–3,500yd級で入り、17:45–17:50に8本を一斉/短時間連続発射して即離脱する。
+- 日本側はPhelpsをscuttle shipと認識し、筑摩203mmとDD127mmをPhelps / rescue DDへ優先配分。carrier本体への射撃はcapture価値のため抑える。
+
+**CLOSED scuttle result — 8 fired**
+- **5本が船体へ到達 / 接触。**
+- **3本 high-order detonation。**
+- **2本 contact dud / ineffective impact。**
+- 残る3本は既存list・depth error・spreadによりbow/stern外または船底下を通過。
+- これはSanta Cruzの16発→9 hit級という実績より極端に米側を弱くせず、同時にMk 15を100%作動兵器にも扱わないscenario closure。
+- Phelpsにsustained 5-inch scuttle fireは許さない。離脱しながら短時間射撃はあり得るが、Hornetで行われた300発超級の処分砲撃を再現する時間はない。
+
+**Enterpriseへの追加損傷**
+- 3発の有効Mk 15爆発は既存のport-side floodingを悪化させ、listを**24–27° port級**へ増大。
+- main power / propulsion / steeringは既に失われており復旧不能。
+- port side複数区画へ新規浸水、freeboard低下、内部scuttleによる浸水も一部進行。
+- ただし**即時capsize / sinkingには移行しない**。
+- 史実Yorktownは26°級listまで達してもその場で転覆せず、後日salvage partyを戻せた。
+- Santa Cruz Hornetは3 Japanese air-torpedo hitsに加え、9 US torpedo hitsと大量の5-inch砲撃後も日本側到着時に浮いていた。
+- よってR3 Enterpriseを「追加3高位爆発で数分以内沈没」とする方が物理anchorから外れる。
+
+**日本側の積極阻止 — 17:47–18:05**
+- Phelpsの魚雷発射を完全阻止するのはcentralにしない。大目標への短時間salvo自体は間に合う。
+- 日本側の勝ち筋は**follow-upを止めること**。
+- 筑摩はPhelps / Aylwin / Monaghan方向へ203mm fireを継続し、巻雲・夕雲は127mm / smoke / torpedo threatで救助DDをcarrierから剥がす。
+- 米covering CAはなお戦えるが、scuttle salvoを撃った時点でEnterprise救出目的は消滅しており、CINCPACのrisk disciplineから日本main bodyへ再突入してcarrier処分を続ける中央案は採らない。
+- 米側はsurvivor-laden DDと損傷Pensacolaを含むcruiser forceを東退させる。
+- したがってPhelpsの8本が**Enterpriseへ加えられる最後のまとまった米側対艦打撃**になる。
+
+**17:55–18:15 — boarding**
+- Enterpriseがなお浮存していることを筑摩groupが確認。
+- 巻雲・夕雲がhigh side / starboard側へ接近し、armed boarding partyをboats / linesで送り込む。
+- 日本海軍は常設Marine Corpsを持たなくても、艦艇乗員から臨時陸戦/乗艦班を編成する制度・訓練を持つ。ここではSNLFを突然召喚せず、**艦内の水兵・砲員・機関員から編成したprize party**とする。
+- 18:05級に最初の日本兵が艦上へ入り、bridge / hangar / upper engineering accessを確保。
+- 組織的米側抵抗はなし。残留負傷者・stragglerがいた場合は武装解除/救出対象であり、船体controlを左右する戦闘にはしない。
+
+**18:10–18:45 — scuttle arrest / prize secure**
+- 筑摩からengineer / damage-control reinforcementを送り、DD側からportable pumps / hoses / lightingを持ち込む。
+- priority:
+  1. open sea valves / flooding routesの探索・可能な範囲で閉鎖
+  2. magazines / ready-service ammunitionの安全確認
+  3. fire / fuel-vapor source隔離
+  4. watertight boundary再設定
+  5. tow point / deck fittings確認
+  6. sabotage / demolition / live electrical circuit確認
+- unfamiliar US machineryを数十分で完全復旧させることはしない。主機・発電・操舵は依然dead。
+- しかしrapid progressive floodingを止め、**listを25–28°級で頭打ち**にするのはcentral。Yorktownの26° surviving stateをanchorとする。
+- 18:30までにbridge / hangar / exposed decks /主要access pointsを日本側がcontrol。
+- **18:45級、Enterpriseは「prize secured afloat」— 完全確保 CLOSED。**
+- ここでいう完全確保は「日本兵が船体を制圧し、米側の追加自沈を排除し、直ちに沈む進行浸水を抑えた」こと。**日本までの回航成功を意味しない。**
+- 実際の曳航・夜間防護・Midway航空・潜水艦・燃料・赤城/加賀とのescort競合は次gate。
+
+**なぜ沈没ではなく確保をcentralにするか**
+1. Phelpsの8本は撃てるが、Mk 15を8/8高位爆発にできない。
+2. Yorktown-classは26°級listでも即転覆せず、Hornetはさらに多数のtorpedo hit後も長時間浮存した。
+3. 日本側が現場に**数十分ではなく数分～十数分差で到達**しており、米DDへfollow-upを許さない。
+4. US heavy cruisersによるown-carrier砲撃へ切り替えるには、survivorsを十分離隔させつつKirishima/Tone groupへ再接近する必要があり、risk/rewardが悪い。
+5. 日本側は捕獲価値を認識してEnterprise本体への砲撃を抑え、scuttle shipを優先して排除できる。
+6. 日本DD / cruiser crewsはboarding partyを編成でき、無人化したcarrierをsecureすること自体は特殊な未来能力を必要としない。
+
+**Enterprise final fate — CLOSED**
+- **米側scuttle attempt: 実施。**
+- **Phelps: 8 Mk 15発射。5 contact / 3 high-order detonation。**
+- **Enterprise: 沈没せず。**
+- **18:45級: 日本側が船体を完全確保。**
+- **主機・操舵・main powerはdead、list 25–28°級。**
+- **拿捕成功 ≠ 回航成功。次は曳航/保存可能性を別gateとして監査する。**
+
+#### 10.0J Hornet最終運命 — **CLOSED: 沈没処分**
+
+Enterpriseへ日本側salvage effortを集中するため、より大傾斜・同一舷3雷撃・先行米scuttle damageを持つHornetはsecond prizeにしない。
+
+- Hornetは米側の自沈魚雷を受け、abandoned / large list / no power。
+- 日本側は現物確認後、Enterpriseよりsalvage value / tow feasibilityが低いと判断。
+- 米側が再接近して処分を完遂することも、日本側が二隻同時にprize crew / tow assetsを割くことも避ける。
+- **日本DDがType 93でfinish — CLOSED。**
+- Type 93をMk 15と同じdud率にはしない。後のSanta Cruzで4発すべて作動しHornetを最終的に沈めた実績をphysical reliability anchorとする。
+- Hornetの実際の水没時刻は数時間後までずれ得るが、**最終運命は沈没、拿捕しない**で閉じる。
+
+**1942-06-04 約18:45の確定状態**
+- Enterprise: **日本側prize secured afloat**。
+- Hornet: **abandoned / finish-torpedo処分、最終沈没確定**。
+- 米TF16 surface force: survivorsを抱えて東退。
+- 日本追撃隊: Enterprise船体確保、Hornet処分、米covering forceへの深追いは中止可能。
 
 
-### 10.1 まず再判定する論点
+### 10.1 RESOLVED — 米二空母の最終運命
 
-**A. 米側は本当に両空母を早期放棄するか**
+- **Enterprise: 日本側が18:45級に浮存船体を完全確保 — CLOSED。**
+- **Hornet: 米側放棄後、日本側がfinish torpedoで沈没処分 — CLOSED。**
+- 以後、この二艦について「放棄するか／拿捕できるか」を再OPENしない。新しい物理矛盾が出た場合だけ監査する。
+
+### 10.2 次gate
+
+**A. Enterprise prizeを本当に保存・曳航できるか**
 - mission killでも浮いている。
 - Enterprise/Hornetを二隻とも失えば太平洋の米正規空母残高は極端に悪化する。
 - したがって救助だけでなく応急修理、曳航、護衛継続へ追加リスクを取る誘因が大きい。
@@ -1068,39 +1173,20 @@ Surface command / covering group:
 - 逆に全護衛を一方へ集中し、もう一方を自沈/放棄する選択もあり得る。
 - 日本追撃を認知する時刻で判断が変わる。
 
-### 10.2 次回の推奨処理順
+### 10.3 次回の推奨処理順
 
-1. **13:00–14:00時点のEnterprise/Hornet損傷状態を個艦別に再構築**
-   - 浮力・傾斜
-   - 速力/主機
-   - rudder/steering
-   - fire/fuel vapor
-   - flight deck/hangar
-   - tug feasibility
-   - crew evacuation status
-
-2. **米側decision tree**
-   - 両艦救援
-   - 一艦だけ曳航
-   - 乗員救助優先
-   - 自沈準備
-   - heavy cruiser/destroyer screenの残留量
-   - Midway/TF16 surviving aircraftの使い方
-
-3. **日本側decision tree**
-   - 航空第三撃
-   - shadowing + 水上追撃
-   - 拿捕/曳航準備
-   - Midway第二撃との同時並行
-   - 赤城/加賀退避との護衛競合
-
-4. **その後にのみ**
-   - 夕刻/夜戦
-   - Enterprise/Hornet最終運命
-   - 米護衛艦損失
-   - Midway第二撃
-   を閉じる。
+1. **Enterprise prize stabilization / tow audit**
+   - list / flooding rate
+   - usable tow points
+   - Japanese portable pump / power support
+   - Chikuma / DD tow feasibility
+   - evening weather / sea state
+   - Midway air attack and US submarine risk
+2. **Akagi / Kaga withdrawal and four-carrier cover allocation**
+3. **Hornet final foundering confirmation**
+4. **Midway second strike / night disposition**
+5. **US surface force withdrawal and surviving aircraft disposition**
 
 ## 11. 次回開始時の一行要約
 
-**1942-06-04 13:30級。日本は六空母中蒼龍・飛龍・翔鶴・瑞鶴が健在、赤城・加賀が航空作戦不能。米Enterprise/Hornetは二度の日本空襲でmission killだがまだ「沈没/放棄/自沈/拿捕」は未決。次は両艦の曳航可否と、米側が救援のためどこまで追加リスクを負うか、日本側が撃沈より拿捕を選び得るかを再判定する。**
+**1942-06-04 18:45級。日本側は米自沈措置を受けたEnterpriseへ先行水上部隊を到達させ、船体を完全確保。Enterpriseは主機・操舵・main power dead、list 25–28°級だが浮存。Hornetは救艦不能として日本側finish torpedoで最終沈没確定。次はEnterprise prizeを夜間に保存・曳航できるか、Midway航空・米潜水艦・赤城/加賀退避と両立できるかを監査する。**
