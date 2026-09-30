@@ -114,25 +114,30 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**Main decision clock: 1942-06-04 約18:45、ミッドウェー海戦夕刻。**
+**Main decision clock: 1942-06-05 first lightへ進む直前。**
 
-CLOSED / central:
-- Enterpriseは日本側prize secured afloat、Hornetは最終沈没。
-- Enterprise first-night forward auditは6/5 06:00まで生存CLOSED central。ただしactor knowledgeへ逆流させない。
-- 四健在空母の13:30 immediate serviceableは約212機central。
-- **14:35–14:50、Midway午後第二撃81機級を発進。** 15:40–16:10攻撃、17:05–17:45回収。
-- 第二撃でMidwayのrunway throughput、fuel/service、radar/plotting、AA、parked aircraftを追加劣化。
-- 18:45の四空母immediate serviceableは約192機central。
-- **18:45以後の追加dusk carrier strikeはNO GO CLOSED。**
+CLOSED central:
+- Enterprise確保 / Hornet沈没。
+- Enterprise first-night survival forward audit。
+- 6/4 14:35–14:50 Midway午後第二撃81機級。
+- 18:45以後の追加dusk carrier strike NO GO。
+- **CruDiv 7 night bombardment completed.**
+  - 203mm HE/Common 約480発central
+  - PT torpedo hit 0
+  - Japanese CA direct damage 0 central
+  - Mogami/Mikuma collisionなし（historical cancel/withdrawal geometryが消滅）
+  - Midway heavy-aircraft normal runway operation first lightまで不可central
+  - radar partial/intermittent、AA further degraded、coast guns mostly intact
 
 次の論点:
-1. **CruDiv 7 night bombardment**
-   - I-168 harassment
-   - Mogami / Mikuma / Suzuya / Kumanoのstandoff bombardment
-   - Midway coast guns / searchlight / radar / PT / remaining aircraft response
-2. **6/5 dawn third-suppression strike**
+1. **6/5 first-light four-carrier strike**
    - 75–95 aircraft planning band
    - prize CAP / main-body CAP / searchを控除
-3. **Occupation Force advance / landing timetable**
-4. **Enterprise prize daylight logistics** — fast-oiler rendezvous / tow handoff / submarine risk
+   - runway / radar / AA / parked aircraft / coast-defense target allocation
+2. **Midway first-light response**
+   - limited radar warning
+   - surviving AA
+   - any flyable Marine / diverted carrier aircraft
+3. **landing go/no-go and timetable**
+4. **Enterprise prize daylight logistics** — oiler rendezvous / tow handoff / submarine risk
 
