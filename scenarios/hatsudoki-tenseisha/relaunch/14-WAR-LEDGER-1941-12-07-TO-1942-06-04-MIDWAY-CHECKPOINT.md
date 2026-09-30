@@ -1493,6 +1493,137 @@ Prize保存のため既に拘束されたもの:
 - 次は**night bombardmentでこのdamageを固定 / 拡大し、6/5 dawn strikeを「第三のsuppression cycle」として組む**。
 - 6/5 dawn packageは旧90–110固定ではなく、night bombardment結果とprize CAPを引いたうえで**75–95機級 planning band**から再計算する。
 
+#### 10.0P CruDiv 7 Midway夜間砲撃 — CLOSED central
+
+**historical geometryを継承**
+- 史実でもCruDiv 7（熊野・鈴谷・三隈・最上）+ DesDiv 8はMidway砲撃を命じられ、島から**約410 nmi**の位置から35kt級dashを開始した。
+- 高速航走で海況が悪く、DesDiv 8は遅れた。
+- 史実では砲撃中止命令後の退避過程でTambor接触とMogami/Mikuma collisionへつながった。
+- R3では砲撃命令を維持するため、**史実のcancel / withdrawal trackをそのまま再生しない**。したがってMogami/Mikuma collisionは自動継承しない。
+- ただしTamborを含むsubmarine threatそのものは残す。
+
+**18:45以後のapproach**
+- CruDiv 7はすでに数時間high-speed dash中。18:45時点でMidwayまで**130–160 nmi級 working band**。
+- 35ktを最後まで維持してDDを完全に置き去りにするより、18:45以後は**30–32kt級**へ落としてformation / navigationを整えるcentral。
+- Asashio / Arashioは遅れながら外周screenへ復帰。
+- Midwayへ接近する最後の30–40 nmiはdarkened ship / zigzag / floatplane lookoutでsubmarine/PT警戒。
+
+**I-168 harassment — historical result largely retained**
+- **0120級**、I-168がSand Island southeastからsurface gunfire。
+- historical anchorどおり**8 rounds級、effective damage 0**。
+- Searchlight 102級に捕捉され、5-inch star shell / 3-inch batteries / 5-inch coast fireで0128級に潜航離脱。
+- R3での価値はdamageではなく、
+  - searchlight response sector
+  - active coast-battery bearing
+  - reaction time
+  をCruDiv 7へ報告すること。
+- I-168へshore hitなしcentral。
+
+**shore-defense geometry**
+- Midwayは2×7-inch batteries（Sand / Eastern Island）、複数5-inch/51 coast batteries、3-inch batteries、searchlightsを持つ。
+- 5-inch/51 practical max rangeは約15,850yd級、7-inch/45 naval-mount rangeは約16,500yd級。shore installation差分はあるため絶対線にはしないが、**18–21kyd級は米coast fireの外縁～外側**。
+- 日本側は「近づくほど当たる」ために15kyd以内へ入らず、fixed island targetである利点を使いstandoff area fireを選ぶ。
+- US searchlightsも20kyd級の巡洋艦を安定照射する前提にしない。
+
+**0135–0155 first bombardment run**
+- range **19–21kyd**。
+- target split:
+  - Mogami / Mikuma → Eastern Island runway / taxi / hangar / service areas
+  - Kumano / Suzuya → Sand Island fuel / radio-command zone、Eastern/Sand AA clusters
+- main ammunitionは203mm Common / HE。
+- 各CA **50–70 rounds級** first run、4隻合計**220–260 rounds級**。
+- fixed-coordinate area targetのためship-vs-ship命中率をそのまま適用しないが、夜間のown-position error / fall-of-shot observation不足からprecision point target destructionも期待しない。
+- coast batteriesはmuzzle flashesへcounterfireを試みるが、5-inchはほぼrange外、7-inchはouter-edge fire。
+- **Japanese direct hit 0 central**、several long/short splashes。
+
+**PT counterattack**
+- 史実11 PTは夜間出撃したがsquall / visibilityで日本艦を発見できなかった。
+- R3ではCruDiv 7が島へ接近して発砲するため、contact probabilityが大幅に上がる。
+- central:
+  - 11 PT中**5–7隻**がgun flashes / shore reportsでCruDiv 7方向へ寄る
+  - **3–4隻**がactual attack geometryを得る
+  - 8–12 Mk 8-class torpedoes級を発射
+- Japanese CA/DDは砲撃を中断してturn-away / 127mm / 25mm / searchlight defense。
+- early-war PT torpedo fire-control、night geometry、日本側35kt-class maneuverabilityを踏まえ、**torpedo hit 0 central**。
+- 1 PT damaged heavily、1 light damage級をcentral。PT annihilationは置かない。
+- PT attackによりsecond bombardment run開始が10–15分遅れる。
+
+**0205–0225 second bombardment run**
+- range **18–20kyd**。
+- PT directionからcourseを変え、別bearingから再接近。
+- 4CA合計追加**220–280 rounds**。
+- **night total 450–520 rounds of 203mm HE/Common、central 480**。
+- 1隻あたり約120 rounds、1 gunあたり12 rounds級。203mm ammunition stowage 120–126 rounds/gun級に対し、shore missionへ約10%を使う規模で、後続surface battle capabilityを空にしない。
+- secondary 127mmはPT / illumination / short-range opportunityへ限定。18–20kydで主たるshore-bombardment weaponにはしない。
+
+**Midway damage from night bombardment — CLOSED central**
+午後第二撃後の損傷へ上積みする。
+
+Eastern Island:
+- runway / taxiway: **additional 8–14 significant crater / blast obstruction級**。existing afternoon damageと重なり、**heavy-aircraft normal takeoff/landingはdawnまで不可 central**。
+- light aircraftはemergency-cleared stripを作ればlimited operation可能。
+- hangar / shop / service areaへ複数hit。repair throughput further degraded。
+- parked aircraft: **additional 4–7 destroyed、5–8 damaged**。
+- fuel / servicing: exposed pipes / pump / drum handling areaへ追加損傷。bulk underground reserveの全滅は置かない。
+
+Radar / command:
+- radar antennaそのものへのlucky direct hitをcentralにはしない。
+- power / telephone / plotting linksのshell damageで**SCR-270 / plotting chainは02時台にintermittent / temporarily off-line**。
+- dawnまでにpartial restoration可能。翌朝Japanese strikeを完全blindで受けるとまではしない。
+
+AA / coast defense:
+- afternoon air strikeですでにAA volumeが低下。
+- night shellingで**2–4 AA / searchlight positions追加suppress / destroy**。
+- 5-inch / 7-inch coast batteriesは主要砲そのもののdestroy 0 central。emplacement splinter / communications casualtyを受ける。
+- coastal artilleryをshore bombardment一回で消すことはしない。
+
+personnel:
+- shelters / trenchesが発達しているためopen barracks mass casualtyにはしない。
+- additional killed/wounded **60–100級 working band**。airfield maintenance / AA / communicationsへの熟練人員損失が量以上に効く。
+
+**US night aviation**
+- 午後第二撃後、historical 6 SBD + 5 SB2U full packageは維持できない。
+- centralで**4–7 Marine dive bombers級**がduskに出撃可能だが、historical同様squall / poor visibilityでCruDiv 7を捕捉できず帰投。
+- PBY night torpedo effortはEnterprise prize / transport group searchにも割かれ、CruDiv 7へ追加の大規模航空攻撃を無料生成しない。
+- B-17はnight low-level naval interceptionに転用しない。
+
+**submarine / Tambor**
+- historical Tambor encounterはcancelled-bombardment return geometry上で起きた。
+- R3 CruDiv 7は01–02時台にMidway沿岸へ進出しているため、**historical 0215 / 90 nmi west contactをそのまま置かない**。
+- submarine contact scare 1回級は許容するが、torpedo launch / collision 0 central。
+- したがって**Mogami/Mikuma collision does not occur — CLOSED central for this branch**。これは日本側の技能向上ではなく、operation route/timeが変わった直接butterfly。
+
+**0225–0245 withdrawal**
+- CruDiv 7はlanding前にammunitionを空にせず砲撃終了。
+- coast-defense accuracyが上がる前に20kyd外へ離脱。
+- PT pursuitをDDが遮断。
+- course W–WSW、28–30kt級でMidway daylight strike zoneから離れる。
+- four cruisers major damage **0 central**。
+- one PT serious damage / minor Japanese splinter damage程度。
+
+**night bombardment result — CLOSED central**
+- CruDiv 7はMidwayを占領可能状態へ単独で変えるほど破壊しない。
+- しかし午後第二撃で損傷したairfieldについて、
+  - heavy-aircraft sortie generationを夜通し止める
+  - runway repair crewを砲撃下へ置いてrepair clockを遅らせる
+  - fuel/service throughputをさらに落とす
+  - AA/searchlight/communicationsを追加摩耗
+  - diverted carrier aircraftをさらに地上で削る
+  ことには成功。
+- Midwayは依然armed fortress。5-inch / 7-inch coast guns、PT、infantry、minefieldsは残る。
+- 6/5 dawn carrier strikeは「まだ必要」だが、その役割はbase destructionのゼロスタートではなく、**夜間砲撃で固定したsuppressionを daylight precision attackで仕上げること**になる。
+
+**dawn input produced**
+- coherent local fighter CAP: effectively none / only isolated aircraft
+- runway: heavy aircraft normal operation unavailable at first light central
+- radar: partial / intermittent recovery
+- AA: morningより明確に薄いがdangerous
+- Marine dive bomber pool: very small
+- PT: 9–10 boats級 still usable
+- coast guns: mostly intact
+- landing defense: essentially intact
+
+次gateは**6/5 first-light carrier strikeのexact package / target allocation / loss / Midway response**。
 #### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
 
 **18:45以後の追加dusk strike — NO GO, CLOSED**
