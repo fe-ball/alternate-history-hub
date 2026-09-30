@@ -1,8 +1,8 @@
 # 発動機転生者・リランチ正本
 
 > **Authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-06 約14:00（Midway reinforcement-race working clock）**
-> **Checkpoint:** ミッドウェー海戦6/6午後。Eastern Islandは13時台に戦術的占領、Sand Islandは日本側重火器流入後もなお中央・北西部で抵抗継続
+> **Canonical historical clock:** **1942-06-06 約20:30（Midway captured working clock）**
+> **Checkpoint:** ミッドウェー海戦6/6夜。Eastern 13時台占領、Sand 19時台組織降伏、20:30級にMidway Atoll戦術的占領
 > 旧 `current/`・`archive/` はpre-relaunch REFERENCE。
 > canonical clockより未来の議論は、その時点で開始済みのresearch / requirement / planning / forward-studyとしてのみ保持し、後年結果をactor knowledgeへ逆流させない。
 
@@ -114,33 +114,38 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**Main decision clock: 1942-06-06 約14:00。**
+**Main decision clock: 1942-06-06 約20:30。**
 
 CLOSED central:
 - Enterprise確保 / Hornet沈没、Enterprise first-night survival forward audit。
-- Midway午後・夜間・first-light制圧、6/6上陸成立。
-- 08:00–14:00 reinforcement race:
-  - 08–09時台 US counterattackは両島で日本橋頭堡を圧迫するが排除できず
-  - **10:45級、reef channel 1本を日本側がheavy-weapon shuttleに使用可能**
-  - SandへAT guns + light tanks級、Easternへ70mm級歩兵砲 / 37mm級direct-fire weaponが順次上陸
-  - **Eastern Island organized defense collapses 12:45–13:30、tactical capture ~13:15 CLOSED**
-  - Sand: Japanese effective ashore 1,950–2,200級、cumulative casualties 620–780級
-  - Sand Marine light-tank mobile counterattack capabilityは終了
-  - **Sand Island remains contested at 14:00**
-- 装備表記修正:
-  - US tank platoonは5 Marine light tanksで固定、M2A4 vs M3 subtypeはsource disagreementのため未固定
-  - transport ship表記は **Hokuriku Maru** に修正
+- Midway午後・夜間・first-light制圧、6/6上陸・reinforcement race。
+- Eastern Island tactical capture ~13:15。
+- Sand Island:
+  - 14:00以後 methodical reduction
+  - no same-day US surface/carrier relief
+  - Saratogaは6/6 Pearl到着だが同日救援戦力ではない
+  - no organized PBY evacuation
+  - **19:15–19:35級 organized surrender order**
+  - **20:15–20:30 Japanese tactical secure**
+- Midway Atoll tactical capture **~20:30 6/6 CLOSED**。
+- Japanese landing casualties through capture **1,330–1,660 KIA/WIA級**。
+- US exact POW total OPEN pending personnel ledger。
+- EnterpriseをMidway沖へ見せに戻すpropaganda towは **NO**。
 
 次の論点:
-1. **14:00–night Sand Island reduction**
-   - central / northwest defense core
-   - remaining coast guns / mortars / MG
-   - Japanese heavy-weapon throughput through reef channel
-2. **Midway surrender / final-resistance decision**
-   - Eastern lossがSand commandへ与える影響
-   - evacuation impossibility / PBY extraction limits
-3. **Eastern runway damage assessment**
-   - Japanese engineersがいつfighter / transport useへ戻せるか
-4. **Enterprise prize daylight logistics**
-   - fast-oiler rendezvous / tow handoff / submarine risk
+1. **Midway captured-base restoration**
+   - Eastern runway crater / UXO clearance
+   - fuel sabotage / damaged servicing
+   - radar / communications reconstruction
+   - Hokuriku Maru construction-store loss impact
+   - earliest Japanese fighter / transport operation
+2. **US response after loss of Midway**
+   - Saratoga disposition
+   - submarines / B-17 / PBY counterstrike
+   - Hawaiian defense / relief-abandonment decision
+3. **Enterprise prize daylight logistics**
+   - fast-oiler rendezvous / tow handoff
+   - submarine / air risk
+   - longer-term salvage route
+4. **Akagi / Kaga / four-carrier post-MI disposition**
 
