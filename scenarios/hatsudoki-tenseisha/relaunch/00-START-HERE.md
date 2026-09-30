@@ -1,8 +1,8 @@
 # 発動機転生者・リランチ正本
 
 > **Authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-06 約20:30（Midway captured working clock）**
-> **Checkpoint:** ミッドウェー海戦6/6夜。Eastern 13時台占領、Sand 19時台組織降伏、20:30級にMidway Atoll戦術的占領
+> **Canonical historical clock:** **1942-06-07 約18:00（Midway base-restoration working clock）**
+> **Checkpoint:** ミッドウェー占領翌日夕刻。Easternに3,500–4,000ft級の狭いfighter laneを仮復旧し、最初の4–6機が着陸。Enterprise prizeはShinkoku towへ移行済み
 > 旧 `current/`・`archive/` はpre-relaunch REFERENCE。
 > canonical clockより未来の議論は、その時点で開始済みのresearch / requirement / planning / forward-studyとしてのみ保持し、後年結果をactor knowledgeへ逆流させない。
 
@@ -73,7 +73,7 @@ CLOSED central / bounded:
 
 現行再開台帳。第二波・第三撃判断、Wake、南方、Operation C、Doolittle、MO、Port Moresby、AL/MI兵力配分、零戦派生/次期艦戦、ミッドウェー索敵・相互空母打撃までをCLOSED/PROVISIONAL/OPENで整理する。
 
-**重要:** 米二空母の最終運命は再監査でCLOSED。EnterpriseはPhelpsのMk 15自沈斉射を受けた後も浮存し、18:45級に日本側がprize secured afloat。Hornetは救艦不能として日本側finish torpedoで最終沈没確定。次はEnterprise prizeの夜間安定化・曳航可能性を監査する。
+**重要:** 米二空母の最終運命はCLOSED。Enterpriseは捕獲後の初夜を越え、6/5にShinkoku Maru主曳航へ移行、6/6 20:30時点でlist 20–22°・2.8–3.2kt tow。Hornetは最終沈没。Midwayは6/6 20:30級に占領され、現在は基地復旧と米側再編を監査中。
 
 ## 現在の読み順
 
@@ -114,38 +114,42 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**Main decision clock: 1942-06-06 約20:30。**
+**Main decision clock: 1942-06-07 約18:00。**
 
 CLOSED central:
-- Enterprise確保 / Hornet沈没、Enterprise first-night survival forward audit。
-- Midway午後・夜間・first-light制圧、6/6上陸・reinforcement race。
-- Eastern Island tactical capture ~13:15。
-- Sand Island:
-  - 14:00以後 methodical reduction
-  - no same-day US surface/carrier relief
-  - Saratogaは6/6 Pearl到着だが同日救援戦力ではない
-  - no organized PBY evacuation
-  - **19:15–19:35級 organized surrender order**
-  - **20:15–20:30 Japanese tactical secure**
-- Midway Atoll tactical capture **~20:30 6/6 CLOSED**。
-- Japanese landing casualties through capture **1,330–1,660 KIA/WIA級**。
-- US exact POW total OPEN pending personnel ledger。
-- EnterpriseをMidway沖へ見せに戻すpropaganda towは **NO**。
+- Midway Atoll tactical capture 6/6 ~20:30。
+- Enterprise prize parallel ledger:
+  - 6/5 Shinkoku Maru + Kokuyo Maru + Akigumo rendezvous
+  - 6/5 15:30–16:30 Shinkoku primary towへ移行
+  - 6/6 09:00級 Chikuma released
+  - 6/6 20:30 list 20–22°、tow 2.8–3.2kt、capture areaから約100–115 nmi W–WSW
+- Midway captured-base restoration:
+  - 11th / 12th Construction Units surviving work force ~1,900–2,200 central
+  - Hokuriku Maru lossでheavy equipment / stores 25–35%級減
+  - Sand fuel system badly damaged / sabotaged、captured fuel未使用
+  - SCR-270は技術調査対象で、6/7 operational radarには戻らない
+  - seaplane searchはChitose / Kamikawa supportで6/7 dawnから再開
+  - **6/7 16:30–18:00、Easternの3,500–4,000ft narrow fighter laneへ最初の4–6 fightersが着陸**
+- US immediate response:
+  - Saratogaは6/6 Pearl着、6/7 direct Midway reliefには出さない
+  - WaspのPacific transferは史実どおり既に進行中
+  - submarinesが最も即効性のあるinterdiction asset
+  - loss of EasternでMidway-based B-17 strike generationは消滅、PBY reconnaissance densityも低下
 
 次の論点:
-1. **Midway captured-base restoration**
-   - Eastern runway crater / UXO clearance
-   - fuel sabotage / damaged servicing
-   - radar / communications reconstruction
-   - Hokuriku Maru construction-store loss impact
-   - earliest Japanese fighter / transport operation
-2. **US response after loss of Midway**
-   - Saratoga disposition
-   - submarines / B-17 / PBY counterstrike
-   - Hawaiian defense / relief-abandonment decision
-3. **Enterprise prize daylight logistics**
-   - fast-oiler rendezvous / tow handoff
-   - submarine / air risk
-   - longer-term salvage route
+1. **6/8–6/10 Midway self-defense transition**
+   - 12–18 fighter級shore detachment
+   - runway full-width / bomber-capable restoration
+   - fuel / AA / coast-defense reconstruction
+   - submarine attacks on unloading / support shipping
+2. **Enterprise prize 6/7–6/9**
+   - Akashi / repair-team rendezvous
+   - tow speed / list / hull survey
+   - route toward Wake / Truk support sphere
+3. **US counteraction**
+   - Saratoga Hawaiian defense / possible later raid
+   - submarine concentration
+   - PBY reacquisition of Kido Butai / Enterprise
+   - TF16 survivor return
 4. **Akagi / Kaga / four-carrier post-MI disposition**
 
