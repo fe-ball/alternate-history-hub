@@ -2120,6 +2120,182 @@ runway crater増加そのものはsecondary。目的は**landing boatに撃て�
 - Therefore the next gate is not whether landing occurs: **landing occurs — CLOSED**。
 - next gate is **04:10–08:00 beach / reef killing-ground battle**, separately for Eastern Island (Ichiki) and Sand Island (No.2 Combined SNLF), before assuming either island falls.
 
+#### 10.0T 6/6 04:10–08:00 Midway first beach battle — CLOSED central
+
+ここからはEastern Island / Sand Islandを分離する。
+**air/naval superiorityとbeach tactical superiorityを混同しない。**
+
+**US defense remaining at H-hour**
+- total garrisonは2,000+ Marinesにreinforcing units。
+- 2nd Raider Battalion:
+  - Company C → Sand
+  - Company D → Eastern
+- 22nd / 23rd Provisional Infantry Companies等のinfantry。
+- 60mm mortars 8級、37mm guns、.50/.30 machine guns多数。
+- Sand Islandには**5 M3 Stuart light tanks** mobile reserve。
+- wire / underwater obstacles / improvised AP / AT minesは大半残存。
+- night bombardmentでcoast / AA crewsは損耗したが、small-arms / mortar fighting positionsを大量にdirect-hit破壊したとはしない。
+
+**04:10–04:35 reef / lagoon — first wave**
+
+Eastern / Ichiki:
+- first wave **~400**。
+- Daihatsuはreefで停止、assault boatsへtransfer。
+- Japanese naval fireがbeach sectorを叩いている間はUS fireが一時薄い。
+- naval fireがinland shiftした後、Raider D / local infantry / MG / mortarがreef-lagoonへfire。
+- first-wave casualties before secure beach foothold:
+  - **70–100 KIA/WIA central band**
+- 300+級がsouthern shoreへ到達。
+- Ichikiの「airstripへ一気に出る」意図は維持するが、第一波だけでrunway横断には入らない。
+
+Sand / No.2 Combined SNLF:
+- first main wave **~400**。
+- Frigate Point sectorはnorthwest feintほどcontrolled-water mine密度は高くないが、wire / AP mines / machine-gun concentrationsが存在。
+- more elaborate Sand defensesにより:
+  - **90–125 KIA/WIA** before / immediately after beach contact。
+- 270–310級がshore foothold。
+- Miwa feint forceは既に10–20級casualty、northwest defenseを拘束するが突破なし。
+
+**04:35–05:15 first footholds**
+- Japanese close naval fireはfriendly-fire riskからbeach edgeへのdirect fireを順次shift outward / inland。
+- その瞬間、US defendersがshelter / trenchから再占位し、beachheadへMG / mortar fire。
+- Japanese first wavesはheavy MG / AT gun / tank supportを欠く。
+- SNLF flamethrower / grenade / demolition teamはwire gap / pillbox suppressionへ使えるが、whole defensive beltを一撃で開かない。
+
+Eastern:
+- Ichiki first waveはsouthern perimeterへpenetration。
+- 05:00級、company/platoon groupsでairstrip edgeへ突進。
+- 1,750yd open airstrip / cleared groundはUS側のsecond killing zone。
+- **first rush repulsed central**。
+- additional Japanese casualties **50–80**。
+- Ichiki本人はcentralでsurvives and remains in command。Tenaru型の即戦死を逆流させない。
+
+Sand:
+- SNLFがwire / mine gapを2–3箇所作る。
+- US infantry counterattackはlimitedだが、**Stuart tank platoonが05:05–05:25級にcounterattack**。
+- Japanese first waveにはorganic AT gunがまだない。
+- grenade / flamethrower attackで**1 Stuart mobility-killed / disabled central**。
+- 残り4両がbeachhead edgeへfireし、日本側を一部reef方向へ押し返す。
+- Sand beachheadは消滅しないがdepth 100–250m級に縮むsectorあり。
+
+**05:00–05:50 second waves arrive**
+- standoff halt lineによりDaihatsu cycleはoriginal planより長い。
+- boat damage / wounded evacuationもcycleを食う。
+- second-wave landed strength:
+  - Eastern additional **350–450**
+  - Sand additional **400–500**
+- cumulative Japanese ashore by 05:50:
+  - Eastern **650–750 effective after casualties**
+  - Sand **700–850 effective after casualties**
+- heavy AT guns / tanks / major artilleryはまだreef channelsを通れずshipboard。
+- machine guns / light mortars / demolition storesの一部はsecond waveから増える。
+
+**05:50–06:15 four-carrier landing-support strike**
+- 60-aircraft package arrives:
+  - fighters 18
+  - D3A 24
+  - B5N 18
+- own troopsがshorelineにいるためtarget disciplineを強制。
+- carrier aircraft do **not** bomb mixed beach melee。
+- target boxes:
+  - surviving coast / AA batteries
+  - Stuart assembly / road sectors when visually confirmed
+  - known command / reserve concentrations
+  - airstrip-side firing points away from Japanese troops
+- preplanned map + smoke / muzzle flash identificationは使うがmodern FAC precisionは与えない。
+- result central:
+  - remaining 7-inch guns: **1 additional mission-kill**。1 gun級 remains intermittently usable。
+  - 5-inch coast guns: **1 additional mission-kill / suppress**。2–3 usable。
+  - Stuart: **1 destroyed / heavily damaged by D3A**, 1 earlier mobility kill、**3 remain mobile central**。
+  - US infantry / gun-crew casualties **50–90級**。
+- Japanese aircraft loss: **2 non-return central** + 3–5 damaged。
+- close-support effect is substantial but does not erase beach MG / mortars.
+
+**06:15–07:00 battle divergence**
+
+Eastern:
+- second-wave weight lets Ichiki assemble **500–600 riflemen** for renewed push while others hold shore / unload.
+- naval fire brackets airfield north edge / identified strongpoints before push, then lifts.
+- Japanese cross southern portion of airstrip in dispersed groups rather than single bayonet column central; prior China combat experience prevents literally massing shoulder-to-shoulder.
+- nevertheless open terrain causes heavy casualties.
+- by 07:00:
+  - Japanese holds southern shore + parts of southern airfield margin / several revetments
+  - cannot yet clear north / east island defenses
+  - US Raider D / provisional infantry still coherent.
+
+Sand:
+- second-wave SNLF stabilizes beachhead.
+- 3 mobile Stuarts conduct short counterthrusts but D3A threat / naval observation prevents prolonged exposure.
+- SNLF focuses on widening wire / mine gaps rather than deep inland rush.
+- by 07:00:
+  - Japanese holds **two connected beachhead pockets** around planned Frigate Point sector
+  - penetration generally **200–500m**
+  - US tank / infantry reserve blocks route toward interior / seaplane facilities.
+
+**07:00–08:00 third-cycle / daylight pressure**
+- daylight makes Japanese boats easier targets but also greatly improves Japanese naval/air observation.
+- US heavy coast guns mostly suppressed; local MG / mortar become principal killers.
+- third-cycle delivers:
+  - Eastern additional **250–350 combat troops / light weapons**
+  - Sand additional **300–400**
+- boat losses / damage central by 08:00:
+  - **Daihatsu / assault craft 6–10 destroyed or unusable**
+  - additional several damaged
+- reduced landing-craft pool begins slowing later wave throughput.
+
+**US PBY / surviving aircraft**
+- airborne PBY search aircraft can report invasion and request help but are poor direct beach CAS.
+- emergency light strip has too little throughput to generate a large coordinated strike while Japanese fighters dominate.
+- **no meaningful US air attack on landing boats before 08:00 central**。
+- isolated strafing / bombing attempt by 1–2 aircraft possible but no major effect.
+
+**08:00 force state — Eastern**
+- Japanese combat troops landed / effective ashore: **850–1,000級**
+- cumulative Japanese KIA/WIA: **220–300級**
+- terrain held:
+  - southern beachhead secure
+  - southern airfield edge / limited strip positions contested or partly Japanese-held
+  - majority of Eastern Island **not captured**
+- US local casualties: **120–180級**
+- US defense coherent but compressed / communications degraded。
+- Ichiki has not achieved planned one-swoop airfield seizure。
+
+**08:00 force state — Sand**
+- Japanese combat troops landed / effective ashore: **950–1,100級**
+- cumulative Japanese KIA/WIA: **280–380級**
+- terrain held:
+  - Frigate Point-side beachhead widened
+  - 300–600m penetration in best sectors
+  - northwestern feint contained
+  - core Sand defenses / command / interior still US-held
+- US local casualties: **150–220級**
+- Stuart:
+  - 1 destroyed/heavy damage
+  - 1 mobility-killed
+  - 3 mobile
+- SNLF heavy weapons / tanks still largely shipboard。
+
+**aggregate 04:10–08:00**
+- Japanese assault casualties: **500–680 KIA/WIA級 central band** plus boat crews.
+- US ground casualties: **270–400級** from naval/air fire + beach combat.
+- Japanese have viable footholds on both islands, but neither island falls by 08:00.
+- initial assault is costly because the historical reef / small-boat problem remains exactly where Japanese planners feared.
+- Conversely, defenders cannot throw the assault back into the sea:
+  - Japanese naval gunfire remains dominant
+  - four-carrier air cover remains dominant
+  - second / third waves continue arriving
+  - US external carrier relief no longer exists in R3.
+
+**operational conclusion — CLOSED**
+- **landing succeeds in establishing two beachheads; immediate seizure fails.**
+- Eastern is the more dangerous Japanese timetable problem because Ichiki must cross open airfield ground without heavy support.
+- Sand is the more complex attritional problem because defenses / tanks / obstacles are stronger, but SNLF has larger follow-on manpower.
+- decisive next gate is **08:00–14:00 reinforcement race**:
+  - can Japan open a reef channel / land AT guns, tanks, heavier MG / artillery?
+  - can surviving US defenders counterattack before those weapons land?
+  - how much carrier / battleship fire can be used without killing Japanese troops?
+- do not promote Midway capture until that reinforcement gate is resolved.
+
 #### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
 
 **18:45以後の追加dusk strike — NO GO, CLOSED**
