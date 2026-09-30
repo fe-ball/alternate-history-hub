@@ -5,7 +5,7 @@
 
 > **Navigation status:** current router
 > **Current authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-04T13:30:00-10:30**
+> **Canonical historical clock:** **1942-06-04T18:45:00-10:30**
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 
@@ -23,23 +23,22 @@
 
 ## 現checkpoint
 
-**1942-06-04 約13:30、ミッドウェー海戦中。**
+**1942-06-04 約18:45、ミッドウェー海戦夕刻。**
 
-- 第一機動部隊は赤城・加賀・蒼龍・飛龍・翔鶴・瑞鶴の六空母集中。
-- 赤城は中〜大破、加賀は大破で、両艦とも航空作戦不能。ただし最終的な船体運命は未確定。
+- 赤城・加賀は航空作戦不能だが船体は生存し、自航退避中。
 - 蒼龍・飛龍・翔鶴・瑞鶴は健在。
-- 米Enterprise/Hornetは二度の日本空襲でmission killまで進んだが、放棄・自沈・撃沈・拿捕は **OPEN**。
-- 以前の「米側が放棄・自沈し、日本側追撃隊が夕刻撃沈」という展開は現行正本では採用しない。
+- 米二空母の最終運命はCLOSED。
+- **Enterprise:** 米側PhelpsのMk 15自沈斉射を受けても沈まず、日本側が18:45級に船体を完全確保。主機・操舵・main power dead、list 25–28°級。
+- **Hornet:** abandoned / scuttle-damaged後、日本側が救艦不能と判定しfinish torpedo。最終沈没確定。
+- 米surface forceはsurvivorsを抱えて東退。
 
 ## current frontier
 
-次の順で閉じる。
-
-1. Enterprise/Hornet個艦ごとの13時台損傷状態と曳航可能性
-2. 米側が空母救援のため重巡・駆逐艦screenをどこまで危険に残すか
-3. 日本側が追加航空雷撃・水上追撃・拿捕／曳航のどれを選ぶか
-4. 赤城・加賀退避、Midway第二撃、残存航空兵力との競合
-5. その後にのみ夕刻／夜戦と米二空母の最終運命を進める
+1. Enterprise prizeの進行浸水を夜間も止められるか
+2. 筑摩・駆逐艦・後続支援による曳航可能性
+3. Midway航空・米潜水艦からprizeを守れるか
+4. 赤城・加賀退避と四健在空母のCAP / escort配分
+5. Midway第二撃・夜間配置
 
 ## Authority / status規律
 
