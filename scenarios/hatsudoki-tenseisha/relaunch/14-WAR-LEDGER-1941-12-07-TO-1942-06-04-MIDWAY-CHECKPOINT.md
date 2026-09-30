@@ -1770,6 +1770,172 @@ personnel:
   という、**上陸作戦へ移行できるが艦砲支援なしでは危険**な状態を作った。
 - 次gateは**6/5 daylight Occupation Force approach / US PBY-submarine harassment / Kondo evening bombardment / 6/6 landing fire plan**。
 
+#### 10.0R 6/5 daylight Occupation Force approach — CLOSED central
+
+first-light strike後も、Transport GroupをいきなりMidway beachへ突っ込ませない。
+6/5昼は**多層escortを組み直しながら、夜間final approach positionまで前進する日**とする。
+
+**Occupation Forceの実在戦力を戻す**
+史実MIのOccupation Forceは単なるtransport columnではない。
+
+- Kondo Covering Group:
+  - Kongō / Hiei
+  - Atago / Chōkai
+  - Myōkō / Haguro
+  - Yura
+  - DD7級
+- Carrier Group:
+  - **Zuihō**
+  - historical air group: 6 A6M2 + 6 A5M4 + 12 B5N2
+  - Mikazuki
+- Close Support:
+  - Kumano / Suzuya / Mogami / Mikuma
+  - Asashio / Arashio
+- Seaplane Tender Group:
+  - **Chitose / Kamikawa Maru**
+  - F1M / E13A search, CAP, ASW
+- Transport Group:
+  - Jintsū
+  - destroyer escort 7級 + destroyer-transports
+  - patrol boats
+  - transports / cargo ships / oiler
+  - Ichiki Detachment + two SNLF battalions + construction elements
+- Minesweeping / subchaser group:
+  - minesweepers複数
+  - subchasers複数
+
+R3で六正規空母へ護衛を少し増したとしても、このSecond Fleet系戦力を無料でFirst Air Fleetへ移していない。したがってMidway landing convoyは自前のscreenを維持する。
+
+**08:00 position reconstruction**
+- US report 6/3 0925: large Occupation Force group bearing 261°、distance 700 nmi、course E、speed 10kt。
+- 6/3夜のPBY attack時も約500–550 nmi west級。
+- R3では6/4夜にcancel / westward retirementしないが、air attacks / zigzag / rendezvousでperfect 10kt straight-line advanceでもない。
+- **6/5 08:00 Transport Group range = 200–240 nmi W–WSW、central 220 nmi**。
+- course ENE–E、10–11kt。
+- original 6/6 landing windowへ十分間に合うが、昼の間はまだshore-gun / PT engagement zoneへ入らない。
+
+**layered formation central**
+1. 50–80 nmi ahead:
+   - Kondo heavy cover / parts of Close Support
+2. 25–50 nmi ahead:
+   - minesweeper / subchaser reconnaissance elements
+   - seaplane search arcs
+3. convoy core:
+   - Jintsū + transports + DD / patrol-boat escort
+4. local air:
+   - Zuihō CAP
+   - Chitose / Kamikawa F1M / E13A
+5. Kurita CruDiv 7:
+   - 02:45級のbombardment withdrawal後、28–30ktでW–WSWへ下がり、**08–10時台にOccupation Force outer screenへ再接続**。
+   - 史実Mogami/Mikuma collisionがないため4CAすべてcombat-capable。
+
+**08:20–09:00 PBY contact — CLOSED**
+- first-light前後にMidwayから離水したPBY 6–10級はrunway damageと無関係にsearchを継続。
+- western sectorはlanding threat最優先なので、Transport Groupを再発見する確率は高い。
+- **08:35級、PBYがlarge transport / escort groupを約200 nmi WSWでreport — CLOSED central**。
+- Chitose側F1M 3機級がintercept。
+- historical 6/4にもChitose F1M 3機がcontact PBYを撃墜しているので、local floatplane CAPを無能力扱いしない。
+- central:
+  - contact PBYはreport送信に成功
+  - その後 **1 PBY lost** to F1M / combined fighter interception
+  - second PBYがcloud / altitudeを使ってintermittent shadowing
+- したがってUS側はconvoy positionを知るが、continuous precise trackではない。
+
+**US submarine disposition — confirmed invasion changes orders**
+- historical US planはwestern / northern approachへ19 submarines。
+- 200-mile arcにDolphin / Gato / Grenadier、150-mile arcにTambor / Trout / Grayling / Nautilus / Grouper / Gudgeon等。
+- historical 6/4 2115以後、landing fearからboatsを100-mile→5/12-mile inner circleへ寄せた。
+- R3では08:35に**actual transport convoy 200 nmi級**が明瞭にreportされるため、全艇を一斉inner circleへ収容するのは非効率。
+- central command:
+  - western outer boats 3–5隻 → convoy intercept / shadow
+  - remaining boats → 50–100 nmi / inner approach barrier
+- exact attacking boat identityはR3 changed geometryで一意にしない。
+
+**11:30–13:30 submarine contact — one failed attack CLOSED**
+- outer western boat 1隻がconvoy smoke / seaplane reportからcontact。
+- Jintsū / DD screen、F1M / E13A ASW patrol、zigzagでclose approachは難しい。
+- **4 Mk 14級 torpedo spread**を3,000–4,500yd級からtransport / oiler flankへ発射。
+- result central:
+  - **high-order effective hit 0**
+  - 1 premature / suspicious explosion or deep-run track possible
+  - Japanese escort detects tracks / explosion and begins depth-charge hunt
+- early-war Mk 14 deep-running / exploder problemsとMidwayでのUS submarine non-successをanchorに、ここで都合よくtransportを沈めない。
+- DD / subchaser depth chargesでsubmarine sunk 0 central。
+- convoyは**25–40分級**zigzag / ASW delayを払う。
+
+**Midway runway repair / B-17 response**
+- 06時台strike直後はB-17 normal operation不可。
+- engineering teamsはcoast / infantry defenseを維持しつつ、最優先で1本のnarrow heavy-aircraft laneを修復。
+- additional craters + damaged graders / service gearにより、史実より明確に遅い。
+- central:
+  - **12:00–13:00: one emergency heavy lane opens intermittently**
+  - serviceable B-17を一斉発進できず、**4機級を12:30–13:15に逐次launch**
+- PBY contactを使ってTransport Groupを攻撃。
+
+**14:30–15:15 B-17 attack — no ship hit central**
+- 4 B-17級、high-altitude bombing。
+- convoyは10–11kt、zigzag、large formation。
+- ZuihōからZero-type fighter 4–6 + F1M cover、ship AA。
+- R3のZuihō fighter compositionをすべて最新昴二一へ自動置換はしない。historical CVL air-group / second-line mixを尊重しつつ、少数Zero-typeをhigh coverに使用。
+- **bomb hit 0 — CLOSED central**。
+- 1 transport near miss / splinter light damage級は許容。
+- B-17 1機damaged central、all return / divert possible。
+- 史実のMidway B-17対艦攻撃が大量claimに対し実hitを出せなかった実績を強いanchorとする。
+
+**Marine / carrier-divert light aircraft**
+- first-light warning時にfield-clearしたSBD / SB2U / carrier-divert aircraftは少数残る。
+- emergency strip / hand refuel throughputが低く、convoyへまとまったsecond naval strikeを生成できない。
+- centralでは**4 SBD級のharassment sortie**を午後に許容するが、Zuihō/F1M CAPでattack formationを崩され、
+  - 1 aircraft lost / forced ditch
+  - ship hit 0
+  とする。
+- light aircraftをゼロにしない一方、「12機級を何度でも再出撃」も採らない。
+
+**Japanese air-cover response**
+- 08:35 PBY contact後、Zuihō local CAPを**6–8 fighters airborne / rotating**へ。
+- Chitose / Kamikawa:
+  - F1M local CAP / anti-PBY
+  - E13A 80–120 nmi forward / flank search
+- four main carriersからcontinuous convoy CAPは出さない。
+- B-17 launch / PBY reportを受けた時間帯だけ、main forceから**6–8 fighter級 reinforcement**をrange / geometryが許す場合に送る。
+- これをprize CAP / main-body CAPと二重計上しない。
+
+**daylight advance clock**
+- 08:00: 220 nmi級
+- submarine delay込みaverage advance **9.5–10.5kt**
+- 12:00: 180 nmi級
+- 16:00: 135–145 nmi級
+- **18:00: 110–125 nmi W–WSW central**
+- transportsはここで速度を上げず、night close-in timingを待つ。
+- minesweeper / subchaser vanguardは**60–80 nmi級**まで先行。
+- Kondo heavy coverはさらに前へ出て、sunset以後のbombardment entryを準備。
+- Zuihō / seaplane groupはtransport coreから離しすぎず、night air / ASW supportを維持。
+
+**US submarine inner barrier by evening**
+- 08:35 contact後も全部をconvoyへ追わせず、複数boatをMidway近接barrierへ残す。
+- evening central:
+  - western outer intercept boats: 2–3
+  - **inner 12–50 nmi approach barrier: 6–8 boats級**
+- したがって6/5 night transport final approachには、airfieldよりむしろ**submarine + PT + mines / coast gun**が主要海上脅威になる。
+
+**daylight result — CLOSED central**
+- Transport Group major ship loss **0**。
+- PBY: contact success、1 lost central。
+- US submarine: 1 attack、effective hit 0。
+- B-17: 4-aircraft strike、ship hit 0。
+- light dive bomber harassment: ship hit 0。
+- Japanese convoy schedule: ASW delay約30分級のみ。
+- 18:00 Transport Group: **110–125 nmi W–WSW**。
+- Kondo / Kurita / minesweeper / subchaser layersはnight assault positionsへ移行。
+- Japanese landing troops / transportsはまだshore artillery rangeへ入らない。
+
+**operational implication**
+- Midway側はconvoyを見失ってはいない。
+- しかしfirst-light strike後の基地では、発見情報を**十分な航空打撃量へ変換できない**。
+- 日本側も無傷ではなく、PBY / submarine contactによりsurprise approachは失敗。
+- そのため6/5夜の勝負は「奇襲上陸」ではなく、**Kondo heavy bombardment + minesweeping + ASW barrier penetration + PT suppression**になる。
+- 次gateは6/5 evening/night Kondo bombardmentと、6/6 H-hourまでのfinal approach。
+
 #### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
 
 **18:45以後の追加dusk strike — NO GO, CLOSED**
