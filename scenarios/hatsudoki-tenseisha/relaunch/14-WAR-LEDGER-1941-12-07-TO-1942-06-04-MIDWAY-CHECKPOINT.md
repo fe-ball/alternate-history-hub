@@ -1250,6 +1250,114 @@ Enterpriseへ日本側salvage effortを集中するため、より大傾斜・�
 次のhard gateは**18:45–翌0600にprogressive floodingを再開させず、筑摩towを2–3ktで維持できるか**。
 
 
+#### 10.0L Enterprise prize — first night survival audit — CLOSED central / resource-bound
+
+この節はmain battle clockを翌朝へ進めるためではなく、**18:45以後にEnterprise保存のため最低限拘束される資源と、初夜生存可能性を先に閉じるside-ledger**。
+Midway側の18:45以後の判断へ戻る際、このresource commitmentを無料で転用しない。
+
+**late daylight air interference — 18:45前後**
+- 史実6/4はMidwayから1500 / 1600級にB-17が追加発進し、1710 / 1810 / 1830にも日本艦を攻撃した。1830級の攻撃ではburning carrier周辺でZeroとも遭遇した。
+- R3では四健在空母があり、追撃/prize area上空へ少数CAPを回す余力が史実より大きい。
+- central: **12–16昴零戦級をsunsetまでrelay CAP**。prize捕獲直前の18時台B-17 attackは成立するが、high-altitude attack + maneuvering escorts + fighter pressureにより**ship hit 0 central**。
+- B-17の爆撃でboarding / scuttle raceそのものを覆さない。near miss / splinter / temporary interruptionは許容。
+
+**prize screenを確定**
+- Enterprise overnight close support:
+  - **筑摩 — tow / command**
+  - **巻雲 / 夕雲 / 風雲 / 舞風 — 4 DD minimum**
+- 霧島 / 利根は四空母main bodyへ戻し、米surface forceの再接近に備える。
+- 野分→赤城、萩風→加賀は維持。
+- 秋雲はSupply Unit側を維持。
+- prize保存のため、この**CA1 + DD4**を少なくとも6/5 dawnまで拘束することをCLOSED resource commitmentとする。
+- これ未満へ削るならfirst-night survivalを再OPENする。
+
+**18:45–20:15 stabilization**
+- prize partyは米側scuttle damageの進行浸水路を捜索。
+- main power / ship pumpsは復旧しない。日本艦からportable pump / hose / lightingを持ち込む。
+- 25–28°listを急に直すのではなく、**27°を越えて悪化させない**ことを第一目標。
+- low-side loose wreckage / ammunition / boatsを選択投棄。
+- 20:15 central: **list 26–27°、major flooding rate arrested、tow bridle準備完了**。
+
+**20:15–22:15 first tow**
+- 20:15–21:00: 筑摩がheavy wire / chain bridleを取り、1kt未満でload test。
+- Enterpriseはrudder dead / asymmetric floodingのためyawが大きい。夕雲をquarter-control / emergency line、残るDDはASW / rescue / line handling。
+- 21:15級: **1.5–2kt tow成立**。
+- 22:00以後: sea / line loadが安定すれば**2.0–2.5kt central**。3ktは上振れ。
+- Midway周辺はlight easterly wind / good visibilityがあった一方、北西側にはcloud / frontal weatherが存在。gale / heavy seaを無料で置かないが、squall passageでtow speedを一時落とすことは認める。
+
+**US submarine problem — first night**
+- 史実米側はMidwayへの240°–000° arcに19 submarinesを置き、6隻が150-mile circle、3隻が200-mile circle、残りstation patrol。
+- Nautilusは実際にKido Butaiへ入り、Kirishimaを攻撃し、後にdamaged carrierへ3000ydまで近づいた。したがってslow prize convoyは高価値 submarine target。
+- ただしboatsは広く分散し、日没後にEnterpriseのlast-known positionを受けても、全艇が即時interceptできるわけではない。
+- 史実2115には米潜水艦がMidway 100-mile circleへ集結命令を受けており、R3ではEnterprise capture情報によるredirectを試みても通信 / geometry / submerged speedの遅れが残る。
+- central: **6/4 nightはtorpedo firing solutionまで入る米潜水艦なし**。
+- 1–2回のpossible contact / sonar scareは許容し、DDがtow group外側でhuntする。
+- submarine threatは6/5 daylight以後もCLOSED high-riskとして持ち越す。
+
+**Midway PBY night attack — actual capabilityを反映**
+- 史実6/3 2115、4 PBY-5AがMk XIII各1本で夜間雷撃へ出て、Akebono Maruへ1 hit / explosionを得た。
+- また史実6/4深夜にも**PBY-5A 2機が各1 torpedoで再出撃**し、transport groupを狙ったが、available reports上はtargetを見つけられなかった。
+- R3ではEnterprise captureは米側に極めて高いpriorityなので、この2機をprize last-known positionへretaskするcentral。
+- morning search PBY多数はLaysan / Lisianskiへ退避命令を受けており、Midwayから大規模夜間雷撃群を新たに出すことはしない。
+- central night action:
+  - **2 PBY launch 23:45–00:15級**
+  - cloud / navigationで1機はcontact不能
+  - 1機は01:00–01:40級にradar / moonlight contactし、EnterpriseへMk XIII 1本を投下
+  - Japanese DD AA / towing geometry / 2kt級という異常低速のlead estimateもあり、**miss central**
+- 0 hitをCLOSED centralとする。1 hitはstrong sensitivityだが現正本では採らない。
+- 「PBYだから必中」も「日本AAだからattack不能」も採らない。
+
+**22:00–0600 flooding / tow**
+- unfamiliar US hullなので夜間に大規模修理はしない。
+- external pumpingとisolated valve closureで、list改善は**1–2°程度が上限central**。
+- 00:00: list 26°級、tow 2kt前後。
+- 03:00: list 25–26°、tow 2–2.5kt。
+- 06:00: **list 25–26°、progressive floodingなし、tow 2.3–2.7kt central**。
+- 22:00–0600で西～西南西へ移動できる距離は**約17–20 nmi**。劇的な戦場離脱ではないが、drifting wreckではなくcontrolled moving prizeへ移行する。
+
+**Supply Unit ETA**
+- 史実Supply Unitは6/4 0307にcourse 130 / speed 12で分離。
+- R3では18:45即recallし、fast oiler pair + Akigumoを先行させる。
+- exact positionはmain-force track差分の再計算が残るためCLOSEDにしない。
+- first-night auditでは**6/5 0600時点で未会合だがradio contact / ETA 0800–1100級**をcentralとする。
+- dawnまでprize groupは筑摩 + DD4だけで持たせる。
+
+**dawn air-cover commitment**
+- 6/5 dawn以後、prizeを保持するなら四健在carrierから**12–16 fighters級のlocal CAP**とsearch / ASW aircraftを最低限割く必要がある。
+- この航空配分はMidway dawn strikeから差し引く。prize protectionを決めた後で同じ機体をMidway strikeへ二重計上しない。
+
+**first-night result — CLOSED central**
+- Enterpriseは**6/5 0600まで浮存・日本側control継続**。
+- list 25–26°級。
+- main power / propulsion / steering dead。
+- 筑摩tow 2.3–2.7kt級。
+- PBY night torpedo hitなし。
+- 米潜水艦attackなし。
+- fast oiler supportは接近中。
+- したがって「Enterpriseは初夜を越せないため即処分」という枝はCLOSEDで棄却。
+- 一方、長距離回航成功はまだOPEN。6/5 daylightのoiler handoff / submarine / air risk / tow-load auditが必要。
+
+#### 10.0M main battle clockをMidwayへ戻す
+
+Enterprise first-night survivalを先行監査したが、**canonical battle clockは1942-06-04 18:45に据え置く**。
+理由は、18:45以後のMidway第二撃 / night surface disposition / four-carrier aircraft allocationがprize protectionと同じ資源を奪い合うため。
+
+Prize保存のため既に拘束されたもの:
+- Chikuma + DD4 through dawn
+- duskまでlocal fighter CAP 12–16級
+- dawn以後もfighter CAP 12–16級 + ASW/search allocation
+- fast oiler pair + Akigumoのrecall
+- Akashi / repair supportへの準備通信
+
+したがってMidway側の次論点は、
+1. **18:45以後に夕刻第二撃を本当に出せるか**
+2. 出せない場合、夜間水上砲撃を行うか
+3. 6/5 dawn carrier strikeを何機で組むか
+4. Kondo / occupation forceを前進させるか
+5. Midway側の残存B-17 / PBY / AA / radar / runwayをどう潰すか
+を、上記prize commitmentを差し引いて処理する。
+
+
 #### 10.0L 18:45→06:00 first-night audit — **CLOSED central: Enterprise survives the night under tow**
 
 これはmain battle clockを6/5へ進めるための章ではなく、Enterprise prize保存策が「翌朝まで持たない空論」ではないかを先に潰すforward audit。
