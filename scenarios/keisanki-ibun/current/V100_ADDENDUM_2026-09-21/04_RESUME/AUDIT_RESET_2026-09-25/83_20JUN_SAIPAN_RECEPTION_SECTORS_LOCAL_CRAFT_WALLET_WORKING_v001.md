@@ -138,7 +138,7 @@ Branch adds:
 ### 20-Jun status
 **GREEN-AMBER for ground ownership / AMBER for sea security.**
 
-This is the best fit for the Branch “Secret Cape” concept:
+This is the best fit for the Branch R3 low-signature prepared-reception concept:
 **prepared and redundant, but activated only when the surface / illumination picture allows.**
 
 ---
@@ -190,7 +190,35 @@ Useful for redundancy, not main heavy lift.
 
 ---
 
-## 7. Provisional local craft wallet — Saipan
+## 7. Accounting audit before the provisional wallet
+
+Current Branch event accounting through files 01 / 37 / 52 / 55 / 57 / 60 / 61 does **not** contain a closed finite Saipan-local landing-craft inventory.
+
+What was already present:
+- qualitative receiving-craft readiness;
+- continued Tinian small-craft shuttle;
+- local handling / beach / receiving functions;
+- possible minor craft losses in U.S. air / naval attacks.
+
+What was **not** previously closed:
+- starting Saipan Daihatsu / powered-craft count on 15 Jun;
+- dated Japanese local-craft sorties and losses on 15–20 Jun;
+- a physical -> serviceable -> crewed -> MR craft ledger;
+- any debit equivalent to the historical 17-Jun ~35-barge counterattack.
+
+Important:
+the Branch 15/16 and 16/17 ground replays do **not** reproduce the historical 17-Jun mass barge counterattack. Therefore the historical reported 13 barges sunk are **not** inherited as a Branch debit by default.
+
+However, U.S. bombardment / air suppression can still have destroyed or trapped local craft. Those losses have not yet been traced by date and node.
+
+Therefore the 22–30 large-craft MR band below is:
+**NEW PROVISIONAL WORKING INPUT, NOT AN ALREADY-PAID CAMPAIGN ASSET.**
+
+Before using it to resolve the thick reinforcement outcome, perform a 15-Jun-start -> 20-Jun-night local-craft roll-forward.
+
+---
+
+## 8. Provisional local craft wallet — Saipan
 
 Historical anchor:
 ~35 barges could be committed to one counterlanding attempt in the historical 17-Jun line.
@@ -235,7 +263,7 @@ Exact named/typed count remains OPEN.
 
 ---
 
-## 8. Tinian local / shuttle wallet
+## 9. Tinian local / shuttle wallet
 
 Tinian is a major air / rear node and the selected Branch maintains regular Saipan–Tinian small-craft traffic.
 
@@ -254,7 +282,7 @@ the 4–8 shuttle is a subset of Tinian local craft, not an addition.
 
 ---
 
-## 9. First-cycle absorption capacity
+## 10. First-cycle absorption capacity
 
 Do not load every large craft with troops.
 
@@ -286,7 +314,7 @@ This is a planning throughput band, not a guaranteed combat result.
 
 ---
 
-## 10. Cycle-time planning band
+## 11. Cycle-time planning band
 
 Friendly-held / prepared reception is faster than a blind opposed landing but not instantaneous.
 
@@ -311,7 +339,7 @@ Do not use exact minutes without weather / ship-station geometry.
 
 ---
 
-## 11. What this implies for the thick branch
+## 12. What this implies for the thick branch
 
 A ~2,000–3,500-man fast reinforcement is physically compatible with the local receiving system if:
 
@@ -332,7 +360,7 @@ The harder bottlenecks become:
 
 ---
 
-## 12. Role of amphibious tanks
+## 13. Role of amphibious tanks
 
 No change to file 82.
 
@@ -347,7 +375,7 @@ No vehicle count booked yet.
 
 ---
 
-## 13. Selected geographic close
+## 14. Selected geographic close
 
 Use for the next force audit:
 
@@ -358,7 +386,7 @@ Use for the next force audit:
 - sea-approach AMBER.
 
 ### R3-E — Laulau / Kagman east belt
-- main “Secret Cape” candidate;
+- main R3 low-signature prepared-reception candidate;
 - low signature / prepared night activation;
 - medium throughput;
 - exact cove OPEN.
@@ -383,4 +411,5 @@ First Saipan cycle:
 if the full local craft concentration is available.
 
 Next:
-close the incoming fast-lift hull / troop / carried-craft wallet and decide whether the thick force reaches H1 + R3-E in one or staggered transport groups.
+1. first close the **15 Jun -> 20 Jun local-craft survival / MR roll-forward** so the provisional 22–30 / 18–30 bands are earned rather than assumed;
+2. then close the incoming fast-lift hull / troop / carried-craft wallet and decide whether the thick force reaches H1 + R3-E in one or staggered transport groups.
