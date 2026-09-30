@@ -43,9 +43,9 @@ scenarios:
     title: "発動機転生者"
     status: active
     authority_version: "Relaunch R3"
-    canonical_clock: "1942-06-05T08:00:00-10:30"
-    clock_state: "relaunch-r3; Midway advanced through 1942-06-05 08:00; Enterprise capture/Hornet sinking and first-night prize survival CLOSED; 81-aircraft afternoon strike, CruDiv7 night bombardment, and 84-aircraft first-light third-suppression strike CLOSED; Operation MI landing continues GO for original 6/6 first-light/morning window; next gate 6/5 occupation-force approach, US PBY/sub harassment, Kondo evening bombardment, and 6/6 landing fire plan"
-    frontier: "1942-06-05 08:00級。first-light third-suppression strike 84機（昴24/D3A30/B5N30）までCLOSED。Midwayはcoherent fighter CAPなし、heavy-aircraft runway normal operation不能、primary radar/warning chain morning-disabled、AAは6/4朝比35-45%級だがcoast guns/infantry/mines/beach defenseは大半健在。Operation MI landingはCONTINUE GO、6/5即時上陸はNO GO、original 6/6 first-light/morning H-hour維持。次は6/5 daylight Occupation Force approach、PBY/sub harassment、Kondo evening/night heavy-cover bombardment、6/6 landing fire planを閉じる"
+    canonical_clock: "1942-06-05T18:00:00-10:30"
+    clock_state: "relaunch-r3; Midway advanced through 1942-06-05 18:00; Enterprise capture/Hornet sinking and prize first-night survival CLOSED; 6/4 afternoon strike, CruDiv7 night bombardment, 6/5 first-light suppression, and occupation-force daylight approach CLOSED; Operation MI landing remains GO for 6/6 first-light/morning; next gate Kondo heavy bombardment, final approach/minesweeping, and landing fire plan"
+    frontier: "1942-06-05 18:00級。Occupation Forceは08:35級PBY contact後、US submarine 1 attack・B-17 4機級・small SBD harassmentを受けるがmajor ship loss 0 central。Transport Groupは110-125 nmi W-WSW、minesweeper/subchaser vanguardは60-80 nmi級まで前進。US submarine inner barrier 6-8隻級、PT/mines/coast gunsは健在。次はKongo/Hiei+CAによるevening/night heavy bombardment、final approach/minesweeping、6/6 Eastern/Sand landing fire planを閉じる"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-ledger-through-midway-first-light-third-suppression-strike-and-enterprise-first-night-audit-1942-06-05-0800"
+    source_import: "relaunch-r3-continuity-ledger-through-midway-occupation-force-daylight-approach-1942-06-05-1800"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
