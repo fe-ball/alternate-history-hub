@@ -43,9 +43,9 @@ scenarios:
     title: "発動機転生者"
     status: active
     authority_version: "Relaunch R3"
-    canonical_clock: "1942-06-04T13:30:00-10:30"
-    clock_state: "relaunch-r3; continuous war/technology ledger advanced through Midway mutual carrier strikes; Akagi/Kaga flight operations disabled but hull fates unresolved; Enterprise/Hornet mission-killed after two Japanese strikes; US carrier abandonment/scuttling/sinking/capture explicitly OPEN; next gate is towing feasibility and rescue-screen risk tolerance"
-    frontier: "1942-06-04 13:30級、ミッドウェー海戦中。現行入口はrelaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md。Enterprise/Hornetはmission killまでCLOSED/PROVISIONALだが最終運命はOPEN。まず両艦の浮力・傾斜・主機/操舵・火災・曳航可能性を個艦別に再構築し、米側が救援のため重巡/駆逐艦screenをどこまで危険に残すか、日本側が追加航空雷撃・水上追撃・拿捕/曳航をどう比較するかを閉じる。その後にのみ夕刻/夜戦、米二空母最終運命、Midway第二撃へ進む"
+    canonical_clock: "1942-06-04T18:45:00-10:30"
+    clock_state: "relaunch-r3; Midway surface pursuit advanced through 1942-06-04 18:45; Akagi/Kaga flight operations disabled but withdrawing under escort; four Japanese carriers operational; Enterprise captured afloat after failed US scuttle; Hornet final sinking CLOSED; next gate Enterprise prize stabilization/tow plus night air/submarine risk and Midway second-strike disposition"
+    frontier: "1942-06-04 18:45級。EnterpriseはPhelpsの8 Mk15自沈斉射（CLOSED: 5 contact / 3 high-order）後も浮存し、日本側がprize secured afloat。Hornetは救艦不能として日本側finish torpedoで最終沈没確定。次はEnterpriseのlist 25-28度級・dead power状態を夜間に安定化し、筑摩/駆逐艦/後続支援で曳航できるかを監査する。同時にMidway航空・米潜水艦・赤城/加賀退避・四健在空母CAP/護衛・Midway第二撃を両立させる"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-ledger-through-midway-mutual-carrier-strikes-1942-06-04-1330-working-checkpoint"
+    source_import: "relaunch-r3-continuity-ledger-through-midway-surface-pursuit-enterprise-capture-1942-06-04-1845-checkpoint"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
