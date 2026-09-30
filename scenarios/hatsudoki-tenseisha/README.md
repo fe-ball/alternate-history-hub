@@ -5,7 +5,7 @@
 
 > **Navigation status:** current router
 > **Current authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-05T08:00:00-10:30**
+> **Canonical historical clock:** **1942-06-05T18:00:00-10:30**
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 
@@ -23,7 +23,7 @@
 
 ## 現checkpoint
 
-**1942-06-05 約08:00、Midway first-light strike後。**
+**1942-06-05 約18:00、Occupation Force日中前進後。**
 
 - 赤城・加賀は航空作戦不能だが船体は生存し、自航退避中。
 - 蒼龍・飛龍・翔鶴・瑞鶴は健在。
@@ -34,23 +34,27 @@
 
 ## current frontier
 
-1942-06-05 約08:00。
+1942-06-05 約18:00。
 
 CLOSED central:
 - Enterprise確保 / Hornet沈没
-- Enterprise first-night survival
-- 6/4午後Midway第二撃81機級
+- first-night prize survival
+- 6/4午後Midway第二撃
 - CruDiv 7 night bombardment
-- **6/5 first-light strike 84機（昴24 / D3A30 / B5N30）**
-- Operation MI landing継続GO
-- 6/5即時上陸NO GO、6/6 first-light / morning H-hour維持
+- 6/5 first-light strike
+- Operation MI landing GO、6/6 H-hour維持
+- Occupation Force daylight approach:
+  - PBY contact / 1 loss
+  - US submarine attack 1 / effective hit 0
+  - B-17 4機級 attack / hit 0
+  - Transport Group major loss 0
+  - 18:00 range 110–125 nmi W–WSW
 
 次は、
-1. Occupation Forceの6/5 daylight前進
-2. PBY / submarine harassment
-3. Kondo evening/night heavy-cover bombardment
-4. 6/6 landing fire plan
-5. Enterprise prize daylight logistics
+1. Kondo evening/night heavy bombardment
+2. final approach / minesweeping / submarine-PT penetration
+3. 6/6 landing fire plan
+4. Enterprise prize daylight logistics
 
 ## Authority / status規律
 
