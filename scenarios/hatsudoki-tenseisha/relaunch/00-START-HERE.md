@@ -1,8 +1,8 @@
 # 発動機転生者・リランチ正本
 
 > **Authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-04 約13:30（Midway battle-local working clock）**
-> **Checkpoint:** ミッドウェー海戦、日米相互空母打撃後。Enterprise/Hornetはmission kill、最終運命はOPEN
+> **Canonical historical clock:** **1942-06-04 約18:45（Midway battle-local working clock）**
+> **Checkpoint:** ミッドウェー海戦夕刻。Enterpriseは米自沈措置後も浮存し日本側が船体を完全確保、Hornetは日本側finish torpedoで最終沈没確定
 > 旧 `current/`・`archive/` はpre-relaunch REFERENCE。
 > canonical clockより未来の議論は、その時点で開始済みのresearch / requirement / planning / forward-studyとしてのみ保持し、後年結果をactor knowledgeへ逆流させない。
 
@@ -73,7 +73,7 @@ CLOSED central / bounded:
 
 現行再開台帳。第二波・第三撃判断、Wake、南方、Operation C、Doolittle、MO、Port Moresby、AL/MI兵力配分、零戦派生/次期艦戦、ミッドウェー索敵・相互空母打撃までをCLOSED/PROVISIONAL/OPENで整理する。
 
-**重要:** Enterprise/Hornetは二度の日本空襲でmission killまで。放棄・自沈・撃沈・拿捕はOPENへ戻してあり、次回は曳航可否と米側の救援リスク許容から再判定する。
+**重要:** 米二空母の最終運命は再監査でCLOSED。EnterpriseはPhelpsのMk 15自沈斉射を受けた後も浮存し、18:45級に日本側がprize secured afloat。Hornetは救艦不能として日本側finish torpedoで最終沈没確定。次はEnterprise prizeの夜間安定化・曳航可能性を監査する。
 
 ## 現在の読み順
 
@@ -114,20 +114,31 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**1942-06-04 約13:30、ミッドウェー海戦中。**
+**1942-06-04 約18:45、ミッドウェー海戦夕刻。**
 
 詳細は `14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md` を最優先で読む。
 
-現在のcentral working state:
+現在のCLOSED / central state:
 - 第一機動部隊は赤城・加賀・蒼龍・飛龍・翔鶴・瑞鶴の六空母集中。
-- 赤城は中～大破、加賀は大破で両艦とも航空作戦不能。ただし沈没確定ではない。
-- 蒼龍・飛龍・翔鶴・瑞鶴は健在。
-- 米Enterprise/Hornetは五航戦第一撃＋一/二航戦第二撃で両艦とも航空作戦不能・航行能力重大低下のmission kill。
-- **ここから先の米二空母の運命はOPEN。** 直前に一度置いた「米側が放棄・自沈し、日本追撃隊が夕刻撃沈」は採用しない。
+- 赤城は航空作戦不能・steering damageを抱えつつ自航退避、加賀も航空作戦不能だが自航可能。野分→赤城、萩風→加賀を近接護衛central。
+- 蒼龍・飛龍・翔鶴・瑞鶴は健在。ただし帰還機・他艦所属機混在でdeck / maintenance congestion。
+- 米Enterprise/Hornetは双方mission kill後に救難を受けたが、日本高速水上追撃で曳航を切らされた。
+- **Enterprise:** Phelpsが8 Mk 15を発射、5 contact / 3 high-order detonation。追加浸水でlist 25–28°級となるが沈没せず、日本側が18:45級に船体を完全確保。主機・操舵・main power dead。
+- **Hornet:** abandoned / scuttle-damaged。Enterpriseをprize priorityとし、Hornetは日本側finish torpedoで最終沈没確定。
+- 米surface forceはsurvivorsを抱え東退。日本追撃隊は米coverを深追いせずprize / damaged-carrier problemへ戻れる。
 
 次の論点はこの順番で閉じる。
 
-1. Enterprise/Hornet個艦ごとの13時台損傷状態と曳航可能性。
-2. 米側が空母救援のため、重巡・駆逐艦screenをどこまで危険に残すか。
-3. 日本側が追加航空雷撃、水上追撃、拿捕・曳航のどれを選ぶか。拿捕は価値が大きいが、Midway航空基地・米潜水艦・自軍赤城/加賀退避・低速曳航の危険をすべて支払う。
-4. その判断後にのみ、夕刻/夜戦、米二空母の最終運命、Midway第二撃を進める。
+1. **Enterprise prize stabilization / tow audit**
+   - progressive floodingを止め続けられるか
+   - usable tow point / list / rudder / shafts
+   - Chikuma / DD / later supportによる曳航
+   - 米側scuttle sabotageの残存効果
+2. **夜間防護**
+   - Midway航空
+   - 米潜水艦
+   - remaining US surface / search aircraft
+3. **赤城・加賀退避と四健在空母の護衛・CAP配分**
+4. **Midway第二撃 / 夜間配置**
+5. **Enterprise回航継続か、保存不能時の日本側処分判断**
+
