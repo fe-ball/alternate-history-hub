@@ -5,7 +5,7 @@
 
 > **Navigation status:** current router
 > **Current authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-04T18:45:00-10:30**
+> **Canonical historical clock:** **1942-06-05T04:30:00-10:30**
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 
@@ -23,7 +23,7 @@
 
 ## 現checkpoint
 
-**1942-06-04 約18:45、ミッドウェー海戦夕刻。**
+**1942-06-05 約04:30、Midway first light。**
 
 - 赤城・加賀は航空作戦不能だが船体は生存し、自航退避中。
 - 蒼龍・飛龍・翔鶴・瑞鶴は健在。
@@ -34,7 +34,7 @@
 
 ## current frontier
 
-6/5 first light直前。
+6/5 first light。
 
 CLOSED central:
 - Enterprise確保 / Hornet沈没
