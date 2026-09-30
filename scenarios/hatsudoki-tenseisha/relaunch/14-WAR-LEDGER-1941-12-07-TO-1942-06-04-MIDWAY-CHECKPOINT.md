@@ -1133,6 +1133,123 @@ Enterpriseへ日本側salvage effortを集中するため、より大傾斜・�
 - 日本追撃隊: Enterprise船体確保、Hornet処分、米covering forceへの深追いは中止可能。
 
 
+#### 10.0K Enterprise prize — 保存・曳航オプションを段階化する — WORKING
+
+「呉まで一息に曳航できるか / できなければ破壊」の二択を採らない。
+目的を、
+1. 今夜沈ませない
+2. Midway直近のkill zoneから数十海里でも離す
+3. 艦隊随伴艦から補給・曳航資産へ引き継ぐ
+4. repair capabilityをprize側へ近づける
+5. その後にWake / Midway / Truk / 本土へのrouteを決める
+へ分割する。
+
+**Historical salvage anchors**
+- Yorktownは6/4に23°級listでabandonされた後も浮存し、6/5にはVireoがtowlineを取り**約2kt**で曳航した。6/6朝のlistは24°級だった。
+- 170人級のYorktown salvage party + Hammannの外部power / submersible pumpsでも、数時間の作業でlist改善は約2°だった。
+- したがってR3 Enterpriseについて、**25–28°だから曳航不能**とも、数時間で15°まで簡単に直せるとも置かない。
+- first-night goalは大幅なuprightingではなく、progressive floodingを止め、tow荷重に耐える水密境界と甲板取付点を確保すること。
+
+**18:45–20:30 — prize stabilization first**
+- 筑摩 / 巻雲 / 夕雲からengineer / DC / deck partyを追加。
+- 米側scuttleによるopen valve / rupture / internal flooding routeを探索し、閉鎖できるものから閉鎖。
+- portable fire / bilge pumpsとhosesを日本艦から持ち込み、**外部pump**主体で排水。
+- 米艦配電盤へ日本電源を直接つなぐことは初夜centralにしない。電圧 / 周波数 / connector / damage state不明のため。
+- obvious topside weight（wrecked aircraft、loose ordnance、boats / wreckage）をlow sideから投棄。5-inch mount等の大物を初夜に切り落とす作業は後回し。
+- counterfloodは「傾斜だけを直す」ため大量に行わない。Yorktown同様、starboard-side empty tank等へ外部pumpで限定注水できる箇所だけを使い、reserve buoyancyとfree-surfaceを監視する。
+- **20:30 target state: list 24–27°、flooding rate non-increasing、tow rigging可能。**
+- 18:45の25–28°から劇的に直すのではなく、まず悪化を止める。
+
+**第一夜のtow — 筑摩primary, DD steering support**
+- 初動のprimary tugは**筑摩**。NorthamptonによるHornet tow、Nachi/Tamaによるoiler tow等から、large combatantがlarge disabled shipを曳く行為自体は特殊ではない。
+- 巻雲 / 夕雲の一方をstern / quarter control、他方をASW / rescue。
+- tow rigはanchor chain / heavy wire / bridleを使う低速ocean tow。米側Northampton towlineの残材が使える場合は利用するが、それを必須にしない。
+- **20:30–22:00に1–2ktでload test、安定後2–3kt central。**
+- 舵dead / asymmetric floodingによりyawが大きい場合、速度を上げずhead-to-sea維持を優先。
+- 3ktを超えること自体を初夜の成功条件にしない。
+- courseはまず**W–WSW寄り**。Wake直行の幾何より「Midwayから距離を取り、米潜水艦・航空の予測点をずらす」ことを優先する。
+
+**第一給油隊を即時recall**
+- 史実の1st Supply UnitはKyokuto / Shinkoku / Toho / Nippon / Kokuyo Maruの5隻で、Akigumoがescort。6/4 0307にCarrier Strike Forceから分離し、**course 130 / speed 12**で離れている。
+- Shinkokuはmax 19.5kt、Kokuyoも19kt級のfast tanker。Supply Group自体は12ktで航行していたが、必要ならfast pairを先行分離できる。
+- 18:45にrecall signalを発し、**Shinkoku + Kokuyo + Akigumo**をprize support先行候補とする。残るoilerはcarrier fuel reserveとして保持。
+- exact separationはR3の4日昼以後のfleet trackを再計算する必要があるためCLOSEDにしない。
+- ただし史実0307分離後の12kt航走とR3の東方surface pursuitを合わせれば、18:45時点の距離は**200–300 nmi級 working band**が自然。
+- prize側2–3kt / tanker側15–18ktで相互接近すれば、**6/5 0600–1100級 rendezvous**をcentral bandとする。
+
+**oiler到着後の役割を過大評価しない**
+- 日本oilerがdamaged destroyerを曳航した実績はあり、merchant tanker / fleet oilerをtow assetとして使うこと自体は可能。
+- ただし20,000t超・25°級listのcarrierをfast tanker 1隻でいきなり5–8ktへ上げない。
+- central:
+  - 筑摩: primary tow継続またはbackup
+  - Shinkoku: endurance tow / heavy stores / fuel / water / pump platform
+  - Kokuyo: reserve tow + replenishment
+  - Akigumo + DD: ASW / rescue / towline handling
+- 6/5 daylightにlist / yaw / tow pointが改善すれば**3–4kt sustained**を次target。5kt以上はrepair progress後のPROVISIONAL上振れ。
+- oiler到着で最大の改善は速度そのものより、**筑摩を唯一の生命線にしなくてよくなること**。
+
+**Akashiはsecond-echelon**
+- 史実AkashiはOperation MIに参加後、**6/4にTrukへ到着**。114台のmachine tools、鋳造・鍛造・溶接・電機工場、23t / 10t級craneを持つ日本唯一の専用大型repair ship。
+- したがって「翌朝AkashiがEnterpriseへ来る」は不可。
+- Midway–Trukは2,000 nmi超級で、Akashi自身を全速で東へ出しても数日仕事。
+- central option:
+  1. 6/4夜にAkashiへEnterprise prize情報とrequested-equipment list送信
+  2. 6/5に**selected repair engineers + portable pumps / welding / rigging gear**をfast warshipへ移して先行派遣できるか検討
+  3. Akashi本体は護衛を付け、prizeが西進を維持できると確認後にNEへ進出
+- prize 3–4kt + Akashi 18kt級のmoving rendezvousなら、直線上では**6/8–6/9級**が最速現実帯。海況・護衛・補給で後ろへ振れる。
+- よって最初の3–4日をAkashiなしで持たせる設計が必要。
+
+**mid-echelon support: Occupation / Support Force**
+- Midway occupation sideにはseaplane tenders、minesweepers、subchasersが存在する。
+- prizeを守るため侵攻全体を解体はしないが、**subchaser 2–3隻 / seaplane ASW search**を西側から合流させる価値が高い。
+- fleet destroyerを低速tow convoyに永久拘束するより、6/5–6/6以後はsubchaser / auxiliary escortへASW負担を移す方が合理的。
+- seaplane tender groupはsurface towの主役ではなく、昼間のASW / search密度を上げる支援。
+
+**米潜水艦 threat — high but not deterministic**
+- 史実米側はMidwayへのapproach arcに19潜水艦を配置し、150 / 200-mile circleのstationsを持っていた。
+- Nautilusは6/4に実際に日本carrier forceへ繰り返し接近し、Kirishima / Kagaへ攻撃機会を得た。
+- 一方で日本側floatplane / destroyer ASWに何度も捕捉・depth-chargeされ、Mk 14不良も深刻だった。
+- よってslow prize convoyを「潜水艦に必ず沈められる」ともしない。
+- first night / dawnは**4–6 DD級のASW screen + floatplane patrol**をprize group周囲へ確保するのが必要条件。
+- prize tow routeをstraight predictable lineに固定せず、submarine contact時にはtowを維持したままescortが外側でhuntする。
+
+**Midway air threat — night / dawn**
+- 史実PBYは6/3–4夜に日本occupation forceへnight torpedo attackを実施し、実際にoilerへhitを与えた。
+- したがって「日没でprizeは安全」は不可。
+- ただしMidway側のfuel / facility damage、夜間target acquisition、scattered showersがあり、毎晩大編隊が正確にprizeを攻撃できるとも置かない。
+- first night central: **2–4 PBY級のsearch / attack attemptを許容、contact / attack成立は別roll**。
+- 夜間CAPは期待しない。AA / dispersion / weather / course changeで耐える。
+- dawn以後は四健在carrierからprizeへ**fighter CAP + ASW search**を割く。これはMidway second strikeやcarrier self-coverとトレードオフ。
+
+**destination ladder — 今は固定しない**
+1. **moving offshore prize** — first preference。支援艦をEnterpriseへ持ってくる。
+2. **Wake axis** — 約1,000 nmi級。最初から「Wake港内へ入れる」意味ではなく、Japanese air / logistics sphereへ近づくroute。
+3. **Wake outer anchorage / controlled grounding** — progressive floodingがtow能力を上回る場合のfallback。Wake channelは1941末20ft級で、damaged Enterpriseをlagoonへそのまま入れる案は不可。
+4. **Midway harbor** — 1938–40に30ft deep / 300ft wide channelが完成しているが、R3 Enterpriseは通常よりdeep draft + large list。さらに島自体が敵基地。**占領成功 + dewatering / upright後**のみfuture option。
+5. **Truk / Kure** — long-term destination。first-night criterionではない。
+
+**grounding rule**
+- controlled groundingは「面白いからやる」枝ではなく、
+  - tow point failure
+  - progressive flooding再開
+  - listがtow-safe bandを越えて増大
+  - weather悪化
+  のいずれかで**open-water sinking risk > bottom-damage risk**になった時だけ選ぶ。
+- したがって現checkpointではREFERENCE fallbackであり、central routeにはしない。
+
+**working central through dawn 6/5**
+- 18:45: prize secure
+- 20:30–22:00: 筑摩tow load test
+- 22:00以後: 2–3kt W–WSW tow、DD ASW screen
+- first night: flooding stable / list 24–27°を維持することがsuccess criterion
+- 6/5 0600–1100: fast oiler support rendezvous band
+- dawn: four-carrier air coverの一部をprizeへ配分
+- 6/5 daylight: external pumps / storesを増強し、3–4kt sustained towへ上げられるか監査
+- Akashi / occupation-support assetsはsecond echelonとして西から接近
+
+次のhard gateは**18:45–翌0600にprogressive floodingを再開させず、筑摩towを2–3ktで維持できるか**。
+
+
 ### 10.1 RESOLVED — 米二空母の最終運命
 
 - **Enterprise: 日本側が18:45級に浮存船体を完全確保 — CLOSED。**
