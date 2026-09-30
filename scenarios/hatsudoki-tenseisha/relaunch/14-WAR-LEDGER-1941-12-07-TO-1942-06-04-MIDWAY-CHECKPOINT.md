@@ -1936,6 +1936,190 @@ R3で六正規空母へ護衛を少し増したとしても、このSecond Fleet
 - そのため6/5夜の勝負は「奇襲上陸」ではなく、**Kondo heavy bombardment + minesweeping + ASW barrier penetration + PT suppression**になる。
 - 次gateは6/5 evening/night Kondo bombardmentと、6/6 H-hourまでのfinal approach。
 
+#### 10.0S 6/5 evening–6/6 H-hour — Kondo重砲撃 / final approach — CLOSED central
+
+6/5 18:00のTransport Group 110–125 nmi W–WSWから、original assault conceptを維持しつつ、
+**heavy ships → close-support ships → assault transports → construction/logistics echelon**
+へ層を分けて近づける。
+
+**先に「mine」の意味を修正**
+- Midwayの確定防御にはSand Island north beachの**380 controlled water mines**、海岸全周のanti-personnel mines、主要上陸浜のanti-tank minesがある。
+- これは「沖合深水域に大規模moored naval minefieldがあり、掃海艇が先に全部除去する」という意味ではない。
+- minesweeper / subchaserは:
+  - approach lane確認
+  - possible naval mine / obstruction reconnaissance
+  - submarine screen
+  - landing-craft lane marking
+  を担う。
+- **beach controlled mines / AP minesは艦上掃海で消えない**。特にSand Islandのfeint / northern sectorでは第一波自身が危険を負う。
+
+**assault echelonを高速化**
+- 6/3の10ktはconvoy strategic cruiseであって全transportのmaximumではない。史実同型transport groupsには12kt cruising、Brasil Maru等を含むconvoyに16kt航走実績もある。
+- 18:30以後、
+  - Ichiki / No.2 Combined SNLFを積むassault transports + Jintsū / main DD escortを**12.5–13.5kt**
+  - construction / bulk cargo / damaged or slow auxiliariesを**10–11kt**
+  に分離する。
+- assault transportsだけをH-hour halt lineへ間に合わせ、construction echelonを危険なshore rangeへ同時投入しない。
+- central assault-echelon range:
+  - 18:00: 115 nmi級
+  - 22:00: 63–67 nmi
+  - 02:00: 12–18 nmi
+  - 02:30–03:00: planned assault anchorage / halt-zoneへ進入
+
+**Kondo Bombardment Group**
+- Kongō / Hiei
+- Atago / Chōkai
+- Myōkō / Haguro
+- Yura + DD screen
+- CruDiv 7は前夜すでにshore missionを行っているため、全4隻をもう一度砲撃主力へ入れずtransport / anti-surface reserveへ回す。
+- HieiのOperation C時のtorpedo damageはMI出撃時までにcombat serviceへ戻ったという既存force allocationを維持し、ここで新しいspeed penaltyを無料追加しない。
+
+**20:30–22:00 approach / spotting**
+- main bombardment lineはMidway南～南西**18–22kyd**へ。
+- Kongo-class 356mmはshore 7-inch / 5-inch range外から射撃可能。
+- Chitose / Kamikawa + cruiser floatplanesから**4–6機級**をillumination / spottingへ。
+- 日本側はlanding用に100m-grid mapを準備していた史実計画を使用。
+- I-168 / previous CruDiv7 fireで得たsearchlight / muzzle-flash sectorも入力。
+- US AAはfloatplanesへ発砲し、**1 floatplane lost / forced down central**。spottingを無料にしない。
+
+**22:05–23:25 heavy bombardment**
+- fixed point targetでもnight position / spotting errorがあるため、individual gun pitへ全弾precision hitは置かない。
+- ammunition:
+  - Kongō + Hiei: **356mm total 380–440、central 410**
+  - Atago / Chōkai / Myōkō / Haguro: **203mm total 420–520、central 480**
+- 356mmはType 0 / Type 3 shore-use roundsを優先するが、magazine composition上**Type 1 APも相当数混在**。史実Henderson FieldのKongō/HarunaがHE/incendiaryを使い切った後APまで大量に撃った実例をanchorとする。
+- 約410発は、史実Kongō + HarunaがHendersonへ900発超を撃った能力より抑えたmissionで、翌日のsurface ammunitionを空にしない。
+
+**target priority**
+1. 7-inch coast-gun sectors
+2. 5-inch coast batteries / fire-control / searchlight
+3. proposed Eastern south / Sand Frigate Point beach exits
+4. command / telephone / plotting nodes
+5. remaining AA / airfield service areas
+
+runway crater増加そのものはsecondary。目的は**landing boatに撃てるgunsを減らすこと**。
+
+**shore battery reaction**
+- Battleshipsは18–22kydに留まり、7-inch batteryのeffective reach外～外縁。
+- close DD / floatplane / occasional cruiser maneuverへ7-inch / 5-inchが発砲すると、muzzle flashでbattery sectorが明確になり356/203mm fireを集中。
+- US coast gunsのmain battle lineへのdirect hit **0 central**。
+- DD 1隻にnear-miss splinter / minor topside casualties級を置くがspeed / ASW能力は維持。
+
+**23:25 CLOSED coast-artillery state**
+- 7-inch guns 4:
+  - **2 mission-killed / destroyed**
+  - 1 communications / local-control degraded but usable
+  - 1 operational
+- 5-inch coast guns 6:
+  - **2 mission-killed**
+  - 1 temporarily suppressed / local control
+  - 3 operational
+- 3-inch AA / searchlight:
+  - additional **4–6 positions mission-killed / abandoned**
+- coast-defense telephone / command network heavily fragmented。surviving gunsはlocal control中心。
+- infantry bunkers / wire / mines: **大半生存**。
+- Marine / Army additional night casualties: **90–150 killed/wounded級 working band**。gun crew / signals / service troopsの比率が高い。
+- したがってshore defenseは「壊滅」ではなく、**long-range anti-transport firepowerが半減し、coordinationが崩れた状態**。
+
+**PT attack on bombardment force**
+- surviving PT 9–10隻級のうち4–6隻がgun flashesを頼りに接触。
+- DD screenへ遮られ、3–4隻がtorpedo geometryを得て**8–12 torpedoes級**発射。
+- early-war PT night fire-control / Mk 8 speed / Japanese screen maneuverを踏まえ、
+  - Japanese ship torpedo hit **0 central**
+  - PT 1 sunk / abandoned、1 damaged central
+- attackでJapanese bombardment lineに約10分のmaneuver pause。
+
+**US submarine barrier — 6/5夜は実害を一つ出す**
+- daylight contact後、6–8 boats級がinner approach barrierへ寄っている。
+- 22:00–03:00に**2 firing opportunities** central:
+  1. heavy-cover / DD screenへ4–6 Mk14 → effective hit 0
+  2. trailing construction / cargo echelonへ4 Mk14
+- second attackで**1 high-order hit — CLOSED central**。
+- target central: **Hokuroku Maru**（construction elements / stores）。
+- engine / aft machinery areaへの1 hitでdead in water、progressive flooding。
+- PB / subchaser + 1 DDが救助へ残り、乗員・construction personnelの大半は退避できるがheavy equipment / storesの相当部分を失う。
+- **Hokuroku Maruは6/6 dawnまでに放棄・後刻沈没 — CLOSED。**
+- この損失はfirst assault waveのIchiki / No.2 Combined SNLF人数を直接減らさないが、占領後のairfield repair / construction throughputを下げる。
+- attacking US submarineはdepth-chargeを受けるがsunk 0 central。
+
+**assault transport halt lineを史実4,400ydから後退**
+- 史実planは一部transportsをSand Island 7-inch batteryから4,400yd級まで入れる危険なものだった。
+- R3日本側はnight bombardmentで**未知だった7-inch gunsが実在してなお1–2門撃てる**ことを確認する。
+- したがって4,400ydへ全transportを入れるのは採らない。
+- central:
+  - primary assault transports: **7,000–9,000yd**
+  - second-wave / reserve transports: **10,000–13,000yd**
+  - construction / bulk cargo: **15,000yd以遠**
+- Daihatsuのshore cycleは長くなるが、transport loss riskを下げる合理的adaptation。
+- この変更は未来知識ではなく、**22時台に実際に受けたshore fireとspotting reportへのbattlefield response**。
+
+**02:20–03:15 landing preparation**
+- 02:20–02:40 assault transports halt / slow drift。
+- troops descend nets into Daihatsu。
+- Daihatsu 8kt級でreefへ。
+- Jintsū + 2–3 DDが**8–11kyd級**まで入り、100m-grid map / floatplane spottingでpreplanned suppression。
+- remaining 7-inch / 5-inch gunsへKongō/Hieiが18kyd外からcounterbattery standby。
+- DD smoke screens transport / boat assembly areaの一部を遮蔽。
+- surviving shore gunsはclose support shipsへ断続射撃するが、**Japanese close-support major hit 0 central**。near miss / splinter damageは許容。
+
+**Sand Island feint**
+- historical planどおりMiwa 50-man platoon級がnorthwestern Sandへ約30分先行。
+- このsectorはcontrolled water mines / strongest preparationへ近いため、
+  - landing / reef-crossing casualties **10–20級**
+  - feint forceはshore footholdを一時作るがbreakthroughしない
+- 目的はnorth / northwest defenseのattentionとfireを引くこと。
+
+**main assault clock**
+- 03:10–03:25 Daihatsu main groups depart halt lines。
+- 03:35–03:55 outer reef着。
+- collapsible assault boats / rubber boatsをDaihatsuから下ろし、reef crossing。
+- additional standoff distanceのためoriginal planより**10–20分遅延**。
+- **04:10–04:30 first main assault boats reach beaches — CLOSED central H-hour band**。
+-まだdark / early twilight bandだが、original 0400ぴったりは失う。
+
+**first-wave capacity**
+- historical preparationではIchiki side / No.2 Combined SNLF sideとも、collapsible assault boatsは**約2 companiesを一度に運べる量**。
+- よって「5,000人が04:15に一斉に浜へ出る」は不可。
+- central first wave:
+  - Eastern / Ichiki: **350–450人級**
+  - Sand / No.2 Combined SNLF: **350–450人級**
+  - Sand NW feint: ~50
+- second / third wavesはDaihatsu cycleとreef transferを必要とし、shore fire / damageでさらに遅れる。
+- tanks / AT guns / heavy AA / most artilleryはfirst waveへ付けない。channels / beach access確保後まで船上。
+
+**6/6 carrier / naval fire plan**
+- initial dark landingはsurface fire主体。carrier aircraftにnight close-air supportをさせない。
+- 04:00–05:00:
+  - Kongō/Hiei counterbattery standby
+  - Atago/Chōkai/Myōkō/Haguro planned beach / strongpoint fire
+  - Jintsū + DD close suppression
+- 04:45–05:00 four intact carriers launch **60-aircraft landing-support strike**:
+  - fighters 18
+  - D3A 24
+  - B5N 18
+- 05:50–06:10 target area arrival central。
+- aircraft targets are **preplanned gun / command / beach-exit boxes** and clearly identified firing positions。
+- 1942 Japanese carrier air-ground coordinationをmodern FAC levelにしない。Japanese troopsとUS positionsが混ざった箇所へのprecision CASは避ける。
+- fighter element maintains local air superiority / strafes exposed guns only when identification is clear。
+- Zuihōはtransport / local CAPを優先し、main four-carrier CASへ二重計上しない。
+
+**H-hour input — CLOSED central**
+- assault troops reach Eastern / Sand beaches 04:10–04:30。
+- 7-inch: 2/4 mission-killed、残り2 usable程度。
+- 5-inch: 2/6 mission-killed、3–4 usable。
+- shore command net badly degraded but local resistance strong。
+- infantry / MG / mortar / wire / AP mines: mostly intact。
+- Sand controlled-water mine belt: north sector largely intact。
+- Japanese Transport Group: primary troop lift intact。
+- Japanese loss before beach:
+  - Hokuroku Maru sunk / lost after submarine torpedo
+  - 1 floatplane lost
+  - 1 PT sunk / 1 damaged on US side
+  - Japanese DD minor splinter damage
+- first assault waves are **lightly equipped and numerically limited**。
+- Therefore the next gate is not whether landing occurs: **landing occurs — CLOSED**。
+- next gate is **04:10–08:00 beach / reef killing-ground battle**, separately for Eastern Island (Ichiki) and Sand Island (No.2 Combined SNLF), before assuming either island falls.
+
 #### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
 
 **18:45以後の追加dusk strike — NO GO, CLOSED**
