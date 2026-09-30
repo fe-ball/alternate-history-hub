@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "navigation_revision": "2026-09-29",
+  "navigation_revision": "2026-09-30",
   "kind": "NAVIGATION-ONLY-NO-CANON-PROMOTION",
   "scenario_id": "asai",
   "repository": "fe-ball/alternate-history-hub",
@@ -18,16 +18,18 @@
     "Japan_China": "WAR-CONTINUES"
   },
   "working_history": {
-    "latest_campaign_close": "Wake, 1941-12-23 afternoon about 14:00-16:00 local",
-    "status": "WORKING-CLOSE",
-    "coverage": "Late-Dec working continuation; 1941 year-end transport input ledger; later replay-local West / Doolittle / early-MO discussion",
+    "latest_campaign_close": "Port Moresby captured in replay-local working branch, 1942-04-20; base-air regeneration and carrier-contact discussion continued through 1942-04-30 evening",
+    "status": "WORKING",
+    "coverage": "Late-Dec continuation; 1941 airlift and AT-3 audits; West/Doolittle/early-MO; Crace-type surface action; Taurama-Port Moresby campaign; post-capture air-base regeneration; Lexington contact gate",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
       "1942 AT-3 prototype and procurement plans",
       "First Indian Ocean / western-base working discussion",
       "Doolittle-type raid working gate",
-      "Early-MO replay through 1942-04-16 evening"
+      "Early-MO replay through 1942-04-30 evening",
+      "Port Moresby capture and post-capture base-air buildup",
+      "Lexington / Zuikaku carrier-contact gate"
     ]
   },
   "discussion_frontier": {
@@ -39,10 +41,15 @@
       "AT-3 working technical re-audit",
       "First Indian Ocean / western base-air / GT torpedo-boat demand discussion",
       "Doolittle-type raid feasibility gate",
-      "Early-MO replay from Tulagi through 1942-04-16 evening"
+      "Early-MO replay from Tulagi through 1942-04-16 evening",
+      "Crace-type Allied surface interception replay",
+      "Taurama landing through Port Moresby capture",
+      "22-25 April Allied interdiction versus Japanese base-air buildup",
+      "Type 1 Float Fighter and E6 Single late-April role correction",
+      "26-30 April regeneration race and Lexington carrier-contact setup"
     ],
-    "next_gate": "Audit and replay the Crace-type Allied surface interception versus the MO convoy escort after 1942-04-16 evening",
-    "next_gate_source": "V26:12#19",
+    "next_gate": "Reconcile E5/E6 core life, middle-distillate fuel quality, and permitted output/rating as one operational trade space before resuming the 1942-05-01 carrier-contact replay",
+    "next_gate_source": "V26:13#14",
     "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION"
   },
   "default_read_order": [
@@ -104,6 +111,14 @@
     "V26:12": {
       "path": "records/V26/12-POST-V26-WEST-DOOLITTLE-EARLY-MO-WORKING-HANDOFF-2026-09-29.md",
       "blob_sha": "2b9c9f2834c32b3aa00238310fffa30930155c14"
+    },
+    "V26:13": {
+      "path": "records/V26/13-POST-V26-MO-PORT-MORESBY-WORKING-HANDOFF-2026-09-30.md",
+      "blob_sha": "956af19aaead2ba70f817acd3e0c09207a0da5a1"
+    },
+    "V26:14": {
+      "path": "records/V26/14-POST-V26-MO-PORT-MORESBY-WORKING-DECISION-REGISTER-2026-09-30.tsv",
+      "blob_sha": "cba2ef0926343ef8afb09354bdef4dab2891c346"
     }
   },
   "lineage_sources": [
@@ -111,7 +126,7 @@
     "records/V25/00-SESSION-HANDOFF-V25.md"
   ],
   "source_routes": "navigation/SOURCE-ROUTES.json",
-  "verified_source_commit": "7bfc1ba85795e2b0a715e19aab9360098602330d",
+  "verified_source_commit": "ac2c149f20a1a44ffdc2fe6e1889b7216c66591f",
   "freshness_rule": "Compare same-axis handoffs/registers/checkpoints/progress and tree inventory. New or changed sources require review and manifest update; neither this pointer nor file mtime wins over contradictory explicit branch evidence.",
   "default_search_scope": [
     "current/active",
