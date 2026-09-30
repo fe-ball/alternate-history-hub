@@ -114,31 +114,23 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**1942-06-04 約18:45、ミッドウェー海戦夕刻。**
+**Main decision clock: 1942-06-04 約18:45、ミッドウェー海戦夕刻。**
 
-詳細は `14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md` を最優先で読む。
+Enterprise prizeについてはforward auditを先に実施し、**6/5 06:00まで筑摩の1.5–2.5kt曳航下で浮存するcentralをCLOSED**。ただしこの翌朝結果を18:45時点のactor knowledgeへ逆流させない。
+
+現在のfocusはEnterpriseからいったん離れ、**同時並行で進んでいたMidway / four-carrier sideの13:30–18:45を埋めること**。
 
 現在のCLOSED / central state:
-- 第一機動部隊は赤城・加賀・蒼龍・飛龍・翔鶴・瑞鶴の六空母集中。
-- 赤城は航空作戦不能・steering damageを抱えつつ自航退避、加賀も航空作戦不能だが自航可能。野分→赤城、萩風→加賀を近接護衛central。
-- 蒼龍・飛龍・翔鶴・瑞鶴は健在。ただし帰還機・他艦所属機混在でdeck / maintenance congestion。
-- 米Enterprise/Hornetは双方mission kill後に救難を受けたが、日本高速水上追撃で曳航を切らされた。
-- **Enterprise:** Phelpsが8 Mk 15を発射、5 contact / 3 high-order detonation。追加浸水でlist 25–28°級となるが沈没せず、日本側が18:45級に船体を完全確保。主機・操舵・main power dead。
-- **Hornet:** abandoned / scuttle-damaged。Enterpriseをprize priorityとし、Hornetは日本側finish torpedoで最終沈没確定。
-- 米surface forceはsurvivorsを抱え東退。日本追撃隊は米coverを深追いせずprize / damaged-carrier problemへ戻れる。
+- 赤城・加賀は航空作戦不能だが自航退避。野分→赤城、萩風→加賀が近接護衛central。
+- 蒼龍・飛龍・翔鶴・瑞鶴は健在。
+- Enterpriseは18:45級に日本側がprize secured afloat。Hornetは日本側finish torpedoで最終沈没確定。
+- Enterprise first-night forward audit: 6/5 06:00まで浮存、筑摩1.5–2.5kt tow、list 24–26°級、PBY/sub hitなしcentral、grounding未使用。
 
-次の論点はこの順番で閉じる。
+次に閉じる順番:
+1. **13:30–18:45の四健在空母の航空在庫・整備状態**
+2. **Midway午後第二撃を実際に発進できたか**
+3. **Midway島側の残存航空・runway・fuel・AA・radar・diverted carrier aircraft**
+4. **18:45以後のnight disposition / 翌朝first-light strike**
+5. **Midway上陸作戦を継続・変更・延期するか**
 
-1. **Enterprise prize stabilization / tow audit**
-   - progressive floodingを止め続けられるか
-   - usable tow point / list / rudder / shafts
-   - Chikuma / DD / later supportによる曳航
-   - 米側scuttle sabotageの残存効果
-2. **夜間防護**
-   - Midway航空
-   - 米潜水艦
-   - remaining US surface / search aircraft
-3. **赤城・加賀退避と四健在空母の護衛・CAP配分**
-4. **Midway第二撃 / 夜間配置**
-5. **Enterprise回航継続か、保存不能時の日本側処分判断**
-
+Enterpriseの6/5 daytime保存・oiler handoff・Akashi接近は、このMidway並行処理を閉じた後に戻る。
