@@ -44,8 +44,8 @@ scenarios:
     status: active
     authority_version: "Relaunch R3"
     canonical_clock: "1942-06-04T18:45:00-10:30"
-    clock_state: "relaunch-r3; main decision clock remains 1942-06-04 18:45; Enterprise captured afloat and Hornet sinking CLOSED; Enterprise first-night forward audit CLOSED through 1942-06-05 06:00 without leaking future outcome into actor knowledge; current focus returns to concurrent Midway/four-carrier 13:30-18:45 aviation ledger and second-strike window"
-    frontier: "Main clock 1942-06-04 18:45。Enterprise prizeはforward auditで6/5 06:00まで筑摩1.5-2.5kt tow・list 24-26度級・PBY/sub hitなしcentralをCLOSEDしたが、この結果を18:45 actor knowledgeへ逆流させない。現在はMidway側へ戻り、13:30-18:45の蒼龍/飛龍/翔鶴/瑞鶴のserviceable aircraft・帰還機混在・兵装/燃料・deck congestionを再構築し、午後第二撃の発進窓と島側の残存航空/runway/fuel/AA/radar/diverted aircraftを閉じる。その後night dispositionと翌朝first-light strikeへ進む"
+    clock_state: "relaunch-r3; main decision clock 1942-06-04 18:45; Enterprise capture/Hornet sinking CLOSED; Enterprise first-night forward audit CLOSED; four-carrier 13:30-18:45 aviation ledger CLOSED; 81-aircraft Midway afternoon second strike CLOSED; additional dusk carrier strike NO GO; next gate CruDiv7 night bombardment then 6/5 dawn third-suppression strike"
+    frontier: "Main clock 1942-06-04 18:45。四健在空母13:30 immediate serviceable約212機central、14:35-14:50にMidway午後第二撃81機級を発進し17時台回収、18:45 immediate serviceable約192機centralまでCLOSED。Midwayのrunway/fuel/radar/AA/parked aircraftは追加劣化。18:45以後の追加dusk carrier strikeはNO GO。次は史実にも命令されたI-168→CruDiv7のMidway夜間砲撃をcoast guns/searchlight/PT/remaining aircraft込みで再演し、その結果から6/5 dawn 75-95機級third-suppression strikeとlanding timetableを閉じる"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-ledger-through-enterprise-first-night-forward-audit-and-midway-parallel-return-1942-06-04-1845-main-clock"
+    source_import: "relaunch-r3-continuity-ledger-through-midway-afternoon-second-strike-and-enterprise-first-night-forward-audit-1942-06-04-1845-main-clock"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
