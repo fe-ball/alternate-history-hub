@@ -27,7 +27,8 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/79_MARIANAS_KON_THICK_REINFORCEMENT_ALTERNATIVE_WORKING_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/80_MARIANAS_COUNTERLANDING_CULTURE_MOBILIZATION_PREMISE_WORKING_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/79_MARIANAS_KON_THICK_REINFORCEMENT_ALTERNATIVE_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/78_20JUN_SAIPAN_SUPPORT_IMPERIAL_STRATEGY_AUDIT_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/77_20JUN_SAIPAN_FIELD_BATTLE_BOMBARDMENT_BRACKET_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/76_20JUN_ISLAND_HISTORICAL_ANALOG_VALIDATION_WORKING_v001.md`
@@ -52,7 +53,9 @@ Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
 
 Current task:
-- **file 79 is the latest ALTERNATIVE FORK CANDIDATE. It does not replace files 71–78. It tests whether the current DD7+Nisshin lift is under-scaled relative to the fleet commitment, using a KON-derived Army-Navy fast reinforcement concept.**
+- **file 80 is the latest WORKING doctrinal premise. It selects preplanned Marianas counterlanding mobilization as a probable A-Go contingency, based on the established Branch Attu/Gilberts/New-Caledonia/Santo lineage. File 79 now audits the physical force realization rather than the existence of the doctrine.**
+- carry file-80 status: mobilization intent for a fast ~2,000–3,500-person combined-arms reinforcement is SELECTED; named units/hulls/staging/timing remain OPEN; current DD7+Nisshin result is the fallback/minimum fast layer until that audit closes;
+- next task is the named force audit: Army/Navy manpower source, KON/amphibious transport assets, 13–20 Jun movement, Nisshin+Chitose/Chiyoda allocation, landing-craft wallet, Tanapag/Garapan usability, escort/fuel/CAP cost.
 - file-79 center question: if dated 13–17 Jun diversion of KON-type transport assets / Army payload is physically possible, test a fast joint reinforcement on the order of ~2,000–3,500 personnel plus heavy/specialist cargo, using Nisshin + one Chitose/Chiyoda and traceable cruiser/minelayer/landing-ship lift, rather than a slow 5,000–10,000+ convoy;
 - file-79 is explicitly NOT selected yet. Next audit must close the named KON assets / troop payload / Chitose-Chiyoda locations / Tanapag-Garapan usability / dusk fighter cover before replacing the current line;
 - file 78 remains the controlling strategic judgment for the selected current line until that audit closes.
