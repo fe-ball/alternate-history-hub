@@ -116,21 +116,23 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 **Main decision clock: 1942-06-04 約18:45、ミッドウェー海戦夕刻。**
 
-Enterprise prizeについてはforward auditを先に実施し、**6/5 06:00まで筑摩の1.5–2.5kt曳航下で浮存するcentralをCLOSED**。ただしこの翌朝結果を18:45時点のactor knowledgeへ逆流させない。
+CLOSED / central:
+- Enterpriseは日本側prize secured afloat、Hornetは最終沈没。
+- Enterprise first-night forward auditは6/5 06:00まで生存CLOSED central。ただしactor knowledgeへ逆流させない。
+- 四健在空母の13:30 immediate serviceableは約212機central。
+- **14:35–14:50、Midway午後第二撃81機級を発進。** 15:40–16:10攻撃、17:05–17:45回収。
+- 第二撃でMidwayのrunway throughput、fuel/service、radar/plotting、AA、parked aircraftを追加劣化。
+- 18:45の四空母immediate serviceableは約192機central。
+- **18:45以後の追加dusk carrier strikeはNO GO CLOSED。**
 
-現在のfocusはEnterpriseからいったん離れ、**同時並行で進んでいたMidway / four-carrier sideの13:30–18:45を埋めること**。
+次の論点:
+1. **CruDiv 7 night bombardment**
+   - I-168 harassment
+   - Mogami / Mikuma / Suzuya / Kumanoのstandoff bombardment
+   - Midway coast guns / searchlight / radar / PT / remaining aircraft response
+2. **6/5 dawn third-suppression strike**
+   - 75–95 aircraft planning band
+   - prize CAP / main-body CAP / searchを控除
+3. **Occupation Force advance / landing timetable**
+4. **Enterprise prize daylight logistics** — fast-oiler rendezvous / tow handoff / submarine risk
 
-現在のCLOSED / central state:
-- 赤城・加賀は航空作戦不能だが自航退避。野分→赤城、萩風→加賀が近接護衛central。
-- 蒼龍・飛龍・翔鶴・瑞鶴は健在。
-- Enterpriseは18:45級に日本側がprize secured afloat。Hornetは日本側finish torpedoで最終沈没確定。
-- Enterprise first-night forward audit: 6/5 06:00まで浮存、筑摩1.5–2.5kt tow、list 24–26°級、PBY/sub hitなしcentral、grounding未使用。
-
-次に閉じる順番:
-1. **13:30–18:45の四健在空母の航空在庫・整備状態**
-2. **Midway午後第二撃を実際に発進できたか**
-3. **Midway島側の残存航空・runway・fuel・AA・radar・diverted carrier aircraft**
-4. **18:45以後のnight disposition / 翌朝first-light strike**
-5. **Midway上陸作戦を継続・変更・延期するか**
-
-Enterpriseの6/5 daytime保存・oiler handoff・Akashi接近は、このMidway並行処理を閉じた後に戻る。
