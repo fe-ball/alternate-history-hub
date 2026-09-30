@@ -1,8 +1,8 @@
 # 発動機転生者・リランチ正本
 
 > **Authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-06 約08:00（Midway beachhead battle working clock）**
-> **Checkpoint:** ミッドウェー海戦6/6朝。Kondo夜間重砲撃とfinal approach後、Eastern / Sand両島に日本側橋頭堡成立。ただし両島とも未占領
+> **Canonical historical clock:** **1942-06-06 約14:00（Midway reinforcement-race working clock）**
+> **Checkpoint:** ミッドウェー海戦6/6午後。Eastern Islandは13時台に戦術的占領、Sand Islandは日本側重火器流入後もなお中央・北西部で抵抗継続
 > 旧 `current/`・`archive/` はpre-relaunch REFERENCE。
 > canonical clockより未来の議論は、その時点で開始済みのresearch / requirement / planning / forward-studyとしてのみ保持し、後年結果をactor knowledgeへ逆流させない。
 
@@ -114,36 +114,33 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**Main decision clock: 1942-06-06 約08:00。**
+**Main decision clock: 1942-06-06 約14:00。**
 
 CLOSED central:
-- Enterprise確保 / Hornet沈没。Enterprise first-night survival forward audit。
-- 6/4午後Midway第二撃81機級、CruDiv 7夜間砲撃、6/5 first-light第三制圧撃84機級。
-- 6/5 daylight Occupation Force approach。
-- 6/5夜 Kondo heavy bombardment / 6/6 final approach:
-  - Kongō/Hiei 356mm約410発central
-  - Atago/Chōkai/Myōkō/Haguro 203mm約480発central
-  - 7-inch coast gun 4門中2 mission-kill、5-inch 6門中2 mission-kill級
-  - Hokuroku MaruはUS submarine torpedo hitで喪失
-  - transport halt lineは7,000–9,000yd級へ後退
-- **6/6 04:10–08:00 first beach battle**
-  - Eastern: Japanese effective ashore 850–1,000、casualties 220–300級
-  - Sand: Japanese effective ashore 950–1,100、casualties 280–380級
-  - Japanese beachheads established on both islands
-  - neither island captured by 08:00
-  - Sand Stuart tanks: 1 destroyed/heavy damage、1 mobility-kill、3 mobile
-  - Daihatsu / assault craft 6–10 unusable級
+- Enterprise確保 / Hornet沈没、Enterprise first-night survival forward audit。
+- Midway午後・夜間・first-light制圧、6/6上陸成立。
+- 08:00–14:00 reinforcement race:
+  - 08–09時台 US counterattackは両島で日本橋頭堡を圧迫するが排除できず
+  - **10:45級、reef channel 1本を日本側がheavy-weapon shuttleに使用可能**
+  - SandへAT guns + light tanks級、Easternへ70mm級歩兵砲 / 37mm級direct-fire weaponが順次上陸
+  - **Eastern Island organized defense collapses 12:45–13:30、tactical capture ~13:15 CLOSED**
+  - Sand: Japanese effective ashore 1,950–2,200級、cumulative casualties 620–780級
+  - Sand Marine light-tank mobile counterattack capabilityは終了
+  - **Sand Island remains contested at 14:00**
+- 装備表記修正:
+  - US tank platoonは5 Marine light tanksで固定、M2A4 vs M3 subtypeはsource disagreementのため未固定
+  - transport ship表記は **Hokuriku Maru** に修正
 
 次の論点:
-1. **08:00–14:00 reinforcement race**
-   - reef/channel clearance
-   - AT guns / tanks / heavier MG / artillery landing
-   - US counterattack timing
-2. **Eastern Island airfield fight**
-   - Ichiki renewed push vs Raider D / provisional infantry
-3. **Sand Island interior fight**
-   - SNLF vs Stuart / wire / mines / infantry reserve
-4. **naval / carrier fire support limits**
-   - friendly-fire boundary as fronts intermingle
-5. **Enterprise prize daylight logistics** — oiler rendezvous / tow handoff / submarine risk
+1. **14:00–night Sand Island reduction**
+   - central / northwest defense core
+   - remaining coast guns / mortars / MG
+   - Japanese heavy-weapon throughput through reef channel
+2. **Midway surrender / final-resistance decision**
+   - Eastern lossがSand commandへ与える影響
+   - evacuation impossibility / PBY extraction limits
+3. **Eastern runway damage assessment**
+   - Japanese engineersがいつfighter / transport useへ戻せるか
+4. **Enterprise prize daylight logistics**
+   - fast-oiler rendezvous / tow handoff / submarine risk
 
