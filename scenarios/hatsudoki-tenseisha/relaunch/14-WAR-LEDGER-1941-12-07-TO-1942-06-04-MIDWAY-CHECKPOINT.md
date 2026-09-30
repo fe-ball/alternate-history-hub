@@ -2035,10 +2035,10 @@ runway crater増加そのものはsecondary。目的は**landing boatに撃て�
   1. heavy-cover / DD screenへ4–6 Mk14 → effective hit 0
   2. trailing construction / cargo echelonへ4 Mk14
 - second attackで**1 high-order hit — CLOSED central**。
-- target central: **Hokuriku Maru**（construction elements / stores）。
+- target central: **Hokuroku Maru**（construction elements / stores）。
 - engine / aft machinery areaへの1 hitでdead in water、progressive flooding。
 - PB / subchaser + 1 DDが救助へ残り、乗員・construction personnelの大半は退避できるがheavy equipment / storesの相当部分を失う。
-- **Hokuriku Maruは6/6 dawnまでに放棄・後刻沈没 — CLOSED。**
+- **Hokuroku Maruは6/6 dawnまでに放棄・後刻沈没 — CLOSED。**
 - この損失はfirst assault waveのIchiki / No.2 Combined SNLF人数を直接減らさないが、占領後のairfield repair / construction throughputを下げる。
 - attacking US submarineはdepth-chargeを受けるがsunk 0 central。
 
@@ -2112,7 +2112,7 @@ runway crater増加そのものはsecondary。目的は**landing boatに撃て�
 - Sand controlled-water mine belt: north sector largely intact。
 - Japanese Transport Group: primary troop lift intact。
 - Japanese loss before beach:
-  - Hokuriku Maru sunk / lost after submarine torpedo
+  - Hokuroku Maru sunk / lost after submarine torpedo
   - 1 floatplane lost
   - 1 PT sunk / 1 damaged on US side
   - Japanese DD minor splinter damage
@@ -2645,7 +2645,7 @@ Sand US defense:
   - runway cratered
   - fuel system sabotaged / damaged
   - radar / communications damaged
-  - Hokuriku Maru construction stores partly lost
+  - Hokuroku Maru construction stores partly lost
   - mines / UXO / wreckage / POW / wounded burden
 - next gate after capture is **base restoration + US counterstrike / relief response**, not instant Japanese fighter-base use。
 
@@ -2746,7 +2746,7 @@ Midway main clockが6/6夜まで進んだため、prize側を同時刻まで追�
 
 **construction force actually available**
 - original occupation plan carried **11th and 12th Construction Units**, often listed at about1,250 men each, in addition to combat troops。
-- Hokuriku Maru carried construction-unit personnel / stores; Kano Maru alone carried about650 men of 12th Construction Unit。
+- Hokuroku Maru carried construction-unit personnel / stores; Kano Maru alone carried about650 men of 12th Construction Unit。
 - R3 Hokuriku loss therefore hurts equipment / stores seriously but does **not** erase the construction units。
 - rescued Hokuriku personnel + other transports yield **~1,900–2,200 work-capable construction personnel central by 6/7 morning**。
 - heavy machinery / spares availability is **25–35% below intact-plan expectation** central。
@@ -2873,6 +2873,191 @@ PBY:
   - submarines know the logistics axis
   - fleet carriers still have to cover the island
 - next hard gate is **6/8–6/10: can Japan transition Midway from captured battlefield to self-defending forward base before submarines / Saratoga intelligence / US strategic regrouping bite?**
+
+#### 10.0Y 6/8–6/10 — Midway self-defense transition / Enterprise salvage / US interdiction — CLOSED central
+
+**Midway fighter-garrison scale is not invented**
+- historical MI plan already embarked fighters specifically intended for the future Midway garrison:
+  - Akagi: **6 A6M2** from the 6th Air Group
+  - Kaga: **9 A6M2**
+  - Soryu: **3 A6M2** documented
+- therefore a shore fighter detachment around the low-20s is consistent with the original occupation concept, even though R3 loses / traps some of those exact airframes on Akagi / Kaga and substitutes serviceable fleet aircraft。
+- Goshu Maru historically carried air-base equipment、munitions、and ground crews for the advance to AF。Keiyo Maru is an aircraft transport。R3 therefore has aviation-support manpower / material in the occupation convoy rather than requiring fleet-carrier mechanics to run the island indefinitely。
+
+**6/8 00:00–08:00 — runway / base**
+- Eastern 5,300-ft runway narrow lane improves from 3,500–4,000 ft to **4,200–4,600 ft usable length**。
+- width remains roughly **60–80 ft級** in repaired sections; shoulders / parallel routes remain cratered。
+- captured gasoline remains quarantined; Japanese drum fuel / pumps remain primary。
+- ground warning is still visual / ship / seaplane radio; captured SCR-270 is not operational。
+- 4–6 fighters already ashore continue local CAP / test operations。
+
+**6/8 fighter reinforcement**
+- dawn–noon、fleet carriers ferry **6–8 additional fighters** to Eastern。
+- afternoon another **2–4** arrive as servicing / parking capacity proves workable。
+- **6/8 evening shore serviceable fighter strength = 12–16、central 14**。
+- sustainable CAP is only **4–6 airborne at one time** because fuel handling / maintenance / warning network remain weak。
+- Zuiho and Chitose / Kamikawa still provide the outer layer。
+
+**US submarine success against occupation logistics — CLOSED**
+- loss of Midway makes submarines the only immediately reusable offensive force already near the objective。
+- 6/8 morning、one US submarine obtains a firing solution on unloading aviation / support shipping east-west of the atoll。
+- changed geometry means boat identity is left OPEN。
+- **target central: Keiyo Maru**。
+- 4 Mk14-class torpedoes fired:
+  - 1 high-order effective hit
+  - remaining weapons miss / run deep / fail
+- hit is in a forward cargo-hold / bow-side region rather than machinery-total-loss center。
+- **Keiyo does not sink — CLOSED**。
+- physical anchor: the same large aircraft transport later survived torpedo damage in 1942。
+- fire / flooding forces unloading to stop; she is stabilized at low speed and sent west after priority transfer。
+- aviation stores / spare parts / munitions in affected holds suffer **20–30% local loss PROVISIONAL**。
+- do not invent destruction of embarked flyable aircraft without a manifest。
+- Japanese DD / subchaser counterattack; US submarine sunk **0 central**。
+
+**effect of Keiyo damage**
+- shore fighter buildup is delayed about **6–12 h**, not stopped。
+- the occupation force immediately disperses large transports after priority unloading rather than leaving twelve big merchant hulls clustered around Midway。
+- by 6/9、only ships still needed for construction / fuel / heavy stores remain in the closest unloading belt; others stage farther west under escort。
+
+**6/9 Midway air-base state**
+- main runway: **4,800–5,200 ft narrow operational lane**。
+- secondary runway / taxi segment: **2,500–3,000 ft emergency lane級**。
+- shore fighters: **18–22 serviceable、central 20**。
+- additionally **4 B5N級** land for liaison / search / limited ASW utility central。
+- no routine land-based D3A bombing unit yet; carrier decks remain better for attack sorties。
+- Chitose / Kamikawa seaplanes provide wide-area search。
+- local sustainable fighter posture:
+  - 6–8 airborne / ready CAP during warning periods
+  - another 6–8 near-ready
+  - remainder maintenance / reserve
+- this can defeat isolated PBY / B-17 / small bomber harassment。
+- it is **not enough to defeat a Saratoga-sized carrier strike by itself**。
+
+**shore AA / warning**
+- landing-force AA weapons and surviving serviceable positions are emplaced around Eastern / Sand。
+- captured US 5-inch / 7-inch guns are **not** immediately converted into Japanese AA/coast-defense assets; ammunition / fire-control / training compatibility blocks that shortcut。
+- no functioning radar。
+- warning chain = E13A / F1M radio + picket ships + visual observers。
+- fighter readiness therefore depends heavily on patrol aircraft remaining airborne。
+
+**carrier-force redistribution — CLOSED at level of 2+2 split**
+- by 6/9 the atoll has a real but thin fighter layer; keeping all four fleet carriers tied to Midway is no longer necessary。
+- **two fleet carriers remain forward through 6/10; two begin western refuel / withdrawal / mobile-reserve duty — CLOSED operational split**。
+- pair assignment central:
+  - **Soryu / Hiryu remain forward** with Zuiho as Midway cover
+  - **Shokaku / Zuikaku move west first** for refuel / rest / cover of the damaged-carrier / prize logistics axis
+- reason for the central pairing: CarDiv 5 attack crews have already paid Indian Ocean + Coral Sea / Port Moresby + Midway fatigue, while its modern hulls / healthier fighter arm remain valuable as western mobile reserve。
+- exact long-term basing remains PROVISIONAL; do not dissolve the six-carrier force permanently from this temporary split。
+
+**6/10 Midway self-defense threshold**
+- main 5,300-ft runway is **nearly full-length as a narrow lane**, with full-width pavement still damaged。
+- shore fighter detachment: **21–24 serviceable、central 22**。
+- B5N local utility/search: **4–6**。
+- seaplane search: Chitose / Kamikawa supported。
+- Zuiho remains close-support carrier。
+- Soryu / Hiryu remain within operational covering distance。
+- fuel:
+  - Japanese imported drums / pumps still primary
+  - some captured underground fuel may be sampled / filtered but is not yet assumed safe for routine use
+- routine twin-engine bomber-base operations: **NO**。
+- fighter / single-engine reconnaissance / light attack use: **YES, limited**。
+- operational classification: **limited self-defending forward fighter base, not mature offensive air base — CLOSED**。
+
+**US PBY confirmation of Enterprise prize — CLOSED central**
+- reduced post-Midway PBY search density makes continuous shadowing impossible, but the US has a strong incentive to search the last known prize route。
+- **6/9 morning、one long-range PBY obtains a fleeting visual contact** on a large carrier hull under Japanese tow west of Midway。
+- report identifies a Yorktown-class / Enterprise-class carrier-shaped hull under Japanese escort; cloud / fighter threat prevents sustained shadowing。
+- PBY escapes central。
+- this gives Nimitz **independent operational confirmation that Enterprise was not sunk and is being towed west**。
+- it does not provide the precision track needed for an immediate mass attack。
+
+**submarine vector against prize**
+- contact report shifts 2–3 submarines toward the probable westward tow corridor。
+- through 6/10、one boat gains distant smoke / escort contact but **no clean firing solution on Enterprise central**。
+- Japanese DD screen and course changes remain effective enough this time。
+- prize submarine risk stays HIGH and is not closed away。
+
+**Enterprise — advance repair party**
+- Akashi reached Truk historically on 6/4 and was Japan's only purpose-built large repair ship, with extensive machine / electrical / welding / casting capability。
+- after capture report、a **small engineer / damage-control advance party + portable pumps / generators / welding / rigging gear** is sent ahead by fast warship rather than waiting for Akashi's hull。
+- **6/8 evening / 6/9 early** advance party reaches prize convoy central。
+- work:
+  - survey Phelps-scuttle holes / earlier torpedo boundaries
+  - reinforce accessible bulkheads
+  - add portable pumping
+  - reinforce tow bridle / deck fittings
+  - isolate fuel / electrical hazards
+- no underwater plate replacement / drydock-grade repair at sea。
+
+**6/9 Enterprise state**
+- list reduced to **18–20°**。
+- flooding controlled。
+- local temporary power exists only for pumps / lights / tools; **main electrical plant still dead**。
+- main propulsion / steering dead。
+- tow increases carefully to **3.2–3.5kt**。
+- Shinkoku remains primary tug; Kokuyo reserve / logistics。
+
+**Akashi rendezvous — 6/10**
+- Truk–Midway is a multi-thousand-nmi ocean leg; Akashi cannot arrive “next morning”。
+- if Akashi sails promptly after capture signal、the westbound prize shortens the intercept。
+- **6/10 morning–midday Akashi rendezvous — CLOSED central**。
+- Akashi does not remain hard alongside an 18–20° listed carrier in open ocean。
+- she takes lee position and transfers engineers、pumps、generators、cable、welding / cutting gear、rigging by boats / working parties。
+- initial engineering survey:
+  - hull is badly damaged but not showing imminent longitudinal breakup
+  - multiple port-side scuttle openings / combat-flooded zones remain
+  - tow fittings require reinforcement
+  - shafts / rudder / main machinery are **not declared repairable at sea**
+- salvage decision: **continue tow; no grounding — CLOSED**。
+
+**6/10 18:00 Enterprise state**
+- list **16–18°**。
+- flooding stable。
+- limited portable / temporary electrical capability for salvage work。
+- main power / propulsion / steering: dead。
+- reinforced tow、**3.5–4.0kt sustained central**。
+- Shinkoku primary、Kokuyo reserve。
+- Akashi engineering support present / cycling teams。
+- route remains westward toward the **Wake support sphere**, not a commitment that Enterprise can enter Wake lagoon。
+- controlled grounding remains contingency for tow failure / renewed flooding / weather, not central plan。
+
+**propaganda evidence side-effect — REFERENCE**
+- once Akashi engineers are aboard, Japan has ample opportunity to make a systematic photographic record:
+  - flight deck / island
+  - US markings / hull details
+  - radar / CIC-related equipment
+  - Japanese prize party aboard
+- these photographs can be couriered west and later released as evidence。
+- foreign correspondents / diplomats physically inspecting the hull requires a secure anchorage later; no operational reason exists to reverse the tow toward Midway merely for proof。
+
+**US carrier response through 6/10**
+- Saratoga remains the sole immediately available US fleet carrier in Hawaii。
+- she does not make a direct solo thrust toward Midway against the Japanese forward carrier pair + shore detachment + wider surviving four-carrier force。
+- replacement aircraft historically intended for Enterprise / Hornet are absorbed into Saratoga / Oahu reserves。
+- Wasp continues its historical transfer from Norfolk through Panama toward the Pacific。
+- therefore immediate US offensive pressure remains:
+  1. submarines
+  2. PBY search / tracking
+  3. selective long-range bombing when geometry permits
+not a fleet-carrier counterattack。
+
+**6/10 strategic state — CLOSED central**
+- Midway: Japanese-held **limited self-defending fighter base**。
+- shore aviation:
+  - fighters 21–24
+  - B5N 4–6 local utility/search
+  - tender-based seaplanes
+- close cover:
+  - Zuiho
+  - Soryu / Hiryu forward central
+- Shokaku / Zuikaku: western mobile reserve / replenishment central。
+- Enterprise: stable low-speed prize tow under Akashi technical support。
+- US: Saratoga conserved、Wasp inbound、submarines / PBY doing the immediate work。
+- next gate becomes **6/11–6/15 consolidation**:
+  - can Midway gain radar / robust fuel / bomber operations and release the remaining fleet carriers?
+  - can US submarines score a decisive logistics / Enterprise hit?
+  - do Akagi / Kaga and the prize reach a safer Wake / western support corridor?
+  - when does Japan publish photographic proof of Enterprise capture and how does the US respond publicly / operationally?
 
 #### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
 
