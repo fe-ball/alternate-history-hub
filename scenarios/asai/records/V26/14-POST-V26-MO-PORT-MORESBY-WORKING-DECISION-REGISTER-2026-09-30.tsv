@@ -1,0 +1,17 @@
+id	source_status	navigation_role	statement	sources
+CANON-GUARD	CURRENT-CLOSE	ANCHOR	V26正本時計1941-12-07 14:30 HSTを維持。1942年4月のMO継続はreplay-local WORKINGで正本昇格しない。	V26:13#1
+MO-SURFACE	WORKING-CLOSE	REPLAY-LOCAL	4月16日夕刻のCrace型水上接触は処理済み。連合軍水上部隊はMO輸送船団への直接到達に失敗し、双方に損傷が発生。	V26:13#2
+MO-LANDING	WORKING-CLOSE	REPLAY-LOCAL	4月17日Taurama上陸から18日Kila Kila、19日Seven Mile、20日Port Moresby市街/Paga占領までを中央WORKINGとして継続。	V26:13#3;V26:13#5
+MO-NGF	WORKING-CLOSE	REPLAY-GUARD	重巡艦砲射撃はKila以後も登録された固定・半固定目標への準備/阻止射撃として継続可能。近接混戦では陸上砲兵へ比重が移る。	V26:13#4
+MO-BASE-RESTORE	WORKING	REPLAY-LOCAL	占領と実用化を分離。Kila Kila、Seven Mile、Fairfax Harbourは段階的にservice releaseされる。	V26:13#6
+TYPE1-FLOAT-FIGHTER	WORKING	CARRY-FORWARD	既存MO局地一式水戦枠からFairfaxへ少数を移し、泊地・輸送船の局地CAPを担当。	V26:12#5.1;V26:13#7
+E6-SINGLE-MO	WORKING	REPLAY-LOCAL	E6 Singleは4月下旬に南東方面へ増援され、29日中央値でSeven Mileに少数combat-present。過去配備を遡及しない。	V26:13#8
+MO-INTERDICTION	WORKING-CLOSE	REPLAY-LOCAL	22-25日の連合軍阻止爆撃は日本側基地化を遅延させるが、Port Moresbyの航空・港湾再生を停止させない。	V26:13#9
+MO-AIR-LAYER	WORKING	REPLAY-LOCAL	PM防空はA6M主CAP、E6 Single高空、E6 Twin外周、一式水戦泊地低空、F1M/E13A/H6K/H7Y索敵観測へ分業。	V26:13#7;V26:13#8;V26:13#9
+GT-FUEL-SEMANTICS	CURRENT-CLOSE	TECH-GUARD	GT航空燃料を専用ケロシン島として扱わず、Grade A/B/Cの軍用中質油プールを品質と承認ratingに応じて使用する。	V26:13#10
+GT-FUEL-FORWARD-BASE	WORKING	REPLAY-GUARD	前進基地では中質油在庫→処理/品質確認→許容rating→sortie releaseで判定し、Grade A不在を即飛行不能としない。	V26:13#10
+P39-REDIRECT	WORKING	REPLAY-LOCAL	4月末の連合軍P-39増勢は豪州北東部/Horn Island側へ滞留し、Port Moresby combat-presentにはしない。	V26:13#11
+ZUIKAKU-APR30	WORKING	REPLAY-LOCAL	瑞鶴は4月末までに限定的な航空隊再生を行い、依然として主要機動航空戦力。完全定数回復とはしない。	V26:13#11
+LEXINGTON-CONTACT	WORKING	REPLAY-LOCAL	4月29-30日に米空母群の概略接触を得る中央線で、30日夕刻をcarrier-contact gateとする。	V26:13#12
+GT-CORE-FUEL-RATING	NEXT	CURRENT-NEXT	E5/E6系のコア寿命・燃料品質・許容出力/ratingの相互トレードオフを再整理し、fuel class×rating×inspection×life debit×mission-use表を閉じる。	V26:13#14
+CARRIER-BATTLE	NEXT	DEFERRED-NEXT	5月1日級の空母接触戦はGT燃料/コア寿命/rating監査後に再開する。	V26:13#15
