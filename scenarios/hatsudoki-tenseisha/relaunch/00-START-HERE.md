@@ -1,8 +1,8 @@
 # 発動機転生者・リランチ正本
 
 > **Authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-05 約08:00（Midway post-first-light-strike working clock）**
-> **Checkpoint:** ミッドウェー海戦翌朝。6/5 first-light third-suppression strike完了、Operation MI landing継続GO、6/6 first-light/morning landing window維持
+> **Canonical historical clock:** **1942-06-05 約18:00（Midway occupation-force approach working clock）**
+> **Checkpoint:** ミッドウェー海戦6/5夕刻。Occupation Forceは日中のPBY/sub/B-17妨害を突破して110–125 nmi W–WSWまで前進、6/6上陸GO維持
 > 旧 `current/`・`archive/` はpre-relaunch REFERENCE。
 > canonical clockより未来の議論は、その時点で開始済みのresearch / requirement / planning / forward-studyとしてのみ保持し、後年結果をactor knowledgeへ逆流させない。
 
@@ -114,37 +114,36 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**Main decision clock: 1942-06-05 約08:00。**
+**Main decision clock: 1942-06-05 約18:00。**
 
 CLOSED central:
-- Enterprise確保 / Hornet沈没。
-- Enterprise first-night survival forward audit。
-- 6/4午後Midway第二撃81機級。
-- CruDiv 7 night bombardment（203mm約480発central）。
-- **6/5 first-light third-suppression strike: 84機（昴24 / D3A30 / B5N30）。**
-- first-light strike後:
-  - local coherent fighter CAPなし
-  - heavy-aircraft normal runway operation unavailable through late morning / midday central
-  - primary SCR-270 / associated warning chain seriously disabled for the morning
-  - AA effective volume 6/4朝比35–45%級
-  - coast guns / infantry / mines / beach defenseは大半健在
-- **Operation MI landing CONTINUES — GO。**
-- **6/5即時上陸 NO GO。H-hourはoriginal 6/6 first-light / morning windowを維持。**
+- Enterprise確保 / Hornet沈没、Enterprise first-night survival forward audit。
+- 6/4午後Midway第二撃81機級、CruDiv 7夜間砲撃、6/5 first-light第三制圧撃84機級。
+- Operation MI landing継続GO、H-hourは6/6 first-light / morning。
+- **6/5 daylight Occupation Force approach completed.**
+  - 08:35級 PBYがTransport Groupを再発見・通報、1 PBY lost central
+  - US submarine 1 attack、effective hit 0
+  - emergency-repaired runwayからB-17 4機級攻撃、ship hit 0
+  - small SBD harassment、ship hit 0
+  - Transport Group major loss 0
+  - 18:00 Transport Group **110–125 nmi W–WSW**
+  - minesweeper / subchaser vanguard 60–80 nmi級
+  - Kondo / Kurita heavy-cover layersはnight assault positionへ移行
+- US submarine inner approach barrierは6–8 boats級。PT / mines / coast gunsも健在。
 
 次の論点:
-1. **6/5 daylight Occupation Force approach**
-   - transport / landing force advance
-   - minesweeper / subchaser / seaplane search
-   - US PBY / submarine harassment
-2. **Kondo 6/5 evening / night heavy-cover bombardment**
-   - Kongo / Hiei / CA / DD fire-support geometry
-   - surviving 5-inch / 7-inch coast guns / PT response
-3. **6/6 landing fire plan**
-   - Sand / Eastern simultaneous or staggered
-   - SNLF / Army allocation
-   - naval gunfire / carrier air support timing
+1. **6/5 evening/night Kondo heavy bombardment**
+   - Kongō / Hiei + CA group
+   - surviving 5-inch / 7-inch coast guns
+   - submarine / PT interference
+2. **final approach / minesweeping**
+   - transport halt lines
+   - landing-craft launch geometry
+   - reef / controlled water mines
+3. **6/6 H-hour fire plan**
+   - Eastern Island: Ichiki Detachment
+   - Sand Island: No.2 Combined SNLF
+   - carrier close air support / naval gunfire timing
 4. **Enterprise prize daylight logistics**
-   - fast-oiler rendezvous
-   - tow handoff
-   - submarine / air risk
+   - fast-oiler rendezvous / tow handoff / submarine risk
 
