@@ -5,7 +5,7 @@
 
 > **Navigation status:** current router
 > **Current authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-06T20:30:00-10:30**
+> **Canonical historical clock:** **1942-06-07T18:00:00-10:30**
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 
@@ -23,7 +23,7 @@
 
 ## 現checkpoint
 
-**1942-06-06 約20:30、Midway Atoll戦術的占領。**
+**1942-06-07 約18:00、Midway初期基地復旧。**
 
 - 赤城・加賀は航空作戦不能だが船体は生存し、自航退避中。
 - 蒼龍・飛龍・翔鶴・瑞鶴は健在。
@@ -34,21 +34,22 @@
 
 ## current frontier
 
-1942-06-06 約20:30。
+1942-06-07 約18:00。
 
 CLOSED central:
-- Eastern Island tactical capture ~13:15
-- Sand organized surrender ~19:25
-- **Midway Atoll tactical capture ~20:30**
-- Japanese landing casualties 1,330–1,660 KIA/WIA級
-- Saratogaは6/6 Pearl到着だが同日救援不可
-- organized PBY evacuationなし
-- Enterpriseを見せにMidwayへ戻すpropaganda towなし
+- Midway 6/6 tactical capture
+- 11th / 12th Construction Units surviving work force ~1,900–2,200
+- Eastern 3,500–4,000ft narrow fighter lane provisional-operational
+- first 4–6 Japanese fighters ashore
+- Sand fuel system badly damaged / sabotaged
+- US SCR-270 not restored to service
+- Enterprise: Shinkoku tow 2.8–3.2kt、list 20–22°、Chikuma released
+- Saratoga direct Midway reliefなし、US immediate offensive emphasisはsubmarines / PBY reconnaissance
 
 次は、
-1. Midway captured-base restoration
-2. US post-loss response / Saratoga disposition
-3. Enterprise prize daylight logistics
+1. 6/8–6/10 Midway self-defense transition
+2. Enterprise repair-team / Akashi rendezvous
+3. Saratoga / submarine / PBY US counteraction
 4. Akagi / Kaga / four-carrier post-MI disposition
 
 ## Authority / status規律
