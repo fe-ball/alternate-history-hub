@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-09-29"
+updated: "2026-09-30"
 
 scenarios:
   asai:
@@ -43,7 +43,7 @@ scenarios:
     title: "発動機転生者"
     status: active
     authority_version: "Relaunch R3"
-    canonical_clock: "1942-06-04T18:45:00-10:30"
+    canonical_clock: "1942-06-05T04:30:00-10:30"
     clock_state: "relaunch-r3; Midway night-bombardment side advanced to 1942-06-05 first light; Enterprise capture/Hornet sinking and Enterprise first-night survival CLOSED; 81-aircraft afternoon Midway second strike CLOSED; CruDiv7 night bombardment CLOSED; next gate exact four-carrier first-light third-suppression strike and landing go/no-go"
     frontier: "6/5 first light直前。CruDiv7夜間砲撃は203mm約480発centralでCLOSED、PT/shore torpedo-gun hit 0 central、Mogami/Mikuma collisionなし。Midwayはheavy-aircraft normal runway operation不能、radar partial/intermittent、AA further degradedだがcoast guns/ground defenseは大半健在。次は四健在空母からprize CAP/main-body CAP/searchを控除した75-95機級first-light third-suppression strikeを具体化し、Midway responseとlanding go/no-goを閉じる"
     repository: "fe-ball/alternate-history-hub"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-ledger-through-midway-afternoon-second-strike-and-enterprise-first-night-forward-audit-1942-06-04-1845-main-clock"
+    source_import: "relaunch-r3-continuity-ledger-through-midway-afternoon-second-strike-crudiv7-night-bombardment-and-enterprise-first-night-audit-1942-06-05-first-light"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
