@@ -2480,6 +2480,190 @@ Sand US defense:
   - dense mixed fighting reduces usefulness of Japanese ship / air fire
 - next gate: **14:00–night Sand Island reduction / Midway surrender-or-final-resistance decision**, while Eastern is swept / runway assessed and Japanese must decide how much fire support can still be used safely。
 
+#### 10.0V 6/6 14:00–20:30 Sand reduction / relief horizon — CLOSED central
+
+このphaseでは**Sand側から見た救援可能性**を戦闘判断へ明示的に入れる。
+「外から何時間で何が来るか」が、Shannon / Simard command groupの継戦・降伏判断を左右する。
+
+**US relief horizon at 14:00 — CLOSED assessment**
+
+1. **surface/carrier relief within the same day: none**
+- TF16 carrier power is gone: Enterprise is captured、Hornet sunk。
+- surviving TF16 cruisers/DD are damaged / survivor-laden and withdrawing east。彼らをJapanese four-carrier + Kondo surface forceの下へ戻すのは救援ではなく追加損失になる。
+- **Saratoga arrives Pearl Harbor on 6 June**。historically she did not depart until 7 June after refueling / preparation。
+- even if R3 orders immediate sortie, Pearl–Midway is a multi-day operational cycle once escort / fueling / approach under enemy carrier air is included。
+- more importantly、Saratoga would be the only available US carrier facing **four operational Japanese fleet carriers**。Nimitz does not commit her alone to a same-day relief attempt central。
+- Saratoga remains a **future relief / counteroffensive asset**, not a 6/6 Sand rescue asset。
+
+2. **Task Force ONE battleships: not an immediate relief force**
+- historical Nimitz deliberately kept TF1 battleships on the West Coast because they were slow、fuel-hungry、vulnerable、and would consume escorts needed for carrier striking power。
+- R3 catastrophic carrier losses do not teleport them to Midway by 6/6。
+- they are irrelevant to the next 24h Sand fight。
+
+3. **air relief from Hawaii: harassment yes, local air superiority no**
+- B-17 / PBY can reach the Midway area and continue search / bombing。
+- however Nimitz’ own battle report notes fighter / dive-bomber replacements on Oahu were scant and could not be gotten to Midway for the remainder of the historical battle。
+- with Eastern airfield captured / cratered and Sand lacking a fighter runway, even available short-range replacements have nowhere practical to operate。
+- therefore Hawaii can **attack Japanese shipping**, but cannot rebuild a local fighter umbrella over Sand on 6/6。
+
+4. **submarines: meaningful interdiction, not garrison relief**
+- 6–8 boats級 around the inner approach can sink / damage individual transports or escorts。
+- they cannot deliver battalions、37mm guns、ammunition、or evacuate a 1,000+ man garrison under battle conditions。
+- submarine success can delay Japanese consolidation but cannot reverse an already-established two-island landing central。
+
+5. **PBY evacuation**
+- airborne Catalinas are ordered **not to return to a collapsing Midway** and may divert to Laysan / Lisianski / Pearl as historically happened under attack。
+- this saves patrol crews / aircraft and preserves reconnaissance capability。
+- organized pickup of the Sand garrison is not feasible central:
+  - Eastern Island is Japanese-held。
+  - lagoon approaches are under Japanese floatplane / ship / boat observation。
+  - daylight PBY landing is suicidal。
+  - one night Catalina could physically extract a handful, but not enough to alter defense。
+- Shannon / Simard do not abandon the garrison for a 10–20-man command extraction central。
+- no organized PBY evacuation before surrender — CLOSED central。
+
+**actor knowledge consequence**
+- Sand command does not need to know every fleet track perfectly。
+- Pearl can tell them no friendly surface force is in immediate relief position。
+- Wake is a recent, direct precedent: US commanders know an island garrison can be ordered to surrender when relief / evacuation is unavailable and organized resistance is collapsing。
+- therefore Sand does **not** have a doctrinal requirement to fight to literal annihilation。
+
+**14:00–15:30 — Japanese methodical reduction**
+- Japanese SNLF effective ashore ~2,000、channel open、heavy weapon flow increasing。
+- 2–4 more AT / direct-fire guns、additional MG / mortars、engineer stores arrive。
+- exact Japanese tank total remains OPEN; central only needs **2–4 light vehicles/tanks operational in support**。
+- US one remaining mobile/static light-tank position is engaged by combined AT / infantry-gun / D3A-observed fire。
+- **15:10–15:30、US mobile light-tank capability fully ends**。one wreck/static turret may still fire briefly。
+- Japanese advance takes:
+  - seaplane-base service area
+  - southern / southeastern road network
+  - portions of radio / aviation support zone
+- US withdraws into central / northwest strongpoint belt。
+- casualties 14:00–15:30:
+  - Japanese **100–150**
+  - US **70–110**
+
+**facility denial by defenders**
+- Sand fuel / aviation installations had historical demolition preparation。
+- as Japanese approaches become irreversible、US command orders:
+  - remaining aviation gasoline / exposed fuel stores destroyed or fired where possible
+  - crypto / intelligence / air-warning documents destroyed
+  - sensitive radio / plotting equipment smashed
+- do not assume every underground store is perfectly destroyed。
+- Japanese capture useful physical infrastructure、but not a pristine operational base。
+
+**15:30 first surrender feeler — rejected**
+- Eastern loss and Japanese local numerical superiority are known。
+- Japanese side uses white flag / captured messenger / loudspeaker-grade local method to demand surrender central。
+- Shannon / Simard command group **rejects first demand**:
+  - defensive core still coherent
+  - relief status is bad but not yet tactically final
+  - continued resistance still inflicts delay and protects destruction of sensitive stores
+- Japanese do not respond with indiscriminate full-island battleship fire because own troops are deeply intermingled。
+
+**15:45–17:30 — core perimeter compressed**
+- Japanese uses:
+  - 70mm-class infantry guns
+  - 37mm direct fire / AT guns
+  - mortars / MG
+  - flamethrower / demolition teams
+  - light tanks / armored vehicles only on cleared lanes
+- carrier / naval fire shifts to **rear boxes / isolated guns / command-route junctions**, not mixed frontline。
+- US defenders use:
+  - surviving local 5-inch / 7-inch gun in direct / local-control role where geometry permits
+  - mortars / MG
+  - mines / wire
+  - aviation / service personnel as riflemen
+- Japanese take substantial additional casualties because bunkers and wire are still intact。
+- by **17:00–17:30**:
+  - Japanese controls most southern / central infrastructure
+  - US defense reduced to several mutually supporting northwest / command / coast-gun pockets
+  - telephone net largely gone
+  - ammunition still exists locally but distribution is poor
+- casualties 15:45–17:30:
+  - Japanese **140–210**
+  - US **100–150**
+
+**relief re-evaluation at ~17:30**
+- no friendly ships appear。
+- no US carrier CAP appears。
+- Pearl radio traffic cannot promise same-night relief。
+- Saratoga at Pearl is strategically important but tactically irrelevant to the next few hours。
+- submarine / B-17 attacks have failed to stop the invasion。
+- therefore “hold until fleet relief” ceases to be a realistic immediate objective。
+- remaining military value of resistance becomes:
+  1. inflict further Japanese casualties
+  2. finish destruction of classified / fuel / radio assets
+  3. buy time for airborne PBY / surviving aircraft already away to clear the area
+- once those are largely accomplished、continued resistance has sharply diminishing operational return。
+
+**17:30–19:00 — final organized defense**
+- Japanese pauses major rushes and isolates pockets rather than accepting another reef-style casualty spike。
+- one more local surrender demand / ceasefire contact occurs after command-area fire intensifies。
+- US command continues long enough to finish demolitions / casualty collection。
+- Japanese final push uses smoke / demolition / direct-fire guns。
+- by **18:30–19:00**:
+  - central command area under direct small-arms / mortar threat
+  - remaining coast-gun positions isolated
+  - no coherent counterattack reserve
+  - medical burden heavy
+- additional casualties:
+  - Japanese **100–160**
+  - US **80–130**
+
+**19:00–20:30 surrender / mop-up — CLOSED central**
+- Simard / Shannon command group reaches the same class of decision seen at Wake:
+  - no near-term relief
+  - no evacuation
+  - organized defense no longer able to alter operational outcome
+  - further resistance mainly kills wounded / isolated personnel
+- **19:15–19:35 central: order to cease organized resistance / surrender Sand Island**。
+- communications fragmentation means some positions do not receive / trust the order immediately。
+- isolated firing continues **20–40 min**。
+- **20:15–20:30: Sand Island tactically secured by Japan — CLOSED**。
+- no mass last-charge / collective suicide is imposed on US defenders。
+- exact POW total remains OPEN pending full personnel ledger。
+
+**final Sand loss band**
+- Japanese Sand assault cumulative 04:10–20:30:
+  - **900–1,100 KIA/WIA級**
+- Japanese Eastern cumulative:
+  - **430–560 KIA/WIA級**
+- total Japanese landing-force casualties through Midway capture:
+  - **1,330–1,660級**
+- US Sand killed/wounded cumulative:
+  - **480–620級**
+- US Eastern killed/wounded:
+  - **220–300級**
+- exact captured / escaped / airborne-diverted personnel remains OPEN and must be reconstructed from service / island distribution, not guessed from gross garrison totals。
+
+**Midway capture — CLOSED**
+- **Eastern tactical capture: ~13:15 6/6**
+- **Sand organized surrender: ~19:25 central**
+- **Midway Atoll tactically captured: ~20:30 6/6**
+- Japanese control does not mean immediate operational air base:
+  - runway cratered
+  - fuel system sabotaged / damaged
+  - radar / communications damaged
+  - Hokuriku Maru construction stores partly lost
+  - mines / UXO / wreckage / POW / wounded burden
+- next gate after capture is **base restoration + US counterstrike / relief response**, not instant Japanese fighter-base use。
+
+**Enterprise propaganda aside — REFERENCE / not operational**
+- towing captured Enterprise back toward Midway merely so defenders can see her is operationally irrational。
+- prize is slow、fragile、and already being moved away from the highest PBY / submarine / shore-fire concentration。
+- reversing course toward Midway would:
+  - add many hours / a day of tow exposure
+  - increase submarine interception probability
+  - risk the most valuable technical prize
+  - consume escorts needed elsewhere
+- therefore **no visual “Enterprise parade past Midway” — CLOSED NO**。
+- plausible propaganda alternatives after capture:
+  - Japanese open-radio claim that Enterprise has been captured
+  - later photographs / inspection reports
+  - public display only after the hull reaches a genuinely secure anchorage
+- Sand defenders would reasonably treat an unverified radio claim as psychological warfare until independent confirmation。
+
 #### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
 
 **18:45以後の追加dusk strike — NO GO, CLOSED**
