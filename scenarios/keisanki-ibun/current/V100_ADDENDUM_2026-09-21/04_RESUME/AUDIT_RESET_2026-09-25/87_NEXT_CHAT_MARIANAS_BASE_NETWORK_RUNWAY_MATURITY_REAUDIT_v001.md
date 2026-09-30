@@ -287,3 +287,26 @@ But **next chat priority is the Marianas air-base network first**.
 ## 11. Next-chat question
 
 > Reconstruct the full Japanese Marianas air-base network at SAI B-D+0 from historical Saipan/Tinian/Guam/Rota/Pagan facilities plus Branch-specific construction, engineer and logistics capacity. Close actual runway/strip counts, maturity level, flight use, support depth, dispersion, repair and abandonment/denial by field. Pay all construction opportunity costs. Do not change combat results yet. Then identify which existing 11–16 Jun air-loss / readiness results must be reopened once the site-specific network is known.
+
+---
+
+## 12. Copy-paste startup prompt
+
+> Branch B v100 remains authority and the canonical machine clock remains 1944-06-16T14:15. Do not promote post-14:15 WORKING events. Use `SAI B-D+n` for Branch Saipan elapsed time and `SAI H-D+n` for historical comparison; preserve source/WLD dates separately.
+>
+> Read file 87 first, then 86, 85, 84, 53, 50, 47, the 10-Jun Marianas air-defense state, the 30-Apr Army-Navy deployment, and the March Central-Pacific defense-network file. Do not advance combat yet.
+>
+> The immediate task is to rebuild the **entire Japanese Marianas air-base generation system at SAI B-D+0**, not merely to ask whether Marpi can fly fighters. Start from historical Saipan/Tinian/Guam/Rota/Pagan facilities, then compare with other Japanese island/base experience such as Rabaul, Truk, Peleliu/Iwo-class protected support practice where relevant, plus this Branch's own Santo/New Caledonia amphibious engineering, Attu counterlanding, earlier Marianas warning, extra engineers, delivered materials, better plant uptime, dispersal, road/communications, water-air and reception infrastructure. Separate historical fact, Branch-selected capability, and still-open inference.
+>
+> For every named field/strip/water-air node, close: physical runway/strip count and dimensions where known; construction/completion state; emergency vs fighter/recon vs normal attack use; taxi/parking/dispersal; fuel/ordnance; maintenance/engine/spares; power/radio; crater repair/drainage/plant; alternate recovery; evacuation and deliberate denial if abandoned. Pay engineer, material, transport, fuel and competing-fortification opportunity costs. Do not create free runways.
+>
+> Saipan must at least distinguish Aslito, Charan Kanoa, Marpi Point and Flores/Tanapag. Do not backdate U.S. Kagman/East Field unless Japanese work is independently traced. Marpi is REOPEN: determine M0/M1/M2/M3 from dated Branch construction capacity rather than copying either the historical unfinished state or assuming a full second Aslito. Tinian and Guam must likewise be closed field-by-field instead of treated as one-airfield islands; Rota/Pagan remain emergency/dispersal/relay unless evidence supports more.
+>
+> Aircraft accounting guard: **more runway does not create more already-closed elite airframes or elite crews.** Ki-84 / Branch-improved top-end types, Shiden-Kai and other capped high-end allocations stay capped unless a dated production/allocation source changes them. However, if real regional pools exist, additional ordinary/upper-middle aircraft may be stationed forward; more importantly, extra bases can reduce concentration losses, forced-writeoffs and pilot loss, improve diversion/recovery/repair/ferry, and increase U.S. target-allocation burden.
+>
+> Current 11–16 Jun files already give abstract credit for dispersal, revetments, warning, runway repair and inter-island ferry. Do **not** stack a new base-network bonus on top. Once the site-specific base board is closed, identify which old abstraction it replaces. Only then mark which pre-invasion strike, ground-loss, forced-landing, repair-return and MR results must be reopened. Do not numerically replay them in the first pass unless the base audit itself is complete.
+>
+> Keep the local-craft / thick-counterlanding line open in parallel but secondary for this session. Its finite B-D+0→B-D+5 craft roll-forward remains unresolved; do not let it distract from the first priority, which is Marianas aviation-base capacity.
+>
+> Deliverables for this first pass: (1) historical field/base inventory by island, (2) Branch construction delta and paid opportunity costs, (3) field-by-field SAI B-D+0 maturity/status board, (4) estimated system-level effects on sortie generation / dispersal / recovery without yet changing combat, and (5) a precise reopen list for the 11–16 Jun aviation chronology.
+
