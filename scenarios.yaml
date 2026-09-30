@@ -43,9 +43,9 @@ scenarios:
     title: "発動機転生者"
     status: active
     authority_version: "Relaunch R3"
-    canonical_clock: "1942-06-05T18:00:00-10:30"
-    clock_state: "relaunch-r3; Midway advanced through 1942-06-05 18:00; Enterprise capture/Hornet sinking and prize first-night survival CLOSED; 6/4 afternoon strike, CruDiv7 night bombardment, 6/5 first-light suppression, and occupation-force daylight approach CLOSED; Operation MI landing remains GO for 6/6 first-light/morning; next gate Kondo heavy bombardment, final approach/minesweeping, and landing fire plan"
-    frontier: "1942-06-05 18:00級。Occupation Forceは08:35級PBY contact後、US submarine 1 attack・B-17 4機級・small SBD harassmentを受けるがmajor ship loss 0 central。Transport Groupは110-125 nmi W-WSW、minesweeper/subchaser vanguardは60-80 nmi級まで前進。US submarine inner barrier 6-8隻級、PT/mines/coast gunsは健在。次はKongo/Hiei+CAによるevening/night heavy bombardment、final approach/minesweeping、6/6 Eastern/Sand landing fire planを閉じる"
+    canonical_clock: "1942-06-06T08:00:00-10:30"
+    clock_state: "relaunch-r3; Midway advanced through 1942-06-06 08:00; Kondo heavy bombardment/final approach and first beach battle CLOSED central; Japanese beachheads established on Eastern and Sand but neither island captured; next gate 08:00-14:00 reinforcement race, heavy-weapon landing, US counterattacks, and airfield/interior fights"
+    frontier: "1942-06-06 08:00級。夜間heavy bombardment後にmain assault landed 04:10-04:30。Easternはeffective ashore 850-1000 / Japanese casualties 220-300級、Sandは950-1100 / casualties 280-380級で両島に橋頭堡成立、ただし未占領。Sand Stuartは3 mobile。Daihatsu/assault craft 6-10 unusable。次は08:00-14:00 reinforcement raceとしてreef/channel clearance、AT guns/tanks/heavy MG/artillery landing、US counterattack、Eastern airfield fight / Sand interior fightを閉じる"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-ledger-through-midway-occupation-force-daylight-approach-1942-06-05-1800"
+    source_import: "relaunch-r3-continuity-ledger-through-midway-first-beachhead-battle-1942-06-06-0800"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
