@@ -4,61 +4,101 @@ Status: NAVIGATION-ONLY / SOURCE-BOUND ROLLUP / NO CANON PROMOTION
 
 ## 現在地
 
-対象は scenarios/asai の中国戦継続軸（V24 → V25 → V26 → POST-V26 WORKING）。asai-china-war-v24-v26-post-v26 はナビゲーション識別子で、Git branch名や新しい歴史決定ではない。
+対象は scenarios/asai の中国戦継続軸（V24 → V25 → V26 → POST-V26 WORKING）。
 
-**正本はV26、正本時計は1941-12-07 14:30 HST（当時のUTC−10:30）。正本時計そのものは進めない。**
-日米戦は開戦済み、中国戦は継続、日ソ戦はV25の非開戦状態を継承し、後続で開戦を指定した記録はない。
+**正本はV26、正本時計は1941-12-07 14:30 HSTのまま。**
+日米戦は開戦済み、中国戦は継続、日ソ戦はV25の非開戦状態を継承する。
 
-一方、POST-V26 WORKINGでは戦役ごとのreplay-local時計を用いており、最新の議論frontierは **1942-04-16夕刻のMO枝** まで進んでいる。これは全世界時計でもCANON promotionでもない。
+POST-V26 WORKINGのreplay-local frontierは、現在 **1942-04-30夕刻のCoral Sea carrier-contact gate** まで進んでいる。これは全世界時計でもCANON promotionでもない。
 
-## 実際の作業の流れ
+最新の実作業原文は：
+- V26:13 = MO水上戦 / Port Moresby攻略 / 基地航空再生 / 4月30日carrier-contact handoff
+- V26:14 = そのWORKING decision register
 
-真珠湾・Enterprise → 南方作戦局所監査 → Wake第一次・第二次とSaratoga戦 → 1941航空輸送WORKING-CLOSE → AT-3技術再監査 → 第一次インド洋作戦と西方基地航空・水雷艇需要 → Doolittle型空襲の実行条件 → 前倒しMOのTulagi / Coral Sea / Port Moresby進入replay。
+## 直近までに処理したこと
 
-最新の大きなWORKING状態は V26:12 にまとめた。
+V26:12の「4月16日夕刻以後のCrace型水上戦」は処理済み。
 
-- 第一次インド洋作戦は当面一区切り。
-- Doolittle型作戦は構想・訓練を残すが、歴史日付へ自動固定しない。
-- MOは4月8日級Tulagiから開始するreplay-local枝。
-- 4月9～16日の空母戦・基地航空・China Strait進入をWORKINGで進めた。
-- 4月16夕刻時点でSaratogaとYorktownはMOから事実上排除方向、Shokakuも航空運用不能、Zuikaku / Shoho / Rabaul-Lae航空とMO船団はまだ作戦を継続。
-- 次の決定点はCrace型連合軍水上部隊と日本輸送船団護衛の水上接触。
+その後の中央WORKINGは：
 
-## いま再開する論点
+1. 4月16日夕刻、水上接触で日本側護衛がMO輸送船団への突破を阻止。
+2. 4月17日Taurama主上陸。
+3. 4月18日Kila Kila占領。
+4. 4月19日Seven Mile占領。
+5. 4月20日Port Moresby市街 / Paga Hill占領。
+6. 4月21日以降、Kila / Seven Mile / Fairfax Harbourを段階復旧。
+7. 4月22–25日、連合軍阻止爆撃は基地化を遅らせるが停止させず。
+8. 一式水戦をFairfax泊地CAPへ、A6Mを主CAP、E6 Twinを外周高速層、E6 Singleを4月末の高空迎撃増援として分業。
+9. 4月29–30日、Lexington級米空母群の概略datumを日本側が得る中央線。
+10. 4月30日夕刻でcarrier-contact gateに停止。
 
-**1942-04-16夕刻以後のMO水上戦。**
+## 重要な修正
 
-ただし、次回は戦闘結果を先に置かない。
+### 艦砲射撃
 
-最初に以下を監査する：
+Kila Kila以後もKinugasa/Furutakaの20.3cm艦砲射撃は終了しない。
+Seven Mileや道路・砲兵・通信・燃料などの登録目標への準備/阻止射撃として継続可能。
+味方歩兵と敵歩兵が近接する部分では75mm山砲へ比重を移す。
 
-1. 日本側の実際の護衛OOB（Yubari、駆逐艦、CruDiv 6から何隻がどこにいるか、Shoho損傷後の速度・航空運用）。
-2. 連合軍Crace型部隊のこの早い4月時点の実際の集中可能艦。
-3. 九三式魚雷の艦別発射管・再装填・射撃指揮。
-4. 艦別FCS、夜間光学、通信、電探の有無。
-5. 損傷・弾薬・燃料・乗員疲労。
-6. 月齢・視程・天候・海況。
-7. 輸送船団の位置、速度、隊形と、護衛が船団からどこまで離脱できるか。
+### 一式水戦
 
-九三式については現行技術正本を確認済み。弾体性能はほぼ史実どおりで、世界線差は発射・再装填・FCS・夜間光学/通信・編隊同期の統合側。15 kmを約9.7分、20 kmを約13分で走るため、長距離では目標の針路・速力誤差が支配的。
+MO局地には既存の一式水上戦闘機枠がある。
+Fairfaxへ少数を移し、泊地・輸送船団の低空局地CAPを担当する。
+F1MはCAPから解放し、観測・近海哨戒・連絡へ戻す。
 
-**連合軍が1942年4月に九三式の長射程挙動を正しく理解していたとは未確定。** 次回、偶然の変針で雷撃線を外した場合は、明示的な魚雷発見・情報・戦訓がない限り「九三式を理解して意図的に回避」としない。
+### E6 Single
 
-日本側の発射後変針も、「撃っていないように見せる」より、自艦安全、編隊整理、自軍魚雷航跡との干渉回避、再装填・次斉射・砲戦位置、敵雷撃回避、船団保護を優先する。具体的変針は接触時の方位・発射角・隊形から計算する。
+E6 Singleは技術候補ではなく既存のservice-production interceptor/high-cover line。
+ただしRabaul過去配備を遡及捏造せず、4月21–22日に6機級の転用を決定し、29日中央値でSeven Mileにphysical 4 / serviceable-combat-present 3級とするWORKING。
 
-## 根拠と次の読み順
+### GT燃料
 
-ファイル番号は ACTIVE-STATE.json の sources で解決する。
+**「E6用の専用ケロシン物流」扱いは撤回。**
 
-まず：
-- V26:12 = 最新POST-V26 WORKING handoff（西方 / Doolittle / early MO / surface-next-gate）
-- V26:07 = Wake / Saratoga / carrier repair and regeneration
-- V26:05 = Enterprise / Southern / first Wake provenance
-- V26:08–11 = airlift / AT-3 technical work
+現行V16技術正本は、GT利用を独立したjet-fuel islandではなく、軍用中質油プールの品質別運用としている。
 
-水上戦技術は次に：
-- 85-CURRENT-2026-09-12-NAVAL-CRP-CONSOLIDATION-V17/06-SURFACE-TYPE93-EMPLOYMENT-AND-SHIP-INTEGRATION-CLOSEOUT-V1.md
-- 71-CURRENT-TECHNICAL-CONTROL-V9/04-NAVAL-COMPUTATION-FCS-INTEGRATION-CLOSURE-V9.md
-- 71-CURRENT-TECHNICAL-CONTROL-V9/07-NAVAL-FCS-CLASS-CLOSEOUT-V9.md
+- Grade A: 航空GT向け高品質中質油
+- Grade B: 標準軍用中質油、条件付き/derated航空GT運用を含む
+- Grade C: より寛容な地上・定置・一部舶用
 
-この要約と原記録が食い違ったら、同軸の更新を調べる。旧枝・別シナリオの未来時刻で解決しない。
+前進基地では：
+中質油在庫 → 水/塩/夾雑物等の処理・品質確認 → 許容rating決定 → sortie release
+とする。
+
+Grade Aがない = E6が飛べない、ではない。
+
+## 次のチャットのPRIMARY NEXT
+
+**コア寿命 × 燃料品質 × 出力/rating の相互トレードオフ再整理。**
+
+E5/E6 J・JFについて、
+
+- 標準ratingでのscheduled removal / core-life基準
+- Grade A/B/Cや実際の燃料性状による許容温度・rating
+- transient/high-power許可
+- soot/coking/hot-corrosion
+- inspection interval
+- cumulative life debit
+- selected-Ni高温ratingの寿命コスト
+- 新占領基地での最低限fuel-treatment / inspection package
+- 「燃やせる」「通常rating可」「deratedのみ」「飛行不可だが地上用途可」の区分
+
+を一つの運用モデルに統合する。
+
+最終的に
+**fuel class × permitted rating × inspection penalty × core-life consequence × mission use**
+の表を閉じる。
+
+この技術gateを閉じた後で、1942-05-01級のLexington vs Zuikaku + Port Moresby/Rabaul基地航空のcarrier-contact replayへ戻る。
+
+## 優先して読む原文
+
+1. V26:13
+2. V26:14
+3. V26:12（親MO枝）
+4. current technical:
+   - V16 AIRPOWER SUSTAINMENT / TRAINING / AIRFIELD closeout
+   - V16 MIDDLE-DISTILLATE / DIESEL / GT FUEL-INDUSTRY closeout
+   - E6 engine / Single / Twin technical closeouts
+
+このrollupと原記録が食い違った場合は、同軸のより新しい明示的handoff/registerを優先し、旧枝・別シナリオの未来時刻で解決しない。
