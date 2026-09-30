@@ -43,9 +43,9 @@ scenarios:
     title: "発動機転生者"
     status: active
     authority_version: "Relaunch R3"
-    canonical_clock: "1942-06-06T20:30:00-10:30"
-    clock_state: "relaunch-r3; Midway advanced through 1942-06-06 20:30; Eastern captured ~13:15, Sand organized surrender ~19:25, Midway Atoll tactically secured ~20:30 CLOSED; no same-day US relief and no organized PBY evacuation central; next gate captured-base restoration, US post-loss response, Enterprise prize daylight logistics, and damaged-carrier/four-carrier disposition"
-    frontier: "1942-06-06 20:30級。Easternは~13:15 tactical capture、Sandは14時以後のmethodical reduction後19:15-19:35級にorganized surrender、20:15-20:30級にJapanese tactical secure。Midway Atoll tactical capture CLOSED。Saratogaは6/6 Pearl到着だが同日救援不可、PBY organized evacuationなしcentral。次はrunway/fuel/radar/UXOを含むcaptured-base restoration、US post-loss response、Enterprise prize daylight tow logistics、Akagi/Kaga/four-carrier dispositionを閉じる"
+    canonical_clock: "1942-06-07T18:00:00-10:30"
+    clock_state: "relaunch-r3; advanced through 1942-06-07 18:00; Midway captured and initial fighter-strip restoration CLOSED central; Enterprise prize tow caught up through 6/6 20:30 with Shinkoku primary tow and Chikuma released; US immediate response keeps Saratoga from direct relief and shifts emphasis to submarines/recon; next gate 6/8-6/10 Midway self-defense transition, Enterprise repair rendezvous, and post-MI fleet disposition"
+    frontier: "1942-06-07 18:00級。Midway占領後、Easternの5,300ft runway上に3,500-4,000ft narrow fighter laneを仮復旧し最初の4-6 fightersが着陸。Sand fuel systemは破壊/サボタージュでcaptured fuel未使用、SCR-270は operational復旧せず、seaplane searchは再開。EnterpriseはShinkoku primary tow 2.8-3.2kt、list 20-22度、Chikuma解放済み。Saratoga direct reliefなし、US immediate interdictionはsubmarines中心。次は6/8-6/10 base self-defense、Enterprise repair rendezvous、US counteraction、post-MI fleet disposition"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-ledger-through-midway-first-beachhead-battle-1942-06-06-0800"
+    source_import: "relaunch-r3-continuity-ledger-through-midway-initial-base-restoration-and-enterprise-tow-catchup-1942-06-07-1800"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
