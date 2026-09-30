@@ -1624,6 +1624,152 @@ personnel:
 - landing defense: essentially intact
 
 次gateは**6/5 first-light carrier strikeのexact package / target allocation / loss / Midway response**。
+#### 10.0Q 6/5 first-light third-suppression strike — CLOSED central
+
+**overnight Japanese aviation recovery**
+- 6/4 18:45 immediate serviceableは約192機central。
+- 四健在甲板でnight maintenance / cross-deck redistributionを実施。
+- overnight repair return **10–15機級**、同時にinspection hold / new defectも出るため、04:30 physical serviceableを**200–205級、central 203**とする。
+- prize側へfighter CAP **10–12**、main-body CAP / immediate reserve **30–36**、search / ASW / liaison **10–15**を控除。
+- attack aircraftを全部出すのではなく、crew fatigue / deck cycleを残す。
+
+**strike package — CLOSED**
+- total **84 aircraft**
+  - 昴零戦 **24**
+  - D3A **30**
+  - B5N **30**
+- launch **04:50–05:05**。
+- working carrier–Midway range **150–175 nmi級**。
+- attack over target **05:55–06:15**。
+- recovery **07:10–07:45**。
+- fighter 24はescortを主務とし、fighter oppositionが崩れた後のみAA / parked aircraft strafingへ移る。
+- D3Aはradar / AA / command / service installationsへのprecision attack。
+- B5Nはrunway / taxi / fuel-service / hangar areaへのlevel / shallow attack。anti-ship torpedo loadをMidwayへ持ち込まない。
+
+**Midway early-warning / aircraft state**
+- 史実6/4、SCR-270は日本strikeを93 milesで捕捉した。
+- R3では午後第二撃 + night bombardmentでpower / telephone / plotting chainが損傷し、first lightは**partial / intermittent radar**。
+- central first detection **50–65 nmi級、05:40–05:48**。warning **12–18分級**。
+- coherent Marine fighter unitは既に存在しない。
+- ただしEnterprise/HornetからdivertしたF4F / SBDとVMSB survivorの一部は残る。
+- runway damage下でfirst warningから実際にclearできるlight aircraftを:
+  - F4F **3–4機**
+  - SBD / SB2U / carrier-divert SBD **6–9機**
+  とするcentral band。
+- fightersはintercept、bombersはfield-clear / eastward orbitを優先。重爆・多数機を短時間に離陸させる能力はない。
+
+**B-17 / PBY**
+- 史実6/5は12 B-17が0430に離陸できたが、R3ではheavy-aircraft normal runway operationがnight shelling後も閉じている。
+- 6/4夕刻に戻った / 到着したB-17群のうち**10–12機級が島に存在、8–10機級combat-capableだがgrounded**をcentralとする。
+- これはJapanese strikeにとって高価値fixed targets。
+- PBYはlagoon operationなのでrunwayとは別。前夜のsearch / fatigue / fuel-handling damageを考慮し、**6–10 PBY級が04時台までにsearchへ離水済み**をcentral。
+- PBY airborne poolを地上攻撃で消さない。
+
+**05:55–06:15 air combat**
+- Midway側fighter interceptは3–4機級。
+- 昴24機escortに対し局地的surprise / head-on chanceはあるが、coherent fighter direction / numbersが不足。
+- central:
+  - US fighters: **2 shot down / 1 damaged-forced-off / 0–1 survives operationally**
+  - Japanese fighters: **0 lost central、0–1 band**
+- Japanese fightersは低空strifeへ全機を降ろさず、D3A/B5N escortを維持。
+
+**AA**
+- 6/4朝、日本strike 108機は11 loss + 14 severe damageを出し、AAが主要損害源だった。
+- R3 first lightでは午後air strike + night shellingでAA effective volumeは朝の**50–60%級 central**まで低下。
+- coast-defense gunsはほぼ残るが、air-defense fire-control / communication / exposed AA positionsが摩耗。
+- Japanese attack still pays:
+  - non-return **4機 central**（band 3–6）
+  - return but same-day unserviceable **7–10機級**
+- loss mix central: 0–1 fighter、2 D3A、1–2 B5N。
+
+**target allocation / result — CLOSED central**
+
+1. **Eastern Island runway / taxi / heavy-aircraft apron**
+   - B5N **16–18機** + D3A follow-up。
+   - additional significant crater / blast obstruction **12–18級**。
+   - repair equipment / graders / fuel drums / servicing vehiclesも狙う。
+   - **heavy-aircraft normal operation remains CLOSED through at least late morning / midday**。
+   - emergency light-aircraft stripは完全消滅させず、単機・少数離着陸余地を残す。
+
+2. **B-17 concentration**
+   - runway脇 / dispersalの10–12機級から、
+     - **2 destroyed**
+     - **3–4 damaged**
+     - 4–6 survive physically but remain grounded / servicing-delayed
+     central。
+   - all B-17 destroyedにはしない。
+
+3. **radar / plotting / communications**
+   - D3A **6–8機級**をvisible radar / plotting / generator / radio zoneへ。
+   - **SCR-270 primary set / antenna or associated power-feed is seriously disabled — CLOSED central**。
+   - early-warning radarは**remainder of morning unavailable / highly unreliable**。
+   - field telephone / plotting chainにも追加断線。
+   - human visual / PBY report / radio warningは残る。
+
+4. **AA / searchlight**
+   - D3A **12–14機級** + fighter strafing。
+   - additional **4–6 gun/searchlight positions destroyed or mission-killed**。
+   - first-light strike後のeffective heavy/medium AA volumeは6/4朝の**35–45%級**。
+   - 5-inch / 7-inch coast gunsをair strikeだけで全滅させない。
+
+5. **parked / servicing aircraft**
+   - radar warningで6–13 light aircraftがfield clearする一方、damaged / unfueled / newly-diverted machinesは残る。
+   - additional **8–12 aircraft destroyed、6–10 damaged**。
+   - carrier-divert SBD / F4F、Marine remnants、service aircraftが主。
+   - PBY airborne search groupは含まない。
+
+6. **fuel / servicing**
+   - 既存gasoline-system damageへ追加。
+   - 55-gallon drum / hand-pump workaroundは継続可能だが、**sortie-generation throughputは極めて低い**。
+   - underground / bulk reserveを全焼させるcentralにはしない。
+
+**06:15–07:00 Midway immediate state**
+- local coherent fighter CAP: **none**。
+- emergency flyable light aircraft: **数機級**。
+- B-17: majority grounded / damaged / runway-blocked。
+- PBY: airborne search elements survive。
+- radar: primary warning capability down for morning。
+- AA: dangerous but less dense。
+- coast guns / infantry / beach defense: still largely intact。
+- runway: light emergency use only、heavy normal operations unavailable。
+
+**Japanese recovery**
+- 84 launch → non-return 4 central。
+- damaged return 7–10。
+- 07:45級回収後のfour-carrier immediate serviceable: **185–195級 central**。
+- fighters remain comparatively healthy; D3A crews / aircraft now tired。
+- 6/5にもう一度100機級airfield strikeを午前中すぐ反復するのはcrew / aircraft fatigueに対し利益が小さい。
+- next suppression should increasingly shift tosurface bombardment / landing-support fires。
+
+**landing go/no-go — CLOSED decision**
+- 日本側のoriginal occupation dateは**6 June**。
+- first-light strike成功は「6/5朝に予定を前倒して即上陸」する理由ではない。
+- Midway ground defenseは:
+  - coast artillery mostly intact
+  - infantry / Raider / engineer defenses intact
+  - PT 9–10級 usable
+  - mine / obstacle system intact
+  であり、airbase suppression ≠ landing defense collapse。
+- 一方、US carrier threatは消滅し、Midway aviation / radarは大幅に抑制されている。
+- よってdecision:
+  - **Operation MI landing CONTINUES — GO**
+  - **H-hour remains 6/6 first-light / morning window — CLOSED central**
+  - **6/5 immediate landing NO GO**
+- 6/5 daylightはTransport / Landing Forceを段階的に前進、minesweeper / subchaser / seaplane searchを先行。
+- 6/5 evening–nightにKondo heavy-cover bombardment / close-support fireを実施し、6/6 landing直前に最後のshore-defense suppressionを行う。
+
+**operational result**
+- 日本側はMidwayを「無抵抗の島」にしていない。
+- しかし6/5朝時点で、
+  - carrier air threat = eliminated
+  - local fighter defense = eliminated
+  - heavy bomber sortie generation = suppressed
+  - radar early warning = temporarily knocked out
+  - AA density = greatly reduced
+  - coast / ground defense = still strong
+  という、**上陸作戦へ移行できるが艦砲支援なしでは危険**な状態を作った。
+- 次gateは**6/5 daylight Occupation Force approach / US PBY-submarine harassment / Kondo evening bombardment / 6/6 landing fire plan**。
+
 #### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
 
 **18:45以後の追加dusk strike — NO GO, CLOSED**
@@ -1663,20 +1809,10 @@ personnel:
 - ただし日本側targetはdamaged carrierではなく、CruDiv7 bombardment group / support forceへ変わる。
 - PT / remaining SBD-SB2U / PBYによるnight counterattackは次の砲撃simulationへ入れる。
 
-**6/5 dawn carrier strike — GO planning**
-- 四健在carrierは一夜でdeck / aircraft assignmentを整理する。
-- prize protectionへdawn CAP **12–16 fighters級**を差し引く。
-- main-body CAP / search / reserveも必要なので、「残存全機をMidwayへ一斉投入」はしない。
-- 午後第二撃をすでに実施したため、翌朝は同じ規模を自動再生成しない。
-- **75–95 aircraft級 third-suppression strikeをplanning band**として置く。
-- exact splitはnight bombardment後のMidway damage / overnight repair / prize CAP控除を見て閉じる。
-- mission priority:
-  1. Eastern Island runway / taxi / revetment
-  2. radar / plotting / command
-  3. AA / coast defense positions
-  4. remaining B-17 / SBD / PBY service / fueling infrastructure
-  5. Sand Island radio / fuel / support
-- 「島を瓦礫化」ではなく、**landing dayに米航空反撃を継続できない状態へ落とす**ことを目的とする。
+**6/5 first-light carrier strike — CLOSED in 10.0Q**
+- 84機（昴24 / D3A30 / B5N30）を04:50–05:05発進。
+- Midwayのheavy-aircraft runway operation、radar、AA、parked aircraftへ第三のsuppression cycleを実施。
+- Operation MI landingは継続GO。ただし6/5即上陸へは前倒しせず、original 6/6 windowを維持。
 
 **Occupation Force**
 - 米carrier threatが消えたため、Kondo / Occupation Forceを史実のように全面退避させる理由はない。
