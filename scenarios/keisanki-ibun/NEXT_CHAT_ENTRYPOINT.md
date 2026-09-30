@@ -27,7 +27,8 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/78_20JUN_SAIPAN_SUPPORT_IMPERIAL_STRATEGY_AUDIT_WORKING_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/79_MARIANAS_KON_THICK_REINFORCEMENT_ALTERNATIVE_WORKING_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/78_20JUN_SAIPAN_SUPPORT_IMPERIAL_STRATEGY_AUDIT_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/77_20JUN_SAIPAN_FIELD_BATTLE_BOMBARDMENT_BRACKET_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/76_20JUN_ISLAND_HISTORICAL_ANALOG_VALIDATION_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/75_20JUN_MARIANAS_ISLAND_NIGHT_AIR_REAUDIT_WORKING_v001.md`
@@ -51,7 +52,10 @@ Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
 
 Current task:
-- **file 78 is the latest WORKING strategic audit of the 20/21-Jun support operation. It judges the current operation CONDITIONALLY SUITABLE as a one-shot bounded intervention, not a repeatable sustainment doctrine. File 77 controls the field-battle bracket; file 76 validates island-side participation; files 72–75 retain their selected event results.**
+- **file 79 is the latest ALTERNATIVE FORK CANDIDATE. It does not replace files 71–78. It tests whether the current DD7+Nisshin lift is under-scaled relative to the fleet commitment, using a KON-derived Army-Navy fast reinforcement concept.**
+- file-79 center question: if dated 13–17 Jun diversion of KON-type transport assets / Army payload is physically possible, test a fast joint reinforcement on the order of ~2,000–3,500 personnel plus heavy/specialist cargo, using Nisshin + one Chitose/Chiyoda and traceable cruiser/minelayer/landing-ship lift, rather than a slow 5,000–10,000+ convoy;
+- file-79 is explicitly NOT selected yet. Next audit must close the named KON assets / troop payload / Chitose-Chiyoda locations / Tanapag-Garapan usability / dusk fighter cover before replacing the current line;
+- file 78 remains the controlling strategic judgment for the selected current line until that audit closes.
 - carry file-78 doctrine: success criterion = delay U.S. Saipan/Aslito operational conversion, preserve Japanese denial / artillery / signals / repair function, impose U.S. tasking and attrition, while preserving the main fleet; no automatic 21/22-Jun repeat;
 - file-78 principal optimization: use the return leg for selective evacuation of movable serious wounded, stranded aircrew, scarce technical specialists and high-value documents where it does not materially extend station time; exact evacuation count remains OPEN;
 - carry stop rules: Nisshin only on proven corridor, cut transfer before a general fleet battle, heavy line does not pursue after delivery, no fleet exposure to save a crippled DD, every repeat attempt requires a new fuel/DD/ground-value/daylight-risk calculation;
