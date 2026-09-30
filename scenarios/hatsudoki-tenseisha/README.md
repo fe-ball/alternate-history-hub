@@ -5,7 +5,7 @@
 
 > **Navigation status:** current router
 > **Current authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-07T18:00:00-10:30**
+> **Canonical historical clock:** **1942-06-10T18:00:00-10:30**
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 
@@ -23,7 +23,7 @@
 
 ## 現checkpoint
 
-**1942-06-07 約18:00、Midway初期基地復旧。**
+**1942-06-10 約18:00、Midway限定自衛基地化・Enterprise本格salvage。**
 
 - 赤城・加賀は航空作戦不能だが船体は生存し、自航退避中。
 - 蒼龍・飛龍・翔鶴・瑞鶴は健在。
@@ -34,23 +34,24 @@
 
 ## current frontier
 
-1942-06-07 約18:00。
+1942-06-10 約18:00。
 
 CLOSED central:
-- Midway 6/6 tactical capture
-- 11th / 12th Construction Units surviving work force ~1,900–2,200
-- Eastern 3,500–4,000ft narrow fighter lane provisional-operational
-- first 4–6 Japanese fighters ashore
-- Sand fuel system badly damaged / sabotaged
-- US SCR-270 not restored to service
-- Enterprise: Shinkoku tow 2.8–3.2kt、list 20–22°、Chikuma released
-- Saratoga direct Midway reliefなし、US immediate offensive emphasisはsubmarines / PBY reconnaissance
+- Midway shore fighters 21–24、B5N 4–6、水偵search、no operational radar
+- Midway = limited self-defending forward fighter base
+- Keiyo Maru: 6/8 submarine torpedo hit、survives / withdraws
+- carrier cover = 2+2 split。Soryu/Hiryu forward、Shokaku/Zuikaku westward central
+- Enterprise = Akashi technical support下、list 16–18°、Shinkoku tow 3.5–4.0kt
+- 6/9 PBYがUS carrier hull under towを独立確認
+- Saratoga direct Midway counterattackなし
+- transport spelling = Hokuroku Maru
 
 次は、
-1. 6/8–6/10 Midway self-defense transition
-2. Enterprise repair-team / Akashi rendezvous
-3. Saratoga / submarine / PBY US counteraction
-4. Akagi / Kaga / four-carrier post-MI disposition
+1. 6/11–6/15 Midway base maturation
+2. Enterprise Wake-axis salvage / submarine risk
+3. Akagi / Kaga withdrawal
+4. Saratoga / Wasp / submarine / PBY US response
+5. Enterprise capture写真・外電公表 timing
 
 ## Authority / status規律
 
