@@ -27,7 +27,8 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/77_20JUN_SAIPAN_FIELD_BATTLE_BOMBARDMENT_BRACKET_WORKING_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/78_20JUN_SAIPAN_SUPPORT_IMPERIAL_STRATEGY_AUDIT_WORKING_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/77_20JUN_SAIPAN_FIELD_BATTLE_BOMBARDMENT_BRACKET_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/76_20JUN_ISLAND_HISTORICAL_ANALOG_VALIDATION_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/75_20JUN_MARIANAS_ISLAND_NIGHT_AIR_REAUDIT_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/74_20JUN_NIGHT_HIT_PROBABILITY_RADAR_MOON_MISSION_AUDIT_WORKING_v001.md`
@@ -50,7 +51,10 @@ Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
 
 Current task:
-- **file 77 is the latest WORKING Saipan field-battle close around the 20-Jun bombardment. File 76 validates island-side participation; file 75 controls island/night-air workload; file 74 hit/radar/moon interpretation; files 72–73 the selected surface event realization.**
+- **file 78 is the latest WORKING strategic audit of the 20/21-Jun support operation. It judges the current operation CONDITIONALLY SUITABLE as a one-shot bounded intervention, not a repeatable sustainment doctrine. File 77 controls the field-battle bracket; file 76 validates island-side participation; files 72–75 retain their selected event results.**
+- carry file-78 doctrine: success criterion = delay U.S. Saipan/Aslito operational conversion, preserve Japanese denial / artillery / signals / repair function, impose U.S. tasking and attrition, while preserving the main fleet; no automatic 21/22-Jun repeat;
+- file-78 principal optimization: use the return leg for selective evacuation of movable serious wounded, stranded aircrew, scarce technical specialists and high-value documents where it does not materially extend station time; exact evacuation count remains OPEN;
+- carry stop rules: Nisshin only on proven corridor, cut transfer before a general fleet battle, heavy line does not pursue after delivery, no fleet exposure to save a crippled DD, every repeat attempt requires a new fuel/DD/ground-value/daylight-risk calculation;
 - carry file-77 ground state: by late 20 Jun U.S. physically holds most west/central Aslito while Japanese east/southeast observed fire survives; 9th Tank Regiment MR 17–22 pre-bombardment, commits 4–6 vehicles in small cells, loses/mission-kills 1–3, ~15–20 MR by 21:30; peak Japanese ground recovery is 1–3 exposed positions / 50–200 m micro-sector, no Aslito recapture;
 - carry file-77 casualty boundaries: pre-bombardment 16:30–18:15 U.S. 60–110 / Japan 45–85 physical; Japanese own-side naval-bombardment fringe 10–25; all post-18:35 U.S./Japanese exploitation casualties remain controlled by file 70 and are not added again;
 - carry file-76 validation: actual Saipan night aircraft used flares; actual night of 20 Jun Japanese aircraft bombed near transports/shore with no damage and shore batteries sporadically fired on ships before rapid counterbattery; Tinian hidden batteries prove close-range shore fire can remain dangerous; Guadalcanal/Tassafaronga validate Nisshin+tender/DD reinforcement, floatplane night support, SG-first-contact plus Type-93 reaction;
