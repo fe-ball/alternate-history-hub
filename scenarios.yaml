@@ -43,9 +43,9 @@ scenarios:
     title: "発動機転生者"
     status: active
     authority_version: "Relaunch R3"
-    canonical_clock: "1942-06-05T04:30:00-10:30"
-    clock_state: "relaunch-r3; Midway night-bombardment side advanced to 1942-06-05 first light; Enterprise capture/Hornet sinking and Enterprise first-night survival CLOSED; 81-aircraft afternoon Midway second strike CLOSED; CruDiv7 night bombardment CLOSED; next gate exact four-carrier first-light third-suppression strike and landing go/no-go"
-    frontier: "6/5 first light直前。CruDiv7夜間砲撃は203mm約480発centralでCLOSED、PT/shore torpedo-gun hit 0 central、Mogami/Mikuma collisionなし。Midwayはheavy-aircraft normal runway operation不能、radar partial/intermittent、AA further degradedだがcoast guns/ground defenseは大半健在。次は四健在空母からprize CAP/main-body CAP/searchを控除した75-95機級first-light third-suppression strikeを具体化し、Midway responseとlanding go/no-goを閉じる"
+    canonical_clock: "1942-06-05T08:00:00-10:30"
+    clock_state: "relaunch-r3; Midway advanced through 1942-06-05 08:00; Enterprise capture/Hornet sinking and first-night prize survival CLOSED; 81-aircraft afternoon strike, CruDiv7 night bombardment, and 84-aircraft first-light third-suppression strike CLOSED; Operation MI landing continues GO for original 6/6 first-light/morning window; next gate 6/5 occupation-force approach, US PBY/sub harassment, Kondo evening bombardment, and 6/6 landing fire plan"
+    frontier: "1942-06-05 08:00級。first-light third-suppression strike 84機（昴24/D3A30/B5N30）までCLOSED。Midwayはcoherent fighter CAPなし、heavy-aircraft runway normal operation不能、primary radar/warning chain morning-disabled、AAは6/4朝比35-45%級だがcoast guns/infantry/mines/beach defenseは大半健在。Operation MI landingはCONTINUE GO、6/5即時上陸はNO GO、original 6/6 first-light/morning H-hour維持。次は6/5 daylight Occupation Force approach、PBY/sub harassment、Kondo evening/night heavy-cover bombardment、6/6 landing fire planを閉じる"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-ledger-through-midway-afternoon-second-strike-crudiv7-night-bombardment-and-enterprise-first-night-audit-1942-06-05-first-light"
+    source_import: "relaunch-r3-continuity-ledger-through-midway-first-light-third-suppression-strike-and-enterprise-first-night-audit-1942-06-05-0800"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
