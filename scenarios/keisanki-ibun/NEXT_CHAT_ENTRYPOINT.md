@@ -27,7 +27,8 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/75_20JUN_MARIANAS_ISLAND_NIGHT_AIR_REAUDIT_WORKING_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/76_20JUN_ISLAND_HISTORICAL_ANALOG_VALIDATION_WORKING_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/75_20JUN_MARIANAS_ISLAND_NIGHT_AIR_REAUDIT_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/74_20JUN_NIGHT_HIT_PROBABILITY_RADAR_MOON_MISSION_AUDIT_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/73_20JUN_2130_2345_NISSHIN_UNLOADING_REPLAY_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/72_20JUN_2000_2130_RELIEF_CONTACT_REPLAY_WORKING_v001.md`
@@ -48,7 +49,9 @@ Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
 
 Current task:
-- **file 75 is the latest WORKING island/night-air integration. File 74 controls hit/radar/moon interpretation; files 72–73 remain the selected surface event realization; file 71 controls relief formation and file 70 casualty/effect boundaries.**
+- **file 76 is the latest WORKING historical-analogue validation for island-side participation. File 75 controls the island/night-air workload; file 74 hit/radar/moon interpretation; files 72–73 the selected surface event realization.**
+- carry file-76 validation: actual Saipan night aircraft used flares; actual night of 20 Jun Japanese aircraft bombed near transports/shore with no damage and shore batteries sporadically fired on ships before rapid counterbattery; Tinian hidden batteries prove close-range shore fire can remain dangerous; Guadalcanal/Tassafaronga validate Nisshin+tender/DD reinforcement, floatplane night support, SG-first-contact plus Type-93 reaction;
+- file 76 adopts one correction only: Tinian is explicitly an active coastal-observation/local shore-fire threat on the Tinian relief axis, but no additional ship hit or delivery total is booked.
 - carry file-75 island-air state: Saipan normal wheeled night sorties 0 center; Tinian launches one bounded 3–5 aircraft (center 4) night harassment mission against the U.S. inner fire-support/illumination/interdiction area, with 0 major ship hit center and ~5–15 min local fire/illumination-chain interruption; 1–2 water-air sorties support contact/relay/illumination/SAR; Shiun night combat sortie center 0; Guam/Rota remain repair/reserve/ferry/warning/SAR nodes;
 - file 75 does not change file-73 landed personnel/cargo or ship-damage totals; it fills a previously implicit causal layer rather than creating free extra combat power.
 - carry file-74 corrections: SG = search/CIC/track handoff, not automatic gun-laying; new moon is strongest before firing and decays as flashes/illumination create local visual information; Japanese Type-22 contacts can exist before U.S. first fire but U.S. normally reaches weapon-quality radar gunnery first; symmetric CA damage labels do not imply equal accuracy; 0/0 BB hits are valid only because the missions prevent sustained battle-line exposure;
