@@ -1,8 +1,8 @@
 # 発動機転生者・リランチ正本
 
 > **Authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-04 約18:45（Midway battle-local working clock）**
-> **Checkpoint:** ミッドウェー海戦夕刻。Enterpriseは米自沈措置後も浮存し日本側が船体を完全確保、Hornetは日本側finish torpedoで最終沈没確定
+> **Canonical historical clock:** **1942-06-05 約04:30（Midway first-light working clock）**
+> **Checkpoint:** ミッドウェー海戦翌朝first light直前。Enterprise prize初夜生存、Hornet沈没、6/4午後第二撃＋CruDiv 7夜間砲撃までCLOSED
 > 旧 `current/`・`archive/` はpre-relaunch REFERENCE。
 > canonical clockより未来の議論は、その時点で開始済みのresearch / requirement / planning / forward-studyとしてのみ保持し、後年結果をactor knowledgeへ逆流させない。
 
@@ -114,7 +114,7 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**Main decision clock: 1942-06-05 first lightへ進む直前。**
+**Main decision clock: 1942-06-05 約04:30、first light。**
 
 CLOSED central:
 - Enterprise確保 / Hornet沈没。
