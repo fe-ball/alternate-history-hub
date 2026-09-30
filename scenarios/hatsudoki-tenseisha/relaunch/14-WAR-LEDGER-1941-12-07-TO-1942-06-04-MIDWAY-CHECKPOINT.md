@@ -760,78 +760,99 @@ Surface command / covering group:
 
 #### 10.0F 16:00–16:30 surface action baseline — PROVISIONAL central
 
-**日本追撃隊の実戦力**
-- 霧島: 8×356mm。最大速力30kt級。巡洋艦に対しては1発でも戦闘力を大きく奪いうる。
-- 利根 / 筑摩: 各8×203mm、各12×610mm torpedo tube、35kt級。全主砲が前部集中で、追撃戦では射界上有利。
-- 嵐 / 舞風: 陽炎型、各6×127mm、8×610mm TT、35kt級。
-- 風雲 / 夕雲 / 巻雲: 夕雲型、同じく8×610mm TT級。
-- DD5隻だけでready torpedoは40本級。利根・筑摩は片舷合計12本級を追加できるため、**一方向へ即時投射可能なType 93は最大50本級**だが、friendly geometry / target solution / reserveを考え全数同時発射をcentralにはしない。
-- Type 93は約20kmを48–50kt、32kmを40–42kt級で走れる。米側はこの長射程・大威力を1942年6月時点で十分認識していない。
+**先に射界を修正する。**
+- 米4CAの「37×8-inch」は総搭載数であり、Enterpriseを背に**東へ退避しながら西の追撃隊を撃つpure stern chaseでは全37門を常時使えない**。
+- New Orleans級3隻は9門を前部6 / 後部3に持つため、真後ろの敵にはまず後部三連装が中心。
+- Pensacolaも前後にtwin / triple turretを持つため、pure stern chaseでは後部砲塔群が中心になる。
+- 全主砲を使うにはquartering turn / broadside intervalを入れる必要があり、その間は東向き速度成分を失い、日本側のclosureとtorpedo geometryを改善してしまう。
+- したがって米側は**後部砲塔で継続射撃し、必要時だけ20–60°級のturnを入れて前部砲塔を短時間unmaskする**のをcentralとする。
+- 利根型は全主砲が前部集中で追撃戦に有利だが、4基すべてがdead aheadへ常時撃てるとはしない。forward-quarterへ角度を取って使用砲塔を増やす。
+- 霧島もpure chaseでは前部2基4門が主。8門全門を使うにはangleを取る。
 
-**米covering forceの実戦力**
-- Pensacola: 10×203mm。
-- Vincennes / Minneapolis / New Orleans: 各9×203mm。
-- 4CA合計 **37×8-inch**。
-- Atlanta: 16×5-inch/38 + 8×21-inch TT。日本DDが近距離torpedo runへ入る場合の強いcounter。
-- Phelps / Balch / Benhamその他DD: 5-inch + 21-inch torpedo。米DD torpedoは抑止には使えるが、Type 93同等の長距離打撃力として扱わない。
-- New Orleans級CAは魚雷兵装なし。米heavy-cruiser lineの主兵器は砲撃である。
-- radarはair/surface range情報の補助にはなるが、Washington級の後世的な完全radar-directed night gunneryを1942-06へ逆流させない。昼間ではoptical + radar range aidとして扱う。
+**史実のlong-range daylight gunnery anchor**
+- Java SeaではNachi / Haguroが8-inchを**1,271発**撃ち、確認できる命中は5発級。長距離昼戦の命中率は非常に低かった。
+- KomandorskiではNachiが21,000ydからsecond salvo級で近い夾叉を出し、Salt Lake Cityもthird / fourth salvoでNachiへ命中した一方、その後は双方とも大量射撃のわりに命中は少数だった。
+- Edsall追撃ではTone / Chikumaだけで8-inch **844発**を費やしても、高速回避中の小目標を砲撃だけでは止められなかった。
+- よって本戦も「数分で複数CAがmission kill」は採らない。
 
-**戦闘目的の非対称性**
-- 米側: 日本艦隊撃滅ではなく、**Enterprise tow groupから時間と距離を買う**。したがって不利なら東へ後退しつつ砲戦し、DD smoke / torpedo threatで追撃速度を落とす。
-- 日本側: 米巡洋艦を全部沈める必要はない。**coverを後退させ、Northamptonにtowを切らせ、Enterprise/Hornetへの接触路を開く**ことが目的。
-- よって日本側は霧島を無理に8-inch gunlineへ突っ込ませず、356mmのovermatchでcoverをpinし、Tone/Chikuma/DDをflankへ出す方が合理的。
+**日本追撃隊**
+- 霧島: 8×356mm、30kt級。
+- 利根 / 筑摩: 各8×203mm、35kt級、610mm TT各12門。
+- 嵐 / 舞風 / 風雲 / 夕雲 / 巻雲: 各6×127mm、610mm TT各8門、35kt級。
+- Type 93はlong-range weaponだが、daylight aware targetへ長距離発射すれば命中率は急落する。
+- 第一斉射は「撃沈数を稼ぐ」より**turn-away / formation breakupを強制するarea denial**として評価する。
 
-**16:00 tactical geometry central**
-- Enterprise tow groupは米covering lineの東5–8 nmi級。Northampton + close DD 2隻。
-- Hornetは別位置でscuttle作業中、米DD 1–2隻が残る。
-- 米cover: Pensacola / Vincennes / Minneapolis / New Orleans / Atlanta + DD 3–5、course E–ESE 24–28kt級で、Enterpriseと日本隊の間を横切る。
-- 日本隊は西～WNWから29kt級で接近。
-- first effective gun rangeを**18,000–22,000yd級**とする。天候 / squallで12,000–18,000ydへ急縮小する枝あり。
+**米covering force**
+- Pensacola / Vincennes / Minneapolis / New Orleans = total 37×203mm。ただし後退射撃中の瞬間的bearing gunsはこれよりかなり少ない。
+- Atlanta + DDはsmoke / close screen / 日本DD牽制を優先。
+- 米CAにはKirishimaを短時間で止める確実なweaponがなく、日本側には米CAを一発で止め得る356mmとType 93がある。
+- 逆に日本CA/DDは8-inch volume fireへ長時間晒されればdirector / bridge / torpedo deck / machineryを傷める危険が高い。
 
-**米側opening fire allocation**
-- 8-inch 4隻全部を霧島へ集中するのは効率が悪い。Kirishima main belt / turretsへ8-inchで決定打を狙うより、torpedo / scouting / flank能力を持つTone-classを先に削る方が合理的。
-- central:
-  - Pensacola + Vincennes → 利根
-  - Minneapolis + New Orleans → 筑摩
-  - Atlanta + DD → 日本DDのflanking element
-- 霧島には長距離煙幕・maneuverを優先し、明確な好機が出た場合だけCA fireを振り向ける。
+**16:00 tactical geometry**
+- Enterprise tow group: 米cover東5–8 nmi級。Northampton + close DD 2。
+- Hornet: 別位置でscuttle作業、DD 1–2。
+- 米cover: Pensacola / Vincennes / Minneapolis / New Orleans / Atlanta + DD 3–5、E–ESEへ24–28kt。
+- 日本追撃: W–WNWから29kt級。
+- first effective gun range: **18,000–22,000yd級**。squallで12,000–18,000ydへ急縮小する枝あり。
 
-**日本側opening fire allocation**
-- 霧島 → 米CA battle lineのleading / command ship（Pensacola central）。356mmで1–2 hitでもformationを崩せる。
-- 利根 / 筑摩 → 各々対向する米CA group。
-- DDは最初から砲戦で消耗せず、2群へ分かれてquarter / flankを取り、Type 93 firing geometryを作る。
-- Enterpriseが煙幕外へ明瞭に見える場合のみ霧島がtow groupへtarget shift。centralでは米DDがtow groupへsmokeを張るため、最初はcovering CAを撃つ。
+**16:00–16:10 — ranging / first hits**
+- 米側はpure stern chaseを維持し、後部砲中心で射撃。時折quarteringして追加砲塔をunmaskする。
+- 日本側は霧島前部356mm + Tone/Chikumaのforward-quarter fire。
+- この10分でのcentralは**夾叉多数、直撃0–数発**。
+- Kirishima 356mm direct hitは**0 central / 0–1 band**。near miss / splinterは許容。
+- 米8-inchはTone/Chikumaへ**合計0–2 hit**、日本8-inchは米CA群へ**合計0–1 hit**をcentral bandとする。
 
-**16:00–16:10**
-- 米側は先にrangeを得る可能性があるが、決定的なradar gunnery advantageではない。
-- 双方が18–22kyd級でspotting salvo。
-- 霧島の14-inchは低hit probabilityでも1発の効果が大きい。
-- 米37門の8-inchはvolumeで上回り、Tone/Chikumaのupper works / director / torpedo deckへ複数hitを得る可能性がある。
-- first 10 min damageは**双方0–数hitのband**とし、ここでは特定艦のmission killをCLOSEDにしない。
+**16:10–16:20 — sustained fire + torpedo setup**
+- 米側はsmokeと東退を維持するが、full broadsideを得るためのturnは短時間だけ。
+- 日本Tone/Chikuma/DDは左右quarterへ展開し、米進路を横切るtorpedo geometryを作る。
+- historical rate anchorsから、16:00–16:20累積の8-inch direct-hit centralを次に置く:
+  - **米→日本CA: 2 hit級 central、band 0–4**
+  - **日本CA→米CA: 1 hit級 central、band 0–3**
+  - **霧島356mm→米CA: 0 hit central、band 0–1**
+- central damage placement:
+  - Tone: 8-inch 1発。aft aircraft / upper-deck area。局所火災・水偵/AA被害、speed / main battery / torpedo capabilityは維持。
+  - Chikuma: 8-inch 1発。forward/upper works。局所casualty・通信/AA一部損傷、main director / machineryは維持。
+  - Vincennes: Japanese 8-inch 1発。aft upper works / boat-deck級。局所火災、speed / main batteryは維持。
+  - Pensacola周辺へKirishima near miss複数、splinter / topside minor damage。Spruance command continuityは維持。
+- この配置は**mission killを作らない**。初動砲戦で双方がまだ戦える状態をcentralとする。
 
-**16:10–16:20**
-- 米coverは東進を維持してpure stern chaseを強制する。これは日本魚雷に不利で、Type 93の長射程だけで自動命中させない。
-- 日本側は35kt級のTone/Chikuma/DDを左右quarterへ展開し、crossing angleを作る。
-- Atlanta / 米DDが接近する日本DDへ5-inchを集中。日本DDは8–10kydまで無理に突っ込まず、**12–18kyd級のlong-range torpedo solution**を狙う。
-- central first Japanese torpedo launch windowを**16:12–16:20**。全数ではなく、DD 3–5隻 + cruiser片舷の一部から**24–36本級**をfirst spreadの目安とする。
-- 目標は個艦狙撃というより米CA lineの予測進路へ広いfanを置き、turn-away / formation breakupを強制すること。
+**第一Type 93斉射 — 16:12–16:20**
+- firing geometryが取れたTone/Chikuma + DD 3隻級を中心に**28–36本級**。
+- DD全5隻を一度に空にせず、2隻級をsecond opportunity用に温存するcentral。
+- 目標は米CA lineのfuture positionへfanを置くこと。
+- 米側はType 93の真のrangeを十分理解しないが、daylightで日本艦のturn / launch maneuverを観測でき、lookoutがtorpedo tracks / 「fish」を発見する可能性もある。
 
-**16:20–16:30**
-- 48–50kt settingのType 93がquarter / crossing solutionで発射された場合、最初の魚雷到達は概ね**16:25–16:35**。
-- 米側は日本魚雷の実射程を過小評価しているため、遠距離発射を「まだ魚雷距離外」と誤認し得る。ただし昼間で日本DD maneuverを見ているので、全く回避しないとはしない。
-- daylight / aware target / retreat geometryを考え、Tassafaronga型の一方的4CA被雷をそのまま再現しない。
-- first Type 93 spreadの結果は**0–2 heavy hit、central 1 hit級**をworking bandとする。命中艦はまだ固定しない。
-- 1CAがtorpedo hitで落伍すれば、米coverは救助を増やすか見捨てるかの新しい負担を負い、Enterpriseへの道が急速に開く。
-- 逆に0 hitなら、米CA lineは16:30以後も健在で、Kirishima/Tone側が砲撃damageを蓄積しながらさらに接近する必要がある。
+**16:20–16:30 — first torpedo arrival**
+- KomandorskiではJapanese forceがType 93を**42本撃って0 hit**。daylight / alert / maneuvering targetへのlong-range launchの厳しさを強いanchorとする。
+- よって第一斉射の結果を修正:
+  - **0 hit = CENTRAL**
+  - 1 hit = strong sensitivity
+  - 2 hit = low-probability severe branch
+- 0 hitでも無効ではない。米CA群は一斉回避・smoke・formation spreadを強制され、東向き速度成分を失う。
+- centralでは16:22–16:30の回避によって米coverの平均東進が数分止まり、**日本側が追加1–3 nmi程度closureする operational effect**を認める。
+- spotting / director solutionも一時崩れ、米8-inch volumeは低下。
+- Enterprise tow groupとの間隔も相対的に縮まり、日本側は次の10–20分でより短距離のsecond torpedo opportunityを得る。
 
-**重要な非対称**
-- 米8-inch 37門は日本CA/DDへ現実的な大損害を与え得る。日本側のsurface pursuitは無料ではない。
-- ただし米CAにはKirishimaを短時間で止める確実なweaponが乏しく、Type 93のrangeを正確に知らない。
-- 日本側はcovering force撃滅ではなく**formation breakup**で勝てるため、砲撃 + long-range torpedo fanの組合せが非常に強い。
-- 米側の最善策は「stand and fight」ではなく、東退しながら距離を保ち、smokeとrapid 8-inch fireでTone/Chikuma/DDを削り、日本側がEnterpriseへ直進できる時間を奪うこと。
+**16:30 central state**
+- 日本:
+  - 霧島: combat-capable、direct hitなし。
+  - 利根: light damage 1×8-inch級、combat-capable。
+  - 筑摩: light damage 1×8-inch級、combat-capable。
+  - DD5: major damageなしcentral。第一斉射参加艦はready tubesを消費、未発射艦はfull salvoを保持。
+- 米:
+  - Pensacola: combat-capable、near-miss splinter/minor topside damage。
+  - Vincennes: light damage 1×8-inch級、combat-capable。
+  - Minneapolis / New Orleans / Atlanta: major damageなしcentral。
+  - first Type 93 spreadによるtorpedo hitなしcentral。
+  - ただしcovering lineは回避で**一時分散・fire-control solution degraded**。
+- Enterprise: tow自体はまだ切れていないが、covering forceと日本隊の距離が縮み、Northampton側にもtow abandonmentを検討させる圧力が急増。
+- Hornet: scuttle damageを受けつつ浮存central。
 
-次にfirst 8-inch / 14-inch hit distributionと、Type 93 first spreadの0/1/2-hit branchesを作り、16:30時点のsurface-force stateを閉じる。
+**16:30以後の次gate**
+- 日本側は第一魚雷斉射が外れても失敗ではない。米lineをturnさせて距離を詰めている。
+- 次は**12,000–16,000yd級へ縮んだ状態でのsecond gunnery phase / second torpedo opportunity**。
+- この距離ではKirishima 356mm hit probabilityも上がり、米CAもquartering / broadsideを使えば37門の多くを一時的に使える。
+- したがって決定的なdamage rollは16:30–16:50へ移す方が、史実のlong-range daylight gunnery performanceと整合する。
 
 
 ### 10.1 まず再判定する論点
