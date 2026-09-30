@@ -22,7 +22,7 @@
 |---|---|---|---|---|---|
 | [浅井世界線](scenarios/asai/README.md) | active | V26（正本）＋post-V26 WORKING | 1941-12-07T14:30:00-10:30 | 正本時計と最新継続点を分離 | [現行manifest](scenarios/asai/current/ACTIVE-STATE.json) → [最新handoff](scenarios/asai/current/active/00-SESSION-HANDOFF.md) |
 | [計算機異聞](scenarios/keisanki-ibun/README.md) | active | Branch B v100 | 1944-06-16T14:15 | OPEN / EVENT-SIMULATION（以後はWORKING） | 艦艇装備・6月出撃配置・空母防空の再監査。正本化前にTF58 ASW監査 |
-| [発動機転生者](scenarios/hatsudoki-tenseisha/README.md) | active | Relaunch R3 | 1942-06-04T18:45:00-10:30 | Enterprise日本側確保・Hornet最終沈没CLOSED | Enterprise prize安定化・曳航 → 夜間航空/潜水艦risk → 赤城/加賀退避・Midway第二撃 |
+| [発動機転生者](scenarios/hatsudoki-tenseisha/README.md) | active | Relaunch R3 | 1942-06-04T18:45:00-10:30 | Enterprise確保・Hornet沈没CLOSED。prize first-night forward audit済 | Midway側13:30–18:45の四空母航空在庫 → 午後第二撃窓 → 島側残存戦力 → 夜間/翌朝攻撃 |
 | [豊国IF](scenarios/toyokuni-if/README.md) | active | v3＋執筆規律 | 一律の確定時計は未指定 | 派生叙述は1613年まで、提言採否はOPEN | 呂宋統治・後金問題・国内政治 |
 
 ## 読み方
