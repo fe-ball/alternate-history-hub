@@ -383,7 +383,7 @@ Enterprise SBD strike central:
 - Japanese postwar interrogation: Kagaの史実4直撃のうちforward elevator / after elevator周辺 / island付近 / aftの命中が報告され、bridge destructionが指揮・消火能力を大きく悪化させた。R3の2-hit branchではbridge hitを落とす。
 - 史実の第一機動部隊screenは長良 + DesDiv 4/10/17。R3では六空母化で護衛をやや増強する既存条件を維持する。
 
-## 10. **CURRENT OPEN GATE — Enterprise / Hornetをどうするか**
+## 10. ミッドウェー午後継続 — 米空母最終運命 / prize / Midway parallel ledgers
 
 ここから先は**未解決**。前会話で一度置いた「米側が17時台までに放棄・自沈処分し、日本追撃隊が夕刻に残骸を撃沈」は正本化しない。
 
@@ -1358,15 +1358,149 @@ Prize保存のため既に拘束されたもの:
 を、上記prize commitmentを差し引いて処理する。
 
 
+#### 10.0O 13:30–18:45 四健在空母の航空在庫とMidway午後第二撃 — CLOSED central
+
+ここではEnterprise prizeのforward auditと分離し、13:30時点へ戻って蒼龍・飛龍・翔鶴・瑞鶴の航空戦力を再構築する。
+
+**pre-battle anchor**
+- 史実MIの赤城・加賀・蒼龍・飛龍は約229機を搭載していた。
+- R3五航戦は既存台帳どおり約93–97機。
+- よって六空母合計320–330機級という既存R3値は、**史実四空母約229 + 五航戦約95 ≒ 324**と整合する。
+- type別の厳密な各艦定数は過固定せず、六空母合計ではfighters 120級、D3A 100級、B5N 100級をrough physical poolとして扱う。
+
+**朝のMidway第一撃**
+- 108機級。史実では11撃墜・14 severe damage・29 additional hit、Marine fighterで戦闘可能帰還は2機だけだった。
+- R3では昴零戦の速度・上昇・再交戦・火力・防御でMarine fighterによる日本側損害を下げる一方、Midwayのheavy AAはほぼ史実級で残る。
+- CLOSED central:
+  - non-return **7機級**（band 6–9）
+  - return but same-day unserviceable **9–12機級**
+  - additional repairable damageはさらに存在するが、午後までに一部復旧。
+- 「強い零戦だから108機無傷」にはしない。Tomonagaの**第二撃必要**判断は維持。
+
+**五航戦第一対艦撃**
+- 72–76機。既存台帳どおりnon-return **10–15、central 12**。
+- damaged returnも多く、午後即再出撃できない機体を**12–16級**centralで置く。
+- fighter armはattack armより健康だが、全機が即readyではない。
+
+**一・二航戦第二対艦撃**
+- 70–80機。既存台帳どおりnon-return **8–13、central 10**。
+- 四健在空母への集中着艦時に着艦事故・fuel exhaustion等**4–7、central 5**追加損失。
+- battle damage / inspection holdを**10–14級**置く。
+- 赤城・加賀の甲板喪失前に第二撃は離艦済みなので、その所属機の相当数は蒼龍・飛龍・翔鶴・瑞鶴へ回収される。
+
+**赤城・加賀に取り残される機体**
+- 一方、08:50–09:00に戻ったMidway第一撃機、CAP rotation、整備中機のうち、10:20級の被弾時に赤城・加賀上にいた機体は四健在甲板へ自動移動しない。
+- centralで**35–45機級**を「船体とともに作戦航空戦力から脱落」とする。
+- 主成分はAkagi/Kaga所属のMidway-return D3A / fighter。B5N reserveの多くは第二対艦撃として既に離艦していたため、B5Nのtrapped比率は低め。
+- 艦が沈んでいないためこれらを全損とは呼ばないが、6/4午後のsortie accountingでは使用不能。
+
+**13:30 四健在空母のphysical / ready state — CLOSED central**
+- four intact carriers上のphysical aircraft: **235–245級、central 240**
+- immediate / short-turn serviceable: **205–220級、central 212**
+- repair / inspection / battle-damage hold: **20–30級**
+- central ready breakdown:
+  - 昴零戦系列 **90–95**
+  - D3A **50–55**
+  - B5N **65–70**
+- これは「四空母に240機ある」≠「240機を一斉出撃できる」を明示するための状態分離。
+- deck / hangarにはAkagi/Kaga所属機・crewが混在し、整備員・予備品・weapon paperworkまで跨艦状態。平時よりturnaroundは遅い。
+
+**crew availabilityが第二撃を可能にする**
+- B5Nについては、蒼龍・飛龍の朝Midway strike crewsの相当数が09時前後から休養しており、午後再使用が可能。
+- D3Aは五航戦第一撃crewと、一・二航戦第二対艦撃crewから比較的状態の良い組を選ぶ。
+- fighter escortは四空母上のfighter poolが厚く、CAP rotationを維持しながら20機級を切り出せる。
+- したがって「飛行機はあるが全搭乗員が二連続長距離strike直後」という扱いにはしない。
+
+**米側divert aircraftがMidwayを再び重要目標にする**
+- 史実でもHornet VB-8の13機がfuel shortageでMidwayへ降り、11機は給油後に再出撃した。
+- R3ではHornet / Enterpriseとも11時台にmission killされるため、既発進のcarrier aircraftはMidwayへのdivertをさらに強く選ぶ。
+- working centralで13:30–15:00にMidwayへ
+  - carrier SBD **30–40級**
+  - carrier fighters **8–12級**
+  - 少数のTBD / other survivors
+  が流入し得る。
+- ただしMidwayのgasoline system / servicing equipmentは朝の攻撃で損傷しており、historical narrativeでも午後のrefuel / serviceは非常に遅かった。
+- よって「40機着陸 = 40機即sortie」ではなく、**駐機・給油待ちの脆弱なaircraft concentration**を作る。
+
+**14:20–14:50 — Midway第二撃を組む**
+- 米二空母のmission kill報告が11時台に入り、13時台にはsurface rescue / pursuitへ移行。
+- 四空母は13:30までに緊急着艦・給油・損傷機triageを概ね終え、Midway second strikeをspot可能。
+- central package:
+  - **昴 21**
+  - **D3A 30**
+  - **B5N 30**
+  - total **81**
+- bandは72–90。100機超へ拡大しない理由はdeck congestion、battle damage、CAP/search、crew fatigue、prize / surface-war uncertainty。
+- B5Nはland bomb、D3Aは250kg-class land / GP bomb。fightersはescortを主とし、fighter oppositionが崩壊していれば後段でairfield strafing。
+- **14:35–14:50 launch — CLOSED central。**
+
+**attack / recovery clock**
+- Kido Butai four-carrier main bodyとMidwayの距離を午後**150–180 nmi級**working bandとする。
+- strike reaches Midway **15:40–16:10**。
+- attack 15–20分級。
+- recovery **17:05–17:45** central。
+- したがって18:45の大規模dusk strikeとは異なり、**午後第二撃はdaylight recovery marginを持って成立**する。
+
+**Midway defense at second strike**
+- 史実first strike後もMarine fighterは2機だけflyable。R3では昴零戦優位によりcoherent local fighter CAPは**0 central / 0–2 band**。
+- ただしground AAは依然強い。朝より警戒済みで、対空砲員の練度・意志も落ちていない。
+- runwayは朝のstrikeでhistoricallyほぼ温存されており、R3でも「朝だけで飛行場使用不能」にはしない。
+- 1500級のB-17 4機はhistorical schedule同様**第二撃前に離陸済み**とする。日本側はこれを地上で無料撃破できない。
+- 1600級に予定されたB-17 2機と、refuel中のcarrier-divert aircraftは第二撃の影響を直接受ける。
+
+**15:40–16:10 second-strike result — CLOSED central**
+- Japanese non-return **6機級**（band 5–8）。
+- return but same-day unserviceable **10–14級**。
+- 損失主因はAA。米fighter interceptionによる損害は小さい。
+- target effect:
+  - Eastern Island runway / taxiwayへ複数crater。**heavy-aircraft normal sortie generationを2–4時間級阻害**。
+  - fuel / servicing systemへ追加damage。手作業refuel能力は残るがthroughput further degraded。
+  - radar / plotting / communication: **primary sector 1系統をtemporary disable / severe degrade**。島全体のwarning abilityをゼロにはしない。
+  - AA / coast-defense: exposed AA positions several suppressed / destroyed。**heavy/medium AA effective volumeを20–30%級一時低下**。coast artillery自体を空襲だけで全滅させない。
+  - parked / servicing aircraft: **12–18 destroyed、10–15 damaged** central band。主にcarrier-divert SBD/F4F、Marine survivors、service aircraft。
+  - B-17: 1500 flight 4機は空中。ground aircraftは**1–2 damaged / mission-delayed級**までで、大量撃破しない。
+- Sand Island fuel / radioも追加損傷するが、island command / shore batteryを完全沈黙させない。
+
+**米午後航空への影響**
+- historical 1500 B-17 flightは既に離陸しているため、**1710級attackは残る**。
+- historical 1600 B-17 pairはrunway / servicing disruptionにより**launch delayed / canceled central**。
+- Oahu-origin / already-airborne aircraftまで自動消去しないので、18時台のB-17 threatは減るがゼロではない。
+- historical 1900の6 SBD + 5 SB2U sortieは、R3ではground losses / refuel delayにより**full 11-aircraft packageは成立しない**。4–7機級のpossible night/evening sortieを次night ledgerへ残す。
+- PT boats 11隻はairfield damageと別なので残る。
+
+**18:45 四空母 aviation state — CLOSED central**
+- second strike回収後、four intact carriers physical aircraft: **215–225級**
+- immediate serviceable at 18:45: **185–200級、central 192**
+- repairable overnight: **15–25級**
+- central ready breakdown:
+  - fighters **82–88**
+  - D3A **42–48**
+  - B5N **58–64**
+- crew fatigue is now serious。特にattack crewsは一日で1–2 long strikeを実施。
+- ただし四甲板すべて健在で、night maintenance / cross-deck redistributionが可能。
+- 6/5 dawnまでのrepair recoveryで**200–215 serviceable級**へ戻る余地をPROVISIONALで持つ。
+
+**operational conclusion — CLOSED**
+- Tomonagaの朝の「第二撃必要」は**6/4午後strikeで主要部分を実施済み**。
+- したがって18:45以後にもう一度80–100機を出す必要も、時間的余裕もない。
+- Midwayはなお戦闘可能だが、朝より
+  - runway throughput
+  - fuel/service throughput
+  - radar/plotting
+  - AA density
+  - parked aircraft pool
+  がさらに悪化。
+- 次は**night bombardmentでこのdamageを固定 / 拡大し、6/5 dawn strikeを「第三のsuppression cycle」として組む**。
+- 6/5 dawn packageは旧90–110固定ではなく、night bombardment結果とprize CAPを引いたうえで**75–95機級 planning band**から再計算する。
+
 #### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
 
-**夕刻carrier second strike — NO GO, CLOSED**
+**18:45以後の追加dusk strike — NO GO, CLOSED**
+- 友永の朝の「第二撃必要」は14:35–14:50発進の81機級Midway午後第二撃で主要部分を実施済み。
 - Midwayの日没は6月上旬で19:40級、civil twilightは20:10級まで。
-- 18:45から大規模strikeをspot / launchし、100–150 nmi級の往復・攻撃・再集合を行えば、帰投はsunset後または薄明末へ入る。
-- R3の四健在空母はdeck congestion、他艦所属機混在、整備疲労を抱え、夜間carrier recovery能力が突然向上しているわけではない。
-- よって**18:45以後の80–100機級第二撃は実施しない**。
-- duskまで可能なのはprize / carrier CAP、search、短距離recon、回収作業。fighter-bomber小編隊を無理にMidwayへ投げない。
-- 友永の「第二撃必要」という朝の要求自体は未解決のまま翌朝へ持ち越す。
+- 18:45からさらに大規模strikeをspot / launchすれば、帰投はsunset後または薄明末へ入り、連日のdeck congestion / crew fatigueに対して利益が小さい。
+- よって**18:45以後の追加80–100機級strikeは実施しない**。
+- duskまで可能なのはprize / carrier CAP、search、短距離recon、回収・修理。
 
 **night bombardment — GO, central**
 - 史実でも6/4 1730、Combined Fleetは**I-168にEastern Islandを2300まで砲撃し、その後CruDiv 7が継続**する命令を出していた。
@@ -1402,8 +1536,9 @@ Prize保存のため既に拘束されたもの:
 - 四健在carrierは一夜でdeck / aircraft assignmentを整理する。
 - prize protectionへdawn CAP **12–16 fighters級**を差し引く。
 - main-body CAP / search / reserveも必要なので、「残存全機をMidwayへ一斉投入」はしない。
-- それでも四甲板が健在なため、**90–110 aircraft級第二撃をplanning band**として置く。
-- exact splitはnight bombardment後のMidway damage / Japanese serviceabilityを見て閉じる。
+- 午後第二撃をすでに実施したため、翌朝は同じ規模を自動再生成しない。
+- **75–95 aircraft級 third-suppression strikeをplanning band**として置く。
+- exact splitはnight bombardment後のMidway damage / overnight repair / prize CAP控除を見て閉じる。
 - mission priority:
   1. Eastern Island runway / taxi / revetment
   2. radar / plotting / command
