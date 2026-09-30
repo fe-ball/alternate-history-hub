@@ -5,7 +5,7 @@
 
 > **Navigation status:** current router
 > **Current authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-06T08:00:00-10:30**
+> **Canonical historical clock:** **1942-06-06T14:00:00-10:30**
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 
@@ -23,7 +23,7 @@
 
 ## 現checkpoint
 
-**1942-06-06 約08:00、Midway両島橋頭堡成立後。**
+**1942-06-06 約14:00、Eastern戦術的占領・Sand継戦中。**
 
 - 赤城・加賀は航空作戦不能だが船体は生存し、自航退避中。
 - 蒼龍・飛龍・翔鶴・瑞鶴は健在。
@@ -34,25 +34,26 @@
 
 ## current frontier
 
-1942-06-06 約08:00。
+1942-06-06 約14:00。
 
 CLOSED central:
-- Enterprise確保 / Hornet沈没
-- Midway午後・夜間・first-light制圧
-- Kondo heavy bombardment / final approach
-- **Eastern / Sand両島への上陸成立**
-- Eastern: effective ashore 850–1,000、未占領
-- Sand: effective ashore 950–1,100、未占領
-- Japanese assault casualties合計500–680級
-- US defenders coherent but compressed
-- Sand Stuart 3両mobile
+- 6/6上陸成立
+- 08:00–14:00 US counterattack / Japanese reinforcement race
+- **10:45級 reef channel 1本 open for heavy-weapon shuttle**
+- **Eastern Island tactical capture ~13:15**
+- Sand Japanese effective ashore 1,950–2,200級
+- Sand Japanese cumulative casualties 620–780級
+- Sand remains contested
+
+装備注記:
+- Midway US tank force = 5 Marine light tanks。M2A4/M3 subtypeは未固定。
+- Hokuriku Maru表記へ修正。
 
 次は、
-1. 08:00–14:00 reinforcement race
-2. reef/channel clearanceとJapanese heavy weapons landing
-3. US counterattack
-4. Eastern airfield / Sand interior battle
-5. Enterprise prize daylight logistics
+1. Sand 14:00–night reduction
+2. Midway surrender / final resistance
+3. Eastern runway repair / Japanese use
+4. Enterprise prize daylight logistics
 
 ## Authority / status規律
 
