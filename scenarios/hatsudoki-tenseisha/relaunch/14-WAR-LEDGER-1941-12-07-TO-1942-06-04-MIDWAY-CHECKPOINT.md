@@ -2,7 +2,7 @@
 
 > **Status:** mixed — CLOSED / PROVISIONAL / OPEN を節ごとに明示
 > **Authority:** Relaunch R3 continuation
-> **Resume clock:** **1942-06-05 約04:30、Midway first-light working clock**
+> **Resume clock:** **1942-06-10 約18:00、Midway self-defense / Enterprise salvage working clock**
 > **Purpose:** 長時間チャット分断後の再開用チェックポイント。ここに明示したCLOSED/PROVISIONALのみを次計算へ持ち越す。
 > **Critical caution:** 旧workingの「Enterprise/Hornetを米側が放棄・自沈し、日本側追撃隊が夜に撃沈確認」は撤回済み。再監査の結果、**Enterpriseは米自沈措置を受けつつ日本側が18:45級に船体を完全確保、Hornetは救艦不能として最終的に沈没処分**をCLOSEDとする。
 
@@ -3294,4 +3294,4 @@ Enterprise prizeのfirst-night viabilityは上記でforward-audit済み。
 
 ## 11. 次回開始時の一行要約
 
-**1942-06-05 04:30級。Enterpriseは日本側prizeとして初夜生存、Hornet沈没。6/4午後Midway第二撃81機級とCruDiv 7夜間203mm砲撃約480発を実施し、Midwayはheavy-aircraft normal runway operation不能、radar partial、AA degradedだがcoast guns/ground defenseは大半健在。次は四健在空母の75–95機級first-light third-suppression strikeを閉じ、landing go/no-goへ進む。**
+**1942-06-10 18:00級。Midwayは日本側の限定self-defending fighter baseへ移行し、Easternに21–24機級の戦闘機＋B5N 4–6機級、水偵網、Zuiho、forward CarDiv 2を保持。CarDiv 5は西方mobile reserve / replenishmentへ移行。EnterpriseはShinkoku曳航下でAkashiと会合し、list 16–18°、3.5–4.0kt tow、主機・操舵・main power deadだが本格salvage継続。US側はSaratogaを温存し、潜水艦 / PBYを主要即応手段とする。次は6/11–6/15のMidway成熟化、Enterprise westward route、Akagi/Kaga退避、US submarine pressure、Enterprise捕獲写真の公表時期を閉じる。**
