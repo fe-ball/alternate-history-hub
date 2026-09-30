@@ -1,8 +1,8 @@
 # 発動機転生者・リランチ正本
 
 > **Authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-05 約04:30（Midway first-light working clock）**
-> **Checkpoint:** ミッドウェー海戦翌朝first light直前。Enterprise prize初夜生存、Hornet沈没、6/4午後第二撃＋CruDiv 7夜間砲撃までCLOSED
+> **Canonical historical clock:** **1942-06-05 約08:00（Midway post-first-light-strike working clock）**
+> **Checkpoint:** ミッドウェー海戦翌朝。6/5 first-light third-suppression strike完了、Operation MI landing継続GO、6/6 first-light/morning landing window維持
 > 旧 `current/`・`archive/` はpre-relaunch REFERENCE。
 > canonical clockより未来の議論は、その時点で開始済みのresearch / requirement / planning / forward-studyとしてのみ保持し、後年結果をactor knowledgeへ逆流させない。
 
@@ -114,30 +114,37 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**Main decision clock: 1942-06-05 約04:30、first light。**
+**Main decision clock: 1942-06-05 約08:00。**
 
 CLOSED central:
 - Enterprise確保 / Hornet沈没。
 - Enterprise first-night survival forward audit。
-- 6/4 14:35–14:50 Midway午後第二撃81機級。
-- 18:45以後の追加dusk carrier strike NO GO。
-- **CruDiv 7 night bombardment completed.**
-  - 203mm HE/Common 約480発central
-  - PT torpedo hit 0
-  - Japanese CA direct damage 0 central
-  - Mogami/Mikuma collisionなし（historical cancel/withdrawal geometryが消滅）
-  - Midway heavy-aircraft normal runway operation first lightまで不可central
-  - radar partial/intermittent、AA further degraded、coast guns mostly intact
+- 6/4午後Midway第二撃81機級。
+- CruDiv 7 night bombardment（203mm約480発central）。
+- **6/5 first-light third-suppression strike: 84機（昴24 / D3A30 / B5N30）。**
+- first-light strike後:
+  - local coherent fighter CAPなし
+  - heavy-aircraft normal runway operation unavailable through late morning / midday central
+  - primary SCR-270 / associated warning chain seriously disabled for the morning
+  - AA effective volume 6/4朝比35–45%級
+  - coast guns / infantry / mines / beach defenseは大半健在
+- **Operation MI landing CONTINUES — GO。**
+- **6/5即時上陸 NO GO。H-hourはoriginal 6/6 first-light / morning windowを維持。**
 
 次の論点:
-1. **6/5 first-light four-carrier strike**
-   - 75–95 aircraft planning band
-   - prize CAP / main-body CAP / searchを控除
-   - runway / radar / AA / parked aircraft / coast-defense target allocation
-2. **Midway first-light response**
-   - limited radar warning
-   - surviving AA
-   - any flyable Marine / diverted carrier aircraft
-3. **landing go/no-go and timetable**
-4. **Enterprise prize daylight logistics** — oiler rendezvous / tow handoff / submarine risk
+1. **6/5 daylight Occupation Force approach**
+   - transport / landing force advance
+   - minesweeper / subchaser / seaplane search
+   - US PBY / submarine harassment
+2. **Kondo 6/5 evening / night heavy-cover bombardment**
+   - Kongo / Hiei / CA / DD fire-support geometry
+   - surviving 5-inch / 7-inch coast guns / PT response
+3. **6/6 landing fire plan**
+   - Sand / Eastern simultaneous or staggered
+   - SNLF / Army allocation
+   - naval gunfire / carrier air support timing
+4. **Enterprise prize daylight logistics**
+   - fast-oiler rendezvous
+   - tow handoff
+   - submarine / air risk
 
