@@ -34,11 +34,15 @@
 
 ## current frontier
 
-1. Enterprise prizeの進行浸水を夜間も止められるか
-2. 筑摩・駆逐艦・後続支援による曳航可能性
-3. Midway航空・米潜水艦からprizeを守れるか
-4. 赤城・加賀退避と四健在空母のCAP / escort配分
-5. Midway第二撃・夜間配置
+Enterprise prizeはforward auditで**6/5 06:00まで浮存・筑摩1.5–2.5kt tow**をCLOSEDした。ただしmain clockは**1942-06-04 18:45**のまま。
+
+ここからMidway側へ戻り、同時並行で未整理の13:30–18:45を埋める。
+
+1. 蒼龍・飛龍・翔鶴・瑞鶴のserviceable aircraft / pilots / fuel / ordnance / deck congestion
+2. Midway午後第二撃を出せるlaunch/recovery window
+3. Midway島側の残存航空・runway・fuel・AA・radar・diverted US carrier aircraft
+4. 夜間配置と翌朝first-light strike
+5. 上陸作戦継続可否
 
 ## Authority / status規律
 
