@@ -2,7 +2,7 @@
 
 > **Status:** mixed — CLOSED / PROVISIONAL / OPEN を節ごとに明示
 > **Authority:** Relaunch R3 continuation
-> **Resume clock:** **1942-06-04 約18:45、ミッドウェー海戦中**
+> **Resume clock:** **1942-06-05 約04:30、Midway first-light working clock**
 > **Purpose:** 長時間チャット分断後の再開用チェックポイント。ここに明示したCLOSED/PROVISIONALのみを次計算へ持ち越す。
 > **Critical caution:** 旧workingの「Enterprise/Hornetを米側が放棄・自沈し、日本側追撃隊が夜に撃沈確認」は撤回済み。再監査の結果、**Enterpriseは米自沈措置を受けつつ日本側が18:45級に船体を完全確保、Hornetは救艦不能として最終的に沈没処分**をCLOSEDとする。
 
@@ -1869,4 +1869,4 @@ Enterprise prizeのfirst-night viabilityは上記でforward-audit済み。
 
 ## 11. 次回開始時の一行要約
 
-**1942-06-04 18:45級。日本側は米自沈措置を受けたEnterpriseへ先行水上部隊を到達させ、船体を完全確保。Enterpriseは主機・操舵・main power dead、list 25–28°級だが浮存。Hornetは救艦不能として日本側finish torpedoで最終沈没確定。次はEnterprise prizeを夜間に保存・曳航できるか、Midway航空・米潜水艦・赤城/加賀退避と両立できるかを監査する。**
+**1942-06-05 04:30級。Enterpriseは日本側prizeとして初夜生存、Hornet沈没。6/4午後Midway第二撃81機級とCruDiv 7夜間203mm砲撃約480発を実施し、Midwayはheavy-aircraft normal runway operation不能、radar partial、AA degradedだがcoast guns/ground defenseは大半健在。次は四健在空母の75–95機級first-light third-suppression strikeを閉じ、landing go/no-goへ進む。**
