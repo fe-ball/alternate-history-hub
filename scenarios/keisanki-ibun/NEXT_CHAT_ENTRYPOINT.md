@@ -27,7 +27,8 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/76_20JUN_ISLAND_HISTORICAL_ANALOG_VALIDATION_WORKING_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/77_20JUN_SAIPAN_FIELD_BATTLE_BOMBARDMENT_BRACKET_WORKING_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/76_20JUN_ISLAND_HISTORICAL_ANALOG_VALIDATION_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/75_20JUN_MARIANAS_ISLAND_NIGHT_AIR_REAUDIT_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/74_20JUN_NIGHT_HIT_PROBABILITY_RADAR_MOON_MISSION_AUDIT_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/73_20JUN_2130_2345_NISSHIN_UNLOADING_REPLAY_WORKING_v001.md`
@@ -49,7 +50,9 @@ Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
 
 Current task:
-- **file 76 is the latest WORKING historical-analogue validation for island-side participation. File 75 controls the island/night-air workload; file 74 hit/radar/moon interpretation; files 72–73 the selected surface event realization.**
+- **file 77 is the latest WORKING Saipan field-battle close around the 20-Jun bombardment. File 76 validates island-side participation; file 75 controls island/night-air workload; file 74 hit/radar/moon interpretation; files 72–73 the selected surface event realization.**
+- carry file-77 ground state: by late 20 Jun U.S. physically holds most west/central Aslito while Japanese east/southeast observed fire survives; 9th Tank Regiment MR 17–22 pre-bombardment, commits 4–6 vehicles in small cells, loses/mission-kills 1–3, ~15–20 MR by 21:30; peak Japanese ground recovery is 1–3 exposed positions / 50–200 m micro-sector, no Aslito recapture;
+- carry file-77 casualty boundaries: pre-bombardment 16:30–18:15 U.S. 60–110 / Japan 45–85 physical; Japanese own-side naval-bombardment fringe 10–25; all post-18:35 U.S./Japanese exploitation casualties remain controlled by file 70 and are not added again;
 - carry file-76 validation: actual Saipan night aircraft used flares; actual night of 20 Jun Japanese aircraft bombed near transports/shore with no damage and shore batteries sporadically fired on ships before rapid counterbattery; Tinian hidden batteries prove close-range shore fire can remain dangerous; Guadalcanal/Tassafaronga validate Nisshin+tender/DD reinforcement, floatplane night support, SG-first-contact plus Type-93 reaction;
 - file 76 adopts one correction only: Tinian is explicitly an active coastal-observation/local shore-fire threat on the Tinian relief axis, but no additional ship hit or delivery total is booked.
 - carry file-75 island-air state: Saipan normal wheeled night sorties 0 center; Tinian launches one bounded 3–5 aircraft (center 4) night harassment mission against the U.S. inner fire-support/illumination/interdiction area, with 0 major ship hit center and ~5–15 min local fire/illumination-chain interruption; 1–2 water-air sorties support contact/relay/illumination/SAR; Shiun night combat sortie center 0; Guam/Rota remain repair/reserve/ferry/warning/SAR nodes;
