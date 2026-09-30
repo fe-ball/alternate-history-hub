@@ -2035,10 +2035,10 @@ runway crater増加そのものはsecondary。目的は**landing boatに撃て�
   1. heavy-cover / DD screenへ4–6 Mk14 → effective hit 0
   2. trailing construction / cargo echelonへ4 Mk14
 - second attackで**1 high-order hit — CLOSED central**。
-- target central: **Hokuroku Maru**（construction elements / stores）。
+- target central: **Hokuriku Maru**（construction elements / stores）。
 - engine / aft machinery areaへの1 hitでdead in water、progressive flooding。
 - PB / subchaser + 1 DDが救助へ残り、乗員・construction personnelの大半は退避できるがheavy equipment / storesの相当部分を失う。
-- **Hokuroku Maruは6/6 dawnまでに放棄・後刻沈没 — CLOSED。**
+- **Hokuriku Maruは6/6 dawnまでに放棄・後刻沈没 — CLOSED。**
 - この損失はfirst assault waveのIchiki / No.2 Combined SNLF人数を直接減らさないが、占領後のairfield repair / construction throughputを下げる。
 - attacking US submarineはdepth-chargeを受けるがsunk 0 central。
 
@@ -2112,7 +2112,7 @@ runway crater増加そのものはsecondary。目的は**landing boatに撃て�
 - Sand controlled-water mine belt: north sector largely intact。
 - Japanese Transport Group: primary troop lift intact。
 - Japanese loss before beach:
-  - Hokuroku Maru sunk / lost after submarine torpedo
+  - Hokuriku Maru sunk / lost after submarine torpedo
   - 1 floatplane lost
   - 1 PT sunk / 1 damaged on US side
   - Japanese DD minor splinter damage
@@ -2172,7 +2172,7 @@ Eastern:
 
 Sand:
 - SNLFがwire / mine gapを2–3箇所作る。
-- US infantry counterattackはlimitedだが、**Stuart tank platoonが05:05–05:25級にcounterattack**。
+- US infantry counterattackはlimitedだが、**Marine light-tank platoonが05:05–05:25級にcounterattack**。
 - Japanese first waveにはorganic AT gunがまだない。
 - grenade / flamethrower attackで**1 Stuart mobility-killed / disabled central**。
 - 残り4両がbeachhead edgeへfireし、日本側を一部reef方向へ押し返す。
@@ -2199,14 +2199,14 @@ Sand:
 - carrier aircraft do **not** bomb mixed beach melee。
 - target boxes:
   - surviving coast / AA batteries
-  - Stuart assembly / road sectors when visually confirmed
+  - light-tank assembly / road sectors when visually confirmed
   - known command / reserve concentrations
   - airstrip-side firing points away from Japanese troops
 - preplanned map + smoke / muzzle flash identificationは使うがmodern FAC precisionは与えない。
 - result central:
   - remaining 7-inch guns: **1 additional mission-kill**。1 gun級 remains intermittently usable。
   - 5-inch coast guns: **1 additional mission-kill / suppress**。2–3 usable。
-  - Stuart: **1 destroyed / heavily damaged by D3A**, 1 earlier mobility kill、**3 remain mobile central**。
+  - Marine light tanks: **1 destroyed / heavily damaged by D3A**, 1 earlier mobility kill、**3 remain mobile central**。
   - US infantry / gun-crew casualties **50–90級**。
 - Japanese aircraft loss: **2 non-return central** + 3–5 damaged。
 - close-support effect is substantial but does not erase beach MG / mortars.
@@ -2269,7 +2269,7 @@ Sand:
   - northwestern feint contained
   - core Sand defenses / command / interior still US-held
 - US local casualties: **150–220級**
-- Stuart:
+- Marine light tanks:
   - 1 destroyed/heavy damage
   - 1 mobility-killed
   - 3 mobile
@@ -2295,6 +2295,190 @@ Sand:
   - can surviving US defenders counterattack before those weapons land?
   - how much carrier / battleship fire can be used without killing Japanese troops?
 - do not promote Midway capture until that reinforcement gate is resolved.
+
+#### 10.0U 6/6 08:00–14:00 reinforcement race — CLOSED central
+
+**equipment identity / landing constraint audit**
+- Midway defender vehicle strength is **five Marine light tanks**。modern secondary sources disagree on M2A4 vs M3 nomenclature; scenario therefore does **not** hard-close subtype。combat accounting uses five 37mm-armed light tanks only。
+- 08:00 state from 10.0T: 1 destroyed/heavy damage、1 mobility-killed、**3 mobile**。
+- Japanese assault-force records are clearer on the key operational point than on every vehicle subtype/count:
+  - No.2 Combined SNLF had tanks / AT / AA heavy weapons。
+  - Ichiki had an antitank company + engineer company。
+  - **Japanese AT guns / AA guns / tanks cannot cross the reef in the collapsible/rubber assault boats**。
+  - they must wait until Japanese control permits Daihatsu to use one of the atoll’s two reef channels。
+- Therefore no Japanese tank / full AT company appears magically in the 08:00 beachhead。
+- Conversely heavy MG、light mortar、ammo、demolition stores can continue in assault boats。
+- Ichiki’s two-piece / man-portable battalion-gun class weapon is allowed before the channel; **two 70mm-class infantry guns ashore by ~09:30 central** is physically plausible and consistent with the later first-echelon weapon set historically carried by Ichiki elements。
+
+**08:00–09:15 — US last strong counterattack window**
+
+Eastern:
+- Raider D + provisional infantry / gun crews assemble a **180–240-man** local counterattack from north / east airfield edge。
+- objective is not recapture of a lost island but to throw Ichiki back off the exposed south-airfield margin before more Japanese waves arrive。
+- 08:15–08:55:
+  - US mortar / MG / old 37mm direct fire catches Japanese groups crossing open ground。
+  - Japanese line gives back **100–200m** in one sector。
+  - naval 127 / 203mm cannot safely fire into fully mixed positions, but can isolate US rear / assembly routes。
+- result:
+  - Japanese additional casualties **60–90**
+  - US casualties **35–55**
+  - beachhead itself remains intact。
+- US defenders cannot remain exposed after Japanese floatplane observation identifies their assembly / firing points。
+
+Sand:
+- 3 mobile Marine light tanks + Raider C / provisional infantry launch the more dangerous counterattack **08:20–09:10**。
+- 2–3 tanks operate in short bounds rather than remaining stationary under Japanese air / naval observation。
+- one Japanese pocket is temporarily compressed toward the beach / reef transfer points。
+- SNLF uses mines / grenades / flamethrower teams at close range and massed MG fire。
+- result central:
+  - Japanese additional casualties **90–130**
+  - US casualties **45–70**
+  - **1 more Marine light tank mobility-killed / mechanically disabled** during close fighting and obstacle crossing。
+  - **2 tanks remain mobile at ~09:15**。
+- US counterattack fails to reach / destroy the Daihatsu transfer zone。Japanese bridgehead survives。
+
+**08:30–10:00 — Japanese reinforcement by light craft**
+- reduced landing-craft pool still cycles infantry / portable weapons。
+- by 10:00 effective ashore:
+  - Eastern **1,250–1,400**
+  - Sand **1,450–1,650**
+- additional weapons:
+  - heavy MG / light MG
+  - 50–81mm-class mortar / grenade discharger
+  - demolition / flamethrower stocks
+  - Eastern: **2×70mm-class battalion / infantry gun central**
+- full-size AT guns / tanks remain offshore until channel opening。
+
+**Japanese tactical adaptation**
+- Ichiki does **not** repeat a third immediate unsupported “one swoop” rush at 08:30。
+- This is not future knowledge: two failed open-ground pushes and visible US automatic-weapons fire are enough battlefield feedback。
+- Eastern priority shifts temporarily to:
+  1. suppress north-airfield MG / mortar boxes
+  2. land battalion guns / more MGs
+  3. widen southern lodgment
+  4. coordinate next crossing with naval fire lift
+- Ota on Sand similarly prioritizes **channel access** over immediate penetration to island center, because his tanks / AT / AA cannot otherwise land。
+
+**09:15–10:45 — channel fight**
+- Japanese engineers / SNLF push from the two south-side beachheads toward the usable reef-channel approaches while ships fire on surviving mapped coast / AA positions。
+- minesweeper does not “sweep the beach mines”; its role is approach marking / obstruction check / submarine watch。
+- remaining US coast guns / MGs can fire intermittently but command network is fragmented。
+- 09:40–10:20:
+  - four-carrier / Zuiho fighters maintain air dominance。
+  - **12–18 D3A級 responsive support** is used against clearly separated gun / road / light-tank positions only; no bombing inside mixed beach melee。
+  - Japanese aircraft additional non-return **1 central**。
+- 10:20–10:45:
+  - one reef-channel route is visually / physically checked by small craft and engineers。
+  - local US fire is suppressed enough to attempt a Daihatsu transit under smoke。
+- **10:45 central: one controlled Daihatsu channel becomes usable for heavy-weapon shuttle — CLOSED。**
+- This does not mean harbor / island is secure; every run remains exposed to observed artillery / MG fire。
+
+**10:45–12:00 first heavy lift**
+
+Sand receives priority because surviving US tanks are an immediate threat。
+- first heavy-lift runs bring:
+  - **2 AT guns級**
+  - **2 Japanese light tanks級**
+  - ammunition / engineer stores
+- exact Japanese tank subtype / total embarked number remains PROVISIONAL; only the first two vehicles actually landed by noon are used in this battle accounting。
+- Marine light tanks remaining mobile at start of this phase: 2。
+- 11:20–11:50 tank / AT engagement:
+  - Japanese vehicles are not treated as superior armor; they are useful mainly because Sand had previously had no Japanese direct-fire mobile weapon。
+  - one US light tank is **knocked out by Japanese AT / combined fire**
+  - last mobile US tank withdraws damaged / low on freedom of movement behind interior defenses。
+- by 12:00:
+  - **US mobile tank counterattack capability effectively ends — CLOSED central**
+  - one damaged / immobilized US tank may still serve as static gun position。
+
+Eastern:
+- heavy channel lift sends ammo / engineer stores and part of Ichiki AT / rapid-fire element。
+- **2×37mm-class AT guns級 ashore by ~12:00** and are used mainly as bunker / firing-point direct-fire guns, since Eastern has no tank threat。
+- the two 70mm-class guns already ashore remain more useful for area / strongpoint fire。
+
+**10:30–12:30 Eastern renewed airfield attack**
+- Japanese line assembles **900–1,050 combat troops** for the attack while others secure beach / unload。
+- naval fire hits north / east airfield margin and known MG positions, then lifts。
+- 70mm guns + MGs establish local fire bases。
+- 10:50–11:40:
+  - Japanese cross runway in dispersed platoon / company packets。
+  - US defenders inflict serious losses but can no longer mass openly under observation。
+- Japanese additional casualties **110–160**。
+- US additional casualties **80–120**。
+- by **12:00 central**, Japanese seize **central / western portions of Eastern airfield** and split the defenders into north / northeast and east-end pockets。
+- 12:00–12:45:
+  - Japanese pressure remaining command / battery positions from multiple directions。
+  - surviving US local network fragments further。
+- **12:45–13:30: organized Eastern Island defense collapses — CLOSED central**。
+- small isolated groups continue resistance / hiding / attempted breakout。
+- island “secure for engineering work” is not declared until later sweep, but **Eastern Island is tactically captured by ~13:15 central**。
+
+**Eastern losses through capture**
+- Japanese 04:10–13:30 cumulative:
+  - **430–560 KIA/WIA級**
+  - effective combat troops remaining ashore **1,350–1,550級**
+- US Eastern:
+  - killed/wounded **220–300級**
+  - surviving organized personnel mostly captured / surrender / isolated。
+- exact POW count left OPEN until garrison distribution audit; do not invent full island personnel count from total Midway garrison。
+
+**09:15–12:30 Sand stabilization / second counterattack failure**
+- after the 08:20 counterattack, US command tries to preserve infantry rather than feed another exposed charge before noon。
+- local mortars / MGs continue high losses on Japanese reinforcement routes。
+- Japanese naval gunfire increasingly targets **rear road junctions / known reserve boxes**, not the mixed frontline。
+- by 11:00 effective SNLF ashore **1,750–1,950級**。
+- after first AT guns / tanks arrive, Ota forms two pushes:
+  - one to widen Frigate Point / channel access
+  - one toward central road / command zone
+- surviving US tank(s) support short counter-moves but cannot stay exposed to AT / D3A observation。
+- Japanese additional 09:15–12:30 casualties **130–190**。
+- US additional casualties **100–150**。
+
+**12:30–14:00 Sand interior fight**
+- more heavy-lift cycles deliver:
+  - additional AT / MG / mortar ammunition
+  - engineer tools
+  - possibly **1–2 further light vehicles/tanks PROVISIONAL**, but exact Japanese total is not CLOSED and is not required for central outcome。
+- by 13:00 SNLF effective combat strength ashore **2,000–2,250級**。
+- Japanese fire support cannot simply erase remaining defenders because fronts are now close / intermingled。
+- carrier aviation switches mostly to:
+  - island rear / command / clearly observed gun positions
+  - anti-PBY / air cover
+- naval gunfire likewise moves to outer / rear targets。
+
+Sand US defense:
+- Raider C / provisional infantry / surviving gun crews remain coherent in interior pockets。
+- one Marine light tank may still fire from covered/static position; **no effective mobile tank platoon remains**。
+- mines / wire continue to channel Japanese movement。
+- 13:15–14:00 Japanese take additional road / service sectors but do not overrun main command / northwest core。
+- **Sand Island remains contested at 14:00 — CLOSED central**。
+
+**14:00 Sand state**
+- Japanese effective ashore: **1,950–2,200級**
+- Japanese cumulative casualties: **620–780 KIA/WIA級**
+- US cumulative ground casualties: **300–420級 on Sand**
+- US remaining defenders are fewer / fragmented but still hold central / northwest defensive core and some heavy-gun local positions。
+- Japanese control:
+  - Frigate Point / south-southeast beachhead
+  - reef-channel access / heavy-weapon landing lane
+  - several interior road sectors
+- US control:
+  - central / northwest core
+  - remaining local strongpoints / some coast-gun positions
+- **Sand not captured by 14:00。**
+
+**reinforcement-race result — CLOSED**
+- US counterattack opportunity is real and costly but does **not** destroy either beachhead before Japanese heavy weapons arrive。
+- Japanese win the reinforcement race at ~10:45 when one reef channel becomes usable。
+- Eastern then falls tactically by ~13:15 because:
+  - Japanese manpower approaches battalion/regimental local superiority
+  - battalion guns / MG / AT direct-fire reach the fight
+  - US defenders cannot maneuver in open airfield terrain under dominant naval/air observation
+- Sand survives longer because:
+  - stronger obstacle system
+  - larger defense complex
+  - tank reserve delayed Japanese expansion
+  - dense mixed fighting reduces usefulness of Japanese ship / air fire
+- next gate: **14:00–night Sand Island reduction / Midway surrender-or-final-resistance decision**, while Eastern is swept / runway assessed and Japanese must decide how much fire support can still be used safely。
 
 #### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
 
