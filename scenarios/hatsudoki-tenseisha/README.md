@@ -34,24 +34,20 @@
 
 ## current frontier
 
-canonical clockは **1942-06-04 18:45**。
+6/5 first light直前。
 
 CLOSED central:
 - Enterprise確保 / Hornet沈没
-- Enterprise first-night survival forward audit
-- 四健在空母13:30 immediate serviceable 約212機
-- **14:35–14:50 Midway午後第二撃81機級**
-- 18:45 immediate serviceable 約192機
-- 18:45以後の追加dusk carrier strike NO GO
+- Enterprise first-night survival
+- 6/4午後Midway第二撃81機級
+- CruDiv 7 night bombardment（203mm約480発central）
+- Midway heavy-aircraft normal runway operationはfirst light時点で不能、radar partial、AA degraded、coast guns mostly intact
 
 次は、
-1. I-168 harassment
-2. CruDiv 7（Mogami / Mikuma / Suzuya / Kumano）のnight standoff bombardment
-3. Midway coast guns / searchlight / PT / remaining aircraft response
-4. 6/5 dawn 75–95機級third-suppression strike
-5. Occupation Force landing timetable
-
-Prize側への筑摩＋DD4、dawn CAP、fast-oiler recallはMidway側へ二重計上しない。
+1. 四空母75–95機級first-light third-suppression strike
+2. Midway radar / AA / surviving aircraft response
+3. landing go/no-go / timetable
+4. Enterprise prize daylight logistics
 
 ## Authority / status規律
 
