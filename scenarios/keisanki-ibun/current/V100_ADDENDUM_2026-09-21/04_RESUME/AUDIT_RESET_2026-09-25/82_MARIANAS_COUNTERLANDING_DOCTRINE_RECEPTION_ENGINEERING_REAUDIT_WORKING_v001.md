@@ -313,7 +313,12 @@ It would be inconsistent for this system to improve every defensive logistic fun
 
 ---
 
-## 9. “Secret Cape” — define the maturity correctly
+## 9. R3 low-signature prepared-reception — define the maturity correctly
+
+Terminology guard:
+- “秘密の岬” was conversational user shorthand, not a pre-existing Branch codename or doctrinal term.
+- Use **R3 low-signature prepared reception point / belt** in the ledger.
+- It need not be geographically unknown to U.S. intelligence. The relevant uncertainty is its actual preparedness, redundancy, handling capacity, activation timing and inland connections.
 
 Do NOT model a secret deep-water port.
 
@@ -345,7 +350,7 @@ The useful hidden reception model is a **low-signature prepared cove / cape comp
 - signal path;
 - route to concealed first cache / assembly area.
 
-### R3 — “Secret Cape” class
+### R3 — R3 low-signature prepared-reception class
 - multiple usable craft lanes;
 - wreck bypass;
 - heavy-Daihatsu / ramped-craft lane where geography permits;
@@ -389,7 +394,7 @@ Given:
 
 selected interpretation:
 
-**Saipan has at least one R3-class “Secret Cape” candidate system and multiple R2-class alternates by June 1944.**
+**Saipan has at least one R3-class R3 low-signature prepared-reception candidate system and multiple R2-class alternates by June 1944.**
 
 Exact location / named cape / craft lane remains OPEN.
 
@@ -454,7 +459,7 @@ The 26-Feb U.S. Marianas raid produced broad useful photography of:
 - road / harbor axes;
 - visible construction.
 
-Therefore the “Secret Cape” is not invisible by magic.
+Therefore the R3 low-signature prepared-reception is not invisible by magic.
 
 Its survivability comes from:
 - low permanent signature;
@@ -504,7 +509,7 @@ Carry forward:
 - tanks follow the route-opening clock;
 - amphibious tanks = useful niche second/third-cycle fire-support assets, **not** an LVT substitute;
 - shipborne / island-local / inter-island craft are separate wallets;
-- Saipan June reception maturity = **at least one R3 “Secret Cape” candidate + multiple R2 alternates**, exact sites OPEN;
+- Saipan June reception maturity = **at least one R3 R3 low-signature prepared-reception candidate + multiple R2 alternates**, exact sites OPEN;
 - Tinian = R2–R3 receiving / shuttle node;
 - Guam = distributed R2 emergency reception;
 - reverse-landing atlas / hydrographic packets / night approach rehearsal are selected institutional products;
