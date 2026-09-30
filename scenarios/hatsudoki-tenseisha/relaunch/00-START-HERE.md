@@ -1,8 +1,8 @@
 # 発動機転生者・リランチ正本
 
 > **Authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-07 約18:00（Midway base-restoration working clock）**
-> **Checkpoint:** ミッドウェー占領翌日夕刻。Easternに3,500–4,000ft級の狭いfighter laneを仮復旧し、最初の4–6機が着陸。Enterprise prizeはShinkoku towへ移行済み
+> **Canonical historical clock:** **1942-06-10 約18:00（Midway consolidation / Enterprise salvage working clock）**
+> **Checkpoint:** ミッドウェー占領後4日。Midwayは限定self-defending fighter baseへ移行、EnterpriseはAkashi technical support下の本格salvage towへ移行
 > 旧 `current/`・`archive/` はpre-relaunch REFERENCE。
 > canonical clockより未来の議論は、その時点で開始済みのresearch / requirement / planning / forward-studyとしてのみ保持し、後年結果をactor knowledgeへ逆流させない。
 
@@ -114,42 +114,53 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**Main decision clock: 1942-06-07 約18:00。**
+**Main decision clock: 1942-06-10 約18:00。**
 
 CLOSED central:
-- Midway Atoll tactical capture 6/6 ~20:30。
-- Enterprise prize parallel ledger:
-  - 6/5 Shinkoku Maru + Kokuyo Maru + Akigumo rendezvous
-  - 6/5 15:30–16:30 Shinkoku primary towへ移行
-  - 6/6 09:00級 Chikuma released
-  - 6/6 20:30 list 20–22°、tow 2.8–3.2kt、capture areaから約100–115 nmi W–WSW
-- Midway captured-base restoration:
-  - 11th / 12th Construction Units surviving work force ~1,900–2,200 central
-  - Hokuriku Maru lossでheavy equipment / stores 25–35%級減
-  - Sand fuel system badly damaged / sabotaged、captured fuel未使用
-  - SCR-270は技術調査対象で、6/7 operational radarには戻らない
-  - seaplane searchはChitose / Kamikawa supportで6/7 dawnから再開
-  - **6/7 16:30–18:00、Easternの3,500–4,000ft narrow fighter laneへ最初の4–6 fightersが着陸**
-- US immediate response:
-  - Saratogaは6/6 Pearl着、6/7 direct Midway reliefには出さない
-  - WaspのPacific transferは史実どおり既に進行中
-  - submarinesが最も即効性のあるinterdiction asset
-  - loss of EasternでMidway-based B-17 strike generationは消滅、PBY reconnaissance densityも低下
+- Midway:
+  - main 5,300-ft runwayはnearly full-length narrow lane
+  - shore fighters **21–24、central 22**
+  - B5N local utility/search **4–6**
+  - Chitose / Kamikawa seaplane search
+  - no functioning radar
+  - Japanese drum fuel / pumpsが主、captured fuelはroutine use未承認
+  - classification: **limited self-defending forward fighter base**
+- 6/8 US submarine attack:
+  - **Keiyo Maru 1 effective torpedo hit、survives / withdraws**
+  - aviation logistics local loss 20–30% PROVISIONAL
+- carrier disposition:
+  - **2+2 split CLOSED**
+  - Soryu / Hiryu forward with Zuiho central
+  - Shokaku / Zuikaku westward mobile reserve / replenishment central
+- Enterprise:
+  - 6/8–9 Akashi advance repair party arrival
+  - 6/10 Akashi main repair ship rendezvous
+  - list **16–18°**
+  - reinforced tow **3.5–4.0kt**
+  - main power / propulsion / steering dead
+  - Shinkoku primary tow / Kokuyo reserve
+  - continue west toward Wake support sphere; grounding not used
+- 6/9 PBY gives US independent confirmation that a US carrier hull is under Japanese tow
+- Saratoga direct Midway counterattackなし、Wasp Pacific transfer continues
+- transport spelling: **Hokuroku Maru** を採用
 
 次の論点:
-1. **6/8–6/10 Midway self-defense transition**
-   - 12–18 fighter級shore detachment
-   - runway full-width / bomber-capable restoration
-   - fuel / AA / coast-defense reconstruction
-   - submarine attacks on unloading / support shipping
-2. **Enterprise prize 6/7–6/9**
-   - Akashi / repair-team rendezvous
-   - tow speed / list / hull survey
-   - route toward Wake / Truk support sphere
-3. **US counteraction**
-   - Saratoga Hawaiian defense / possible later raid
+1. **6/11–6/15 Midway consolidation**
+   - radar / robust fuel / AA / coast defense
+   - bomber-capable operations
+   - when CarDiv 2 / Zuiho can reduce cover
+2. **Enterprise westward salvage route**
+   - Akashi survey / tow endurance
+   - Wake-axis support
+   - submarine interception
+3. **Akagi / Kaga withdrawal**
+   - Wake-area support / onward repair route
+4. **US strategic response**
+   - Saratoga / Wasp
    - submarine concentration
-   - PBY reacquisition of Kido Butai / Enterprise
-   - TF16 survivor return
-4. **Akagi / Kaga / four-carrier post-MI disposition**
+   - PBY tracking
+5. **Enterprise capture evidence**
+   - technical photo record
+   - domestic / foreign press release timing
+   - no operational “parade” back toward Midway
 
