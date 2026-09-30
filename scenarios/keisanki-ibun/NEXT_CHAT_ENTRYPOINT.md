@@ -27,7 +27,8 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/72_20JUN_2000_2130_RELIEF_CONTACT_REPLAY_WORKING_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/73_20JUN_2130_2345_NISSHIN_UNLOADING_REPLAY_WORKING_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/72_20JUN_2000_2130_RELIEF_CONTACT_REPLAY_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/71_20JUN_DD7_NISSHIN_RECEPTION_FORMATION_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/70_20JUN_NAVAL_VS_ISLAND_FIRE_COUNTERATTACK_REPROCESS_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/69_20JUN_US_CASUALTY_COMPOSITION_FUNCTIONAL_LOSS_WORKING_v001.md` for medical/disposition taxonomy
@@ -45,7 +46,10 @@ Supporting detail:
 - `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/67_20JUN_BOMBARDMENT_QUEUE_AND_TOTAL_THROW_WEIGHT_WORKING_v001.md`
 
 Current task:
-- **file 72 is the latest WORKING event replay through ~21:30 on 20 Jun. File 71 controls relief formation; file 70 casualty/effect boundaries; file 68 bombardment/observation/regeneration mechanics.**
+- **file 73 is the latest WORKING event replay through ~23:45 on 20 Jun. File 72 controls the 20:00–21:30 contact phase; file 71 relief formation; file 70 casualty/effect boundaries.**
+- carry file-73 center: Nisshin reaches the transfer band ~22:35–22:55, takes only light near-miss/handling damage, receives ~35–45 min useful unloading, then withdraws ~23:30–23:40 as U.S. radar/Lee pressure tightens; Saipan useful landed = ~490–690 personnel and ~280–440 t cargo total (DD + Nisshin); Tinian separately ~160–240 personnel + ~50–90 t;
+- carry file-73 damage: earlier Type-93-hit U.S. DD closes as total operational loss; one U.S. CA light-moderate damage; one Japanese fast-cover CA light-moderate damage; one D1 DD medium damaged, one cargo DD mission-kill at ~18–22 kt after partial unload, one Tinian DD light-moderate damage; no BB direct hit centered;
+- carry file-73 observation/fire guard: inner island observation/coast fire materially supports receiving but accumulates U.S. counterbattery suppression; U.S. ground artillery continues recovery and by ~23:30 broader Aslito west/north deficit is single-digits to low-teens percent class, which is a major reason Nisshin cuts off before midnight;
 - carry file-72 center: U.S. TG58.7 forward intercept = 2 CA + 6 DD (4 main direct axis, 2 southern/Tinian axis), Lee retains 7 BB + 2 CA + ~11 DD; U.S. SG gets first clean contact; D1 torpedo attack mission-kills one U.S. DD; one Japanese D1 DD takes medium damage, one D2/D3 DD light damage; no CA/BB direct hit centered; 1–2 Japanese coast/direct-fire cells are locally suppressed by U.S. counterbattery;
 - carry file-72 observation guard: before U.S. firing Japan has only a bounded area estimate; after muzzle flashes, DD reports, Tapotchau/coast OP and paid water-air/illumination rapidly improve the shared track; coast guns only become direct naval factors inside ~7–9 nmi; field artillery attacks land-support/receiving interdiction channels, not moving ships;
 - carry file-72 decision: at ~21:25–21:30 Nisshin receives a **conditional RELEASE**, attaches its two already-paid DD escorts, begins the 26–28 kt eastward approach, and remains roughly low-30s to mid-40s nmi from Saipan at 21:30; no unloading yet.
