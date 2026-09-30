@@ -855,6 +855,88 @@ Surface command / covering group:
 - したがって決定的なdamage rollは16:30–16:50へ移す方が、史実のlong-range daylight gunnery performanceと整合する。
 
 
+#### 10.0G 16:30–16:50 — tow-break phase — PROVISIONAL central
+
+この20分の日本側作戦目的を「米4CA撃滅」ではなく、**Enterprise towを切る**ことへ明確化する。
+
+**historical anchors**
+- KomandorskiではNachiは21,000ydからsecond salvo級で近い夾叉を出し、Salt Lake Cityもthird/fourth salvoでNachiへ命中した。距離が詰まれば初動よりhit probabilityは上がる。
+- 一方、同海戦で日本側はType 93を42本発射して0 hit。alert daylight targetへの長距離魚雷は命中そのものより回避強制効果が大きい。
+- GuadalcanalではKirishimaを含む日本側集中砲撃がSouth Dakotaのradar / director / communicationsを短時間で破壊したが、356mm 1発が即座に艦を沈めたわけではない。よって巡洋艦への356mm hitも「必ず一発轟沈」にはしない。
+
+**16:30–16:35**
+- first Type 93 fan回避で米covering lineは散開し、fire-control solutionが一時悪化。
+- 米側はEnterpriseとの間を開けないため、Pensacola groupがwestward / southwestwardへ短いcounter-turnを入れ、**12–15kyd級で一度主砲火力を最大化**する。
+- このturnでNew Orleans級3隻の前部6門とPensacolaの前部砲塔も短時間unmaskされる。
+- 日本側はこの瞬間にKirishimaを14–16kyd級へ保ち、Tone/Chikuma/DDをさらに左右へ出す。
+
+**16:35–16:45 gunnery central**
+- 10分間のfuller-broadside intervalにより、opening phaseよりdirect hit数は増える。
+- central additional hits:
+  - **米8-inch → 日本: 3–5 hit**
+  - **日本8-inch → 米: 1–3 hit**
+  - **Kirishima 356mm → 米CA: 0–1 hit、central 1**
+- central placement:
+  - **Tone**: 追加8-inch 2発級。1発がforward superstructure / director support、1発がupper deck。main director degraded、局所火災。速力28–30kt級へ抑えるがmission killではない。
+  - **Chikuma**: 追加8-inch 1発級。boat / aircraft deck。torpedo bank誘爆は避けるcentral。35kt近い機動は維持。
+  - 日本DD: splinter / near miss中心。1隻に5-inch / 8-inch light damageを置くsensitivityはあるがcentral major damageなし。
+  - **Pensacola**: Kirishima 356mm 1発をcentral candidate。forward-upper works / turret-adjacent areaへ入る。AP shellは薄い巡洋艦構造を貫通し得るため、magazine / machinery直撃の即沈没branchではなく、**command / director / one turret / firesに重い損害、速力20–25kt維持**をcentralとする。
+  - Spruance survival / command continuityはcentralで維持。Pensacolaのcombat efficiencyは大幅低下し、flag transferを再検討する。
+  - Vincennes / Minneapolis / New Orleansへ日本8-inch 1–2発追加。局所火災・AA/secondary loss級、major propulsion lossなしcentral。
+
+**second Type 93 opportunity — tow groupを主目標に含める**
+- first spread参加艦の即時reloadを無料にはしない。
+- centralでは**first spreadで未発射のDD2隻（16 ready torpedoes）**を主力にし、射角を得たTone/Chikumaの残存bank / 未使用bankを加えて**16–24本級**のsecond spreadとする。
+- 発射時刻 **16:36–16:42**。
+- 目標は二層:
+  1. 米CA lineのfuture position
+  2. その東5–8 nmiの**Northampton + Enterprise tow group**
+- Enterpriseは自力回避不能、Northamptonもtow中は回避自由度が低い。米側がtorpedo launch / tracksを認知した場合、Northamptonの合理的措置は**towlineを捨てて単艦回避**である。
+
+**16:42–16:48 — tow-break**
+- torpedo impact expectation自体は控えめにする。
+- 米coverへのsecond spread: **0 hit central、0–1 band**。
+- tow group: Enterprise / Northamptonへの**0–1 hit band、central 0**。
+- しかしoperational resultは命中と別:
+  - Northamptonはtorpedo warningで**towをcut / slip — CENTRAL**。
+  - Enterpriseは再びdead in waterで取り残される。
+  - close DDはsmoke / pickup / ASWではなくtorpedo evasionへ移り、救難態勢が崩れる。
+- tow再設定には平時でも長時間が必要で、surface battle中の即時再曳航は不可。従って**16:45級でEnterprise salvage movementは事実上停止**する。
+
+**16:45–16:50**
+- 米covering forceはEnterprise救出の本来目的を達成できなくなり、次の選択へ移る。
+  - Enterprise近傍でstand and fightし、日本隊を完全に押し返す
+  - coverを東へ後退させ、Enterpriseを放棄 / scuttle準備へ切り替える
+- Pensacolaが356mm hitでfire-control / command degradedなら、米側が一枚岩でcounterattackを続ける難度は上がる。
+- 日本側はToneのdamageで一方のflank能力を落とすが、Chikuma + DD2以上がまだ高速でEnterprise側へ圧力を継続可能。
+
+**Hornet in parallel**
+- 16:00前後から米DDのscuttle torpedoが入っている。
+- 16:30–16:50でもHornetは浮存central。米DDがsecond scuttle attackを続けるには日本水上隊へ背を向けて残留する必要があり、survivor pickup完了後は撤退圧力が強い。
+- よってHornetは**damaged / abandoned / scuttling incomplete**のまま日本側接触圏へ残るcentral。
+
+**16:50 central force state**
+- 日本:
+  - Kirishima: combat-capable。
+  - Tone: moderate topside / director damage、28–30kt級。
+  - Chikuma: light damage、combat-capable。
+  - DD5: combat-capable central。first/second launch groupsでready torpedo inventoryは大きく減少。
+- 米:
+  - Pensacola: **heavy topside / fire-control damage from 356mm central**、20–25kt級。combat-capableだがcommand shipとして劣化。
+  - Vincennes: light–moderate 8-inch damage。
+  - Minneapolis / New Orleans: light damage or intact central。
+  - Atlanta / DD: major damageなしcentral。
+  - Northampton: intact or near-intact but **tow cut**。
+- Enterprise: dead in water、tow abandoned、crew / salvage party still aboard unless new abandon order issued。
+- Hornet: abandoned, scuttle-damaged, still afloat central。
+
+**operational conclusion at 16:50**
+- 日本側はまだ米covering forceを撃滅していない。
+- しかし主目的の一つである**Enterprise tow break**を達成し、二空母とも戦場に固定した。
+- 米側はここから「Enterpriseを救う戦闘」ではなく、**Enterpriseを敵に渡さないための戦闘 / 退艦 / scuttle**へ目的を切り替える圧力が極めて高い。
+- 次gateは、Spruanceが何時にEnterprise放棄を命じるか、またPensacolaからどの艦へflagを移すか、そして日本側が米coverを追うのかEnterpriseへ直接DD/CAを走らせるのか、である。
+
+
 ### 10.1 まず再判定する論点
 
 **A. 米側は本当に両空母を早期放棄するか**
