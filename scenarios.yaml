@@ -44,8 +44,8 @@ scenarios:
     status: active
     authority_version: "Relaunch R3"
     canonical_clock: "1942-06-04T18:45:00-10:30"
-    clock_state: "relaunch-r3; Midway surface pursuit advanced through 1942-06-04 18:45; Akagi/Kaga flight operations disabled but withdrawing under escort; four Japanese carriers operational; Enterprise captured afloat after failed US scuttle; Hornet final sinking CLOSED; next gate Enterprise prize stabilization/tow plus night air/submarine risk and Midway second-strike disposition"
-    frontier: "1942-06-04 18:45級。EnterpriseはPhelpsの8 Mk15自沈斉射（CLOSED: 5 contact / 3 high-order）後も浮存し、日本側がprize secured afloat。Hornetは救艦不能として日本側finish torpedoで最終沈没確定。次はEnterpriseのlist 25-28度級・dead power状態を夜間に安定化し、筑摩/駆逐艦/後続支援で曳航できるかを監査する。同時にMidway航空・米潜水艦・赤城/加賀退避・四健在空母CAP/護衛・Midway第二撃を両立させる"
+    clock_state: "relaunch-r3; main decision clock remains 1942-06-04 18:45; Enterprise captured afloat and Hornet sinking CLOSED; Enterprise first-night forward audit CLOSED through 1942-06-05 06:00 without leaking future outcome into actor knowledge; current focus returns to concurrent Midway/four-carrier 13:30-18:45 aviation ledger and second-strike window"
+    frontier: "Main clock 1942-06-04 18:45。Enterprise prizeはforward auditで6/5 06:00まで筑摩1.5-2.5kt tow・list 24-26度級・PBY/sub hitなしcentralをCLOSEDしたが、この結果を18:45 actor knowledgeへ逆流させない。現在はMidway側へ戻り、13:30-18:45の蒼龍/飛龍/翔鶴/瑞鶴のserviceable aircraft・帰還機混在・兵装/燃料・deck congestionを再構築し、午後第二撃の発進窓と島側の残存航空/runway/fuel/AA/radar/diverted aircraftを閉じる。その後night dispositionと翌朝first-light strikeへ進む"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-ledger-through-midway-surface-pursuit-enterprise-capture-1942-06-04-1845-checkpoint"
+    source_import: "relaunch-r3-continuity-ledger-through-enterprise-first-night-forward-audit-and-midway-parallel-return-1942-06-04-1845-main-clock"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
