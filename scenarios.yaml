@@ -43,9 +43,9 @@ scenarios:
     title: "発動機転生者"
     status: active
     authority_version: "Relaunch R3"
-    canonical_clock: "1942-06-15T18:00:00-10:30"
-    clock_state: "relaunch-r3; advanced through 1942-06-15 18:00; Midway usable forward air base and Enterprise special-prize protection doctrine CLOSED central; Enterprise list 12-14deg under Akashi-supported Shinkoku tow 4.0-4.5kt approaching Wake support sphere; next gate 6/16-6/20 Wake-support transition, submarine interception, Akagi/Kaga onward route, Midway maturation, US regrouping, and capture-evidence release"
-    frontier: "1942-06-15 18:00級。Enterpriseはspecial-prize扱いだがfleet survival優先。radio silence、OTSU型欺瞞、40-60nmi dogleg、Shokaku/Zuikaku distant air umbrella、DD4 ASW screen、技術情報別送で保護。list 12-14度、Shinkoku tow 4.0-4.5kt、Wake support sphereまで150-220nmi級。Midwayはfighter約30+B5N8-10+small D3A+Zuiho/seaplaneでusable forward base、radar未復旧。USは曳航を知るがcontinuous trackなし。次は6/16-20 Wake transition、Akagi/Kaga、Midway maturation、US regrouping、Enterprise証拠写真公表 timingを閉じる"
+    canonical_clock: "1942-06-20T18:00:00-10:30"
+    clock_state: "relaunch-r3; advanced through 1942-06-20 18:00; Enterprise passed Wake support sphere without lagoon entry, Shinkoku torpedo-damaged and tow transferred to Genyo, prize now bound for Kwajalein secure anchorage under Akashi support; Midway self-defending fighter/search base; next gate 6/21-6/26 Kwajalein arrival/sheltered salvage, Marshall-approach submarine threat, Midway maturation, US carrier rebuild, and second-stage capture verification"
+    frontier: "1942-06-20 18:00級。EnterpriseはWake lagoonへ入らずoffshore supportを受け、6/17 US submarine Mk14 1 high-order hitでShinkoku Maruがtow duty離脱。Genyo Maru primary tow 3.7-4.2kt、Akashi support継続、Kwajalein ETA 6/24-26。Midwayはshore fighter約36+B5N10-12+D3A6-9+seaplane searchのself-defending base、radarなし。6/19-20 selected capture photosを外電公開。次はKwajalein secure anchorage salvage、Marshall approach submarine threat、Midway maturation、Saratoga/Wasp rebuild、physical foreign verificationを閉じる"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-ledger-through-enterprise-special-prize-protection-midway-base-1942-06-15-1800"
+    source_import: "relaunch-r3-continuity-ledger-through-enterprise-wake-transition-kwajalein-route-1942-06-20-1800"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
