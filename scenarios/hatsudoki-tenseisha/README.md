@@ -5,7 +5,7 @@
 
 > **Navigation status:** current router
 > **Current authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-10T18:00:00-10:30**
+> **Canonical historical clock:** **1942-06-15T18:00:00-10:30**
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 
@@ -23,7 +23,7 @@
 
 ## 現checkpoint
 
-**1942-06-10 約18:00、Midway限定自衛基地化・Enterprise本格salvage。**
+**1942-06-15 約18:00、Midway usable forward base・Enterprise special-prize protection。**
 
 - 赤城・加賀は航空作戦不能だが船体は生存し、自航退避中。
 - 蒼龍・飛龍・翔鶴・瑞鶴は健在。
@@ -34,24 +34,24 @@
 
 ## current frontier
 
-1942-06-10 約18:00。
+1942-06-15 約18:00。
 
 CLOSED central:
-- Midway shore fighters 21–24、B5N 4–6、水偵search、no operational radar
-- Midway = limited self-defending forward fighter base
-- Keiyo Maru: 6/8 submarine torpedo hit、survives / withdraws
-- carrier cover = 2+2 split。Soryu/Hiryu forward、Shokaku/Zuikaku westward central
-- Enterprise = Akashi technical support下、list 16–18°、Shinkoku tow 3.5–4.0kt
-- 6/9 PBYがUS carrier hull under towを独立確認
-- Saratoga direct Midway counterattackなし
-- transport spelling = Hokuroku Maru
+- Midway: fighter約30、B5N 8–10、small D3A detachment、Zuiho / seaplane support、radar未復旧
+- Soryu close-cover離脱 6/13、Hiryu 6/15 central
+- Enterprise: special-prize扱い
+- protection = radio silence / deception traffic / dogleg / Shokaku-Zuikaku distant umbrella / DD4 ASW
+- technical-intelligence packet別送済み
+- Enterprise list 12–14°、Shinkoku tow 4.0–4.5kt、Akashi support、Wake support sphereまで150–220 nmi級
+- US knows prize is under tow but lacks continuous track
+- detailed photographic proof public release deferred for OPSEC
 
 次は、
-1. 6/11–6/15 Midway base maturation
-2. Enterprise Wake-axis salvage / submarine risk
-3. Akagi / Kaga withdrawal
+1. 6/16–6/20 Wake-support transition
+2. Akagi / Kaga onward withdrawal
+3. Midway radar / fuel / bomber maturity
 4. Saratoga / Wasp / submarine / PBY US response
-5. Enterprise capture写真・外電公表 timing
+5. Enterprise capture photos / foreign verification timing
 
 ## Authority / status規律
 
