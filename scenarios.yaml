@@ -43,9 +43,9 @@ scenarios:
     title: "発動機転生者"
     status: active
     authority_version: "Relaunch R3"
-    canonical_clock: "1942-06-20T18:00:00-10:30"
-    clock_state: "relaunch-r3; advanced through 1942-06-20 18:00; Enterprise passed Wake support sphere without lagoon entry, Shinkoku torpedo-damaged and tow transferred to Genyo, prize now bound for Kwajalein secure anchorage under Akashi support; Midway self-defending fighter/search base; next gate 6/21-6/26 Kwajalein arrival/sheltered salvage, Marshall-approach submarine threat, Midway maturation, US carrier rebuild, and second-stage capture verification"
-    frontier: "1942-06-20 18:00級。EnterpriseはWake lagoonへ入らずoffshore supportを受け、6/17 US submarine Mk14 1 high-order hitでShinkoku Maruがtow duty離脱。Genyo Maru primary tow 3.7-4.2kt、Akashi support継続、Kwajalein ETA 6/24-26。Midwayはshore fighter約36+B5N10-12+D3A6-9+seaplane searchのself-defending base、radarなし。6/19-20 selected capture photosを外電公開。次はKwajalein secure anchorage salvage、Marshall approach submarine threat、Midway maturation、Saratoga/Wasp rebuild、physical foreign verificationを閉じる"
+    canonical_clock: "1942-06-26T18:00:00-10:30"
+    clock_state: "relaunch-r3; advanced through 1942-06-26 18:00; Enterprise entered Kwajalein lagoon and sheltered salvage under Akashi+Urakami CLOSED central after a 6/23 Mk14 contact dud; Midway radar-assisted forward base with ~44 fighters and limited land-attack capability; Wasp redirected toward Pearl to rebuild a Saratoga+Wasp carrier nucleus; next gate 6/27-7/3 Kwajalein repair/tow decision, US carrier concentration, Midway maturation, and exploitation/verification of Enterprise"
+    frontier: "1942-06-26 18:00級。Enterpriseは6/23米潜水艦Mk14 1本が船体へ接触するも不発、6/25 Kwajalein lagoonへ安全入泊。Akashi+Urakami Maru sheltered salvageでlist 7-9度、主機/操舵/ship main power dead、5kt級next towはPROVISIONAL。Midwayはfighter42-46（central44）+B5N12-15+D3A8-12+land-attack6級+fixed early-warning radar1基でradar-assisted forward base。SaratogaはHawaii、Waspは6/24-25 San Diego発Pearl向けへ転用。次は6/27-7/3 Enterprise repair/tow certification、Saratoga-Wasp集結、Midway成熟化、Enterprise技術/宣伝第二段階を閉じる"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-ledger-through-enterprise-wake-transition-kwajalein-route-1942-06-20-1800"
+    source_import: "relaunch-r3-continuity-ledger-through-enterprise-kwajalein-sheltered-salvage-midway-radar-1942-06-26-1800"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
