@@ -5,7 +5,7 @@
 
 > **Navigation status:** current router
 > **Current authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-20T18:00:00-10:30**
+> **Canonical historical clock:** **1942-06-26T18:00:00-10:30**
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 
@@ -23,7 +23,7 @@
 
 ## 現checkpoint
 
-**1942-06-20 約18:00、Enterprise Kwajalein-bound・Midway self-defending base。**
+**1942-06-26 約18:00、Enterprise Kwajalein sheltered salvage・Midway radar-assisted base。**
 
 - 赤城・加賀は航空作戦不能だが船体は生存し、自航退避中。
 - 蒼龍・飛龍・翔鶴・瑞鶴は健在。
@@ -34,25 +34,34 @@
 
 ## current frontier
 
-1942-06-20 約18:00。
+1942-06-26 約18:00。
 
 CLOSED central:
-- Enterprise: Wake lagoon entryなし、Wake offshore support後Kwajaleinへ
-- 6/17 Shinkoku Maru torpedo hit、tow duty離脱
-- Genyo Maru primary tow 3.7–4.2kt、Akashi support
-- Kwajalein ETA 6/24–6/26
-- Midway: fighter約36、B5N 10–12、D3A 6–9、水偵search、radarなし
-- Kaga本土修理へ西進、AkagiもTruk応急修理後西進
-- Saratoga温存、Wasp Pacific transfer継続
-- 6/19–20 selected Enterprise capture photosを外電公開
-- physical foreign inspectionはsecure anchorage到着後
+- Enterprise:
+  - 6/23 Mk14 contact dud
+  - 6/25 Kwajalein lagoonへ安全入泊
+  - Akashi + Urakami Maru sheltered salvage
+  - list 7–9°
+  - main propulsion / steering / ship main power dead
+  - 5kt-class next towはPROVISIONAL
+- Midway:
+  - fighters 42–46、central 44
+  - B5N 12–15
+  - D3A 8–12
+  - land-attack 6級
+  - fixed early-warning radar 1基 operational
+  - radar-assisted forward base
+- Saratoga = Hawaii
+- Wasp = 6/24–25 San Diego発Pearl向けへ転用
+- selected Enterprise photos already public
+- foreign physical inspectionはKwajaleinでは行わない
 
 次は、
-1. Enterprise Kwajalein secure anchorage arrival / sheltered salvage
-2. Marshall approach submarine threat
-3. Midway radar / fuel / bomber maturity
-4. Saratoga / Wasp US carrier rebuild
-5. Enterprise physical verification / propaganda second stage
+1. 6/27–7/3 Enterprise sheltered repair / Truk tow decision
+2. Saratoga + Wasp Pearl concentration
+3. Midway fuel / radar / land-attack maturity
+4. Akagi / Kaga major-yard repair timeline
+5. Enterprise technical / propaganda exploitation second stage
 
 ## Authority / status規律
 
