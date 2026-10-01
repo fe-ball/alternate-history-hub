@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-09-30"
+updated: "2026-10-01"
 
 scenarios:
   asai:
@@ -27,8 +27,8 @@ scenarios:
     status: active
     authority_version: "Branch B v100"
     canonical_clock: "1944-06-16T14:15"
-    clock_state: "canonical-anchor-only; authority-remains-1944-06-16T14:15; saipan-ground-approved-through-1944-06-16-dawn; post-1415-working-not-authority; 10Jun-Marianas-resident-and-regional-movable-air-wallet-reopened-before-air-combat-replay; tf58-asw-meta-reaudit-still-mandatory-before-post1415-promotion; china-1944-05-29_to_06-14-detail-gap"
-    frontier: "FORAGER正本は1944-06-16 14:15据置。次チャットはAUDIT_RESET_2026-09-25/88_NEXT_CHAT_10JUN_MARIANAS_REGIONAL_AIR_MOBILITY_WALLET_REAUDIT_v001.mdを入口とし、航空戦再演の前に1944-06-10時点のマリアナ常駐航空戦力と、Bonins/Palau/Yap/比島等周辺からJ1/J2/J3警戒で実際に呼び戻し・フェリー可能な航空戦力をphysical/serviceable/crewed/MR/immediate、命令、移動時間、整備・予備発動機、燃料、受入飛行場、供出元機会費用まで分離して閉じる。史実Biak/KONによるマリアナ航空兵力抽出は現行Branchへ自動継承しない。旧6/10 fighter143–176 / total192–248 / late-Zui-sei41–49はREOPEN CANDIDATEで、代替値を先取りしない。第一機動艦隊航空は実際の陸上移管がない限り島嶼戦力へ二重計上しない。10日walletが閉じるまで11日TF58 sweepを再演しない。TF58全体ASWメタ監査はpost-14:15正本化前の必須gateとして維持"
+    clock_state: "canonical-anchor-only; authority-remains-1944-06-16T14:15; saipan-ground-approved-through-1944-06-16-dawn; post-1415-working-not-authority; 10Jun-Marianas-air-wallet-selected-working-plus-sea-disposition-and-contingency-fast-lift-preposition-audit-before-air-combat-replay; tf58-asw-meta-reaudit-still-mandatory-before-post1415-promotion; china-1944-05-29_to_06-14-detail-gap"
+    frontier: "FORAGER正本は1944-06-16 14:15据置。次チャットはAUDIT_RESET_2026-09-25/89_NEXT_CHAT_10JUN_MARIANAS_AIR_SEA_CONTINGENCY_TRANSPORT_PREPOSITION_v001.mdを入口とする。6/10航空M0はSELECTED WORKINGでphysical296–372 / serviceable252–320 / crewed232–297 / MR200–266 / immediate125–174、fighter MR152–194。J2までにPalau/Yapから北送した8–14 MR級はM0へ包含し二重計上しない。6/10以後のM1はPalau/Yap追加3–6 MR + Bonins6–11 MR = 9–17 MR級、Davao/比島等M2は0中心OPEN、第一機動艦隊航空は別財布。航空戦再演前に海側配置を再監査し、J3～6/10でNisshin、Chitose/Chiyoda候補、KON型cruiser/minelayer/landing-ship mission class、6–8 relief-convertible DD slots、Saipan/Tinian/Guam local craft/receptionをMarianas contingency liftとして事前準備できるか、個艦所在・燃料・護衛/ASW・積荷・Army payload・受入・米ISR機会費用まで閉じる。これはSaipanへの即時突入命令ではなく、上陸地点未確定の段階でのfreeze/forward-concentration preparation。史実Biak/KON drawdownは自動継承せず、後期files79–85は方法/代替監査としてのみ使い既成戦果を戻さない。Board A航空 + Board B海上contingencyが閉じるまで11日TF58 sweepを再演しない。TF58全体ASWメタ監査はpost-14:15正本化前の必須gateとして維持"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/keisanki-ibun"
     entrypoint: "scenarios/keisanki-ibun/README.md"
