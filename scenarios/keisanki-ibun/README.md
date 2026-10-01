@@ -11,7 +11,7 @@ Working canonical clock: **1944-06-16T14:15**
 Clock state: **OPEN / EVENT-SIMULATION**  
 Post-14:15 working syntheses exist, but are **NOT AUTHORITY** and do not advance the canonical clock.
 
-Current frontier: **Aircraft-type and shared-production audit, including a dedicated Shiun/Oyodo review; then naval ISR/defense/ASW re-audit and separate ground replay with bidirectional feedback. TF58 whole-system ASW remains mandatory before post-14:15 promotion.**
+Current frontier: **1944-06-10 Marianas coupled air-sea contingency audit. Aviation Board A is SELECTED WORKING; before replaying the 11-Jun TF58 sweep, close Sea Board B: actual June fleet/train disposition plus J3/10-Jun prepositioning of fast reinforcement / penetration transport, local craft and reception capacity. TF58 whole-system ASW remains mandatory before post-14:15 promotion.**
 
 ## 最新の監査・取消し指示（2026-09-25）
 
@@ -59,26 +59,29 @@ Approved through 1944-06-16T14:15:
 - U.S. deep carrier counterstrike range gate = HOLD / RED at 14:15.
 
 Current immediate analytical task:
-- inventory unresolved aircraft-type fields and reconnect retained technical/institutional baselines;
-- perform the dedicated Shiun/Oyodo audit without assuming either rescue or historical failure;
-- reconcile shared production, repair, spares, training and dated theater allocations;
-- complete the Japanese hull/equipment/refit/readiness and U.S. task/deck/escort ledgers;
-- re-audit bidirectional reconnaissance, air defense, ASW, naval combat and regeneration;
-- replay post-dawn Saipan ground action separately, accepting feedback in both directions.
+- read `current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/89_NEXT_CHAT_10JUN_MARIANAS_AIR_SEA_CONTINGENCY_TRANSPORT_PREPOSITION_v001.md` first;
+- retain the 10-Jun aviation Board A as SELECTED WORKING: M0 physical 296–372 / serviceable 252–320 / crewed 232–297 / MR 200–266 / immediate 125–174; fighter MR 152–194;
+- do not double-count the J2 Palau/Yap 8–14 MR class already folded into M0; post-10-Jun M1 remains 9–17 MR class and M2 remains 0-center / OPEN;
+- before the 11-Jun air replay, close Sea Board B: exact carrier/surface/train disposition; Nisshin and Chitose/Chiyoda roles; named KON-type fast-lift candidates; 6–8 relief-convertible DD contingency slots; local landing-craft/reception wallets; Army payload; fuel/escort/ASW/loading clocks; U.S. ISR consequences;
+- treat J3 (~8 Jun) as freeze/prepare and 10 Jun as forward-concentration preparation, not a Saipan penetration order because exact landing island/time is still unknown;
+- use files 79–85 only as working doctrine/feasibility inputs; do not import their later combat outcomes as current history;
+- keep First Mobile Fleet carrier aviation separate from island aviation unless an actual shore-transfer event occurs;
+- TF58 whole-system ASW meta-audit remains mandatory before any post-14:15 promotion.
 
 China 29 May–14 Jun detailed event sequence remains a parallel OPEN ledger and must not be inferred from the global date.
 
 ## Reading order
 
-1. [latest audit/reset instruction and source-lineage corrections](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_NEXT_CHAT_PROVENANCE_RECOVERY_2026-09-25.md)
-2. [v100 current read-first](current/00_CURRENT_AUTHORITY/00_READ_FIRST_CURRENT_V100_2026-09-21.md)
-3. [v100 full handoff](current/V100_ADDENDUM_2026-09-21/00_HANDOFF/00_READ_FIRST_V100_FULL_HANDOFF.md)
-4. [v100 supersession/status map](current/V100_ADDENDUM_2026-09-21/01_AUTHORITY/V100_SUPERSESSION_AND_STATUS_MAP.md)
-5. [ship/equipment/fleet re-audit resume](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_READ_FIRST_SHIP_EQUIPMENT_AND_FLEET_REAUDIT_2026-09-23.md)
-6. [v100 next frontier](current/V100_ADDENDUM_2026-09-21/04_RESUME/NEXT_FRONTIER_1944-06-16_1415.md)
-7. [v099 aircraft / Homare audit](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/01_AIRCRAFT_AUDIT_AND_HOMARE_POOL_1944H1.md)
-8. [v099 anti-magic method guard](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/03_USER_METHOD_GUARD_ANTI_MAGIC.md)
-9. retained v098/v097/v096 authority where not superseded.
+1. [10-Jun air-sea contingency handoff](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/89_NEXT_CHAT_10JUN_MARIANAS_AIR_SEA_CONTINGENCY_TRANSPORT_PREPOSITION_v001.md)
+2. [latest audit/reset instruction and source-lineage corrections](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_NEXT_CHAT_PROVENANCE_RECOVERY_2026-09-25.md)
+3. [v100 current read-first](current/00_CURRENT_AUTHORITY/00_READ_FIRST_CURRENT_V100_2026-09-21.md)
+4. [v100 full handoff](current/V100_ADDENDUM_2026-09-21/00_HANDOFF/00_READ_FIRST_V100_FULL_HANDOFF.md)
+5. [v100 supersession/status map](current/V100_ADDENDUM_2026-09-21/01_AUTHORITY/V100_SUPERSESSION_AND_STATUS_MAP.md)
+6. [ship/equipment/fleet re-audit resume](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_READ_FIRST_SHIP_EQUIPMENT_AND_FLEET_REAUDIT_2026-09-23.md)
+7. [v100 next frontier](current/V100_ADDENDUM_2026-09-21/04_RESUME/NEXT_FRONTIER_1944-06-16_1415.md)
+8. [v099 aircraft / Homare audit](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/01_AIRCRAFT_AUDIT_AND_HOMARE_POOL_1944H1.md)
+9. [v099 anti-magic method guard](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/03_USER_METHOD_GUARD_ANTI_MAGIC.md)
+10. retained v098/v097/v096 authority where not superseded.
 
 ## Clean aviation references
 
