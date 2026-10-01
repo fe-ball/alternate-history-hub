@@ -1,8 +1,8 @@
 # 発動機転生者・リランチ正本
 
 > **Authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-20 約18:00（Enterprise Kwajalein-bound / Midway self-defending-base working clock）**
-> **Checkpoint:** ミッドウェー占領後。EnterpriseはWake支援圏を通過しKwajaleinへ曳航中、Midwayはself-defending fighter/search baseへ移行
+> **Canonical historical clock:** **1942-06-26 約18:00（Enterprise Kwajalein sheltered-salvage / Midway radar-base working clock）**
+> **Checkpoint:** Enterpriseは6/25 Kwajalein lagoonへ安全入泊しAkashi＋Urakami Maruでsheltered salvage中。Midwayは固定早期警戒radarを持つforward baseへ移行
 > 旧 `current/`・`archive/` はpre-relaunch REFERENCE。
 > canonical clockより未来の議論は、その時点で開始済みのresearch / requirement / planning / forward-studyとしてのみ保持し、後年結果をactor knowledgeへ逆流させない。
 
