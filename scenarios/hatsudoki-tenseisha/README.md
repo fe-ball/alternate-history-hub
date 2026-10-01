@@ -5,7 +5,7 @@
 
 > **Navigation status:** current router
 > **Current authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-15T18:00:00-10:30**
+> **Canonical historical clock:** **1942-06-20T18:00:00-10:30**
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 
@@ -23,7 +23,7 @@
 
 ## 現checkpoint
 
-**1942-06-15 約18:00、Midway usable forward base・Enterprise special-prize protection。**
+**1942-06-20 約18:00、Enterprise Kwajalein-bound・Midway self-defending base。**
 
 - 赤城・加賀は航空作戦不能だが船体は生存し、自航退避中。
 - 蒼龍・飛龍・翔鶴・瑞鶴は健在。
@@ -34,24 +34,25 @@
 
 ## current frontier
 
-1942-06-15 約18:00。
+1942-06-20 約18:00。
 
 CLOSED central:
-- Midway: fighter約30、B5N 8–10、small D3A detachment、Zuiho / seaplane support、radar未復旧
-- Soryu close-cover離脱 6/13、Hiryu 6/15 central
-- Enterprise: special-prize扱い
-- protection = radio silence / deception traffic / dogleg / Shokaku-Zuikaku distant umbrella / DD4 ASW
-- technical-intelligence packet別送済み
-- Enterprise list 12–14°、Shinkoku tow 4.0–4.5kt、Akashi support、Wake support sphereまで150–220 nmi級
-- US knows prize is under tow but lacks continuous track
-- detailed photographic proof public release deferred for OPSEC
+- Enterprise: Wake lagoon entryなし、Wake offshore support後Kwajaleinへ
+- 6/17 Shinkoku Maru torpedo hit、tow duty離脱
+- Genyo Maru primary tow 3.7–4.2kt、Akashi support
+- Kwajalein ETA 6/24–6/26
+- Midway: fighter約36、B5N 10–12、D3A 6–9、水偵search、radarなし
+- Kaga本土修理へ西進、AkagiもTruk応急修理後西進
+- Saratoga温存、Wasp Pacific transfer継続
+- 6/19–20 selected Enterprise capture photosを外電公開
+- physical foreign inspectionはsecure anchorage到着後
 
 次は、
-1. 6/16–6/20 Wake-support transition
-2. Akagi / Kaga onward withdrawal
+1. Enterprise Kwajalein secure anchorage arrival / sheltered salvage
+2. Marshall approach submarine threat
 3. Midway radar / fuel / bomber maturity
-4. Saratoga / Wasp / submarine / PBY US response
-5. Enterprise capture photos / foreign verification timing
+4. Saratoga / Wasp US carrier rebuild
+5. Enterprise physical verification / propaganda second stage
 
 ## Authority / status規律
 
