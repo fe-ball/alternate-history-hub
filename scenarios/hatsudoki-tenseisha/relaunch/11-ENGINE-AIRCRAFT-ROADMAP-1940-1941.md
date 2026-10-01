@@ -145,6 +145,51 @@ The 13.2mm branch is accelerated by the 1937 九六式三号 experience:
 - O4/昴 is the real high-speed branch
 - useful but not the army’s sole mass fighter
 
+### Army next main / general fighter — CLOSED lineage, PROVISIONAL 1941 configuration
+
+**Why there is no mass-production “O4 Ki-43” branch**
+- 1937–39の陸軍は、海軍の九六式三号のような「暁搭載高速戦闘機を大きな部隊規模で先行運用した厚い足場」を持たず、まず成熟したO2C / 暁二一で長距離・野戦・量産主力を早く成立させる合理性が高かった。
+- Ki-43 / 九九戦は実際に約550km/h級、長航続、低い翼面荷重、野戦整備性を早期に成立させ、1939–40の主力として十分成功した。
+- したがって成立済みKi-43へ重いO4を押し込み、前胴・prop・CG・脚・翼・燃料系まで再設計して「同じKi-43」として量産する枝は採らない。
+- これは **O4 / 昴が陸軍主力戦闘機に不要という判断ではない**。O4能力を先に支払う別枝としてKi-44を使い、その実測を次期一般戦闘機へ戻す。
+
+**1940 strategic trigger**
+- 1940年にはO4 Ki-44が600km/h超級の高速・上昇・急降下構造を実機で示し、海軍側でもO4系艦戦の性能が見え始める。
+- 欧州・米英の新型戦闘機公表値 / 戦闘報告も、600km/h級・重武装・高速降下を「特殊迎撃機だけの領域」ではなく次世代主力の基準へ押し上げる。
+- よって陸軍は **Ki-43の航続・野戦性を保ちつつ、Ki-44のO4高速性・高速操縦・重武装余地・強い脚を統合する次期一般戦闘機** を1940年から具体化する。
+
+**competing branches — 1940**
+1. **Ki-43 O4 re-engine comparison:** 技術比較は行うが、必要変更が大きく、量産Ki-43の美点と共通性を失うため本命化しない。
+2. **Ki-44 general-fighter development:** 翼面積・燃料・combat flap・視界・野戦整備性・防御を増し、Ki-44の短航続 / 高着陸速度寄り性格を一般戦闘機側へ戻す。**central parent branch**。
+3. **clean-sheet / O5 growth study:** O5 / 峰の成熟を見越すが、O5完成待ちでO4機の開発を止めない。
+
+**project identity**
+- 出発点はKi-44の長距離 / 一般戦闘型でよい。
+- ただし翼、燃料系、脚取付、尾翼、胴体容積、防弾、武装配置を順次変更すると、既存Ki-44の派生として管理する意味が薄くなる。
+- **1941中に「Ki-44改」から独立した次期主力projectへ別機化する**のをcentralとする。
+- 史実Ki-84に近い役割・系譜を持つため分析上は **Ki-84-equivalent** と呼べるが、世界内の正式Ki番号 / 制式名は採用時までOPEN。
+
+**development clock — central**
+- **1940 Q2:** Ki-43後継 / 次期一般戦闘機performance study開始。
+- **1940 Q3:** Ki-43 O4比較とKi-44万能化案をwind-tunnel / layout / load study。後者を主案化。
+- **1940 Q4–1941 Q1:** 拡大翼・増燃料・防御余地を持つ「Ki-44一般戦闘型」試作機を設計 / 製作。
+- **1941 Q2:** O4 / 昴搭載初号機 first-flight central。
+- **1941 Q2–Q3:** 翼・燃料・尾翼・脚・高速操縦・整備性の改修で設計変更量が増え、独立projectへ移行。
+- **1941 Q3–Q4:** O4型の増加試作 / service trial。
+- **1941-12-07:** O4型は **late prototype / increase-prototype / service-trial stage**。まだ量産主力・戦域標準ではない。
+- O5 / 峰2000PS級が1941中に現実化したため、**峰搭載発展型のinstallation / structure studyとprototype preparationを並行**する。ただし峰待ちでO4型を停止しない。
+
+**1941 O4-version working envelope — PROVISIONAL**
+- normal combat mass: **3.0–3.2t級**
+- wing: **19.5–21m²級**
+- max speed: **620–635km/h級、clean upper sensitivity ~640**
+- range: Ki-44より明確に長く、Ki-43のlong-range field missionを大きく損なわないことを要求
+- radio standard
+- pilot armor / fuel protectionを初期重量予算へ入れる
+- armament: **12.7mm級をminimum core** とし、より重い機関砲growth provisionを持つ
+
+最終量産型の数値、O5型の完成時期、正式番号、最初の実戦部隊は1941-12-07時点ではまだOPEN。後のP-40等との実戦経験はこの既存projectへの要求修正として作用し、project開始原因へ逆流させない。
+
 **Ki-45**
 Initial universal heavy fighter is **CLOSED**:
 - 暁二一×2, 1150PS each
