@@ -1,8 +1,8 @@
 # 発動機転生者・リランチ正本
 
 > **Authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-10 約18:00（Midway consolidation / Enterprise salvage working clock）**
-> **Checkpoint:** ミッドウェー占領後4日。Midwayは限定self-defending fighter baseへ移行、EnterpriseはAkashi technical support下の本格salvage towへ移行
+> **Canonical historical clock:** **1942-06-15 約18:00（Midway mature-base / Enterprise Wake-approach working clock）**
+> **Checkpoint:** ミッドウェー占領後。Midwayはusable forward air baseへ移行、Enterpriseはspecial-prize protection下でWake support sphereへ接近
 > 旧 `current/`・`archive/` はpre-relaunch REFERENCE。
 > canonical clockより未来の議論は、その時点で開始済みのresearch / requirement / planning / forward-studyとしてのみ保持し、後年結果をactor knowledgeへ逆流させない。
 
@@ -114,53 +114,39 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**Main decision clock: 1942-06-10 約18:00。**
+**Main decision clock: 1942-06-15 約18:00。**
 
 CLOSED central:
-- Midway:
-  - main 5,300-ft runwayはnearly full-length narrow lane
-  - shore fighters **21–24、central 22**
-  - B5N local utility/search **4–6**
-  - Chitose / Kamikawa seaplane search
-  - no functioning radar
-  - Japanese drum fuel / pumpsが主、captured fuelはroutine use未承認
-  - classification: **limited self-defending forward fighter base**
-- 6/8 US submarine attack:
-  - **Keiyo Maru 1 effective torpedo hit、survives / withdraws**
-  - aviation logistics local loss 20–30% PROVISIONAL
-- carrier disposition:
-  - **2+2 split CLOSED**
-  - Soryu / Hiryu forward with Zuiho central
-  - Shokaku / Zuikaku westward mobile reserve / replenishment central
-- Enterprise:
-  - 6/8–9 Akashi advance repair party arrival
-  - 6/10 Akashi main repair ship rendezvous
-  - list **16–18°**
-  - reinforced tow **3.5–4.0kt**
+- Enterprise = special technical / propaganda prize。own fleet survivalがprize hull preservationより優先。
+- protection doctrine:
+  - actual prize group radio silence
+  - OTSU-style own-network deception traffic / logistics clutter
+  - 40–60 nmi south/southwest dogleg after PBY contact
+  - Shokaku / Zuikaku distant 80–120 nmi air umbrella through 6/13
+  - DD4 close ASW screen
+  - high-value technical information / photos / portable radar-electronics samplesを別送
+- Enterprise 6/15:
+  - list 12–14°
   - main power / propulsion / steering dead
-  - Shinkoku primary tow / Kokuyo reserve
-  - continue west toward Wake support sphere; grounding not used
-- 6/9 PBY gives US independent confirmation that a US carrier hull is under Japanese tow
-- Saratoga direct Midway counterattackなし、Wasp Pacific transfer continues
-- transport spelling: **Hokuroku Maru** を採用
+  - Shinkoku primary tow 4.0–4.5kt
+  - Akashi technical support
+  - no grounding
+  - Wake support sphereまで約150–220 nmi
+- Midway 6/15:
+  - shore fighters ~30
+  - B5N 8–10
+  - small D3A detachment
+  - Zuiho + Chitose/Kamikawa support
+  - no reliable operational radar
+  - usable forward air/recon base, not mature fortress
+- Soryu withdraws from close cover 6/13、Hiryu 6/15 central。
+- US knows Enterprise is being towed but lacks continuous track central。
+- detailed Enterprise photos are held for safer-corridor release; no operational parade。
 
 次の論点:
-1. **6/11–6/15 Midway consolidation**
-   - radar / robust fuel / AA / coast defense
-   - bomber-capable operations
-   - when CarDiv 2 / Zuiho can reduce cover
-2. **Enterprise westward salvage route**
-   - Akashi survey / tow endurance
-   - Wake-axis support
-   - submarine interception
-3. **Akagi / Kaga withdrawal**
-   - Wake-area support / onward repair route
-4. **US strategic response**
-   - Saratoga / Wasp
-   - submarine concentration
-   - PBY tracking
-5. **Enterprise capture evidence**
-   - technical photo record
-   - domestic / foreign press release timing
-   - no operational “parade” back toward Midway
+1. 6/16–6/20 Enterprise Wake-support transition
+2. Akagi / Kaga onward withdrawal / repair route
+3. Midway maturation — radar / fuel / bomber-capable ops
+4. US strategic regrouping — Saratoga / Wasp / submarines / PBY
+5. Enterprise capture evidence release — first official photos / foreign verification / OPSEC boundary
 
