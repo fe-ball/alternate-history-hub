@@ -27,32 +27,46 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/88_NEXT_CHAT_10JUN_MARIANAS_REGIONAL_AIR_MOBILITY_WALLET_REAUDIT_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/89_NEXT_CHAT_10JUN_MARIANAS_AIR_SEA_CONTINGENCY_TRANSPORT_PREPOSITION_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/88_NEXT_CHAT_10JUN_MARIANAS_REGIONAL_AIR_MOBILITY_WALLET_REAUDIT_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/87_MARIANAS_AVIATION_SYSTEM_DEPTH_GAP_AUDIT_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/86_JAPANESE_ISLAND_BASE_CAPABILITY_MARIANAS_AIRFIELD_NETWORK_REAUDIT_WORKING_v001.md`
-- then `scenarios/keisanki-ibun/current/V098_ADDENDUM_2026-09-19/03_SESSION_UPDATES/04_MARIANAS_AIR_DEFENSE_AND_US_KNOWLEDGE_1944-06-10.md`
-- then `scenarios/keisanki-ibun/current/V096_ADDENDUM_2026-09-17/03_SESSION_UPDATES/05_MARIANAS_ARMY_NAVY_JOINT_DEFENSE_DEPLOYMENT_1944-04-30.md`
-- then `scenarios/keisanki-ibun/current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/01_AIRCRAFT_AUDIT_AND_HOMARE_POOL_1944H1.md`
-- then clean canonical aviation references 50–53
-- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/53_MARIANAS_FERRY_REGENERATION_NETWORK_14_18JUN_v001.md`
-- then the v100 Bonins replacement packet source and Central-Pacific defense/logistics ledger.
+- then current June fleet-disposition / hull re-audit material;
+- then files 79–82 / 85 as working doctrine / transport / reception audit inputs only;
+- then current v100 authority and supersession map.
 
 Secondary / parallel lines:
 - files 84–87 retain relative-clock, local-craft, airfield-network and aviation-system-depth context;
-- files 71–83 are later SAI B-D+5 intervention/counterlanding work and remain secondary until the 10-Jun air wallet closes.
+- files 71–83 are later intervention/counterlanding work and must not be imported as already-executed history;
+- China 29 May–14 Jun remains a separate OPEN ledger.
 
 **Do not start by replaying the 11-Jun TF58 sweep.**
 
 Current task:
-- file 88 is the controlling next-chat handoff.
-- Close the **1944-06-10 Marianas resident aviation wallet** and the **surrounding aviation that can actually be called forward / ferried in time**.
-- For each candidate reinforcement, trace: physical -> serviceable -> crewed -> MR -> immediate; order/release gate; ferry route; staging/rescue; maintainers/spares; arrival-to-MR delay; donor opportunity cost; receiving-base/fuel capacity.
-- Audit explicit call-up orders and also rational J1/J2/J3 release decisions, but never use future knowledge of Saipan D-Day.
-- Historical Biak/KON drawdown is not automatically inherited in this Branch.
-- Old 10-Jun fighter MR 143–176 / total MR 192–248 / late-Zui-sei 41–49 are REOPEN CANDIDATES, not silently replaced values.
-- Keep First Mobile Fleet / second-echelon carrier aircraft separate from island strength unless an actual shore transfer/recovery event occurs.
-- The existing Bonins packet remains WORKING until re-audited and must not be double-counted.
-- If the 10-Jun wallet changes materially, identify which 11–16 Jun results require reopening; **stop before combat replay**.
+- file 89 is the controlling next-chat handoff; file 88 remains the aviation-method parent.
+- Aviation Board A, SELECTED WORKING:
+  - 10-Jun M0 physical **296–372**;
+  - serviceable **252–320**;
+  - crewed **232–297**;
+  - MR **200–266**;
+  - immediate **125–174**;
+  - fighter MR **152–194**.
+- Palau/Yap J2 northbound **8–14 MR class** is already folded into M0 and must not be added again.
+- Post-10-Jun M1 remains **9–17 MR class**: Palau/Yap additional 3–6 + Bonins 6–11; M2 Davao/Philippines/Home remains 0-center / OPEN absent a dated release chain.
+- First Mobile Fleet / second-echelon carrier aviation remains separate from island strength unless an actual shore-transfer event occurs.
+- Before air-combat replay, close Sea Board B:
+  - exact 10-Jun carrier / surface / train disposition;
+  - Nisshin location/readiness;
+  - Chitose / Chiyoda location and water-air vs transport opportunity cost;
+  - named Aoba / Kinu / minelayer / landing-ship candidates;
+  - 6–8 relief-convertible modern-DD contingency slots without double-counting screens;
+  - Saipan / Tinian / Guam local heavy-craft wallet and reception nodes;
+  - candidate Army reinforcement packet, cargo modules, fuel, escort / ASW and loading clock;
+  - U.S. observation / inference consequences of the buildup.
+- Use J3 (~8 Jun) for **freeze / prepare**, and 10 Jun for **forward-concentration preparation**, not a Saipan penetration order; exact landing island/time remains unknown.
+- Historical Biak/KON drawdown is not automatically inherited.
+- Later files 79–85 may inform doctrine and feasibility but their later outcomes are not current history.
+- Stop before combat replay until both boards close.
 
 
 ## Maintenance rule
