@@ -8,6 +8,7 @@
 > **Canonical historical clock:** **1942-06-26T18:00:00-10:30**
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
+> **Forward planning ledger:** [relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md](relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md)
 
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
@@ -18,6 +19,7 @@
 2. [現行authority入口](relaunch/00-START-HERE.md)
 3. authority入口の **現在の読み順** に従い、必要なengine / aircraft / naming / war-ledgerを読む
 4. 現行論点では特に [14 — 真珠湾後〜ミッドウェー午後チェックポイント](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md) を優先する
+5. Enterprise再建・工廠負荷・空母建造の6/26時点forward planは [15 — Enterprise再建・ミッドウェー後工廠負荷・空母建造計画](relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md) を参照する
 
 最大version、更新日の新しさ、記述年代の未来さだけでauthorityを決めない。
 
@@ -62,6 +64,14 @@ CLOSED central:
 3. Midway fuel / radar / land-attack maturity
 4. Akagi / Kaga major-yard repair timeline
 5. Enterprise technical / propaganda exploitation second stage
+
+Forward-plan CLOSED central:
+- EnterpriseはKwajalein → Truk → Kureを中央線とする
+- Kureでは米式四軸原状復旧を中央にせず、日本式6缶・104,000shp-class・4軸plantと大型replacement sectionsで再建する
+- 改装工程は中庸を中央とし、1943-08級limited operational readinessをplanning centerとする
+- Hyugaのみ航空偵察戦艦化を確定維持、IseはOPEN
+- carrier mass-production planは史実級の全力枠を維持し、R3差分は後続艦の中止・遅延・割込み減少として扱う
+- 詳細は [15](relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md)
 
 ## Authority / status規律
 
