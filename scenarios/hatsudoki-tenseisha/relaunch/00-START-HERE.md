@@ -114,51 +114,57 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**Main decision clock: 1942-06-20 約18:00。**
+**Main decision clock: 1942-06-26 約18:00。**
 
 CLOSED central:
 - Enterprise:
-  - Wake lagoon entry NO（channel ~20ft、draft不足）
-  - Wakeはoffshore support / air-search / oiler rendezvous node
-  - 6/17 US submarine attackでShinkoku MaruがMk14 1 high-order hit、tow dutyから離脱
-  - Genyo Maruがprimary towへ交代
-  - Enterprise本体は6/17無被雷
-  - Akashi technical support継続
-  - Genyo tow 3.7–4.2kt、Kwajalein ETA 6/24–6/26
-  - Kwajaleinをfirst secure deep anchorageとして選定
-- CarDiv 5:
-  - 6/18–19でdedicated prize umbrellaから解放
-- Kaga:
-  - 6/11–12 Truk、temporary repair後6/14–15本土修理へ西進
-- Akagi:
-  - 6/14–15 Truk、temporary steering repair後6/19–20西進開始
-- Midway 6/20:
-  - shore fighters ~36
-  - B5N 10–12
-  - D3A 6–9
-  - seaplane search
-  - no operational radar
-  - Zuiho permanent close coverから解放可能
-  - self-defending fighter/search base
+  - 6/23 US submarine fires 6 Mk14-class torpedoes
+  - 1 premature / abnormal detonation
+  - **1 physical contact on Enterprise, no high-order explosion**
+  - minor seepage only; tow delay 5–7 h
+  - 6/25 daylight entry into Kwajalein lagoon after local sounding / pilotage
+  - sheltered salvage under **Akashi + Urakami Maru**
+  - list **7–9°**
+  - main propulsion / steering / ship main power dead
+  - portable / isolated salvage power stable
+  - 5kt-class next-stage tow = PROVISIONAL pending 48–72h monitoring
+  - no grounding
+- Kwajalein:
+  - deep sheltered anchorage available
+  - 1942 shore repair facilities remain limited; Akashi/Urakami provide the real repair capability
+  - Enterprise remains anchored / moored, not pier-berthed
+- Midway:
+  - fighters **42–46、central 44**
+  - B5N 12–15
+  - D3A 8–12
+  - land-attack aircraft **6級**
+  - one scarce fixed IJN early-warning radar operational from 6/26
+  - captured SCR-270 remains intelligence material only
+  - classification: **radar-assisted forward fighter / reconnaissance base with limited land-attack capability**
 - US:
-  - Saratoga conserved
-  - Wasp Pacific transfer continues
-  - submarines / PBY remain primary immediate pressure
-- information:
-  - **6/19–20 selected Enterprise capture photographs released**
-  - physical foreign inspection deferred until secure anchorage
-  - no Midway propaganda parade
+  - Saratoga remains Hawaiian carrier core
+  - Wasp completes San Diego qualifications and is redirected toward Pearl 6/24–25
+  - estimated Pearl arrival 6/29–30
+  - submarines remain immediate offensive arm
+- propaganda:
+  - selected Enterprise photographs already public
+  - foreign physical inspection still deferred; Kwajalein is not opened to outside observers
 
 次の論点:
-1. **6/21–6/26 Enterprise arrival at Kwajalein**
-   - secure anchorage entry
-   - Akashi sheltered-water damage survey
-   - pumping / temporary patch / tow-future decision
-2. **US submarine attempt on Marshall approach**
-3. **Midway longer-term maturation**
-   - radar
-   - fuel
-   - bomber-capable operations
-4. **Saratoga / Wasp US carrier rebuild**
-5. **Enterprise physical foreign inspection / propaganda second stage**
+1. **6/27–7/3 Enterprise Kwajalein sheltered repair**
+   - temporary underwater patches / shoring
+   - 48–72h tow certification
+   - onward Truk tow vs longer hold
+2. **Saratoga + Wasp concentration at Pearl**
+   - readiness / escort / air groups
+   - earliest realistic counteroffensive window
+3. **Midway further maturation**
+   - fuel throughput
+   - radar operator proficiency
+   - land-attack squadron growth
+4. **Akagi / Kaga major-yard repair timeline**
+5. **Enterprise capture exploitation second stage**
+   - technical disassembly priorities
+   - later foreign physical verification
+   - public messaging vs OPSEC
 
