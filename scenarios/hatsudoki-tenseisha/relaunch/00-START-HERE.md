@@ -75,6 +75,21 @@ CLOSED central / bounded:
 
 **重要:** 米二空母の最終運命はCLOSED。Enterpriseは捕獲後の初夜を越え、6/5にShinkoku Maru主曳航へ移行、6/6 20:30時点でlist 20–22°・2.8–3.2kt tow。Hornetは最終沈没。Midwayは6/6 20:30級に占領され、現在は基地復旧と米側再編を監査中。
 
+### 15 — Enterprise再建・ミッドウェー後工廠負荷・空母建造計画
+`15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md`
+
+6/26時点からのforward planningを固定するsupporting ledger。主時計は進めない。
+
+CLOSED central / policy:
+- EnterpriseはKwajalein → Truk → Kureの持帰り線を採る
+- 本土では米式4軸原状復旧を中央にせず、日本式6缶・104,000shp-class・4軸plant＋大型replacement sectionsで再建
+- 旧米boiler / turbine / gearは技術鹵獲と再就役用途を分離
+- old long shaftsの全数矯正をcritical pathにせず、修理済み船体基準で新shaft lineを据える
+- Enterprise再建工程は中庸を中央とし、1943-08級limited operational readinessをplanning centerとする
+- Hyugaのみ航空偵察戦艦化を確定維持。IseはOPEN
+- 「ミッドウェー改修」をbattle repair / lessons refit / emergency conversion / auxiliary-yard burdenへ分解して追う
+- 空母大量建造計画は直感で縮小せず、史実級の全力計画枠を維持。R3差分はearly miracle commissioningではなく、後続艦の中止・遅延・割込み減少として表現
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
@@ -93,8 +108,9 @@ CLOSED central / bounded:
 14. [戦争・動員 1939–41](12-WAR-MOBILIZATION-1939-1941.md)
 15. [真珠湾第一波](13-PEARL-HARBOR-FIRST-WAVE-1941-12-07.md)
 16. **[現行戦役台帳・ミッドウェー午後](14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)**
-17. [旧再開プロンプト（真珠湾時点・REFERENCE）](../SESSION-START-PROMPT-1941-12-07.md)
-18. [pre-relaunch参考](../pre-relaunch/README.md)
+17. **[Enterprise再建・工廠負荷・空母建造forward plan](15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md)**
+18. [旧再開プロンプト（真珠湾時点・REFERENCE）](../SESSION-START-PROMPT-1941-12-07.md)
+19. [pre-relaunch参考](../pre-relaunch/README.md)
 
 後続正本が旧planningと競合する場合は、後続正本の明示的なsupersessionを優先する。
 
@@ -167,4 +183,8 @@ CLOSED central:
    - technical disassembly priorities
    - later foreign physical verification
    - public messaging vs OPSEC
+
+Forward-plan note:
+- EnterpriseのKwajalein → Truk → Kure持帰りと、本土での日本式104,000shp-class再建造方針は [15](15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md) でCLOSED central planningとする。
+- ただしcanonical clockは6/26のままであり、6/27以後の航海・工事成功を既成事実化しない。
 
