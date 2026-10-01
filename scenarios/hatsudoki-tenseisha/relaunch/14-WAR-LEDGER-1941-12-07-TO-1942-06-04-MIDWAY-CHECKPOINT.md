@@ -3059,6 +3059,208 @@ not a fleet-carrier counterattack。
   - do Akagi / Kaga and the prize reach a safer Wake / western support corridor?
   - when does Japan publish photographic proof of Enterprise capture and how does the US respond publicly / operationally?
 
+#### 10.0Z 6/11–6/15 — Enterprise special-prize protection / Midway consolidation — CLOSED central
+
+このphaseではEnterpriseを「ただの曳航物」ではなく、**special technical / propaganda prize**として扱う。
+ただしpriorityは、
+1. 自軍fleet carrier survival
+2. Midway保持 / own damaged carriers recovery
+3. Enterprise prize preservation
+の順。Enterpriseを救うためにfleet carrierをclose ASW screenへ入れる、Midwayを裸にする、Akagi/Kagaを見捨てる、はしない。
+
+**why Enterprise gets exceptional protection**
+- USN itself used Enterprise as an early fleet-radar ship; she carried **CXAM-1** and radar-assisted fighter-direction practice by Midway。
+- prize therefore contains:
+  - radar transmitter / receiver / display / antenna details
+  - fighter-direction / radio operating layout
+  - carrier arresting / elevator / aviation-fuel arrangements
+  - US damage-control compartmentation / pumping / fire-main practice
+  - AA / fire-control / communications details
+  - metallurgy / welding / structural samples
+- crypto / current codebooks are assumed destroyed by US scuttle procedure unless specifically found; do not grant intact US codes。
+- Japanese willingness to spend effort on enemy hulls is not alien: the scuttled USS Stewart was later raised and recommissioned as PB-102。Enterprise is vastly harder, but also vastly more valuable。
+
+**6/11 designation — special salvage priority**
+- Combined Fleet issues a working equivalent of **special-prize / technical-intelligence priority**。
+- resources justified:
+  - Akashi technical support
+  - Shinkoku primary tow + Kokuyo reserve
+  - **Akigumo / Makigumo / Yugumo / Kazagumo級 4-DD close ASW screen**
+  - CarDiv 5 mobile air umbrella at distance
+  - route / radio deception
+- resources not justified:
+  - fleet carrier hard alongside prize
+  - battleship close escort
+  - return toward Midway for propaganda
+  - deliberate exposure of multiple damaged / prize ships in one convoy
+
+**value extraction before hull survival**
+Akashi teams are ordered to reduce the risk that a later torpedo attack erases all intelligence value。
+6/11–6/12:
+- systematic photo / dimensions / damage survey
+- radar cabinets、accessible transmitter / receiver modules、vacuum tubes、switchgear、IFF / radio pieces where portable
+- fire-control / optical pieces where removal does not threaten hull
+- aviation arresting / hydraulic / deck-equipment samples
+- damage-control fittings / valves / pump components
+- steel / armor / weld samples
+- surviving manuals / maintenance cards / placards / aircraft-handling documents
+are catalogued and selected portable material removed。
+- the large CXAM antenna / major machinery is **not** dismantled at sea merely for trophies。
+- a compact **technical-intelligence packet**（film negatives、notes、portable electronic modules / samples）is sent west separately by fast courier / carrier-air relay。
+- by 6/13 central、a major fraction of the unique *information* value can survive even if the hull is subsequently lost。
+
+**route-protection doctrine after PBY visual confirmation**
+6/9 visual contact means invisibility is no longer possible。The aim becomes to break *continuous track prediction*。
+
+1. **actual prize group radio silence**
+- Shinkoku / Akashi / Enterprise escort transmits only emergency / scheduled burst traffic through prearranged relay where practicable。
+
+2. **OTSU-style radio deception**
+- Japanese naval regulations already provide for strategic/tactical deception traffic imitating own communications patterns。
+- Wake / Marshalls / returning-support stations transmit traffic consistent with a prize-support / oiler group on the **direct Midway–Wake axis / slightly north of actual track**。
+- do not claim Japan can forge US operational traffic or fool HYPO indefinitely; this is route ambiguity, not magic code victory。
+
+3. **traffic clutter / physical misdirection**
+- westbound occupation auxiliaries already leaving Midway use the more obvious direct route and normal radio discipline。
+- no sacrificial fake carrier is created。
+- their smoke / radio / escort contacts create multiple plausible logistics tracks for PBY / submarine reports。
+
+4. **actual route dogleg**
+- 6/11 actual prize group makes a **40–60 nmi southward / southwestward dogleg** over roughly 18–24 h, then resumes westward progress。
+- cost = ~half day of effective westing / extra fuel。
+- purpose = move the slow carrier out of the simplest line extrapolated from the 6/9 PBY contact。
+
+**CarDiv 5 as distant air umbrella, not close escort**
+- Shokaku / Zuikaku operate **80–120 nmi offset** from the prize / damaged-carrier recovery corridor through 6/13 central。
+- they retain fleet maneuver speed and their own DD screen。
+- scheduled daylight support:
+  - **8–12 fighters** can be placed over the prize during high-risk PBY search windows / contact reports
+  - **4–6 B5N-class search / ASW sorties** work forward / flank sectors
+- carrier pair is not ordered to circle a 4kt tow。
+- if submarine contact occurs, DDs fight locally; fleet carriers remain outside the submarine melee。
+- same umbrella can cover the separated Akagi / Kaga withdrawal axis without clustering all high-value hulls together。
+
+**Akagi / Kaga separation**
+- Kaga’s faster withdrawal keeps her ahead of Akagi。
+- Akagi / Kaga and Enterprise are **not merged into one “crippled fleet” convoy**。
+- working separation is tens to >100 nmi depending day / refuel geometry。
+- CarDiv 5 remains between / behind these routes as mobile reaction force。
+- Kaga reaches the Wake-support axis first and continues west; Akagi follows later。
+- Wake is a fuel / radio / escort-relay point, not a repair dock capable of fixing carrier flight decks / steering permanently。
+
+**6/11–6/13 US search / submarine reaction**
+- US submarines are vectored from the 6/9 PBY report, but they must search a broad corridor。
+- 6/11–12:
+  - one submarine follows a more northerly / direct logistics contact created by the deception / returning-auxiliary traffic
+  - **no Enterprise firing solution**
+- PBY reacquisition remains intermittent。
+- one PBY contact on 6/12 obtains a support-group sighting but cannot positively identify Enterprise before fighter pressure / cloud breaks contact。
+- this does not “fool the US forever”; it buys **roughly 24–36 h of degraded localization central**。
+- US submarine threat remains HIGH。
+
+**6/13 actual-prize near contact**
+- one US submarine reaches a plausible prize corridor and detects distant smoke / escorts。
+- Japanese outer DD / scheduled carrier ASW search forces the boat deep before a clean carrier solution develops。
+- **no torpedo firing solution on Enterprise central**。
+- short depth-charge action / tow course change delays the convoy **2–3 h**。
+- do not convert every submarine encounter into a Japanese ASW kill: submarine survives central。
+
+**Enterprise salvage progress**
+6/11:
+- list **15–17°**
+- tow **3.7–4.1kt**
+- portable power / pumping stable
+
+6/12–6/13:
+- accessible flooding boundaries reinforced
+- tow bridle / deck fittings receive stronger backing / chafing protection
+- some flooded spaces dewatered only where stability permits
+- list **14–16°**
+- tow **4.0–4.3kt central**
+- no main propulsion / steering recovery
+
+6/14–6/15:
+- continuing pumps / weather / dogleg delays prevent dramatic speed growth
+- **6/15 18:00 state:**
+  - list **12–14°**
+  - main power / propulsion / steering dead
+  - temporary salvage power stable
+  - tow **4.0–4.5kt**
+  - hull remains towable; no evidence of immediate longitudinal failure
+  - no grounding used
+- position central: **within roughly 150–220 nmi of the Wake support sphere**, depending dogleg / ASW delays。
+- Wake lagoon entry is still not the plan。
+
+**protection threshold — what Japan will and will not sacrifice**
+Enterprise preservation remains worthwhile while:
+- hull flooding is stable
+- tow can maintain ~4kt
+- fleet carriers can cover from standoff positions
+- DD / oiler cost remains bounded
+
+If a renewed torpedo hit causes progressive sinking or requires a fleet carrier / battleship to enter a high-risk rescue melee:
+1. remove remaining portable high-value technical items
+2. evacuate Japanese prize / repair crews
+3. attempt controlled grounding only if geography permits and hull survival improves
+4. otherwise scuttle
+rather than lose operational fleet carriers。
+- **Enterprise is a special prize, not a fleet-survival trump card — CLOSED doctrine。**
+
+**Midway 6/11–6/15 maturation**
+6/11–6/12:
+- fighter strength **24–28 serviceable**
+- B5N local search / ASW **6–8**
+- runway main lane nearly full length; width / taxi / revetment repair continues
+- imported Japanese fuel stocks become enough for routine local CAP, still with poor surge capacity
+- captured US fuel is sampled / filtered; limited use may begin only after tests, not assumed wholesale
+- no operational radar
+
+6/13:
+- fighter detachment **28–32、central 30**
+- B5N **8–10**
+- small D3A detachment **4–6** may shore-base for local anti-shipping / support tasks central
+- warning still depends on seaplanes / pickets / visual
+- Zuiho remains local carrier
+
+**release of forward fleet carriers**
+- 6/11–12: Soryu / Hiryu both remain in covering distance
+- **6/13: Soryu begins western replenishment / withdrawal**
+- Hiryu remains with Zuiho + shore fighters for another 24–48 h
+- **6/15: Hiryu may also move west — CLOSED central release point**
+- from 6/15, Midway close defense central:
+  - shore fighters ~30
+  - Zuiho
+  - Chitose / Kamikawa seaplanes
+  - surface / picket screen
+- still no radar, so warning quality is materially worse than pre-capture US Midway。
+
+**6/15 Midway classification**
+- operational fighter base: YES
+- limited single-engine strike / ASW: YES
+- routine B5N operation: YES
+- robust D3A unit: small / limited
+- twin-engine bomber base: **not yet routine central**
+- reliable radar early warning: **NO**
+- coast / AA defense: improving but below mature Japanese base
+- logistics remain vulnerable to submarine interdiction
+- classification: **usable forward air / reconnaissance base, not yet fully mature fortress**。
+
+**capture-evidence operational security**
+- Japan now possesses strong photographic / technical proof of Enterprise capture。
+- immediate public release is **delayed while the hull remains on an exposed tow route**:
+  - fresh imagery can reveal damage / weather / escort details
+  - announcement can sharpen US submarine search priority
+- an official victory communiqué may claim capture without publishing detailed photos。
+- full photographic evidence is held for the point where negatives / selected components reach the rear and Enterprise is within a safer support corridor。
+- this delay is operational security, not doubt about the prize。
+
+**6/15 strategic state — CLOSED central**
+- Midway can release both fleet carriers from permanent close cover, with Zuiho / ~30 shore fighters / seaplane search remaining。
+- Shokaku / Zuikaku have spent 6/11–13 as **distant protective umbrella** over the western recovery corridor, then are freed for replenishment / mobile reserve as the prize enters the Wake-support approach。
+- Enterprise remains afloat and towable; technical-intelligence value has been partly externalized into separate courier packages。
+- US knows Enterprise is being towed but lacks a continuous track through 6/15 central。
+- next gate: **6/16–6/20 Wake-support transition / further submarine interception / Akagi-Kaga onward route / Enterprise evidence release and US strategic regrouping**。
+
 #### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
 
 **18:45以後の追加dusk strike — NO GO, CLOSED**
