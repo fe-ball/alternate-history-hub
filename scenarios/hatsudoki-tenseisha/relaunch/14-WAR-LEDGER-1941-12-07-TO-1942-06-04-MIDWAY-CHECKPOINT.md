@@ -3886,4 +3886,4 @@ Enterprise prizeのfirst-night viabilityは上記でforward-audit済み。
 
 ## 11. 次回開始時の一行要約
 
-**1942-06-20 18:00級。EnterpriseはWake lagoonへ入らず、Wake支援圏を通過後Kwajaleinへ向けGenyo Maruに3.7–4.2ktで曳航中。6/17米潜水艦のMk14 1本がShinkoku Maruへ有効命中し同艦は曳航任務離脱、Enterprise本体は無被雷。Akashi支援継続、Kwajalein到着見込み6/24–26。Midwayはshore fighter約36機、B5N 10–12、D3A 6–9、水偵網を持つself-defending fighter/search baseだがradarなし。Kagaは本土修理へ、AkagiもTruk応急修理後西進開始。6/19–20にEnterprise拿捕の選択写真を外電公開。次は6/21–26 Kwajalein安全泊地到着後の本格salvage、Midway長期成熟、Saratoga/Waspによる米空母戦力再建。**
+**1942-06-26 18:00級。Enterpriseは6/23米潜水艦のMk14 1本が船体へ接触するも不発、6/25にKwajalein lagoonへ安全入泊。Akashi＋Urakami Maruの sheltered salvageでlist 7–9°、主機・操舵・ship main powerはdeadのまま、5kt級次段曳航はPROVISIONALで監視継続。Midwayはfighter約44機、B5N12–15、D3A8–12、land-attack 6機級、固定早期警戒radar 1基が6/26 operationalとなり、radar-assisted forward baseへ移行。US側はSaratogaをHawaiiに保持し、Wasp/TF18をSan DiegoからPearlへ転用して6/29–30級集結を目指す。次は6/27–7/3 Kwajaleinでの本格補強とTruk onward tow可否、Saratoga-Wasp二空母体制、Midway成熟化、Enterprise宣伝・技術利用第二段階。**
