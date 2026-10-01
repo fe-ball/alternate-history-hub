@@ -27,31 +27,32 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/87_NEXT_CHAT_MARIANAS_BASE_NETWORK_RUNWAY_MATURITY_REAUDIT_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/88_NEXT_CHAT_10JUN_MARIANAS_REGIONAL_AIR_MOBILITY_WALLET_REAUDIT_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/87_MARIANAS_AVIATION_SYSTEM_DEPTH_GAP_AUDIT_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/86_JAPANESE_ISLAND_BASE_CAPABILITY_MARIANAS_AIRFIELD_NETWORK_REAUDIT_WORKING_v001.md`
-- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/85_SAIPAN_AIRFIELD_LOCAL_CRAFT_COUNTERLANDING_REOPEN_WORKING_v001.md`
-- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/84_SAIPAN_RELATIVE_DAY_CLOCK_CONVENTION_WORKING_v001.md`
-- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/53_MARIANAS_FERRY_REGENERATION_NETWORK_14_18JUN_v001.md`
-- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/50_MARIANAS_LOCAL_AIR_WALLET_16JUN_DAWN_v001.md`
-- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/47_MARIANAS_LOCAL_AIR_WALLET_15JUN_0430_v001.md`
 - then `scenarios/keisanki-ibun/current/V098_ADDENDUM_2026-09-19/03_SESSION_UPDATES/04_MARIANAS_AIR_DEFENSE_AND_US_KNOWLEDGE_1944-06-10.md`
 - then `scenarios/keisanki-ibun/current/V096_ADDENDUM_2026-09-17/03_SESSION_UPDATES/05_MARIANAS_ARMY_NAVY_JOINT_DEFENSE_DEPLOYMENT_1944-04-30.md`
-- then `scenarios/keisanki-ibun/current/V097_ADDENDUM_2026-09-19/03_REFERENCE_EXTRACTS/BRANCH_B_CENTRAL_PACIFIC_DEFENSE_NETWORK_1944-03-08T24_v001.md`
+- then `scenarios/keisanki-ibun/current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/01_AIRCRAFT_AUDIT_AND_HOMARE_POOL_1944H1.md`
+- then clean canonical aviation references 50–53
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/53_MARIANAS_FERRY_REGENERATION_NETWORK_14_18JUN_v001.md`
+- then the v100 Bonins replacement packet source and Central-Pacific defense/logistics ledger.
 
-Secondary / parallel thick-counterlanding line:
-- files 82–83 for reception engineering / local-craft provisional wallet;
-- files 80–81 for counterlanding mobilization / FORAGER-fracture logic;
-- files 71–79 only when needed to reconnect the later SAI B-D+5 intervention.
+Secondary / parallel lines:
+- files 84–87 retain relative-clock, local-craft, airfield-network and aviation-system-depth context;
+- files 71–83 are later SAI B-D+5 intervention/counterlanding work and remain secondary until the 10-Jun air wallet closes.
 
-**Do not start by replaying 11–16 Jun combat. Close the physical base network first.**
+**Do not start by replaying the 11-Jun TF58 sweep.**
 
 Current task:
-- **file 87 is the controlling next-chat handoff and contains the copy-paste startup prompt.**
-- Reconstruct the full Marianas aviation-base generation system before changing any combat outcome: historical field/strip/water-air inventory -> Branch construction delta and opportunity cost -> SAI B-D+0 field-by-field maturity/support board -> system effects -> reopen list for 11–16 Jun.
-- Use SAI B-D+n / SAI H-D+n from file 84; do not merge calendar/WLD dates by assumption.
-- Airframe guard: already-closed elite types remain capped. Extra base depth primarily changes dispersion, forward basing of traceable ordinary/upper-middle aircraft, diversion, repair conversion, forced-writeoffs, pilot survival and U.S. suppression burden.
-- Anti-double-count: current generic dispersal/revetment/repair/ferry effects must be **replaced**, not stacked, once field-specific modeling is available.
-- Parallel local-craft/counterlanding work stays open but is secondary until the base-network audit closes.
+- file 88 is the controlling next-chat handoff.
+- Close the **1944-06-10 Marianas resident aviation wallet** and the **surrounding aviation that can actually be called forward / ferried in time**.
+- For each candidate reinforcement, trace: physical -> serviceable -> crewed -> MR -> immediate; order/release gate; ferry route; staging/rescue; maintainers/spares; arrival-to-MR delay; donor opportunity cost; receiving-base/fuel capacity.
+- Audit explicit call-up orders and also rational J1/J2/J3 release decisions, but never use future knowledge of Saipan D-Day.
+- Historical Biak/KON drawdown is not automatically inherited in this Branch.
+- Old 10-Jun fighter MR 143–176 / total MR 192–248 / late-Zui-sei 41–49 are REOPEN CANDIDATES, not silently replaced values.
+- Keep First Mobile Fleet / second-echelon carrier aircraft separate from island strength unless an actual shore transfer/recovery event occurs.
+- The existing Bonins packet remains WORKING until re-audited and must not be double-counted.
+- If the 10-Jun wallet changes materially, identify which 11–16 Jun results require reopening; **stop before combat replay**.
 
 
 ## Maintenance rule
