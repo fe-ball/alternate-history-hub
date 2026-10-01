@@ -2,7 +2,7 @@
 
 > **Status:** mixed — CLOSED / PROVISIONAL / OPEN を節ごとに明示
 > **Authority:** Relaunch R3 continuation
-> **Resume clock:** **1942-06-15 約18:00、Midway mature-forward-base / Enterprise Wake-approach working clock**
+> **Resume clock:** **1942-06-20 約18:00、Enterprise Kwajalein-bound / Midway self-defending-base working clock**
 > **Purpose:** 長時間チャット分断後の再開用チェックポイント。ここに明示したCLOSED/PROVISIONALのみを次計算へ持ち越す。
 > **Critical caution:** 旧workingの「Enterprise/Hornetを米側が放棄・自沈し、日本側追撃隊が夜に撃沈確認」は撤回済み。再監査の結果、**Enterpriseは米自沈措置を受けつつ日本側が18:45級に船体を完全確保、Hornetは救艦不能として最終的に沈没処分**をCLOSEDとする。
 
@@ -3694,4 +3694,4 @@ Enterprise prizeのfirst-night viabilityは上記でforward-audit済み。
 
 ## 11. 次回開始時の一行要約
 
-**1942-06-15 18:00級。Midwayはshore fighter約30機＋B5N 8–10＋small D3A detachment＋Zuiho＋seaplane searchでusable forward baseへ移行し、Soryu/Hiryuはclose-coverから解放。EnterpriseはAkashi支援下でlist 12–14°、Shinkoku tow 4.0–4.5kt、Wake support sphereまで150–220 nmi級。6/11以後はradio silence・OTSU型欺瞞通信・40–60 nmi dogleg・Shokaku/Zuikaku distant air umbrellaで保護し、技術情報の一部を別送済み。USはEnterprise曳航を知るがcontinuous trackなし。次は6/16–6/20 Wake-support transition、submarine interception、Akagi/Kaga onward route、写真公表 timing とUS strategic regrouping。**
+**1942-06-20 18:00級。EnterpriseはWake lagoonへ入らず、Wake支援圏を通過後Kwajaleinへ向けGenyo Maruに3.7–4.2ktで曳航中。6/17米潜水艦のMk14 1本がShinkoku Maruへ有効命中し同艦は曳航任務離脱、Enterprise本体は無被雷。Akashi支援継続、Kwajalein到着見込み6/24–26。Midwayはshore fighter約36機、B5N 10–12、D3A 6–9、水偵網を持つself-defending fighter/search baseだがradarなし。Kagaは本土修理へ、AkagiもTruk応急修理後西進開始。6/19–20にEnterprise拿捕の選択写真を外電公開。次は6/21–26 Kwajalein安全泊地到着後の本格salvage、Midway長期成熟、Saratoga/Waspによる米空母戦力再建。**
