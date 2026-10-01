@@ -27,7 +27,8 @@ Repository:
 ## Current next frontier
 
 Read FIRST:
-- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/89_NEXT_CHAT_10JUN_MARIANAS_AIR_SEA_CONTINGENCY_TRANSPORT_PREPOSITION_v001.md`
+- `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/90_10JUN_MARIANAS_SEA_BOARD_B_FAST_LIFT_PREPOSITION_CLOSEOUT_v001.md`
+- then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/89_NEXT_CHAT_10JUN_MARIANAS_AIR_SEA_CONTINGENCY_TRANSPORT_PREPOSITION_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/88_NEXT_CHAT_10JUN_MARIANAS_REGIONAL_AIR_MOBILITY_WALLET_REAUDIT_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/87_MARIANAS_AVIATION_SYSTEM_DEPTH_GAP_AUDIT_WORKING_v001.md`
 - then `scenarios/keisanki-ibun/current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/86_JAPANESE_ISLAND_BASE_CAPABILITY_MARIANAS_AIRFIELD_NETWORK_REAUDIT_WORKING_v001.md`
@@ -43,7 +44,7 @@ Secondary / parallel lines:
 **Do not start by replaying the 11-Jun TF58 sweep.**
 
 Current task:
-- file 89 is the controlling next-chat handoff; file 88 remains the aviation-method parent.
+- file 90 is the controlling next-chat handoff; file 89 remains the coupled air-sea parent and file 88 the aviation-method parent.
 - Aviation Board A, SELECTED WORKING:
   - 10-Jun M0 physical **296–372**;
   - serviceable **252–320**;
@@ -54,7 +55,8 @@ Current task:
 - Palau/Yap J2 northbound **8–14 MR class** is already folded into M0 and must not be added again.
 - Post-10-Jun M1 remains **9–17 MR class**: Palau/Yap additional 3–6 + Bonins 6–11; M2 Davao/Philippines/Home remains 0-center / OPEN absent a dated release chain.
 - First Mobile Fleet / second-echelon carrier aviation remains separate from island strength unless an actual shore-transfer event occurs.
-- Before air-combat replay, close Sea Board B:
+- Sea Board B, SELECTED WORKING: five first-line carriers remain Sulu/Philippine reaction HOLD; heavy/fast surface remains west/south; Fuso/Yamashiro/Ise/Hyuga are inner Philippines/DEI trailing reserve; Nisshin is centered on Davao–Palau FREEZE/PREPARE; Chitose/Chiyoda split one water-air support + one optional heavy-lift candidate; Aoba/Kinu + minelayer/T.127 mission class are named fast-lift candidates subject to individual location close; 6–8 modern-DD relief-convertible slots are earmarked but not detached; slow convoy remains rear hold.
+- Before air-combat replay, close remaining Sea Board B open items:
   - exact 10-Jun carrier / surface / train disposition;
   - Nisshin location/readiness;
   - Chitose / Chiyoda location and water-air vs transport opportunity cost;
