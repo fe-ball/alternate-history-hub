@@ -89,6 +89,15 @@ R3共通ルールを維持する。
 - 二式水上戦闘機相当は昴一一1500PSの橋渡し枝。1942春初期少量配備。
 - N1K強風は火星系で継続。尾張換装を自動化しない。
 
+### PROVISIONAL — 陸軍次期主力戦闘機 / 1942春
+
+- このprojectはAVG / P-40との遭遇で突然始まるものではなく、**1940年のKi-43後継研究とO4 Ki-44万能化から継続**している。
+- 1941-12時点でO4 / 昴型はlate prototype / increase-prototype / service-trial stage。
+- 1941-12以後のP-40実戦は、既存projectに対して **12.7mm以上の火力、20mm growth、防弾・自封、高速降下強度、高速域aileron、radio編隊戦** の優先度を上げる入力とする。
+- 1942H1はO4型のservice trial / pilot-production移行を許容するが、**exact production count / first combat unit / first combat dateはOPEN**。
+- O5 / 峰型は高性能発展枝として並行し、重いengine / prop / CG / structure / coolingの再qualificationを払う。峰完成待ちでO4型を止めない。
+- 1942春の南東方面やMIへ自動配備しない。投入は陸軍航空部隊の実在配置と量産数を閉じてから行う。
+
 ## 3. 南方作戦・MOまでの戦役差分
 
 ### CLOSED/PROVISIONAL — 南方全般
