@@ -1,8 +1,8 @@
 # 発動機転生者・リランチ正本
 
 > **Authority:** Relaunch R3
-> **Canonical historical clock:** **1942-06-15 約18:00（Midway mature-base / Enterprise Wake-approach working clock）**
-> **Checkpoint:** ミッドウェー占領後。Midwayはusable forward air baseへ移行、Enterpriseはspecial-prize protection下でWake support sphereへ接近
+> **Canonical historical clock:** **1942-06-20 約18:00（Enterprise Kwajalein-bound / Midway self-defending-base working clock）**
+> **Checkpoint:** ミッドウェー占領後。EnterpriseはWake支援圏を通過しKwajaleinへ曳航中、Midwayはself-defending fighter/search baseへ移行
 > 旧 `current/`・`archive/` はpre-relaunch REFERENCE。
 > canonical clockより未来の議論は、その時点で開始済みのresearch / requirement / planning / forward-studyとしてのみ保持し、後年結果をactor knowledgeへ逆流させない。
 
@@ -114,39 +114,51 @@ canonical clockより未来の設計検討はroadmapとして保持し、成功�
 
 ## 現在frontier
 
-**Main decision clock: 1942-06-15 約18:00。**
+**Main decision clock: 1942-06-20 約18:00。**
 
 CLOSED central:
-- Enterprise = special technical / propaganda prize。own fleet survivalがprize hull preservationより優先。
-- protection doctrine:
-  - actual prize group radio silence
-  - OTSU-style own-network deception traffic / logistics clutter
-  - 40–60 nmi south/southwest dogleg after PBY contact
-  - Shokaku / Zuikaku distant 80–120 nmi air umbrella through 6/13
-  - DD4 close ASW screen
-  - high-value technical information / photos / portable radar-electronics samplesを別送
-- Enterprise 6/15:
-  - list 12–14°
-  - main power / propulsion / steering dead
-  - Shinkoku primary tow 4.0–4.5kt
-  - Akashi technical support
-  - no grounding
-  - Wake support sphereまで約150–220 nmi
-- Midway 6/15:
-  - shore fighters ~30
-  - B5N 8–10
-  - small D3A detachment
-  - Zuiho + Chitose/Kamikawa support
-  - no reliable operational radar
-  - usable forward air/recon base, not mature fortress
-- Soryu withdraws from close cover 6/13、Hiryu 6/15 central。
-- US knows Enterprise is being towed but lacks continuous track central。
-- detailed Enterprise photos are held for safer-corridor release; no operational parade。
+- Enterprise:
+  - Wake lagoon entry NO（channel ~20ft、draft不足）
+  - Wakeはoffshore support / air-search / oiler rendezvous node
+  - 6/17 US submarine attackでShinkoku MaruがMk14 1 high-order hit、tow dutyから離脱
+  - Genyo Maruがprimary towへ交代
+  - Enterprise本体は6/17無被雷
+  - Akashi technical support継続
+  - Genyo tow 3.7–4.2kt、Kwajalein ETA 6/24–6/26
+  - Kwajaleinをfirst secure deep anchorageとして選定
+- CarDiv 5:
+  - 6/18–19でdedicated prize umbrellaから解放
+- Kaga:
+  - 6/11–12 Truk、temporary repair後6/14–15本土修理へ西進
+- Akagi:
+  - 6/14–15 Truk、temporary steering repair後6/19–20西進開始
+- Midway 6/20:
+  - shore fighters ~36
+  - B5N 10–12
+  - D3A 6–9
+  - seaplane search
+  - no operational radar
+  - Zuiho permanent close coverから解放可能
+  - self-defending fighter/search base
+- US:
+  - Saratoga conserved
+  - Wasp Pacific transfer continues
+  - submarines / PBY remain primary immediate pressure
+- information:
+  - **6/19–20 selected Enterprise capture photographs released**
+  - physical foreign inspection deferred until secure anchorage
+  - no Midway propaganda parade
 
 次の論点:
-1. 6/16–6/20 Enterprise Wake-support transition
-2. Akagi / Kaga onward withdrawal / repair route
-3. Midway maturation — radar / fuel / bomber-capable ops
-4. US strategic regrouping — Saratoga / Wasp / submarines / PBY
-5. Enterprise capture evidence release — first official photos / foreign verification / OPSEC boundary
+1. **6/21–6/26 Enterprise arrival at Kwajalein**
+   - secure anchorage entry
+   - Akashi sheltered-water damage survey
+   - pumping / temporary patch / tow-future decision
+2. **US submarine attempt on Marshall approach**
+3. **Midway longer-term maturation**
+   - radar
+   - fuel
+   - bomber-capable operations
+4. **Saratoga / Wasp US carrier rebuild**
+5. **Enterprise physical foreign inspection / propaganda second stage**
 
