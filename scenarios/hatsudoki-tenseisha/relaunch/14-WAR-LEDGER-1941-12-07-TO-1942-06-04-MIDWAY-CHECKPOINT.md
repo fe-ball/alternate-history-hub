@@ -3459,6 +3459,198 @@ Stage 3 — physical foreign inspection:
   - physical foreign inspection deferred
 - next gate: **6/21–6/26 Enterprise arrival at Kwajalein and first secure-anchorage salvage audit; Midway longer-term logistics/radar; US decision on when Saratoga + Wasp can resume offensive carrier operations**。
 
+#### 10.0AB 6/21–6/26 — Kwajalein secure anchorage / sheltered salvage / US carrier rebuild — CLOSED central
+
+**Kwajalein is shelter, not a navy yard**
+- Japanese / later US assessments agree that Kwajalein lagoon is a major fleet anchorage / submarine base area。
+- later US assault hydrography found Gea Pass dragged to **49 ft** and lagoon anchorages deeper than49 ft。
+- do **not** retroject 1944 exact dredging / buoying state mechanically into 1942。
+- R3 uses this as proof that a deep-entry route exists, then requires Japanese local pilotage / sounding before Enterprise enters。
+- 1942 assessment also notes **few if any repair facilities ashore**。
+- therefore the reason Kwajalein works for Enterprise is:
+  1. deep sheltered water
+  2. Japanese local pilot / seaplane / submarine-base support
+  3. **Akashi**
+  4. **Urakami Maru**, historically at Kwajalein 19–30 June 1942
+not an invented carrier drydock。
+
+**6/21–6/22 Marshall approach protection**
+- prize group remains Genyo tow + Kokuyo reserve + Akashi + DD4級。
+- Kwajalein / Roi seaplanes and local patrol / subchaser assets extend search ahead of the convoy。
+- continuous PBY track is absent, but US submarines know the most likely destination set includes Marshall anchorages。
+- Japanese radio deception is now less valuable than **local ASW density + route variation**; deception continues but is not credited with making the Marshalls invisible。
+
+**6/23 submarine attack — near-success / Mk14 failure, CLOSED**
+- one US fleet submarine obtains a clean enough approach on the slow prize group。
+- attacker identity remains OPEN under changed patrol geometry。
+- **6 Mk14-class torpedoes** fired at 2,500–3,500yd class toward Enterprise / Genyo track。
+- central result:
+  - 1 premature / magnetic abnormal detonation
+  - **1 physical contact on Enterprise starboard-forward / forward-midbody region but no high-order explosion**
+  - remaining weapons miss / run deep
+- this is not arbitrary immunity: early-war Mk14s ran about10ft deep and suffered both premature explosions and contact-exploder duds; later testing showed near-90° contact could be especially failure-prone。
+- dud impact dents / distorts local plating and opens **minor seepage**, not a new torpedo-sized hole。
+- tow is stopped / slowed for **5–7 h** while Akashi party inspects the contact area and DDs depth-charge the attacker。
+- Enterprise list temporarily worsens about1° then recovers。
+- submarine survives central。
+- operational lesson: the route is still penetrable even inside the Marshall support network。
+
+**6/24 arrival off Kwajalein**
+- convoy reaches the outer atoll approach **6/24 afternoon central**。
+- Enterprise does **not** immediately enter in darkness / uncertainty。
+- local boats / patrol craft conduct drag / soundings on the intended pass and mark a controlled lane。
+- Enterprise normal 1942 draft is high-20-ft class; R3 list adds low-side immersion。
+- Akashi / Urakami teams spend the afternoon / night:
+  - pumping accessible spaces
+  - moving portable weights
+  - limiting free-surface effects
+- **6/25 dawn target: list 9–11°**。
+- local sounding must show **40+ ft continuous clearance-class lane** before entry central。
+- if that cannot be demonstrated, Enterprise remains offshore; the scenario does not force lagoon entry merely because later charts show 49ft。
+
+**6/25 lagoon-entry evolution — CLOSED central**
+- daylight / low-speed entry。
+- Genyo ahead as primary tow at **~0.5–1kt** through the critical pass。
+- Kokuyo / local craft provide stern / quarter control; DDs hold outer ASW stations rather than crowding the tow。
+- Akashi / Urakami engineers remain aboard Enterprise / support boats。
+- no reliance on Enterprise rudder。
+- **10:00–12:00級、Enterprise enters Kwajalein lagoon and anchors / is moored in deep sheltered water — CLOSED**。
+- no grounding and no pier berthing。
+- prize ASW risk falls sharply but is not zero; submarine access to a defended lagoon is a different problem from an open-ocean tow。
+
+**sheltered-water salvage changes the engineering problem**
+Open-ocean survival work becomes a controlled survey / patch program。
+
+6/25–6/26:
+- divers / working parties survey the underwater damage zones。
+- multiple combat / scuttle openings remain; exact hole count is not forced beyond the already-closed hit ledger。
+- accessible areas receive:
+  - collision mats / external temporary covers
+  - internal timber / steel shoring
+  - welded / bolted temporary patches where dry-enough access permits
+  - improved suction / portable-pump manifolds
+  - tow-point reinforcement
+- no drydock-grade shell plating replacement。
+- no shaft / rudder / turbine repair miracle。
+
+**6/26 18:00 Enterprise sheltered state — CLOSED**
+- list **7–9°**
+- progressive flooding: arrested / low pump burden
+- main propulsion: dead
+- steering: dead
+- ship main electrical plant: not restored
+- portable / isolated salvage power: stable
+- hull girder: no evidence of imminent global failure
+- tow capability after sheltered strengthening:
+  - **5kt-class PROVISIONAL safe planning speed**
+  - not yet authorized for continuous long-ocean run until 48–72h monitoring
+- Genyo is released from continuous towing duty once moored, but remains available locally for future tow।
+- Kokuyo can resume logistics after reserve handoff。
+- **Enterprise will not immediately depart Kwajalein on 6/26**。
+- Japanese decision is to spend several more days converting “surviving prize” into a hull fit for the ~Truk-length next tow。
+
+**Urakami Maru anchor**
+- Urakami Maru was a converted salvage / repair ship and was historically at Kwajalein from 19 June until 30 June 1942。
+- she therefore joins Akashi in:
+  - machine / fitting work
+  - pump / pipe repair
+  - local small-craft / diving support
+- Akashi remains the high-capability lead; Kwajalein shore installations themselves are not credited with fleet-yard ability。
+
+**technical exploitation at secure anchorage**
+- Akashi teams expand removal / documentation because sea motion and submarine pressure are lower。
+- priority:
+  - radar / radio / fighter-direction layout
+  - electrical switchboard construction
+  - hydraulic / arresting-gear components
+  - firefighting / pumping arrangements
+  - aviation-fuel protection / piping
+  - structural / weld samples
+- main CXAM antenna / heavy machinery remain aboard for now。
+- photo / film record is comprehensive。
+
+**foreign physical inspection — still NO at Kwajalein**
+- selected capture photographs are already public by 6/19–20。
+- flying neutral diplomats / foreign correspondents into a frontline secret submarine / naval base creates:
+  - security leakage
+  - transport burden
+  - intelligence risk
+  with little additional operational value。
+- therefore Kwajalein inspection is restricted to Japanese naval / technical / approved propaganda personnel。
+- **independent foreign physical inspection is deferred to Truk or, more plausibly, Japan if the hull reaches home waters**。
+- this keeps the earlier user-facing logic: once foreigners physically inspect the real ship later, denial becomes untenable; Japan simply does not risk the prize / base merely to obtain that validation early。
+
+**Midway radar transition — one scarce set, not magical coverage**
+- early IJN fixed land-warning radar (Mark 1 Model 1 / later 11-Go family) existed by early 1942; the first overseas example was at Rabaul in March and other island deployments followed during 1942。
+- Midway is strategically important enough to receive **one early-production fixed set** once captured。
+- this consumes a scarce set and trained operators; it is not manufactured locally from the captured SCR-270。
+- transport / installation central:
+  - equipment arrives / is unloaded **6/22–6/23**
+  - generator / antenna frame / communications integration through 6/24–25
+  - **6/26 first operational watch — CLOSED central**
+- performance is deliberately below brochure maximum because of new site / operators / tropical power issues:
+  - reliable formation warning **~90–140 km class**
+  - single-aircraft detection **~50–70 km class / intermittent**
+- captured SCR-270 remains intelligence / comparison material, not a second operational radar。
+
+**Midway aviation 6/21–6/26**
+6/22:
+- fighters **38–40 serviceable**
+- B5N 11–13
+- D3A 7–10
+- imported fuel logistics improving
+
+6/24:
+- fighters **40–43**
+- B5N **12–14**
+- D3A **8–11**
+- limited use of tested / filtered captured aviation fuel begins, but imported Japanese fuel remains majority central
+
+6/26:
+- fighters **42–46、central 44**
+- B5N **12–15**
+- D3A **8–12**
+- one fixed early-warning radar operational
+- planned MI base concept had a small G4M land-attack component; R3 now begins **limited twin-engine operation**
+  - **6 G4M/G3M-class land attack aircraft central**
+  - used initially for long-range search / limited anti-shipping, not mass daily bombing
+- Midway classification: **radar-assisted forward fighter / reconnaissance base with limited land-attack capability**。
+- no fleet carrier remains on permanent station central。
+
+**US carrier rebuild — Wasp is redirected to Hawaii**
+- Wasp historically reaches San Diego 19 June and conducts TBF / SBD carrier qualification 22–23 June。
+- R3 loss of Midway + Enterprise / Hornet makes the historical 1 July onward route to Tonga less urgent than rebuilding a Hawaiian two-carrier force。
+- central decision:
+  - **6/23–6/24: orders amended for Wasp / TF18 to proceed Pearl rather than continue immediately toward South Pacific commitment**
+  - **6/24–6/25 depart San Diego area for Pearl**
+- North Carolina / cruiser / DD screen remains with the task group central。
+- ETA Pearl is after this gate, **~6/29–6/30**。
+- Saratoga remains Hawaiian carrier core and trains / absorbs replacement aircraft。
+- no carrier strike toward Midway / Kwajalein before Wasp arrives and integrated planning is completed。
+
+**US operational priorities through 6/26**
+1. protect Hawaii / prevent further eastward Japanese move
+2. submarines against Midway / Marshall logistics and Enterprise
+3. PBY / long-range reconnaissance to identify Japanese carrier disposition
+4. rebuild a **Saratoga + Wasp** carrier nucleus
+5. reassess South Pacific offensive timetable rather than blindly executing the historical carrier allocation
+
+**public-information state**
+- selected Japanese photos already establish that Enterprise is in Japanese hands。
+- US public wording central by 6/22–6/24:
+  - Enterprise is acknowledged as lost from US operational service after severe battle damage / failed denial effort
+  - Washington does not validate Japanese claims about repairability / exact technical condition
+- no need for Japan to fabricate details once photographs exist。
+- Japanese propaganda can continue with newsreel / stills, but OPSEC keeps Kwajalein name / current position out of detailed release central。
+
+**6/26 strategic state — CLOSED central**
+- Enterprise: securely moored in Kwajalein lagoon; list 7–9°; main propulsion / steering / main power dead; sheltered salvage underway under Akashi + Urakami
+- onward Truk tow: **feasible in principle but delayed for further strengthening / monitoring**
+- Midway: ~44 fighters + B5N / D3A / 6 land-attack aircraft + first operational Japanese fixed radar
+- US: Saratoga at Hawaii; Wasp en route Pearl; submarines remain immediate offensive arm
+- Japanese fleet carriers: no longer tied to Midway / prize close cover
+- next gate: **6/27–7/3 Kwajalein sheltered repair decision / Enterprise departure or hold; Saratoga-Wasp concentration at Pearl; Midway mature-base logistics; public / technical exploitation second stage**。
+
 #### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
 
 **18:45以後の追加dusk strike — NO GO, CLOSED**
