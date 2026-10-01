@@ -2,7 +2,7 @@
 
 > **Status:** mixed — CLOSED / PROVISIONAL / OPEN を節ごとに明示
 > **Authority:** Relaunch R3 continuation
-> **Resume clock:** **1942-06-20 約18:00、Enterprise Kwajalein-bound / Midway self-defending-base working clock**
+> **Resume clock:** **1942-06-26 約18:00、Enterprise Kwajalein sheltered salvage / Midway radar-assisted base working clock**
 > **Purpose:** 長時間チャット分断後の再開用チェックポイント。ここに明示したCLOSED/PROVISIONALのみを次計算へ持ち越す。
 > **Critical caution:** 旧workingの「Enterprise/Hornetを米側が放棄・自沈し、日本側追撃隊が夜に撃沈確認」は撤回済み。再監査の結果、**Enterpriseは米自沈措置を受けつつ日本側が18:45級に船体を完全確保、Hornetは救艦不能として最終的に沈没処分**をCLOSEDとする。
 
@@ -3883,6 +3883,55 @@ Enterprise prizeのfirst-night viabilityは上記でforward-audit済み。
 3. **Hornet final foundering confirmation**
 4. **Midway second strike / night disposition**
 5. **US surface force withdrawal and surviving aircraft disposition**
+
+## 10.4 CURRENT HARD GATE — 6/27–7/3 Enterprise持ち帰り経路と修理
+
+ここを今回の明示的な停止点とする。
+
+**CLOSED input**
+- Enterpriseは6/25 Kwajalein lagoonへ安全入泊。
+- 6/26 18:00:
+  - list 7–9°
+  - progressive flooding arrested / low pump burden
+  - main propulsion / steering / ship main power dead
+  - portable / isolated salvage power stable
+  - hull girderにimminent global failure兆候なし
+- Akashi + Urakami Maruがsheltered salvageを担当。
+- 5kt級next-stage towは**PROVISIONAL**。まだcontinuous ocean towへ認証しない。
+- Kwajaleinは避難・作業泊地として有用だがfleet-yardではない。
+- Enterpriseの技術資料・写真・portable componentsは相当量を別送済み。
+- 日本側のpolicyは「船体保存を強く狙うが、自軍空母/主力艦を危険に晒してまで守らない」。
+
+**次に閉じる順番**
+1. **48–72h sheltered monitoring**
+   - temporary underwater patches / collision mats
+   - internal shoring
+   - tow-point reinforcement
+   - pump burden / list trend
+   - hull-girder / deck distortion
+2. **tow certification**
+   - 5kt級を何時間連続で許容できるか
+   - Genyo / Shinkoku / Kokuyoの主曳航・予備曳航組合せ
+   - Akashiを同行させる距離 / 役割
+3. **route decision**
+   - direct Truk
+   - staged Marshall / Truk route
+   - longer Kwajalein hold
+   - controlled groundingはfailure contingencyのみ
+4. **repair scope**
+   - afloat patch / pumping / power / tow only
+   - shaft / rudder / main turbines / full ship electrical復旧をKwajaleinで無料達成しない
+   - Trukで何が可能か、本土yardまで何を先送りするか
+5. **US interdiction**
+   - Saratoga + Wasp集結前後
+   - submarine vector
+   - PBY reacquisition
+   - Enterprise tow route OPSEC / deception
+6. **proof / exploitation**
+   - selected photos公表済み
+   - foreign physical inspectionはTrukまたは本土の安全圏まで延期
+
+**次回はEnterpriseを「どこまで直してから、どの曳航編成で、どの経路を使ってTruk / 本土へ送るか」から再開する。**
 
 ## 11. 次回開始時の一行要約
 
