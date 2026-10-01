@@ -323,3 +323,308 @@ Enterprise / Midwayで使用した補助艦艇を、作戦終了と同時に在�
 を並べる。
 
 **原則: 史実起工日はまず基準として保持し、R3差分は遅延・中止・割込み・後続艦消化率に反映する。理由なくearly commissioning bonusを与えない。**
+
+
+## 17. Enterprise technical / intelligence exploitation — status discipline
+
+Enterprise鹵獲価値を「何でも即コピーできる万能技術箱」としない。
+以下を分離する:
+
+1. **敵情・運用実数** — 書類・記録・現物から比較的早く読める
+2. **設計思想・構造** — 実測・分解で理解しやすい
+3. **高度製造技術** — 原理・寸法・材料は読めても、日本側量産再現には追加研究・設備・工程能力が必要
+4. **文書・私物** — 処分漏れの量と内容を個別に評価する
+
+また、1942-06-26時点までに軽量・高価値の物はすでに船体から外して別送し始めている。
+Kure到着を「調査開始日」としない。
+
+## 18. 回収・別送の段階 — CLOSED central
+
+### 18.1 6/4–6/10: prize survival優先
+
+船体を沈め得る大規模分解はしない。
+最優先で確保・撮影・別艦へ移す対象:
+
+- flag / captain / air-group paperworkの残存分
+- safe / filing cabinet / map case
+- charts / plots / radio logs / intelligence summaries
+- aircraft-status / maintenance records
+- manuals / illustrated instructions / parts lists
+- exposed photographic film / camera record
+- portable radio / radar / IFF componentsの残存分
+- vacuum tubes / meters / aircraft instruments
+- gunsight / bomb-sight / small fire-control components
+- portable test equipment / gauges
+- nameplates / calibration cards / serial-number records
+
+「片手～数人で運べ、船体喪失時に代替不能な情報」を優先する。
+
+### 18.2 6/10–6/25: Akashi engineering exploitation
+
+Akashi系技術班合流後は、
+**photograph → location / serial記録 → label → remove**
+を原則とする。
+
+優先:
+- radar / radio / fighter-direction subassemblies
+- tubes / tuning units / power units / indicatorsで可搬のもの
+- breaker / relay / contactor / motor-controller samples
+- hydraulic valves / pumps / actuators
+- arresting-gear cable / sheave / control components
+- aviation-gasoline valve / filter / coupling / flexible-joint samples
+- firemain / sprinkler / foam-system fittings
+- portable pumps / emergency electrical equipment
+- aircraft workshop tools / specialized maintenance fixtures
+- rivet / weld / cable-insulation / structural-material coupons
+
+main radar antenna、large switchboard、boiler、turbine、reduction gear等の大型物はこの段階で無理に撤去しない。
+
+### 18.3 Kwajalein / Truk: package-level exploitation
+
+sheltered anchorageで:
+- 文書乾燥・分類・翻訳
+- safe / vaultの切開
+- aircraft / engine / hydraulic / electrical shop inventoryの整理
+- removable aircraft equipmentの体系的分解
+- complete specimenを壊さず保存する物と destructive-test sampleを分ける
+
+Enterprise本体より先に、
+1. documents / film / radio-radar small components
+2. aircraft instruments / accessories / maintenance tools / material samples
+3. larger aircraft parts / spare engines / selected machinery components
+をTruk / Japanへ順次別送する。
+
+したがってEnterpriseがKureへ着く頃には、文書・航空・電波・小型電装の初期解析はすでに進行している中央。
+
+Kureで初めて本格化するのは:
+- large machinery
+- hull cutting / structural sectioning
+- boiler / turbine / reduction-gear destructive inspection
+- metallurgy / hardness / section analysis
+- shaft / bearing / foundation geometry
+等の大型・破壊試験。
+
+## 19. 艦上航空機・整備資産 — PROVISIONAL central inventory
+
+R3ではEnterprise攻撃隊の大半がすでに発進し、flight deck mission-kill後の帰投機はMidway / 他艦へdivertする。
+したがって「航空隊一式を艦ごと鹵獲」はしない。
+
+拿捕時の中央working inventory:
+
+- **F4F-4:** 3–6機級がcomplete / repairable状態
+- additional F4F: 2–4機級がbattle-damaged / maintenance / parts-source状態
+- **SBD:** complete flyable aircraftはほぼ残らない。0–2機級のdisabled / partial airframeを許容
+- **TBD:** complete flyable captureは0 central
+- spare engine / propeller / accessories / aircraft components: **複数の技術標本を確保できる程度**
+- exact spare-airframe countはOPEN。Enterpriseに「何機もの新品予備機」を無料生成しない
+
+上記機数は、R3 air-group sortie / divert状態との整合を優先し、後でair-group ledgerを精査した場合は再監査可。
+
+## 20. F4F-4 folding-wing exploitation — CLOSED learning target
+
+F4F-4の主翼折畳みは明示的な高価値鹵獲対象とする。
+
+日本側に「翼を折る」という発想自体は既知であり、零戦二一型にも折畳み翼端がある。
+新規性は、**主翼のかなり内側から翼全体を回転させ、艦内格納footprintを大きく減らす実用量産戦闘機の構造・運用を完成品で見られること**。
+
+調査対象:
+- pivot / hinge geometry
+- main-spar load transfer
+- lock / latch structure
+- folded / deployed alignment control
+- aileron / control linkage treatment
+- gun / electrical / ammunition routing across folding region
+- deck crew handling geometry
+- balance / support points
+- inspection / lubrication / wear points
+- maintenance procedure and associated fixtures
+
+取得できるもの:
+- geometry
+- load path
+- operating sequence
+- lock concept
+- practical deck-handling method
+- actual wear / maintenance points
+
+追加研究が必要なもの:
+- long-cycle fatigue
+- allowable tolerance stack
+- production repeatability
+- weight penalty vs structural margin
+- Japanese airframeへの適用時のspar / landing gear / weapon / fuel integration
+
+したがって、
+**F4F-4を見たから既存Zeroへ即retrofitする**とはしない。
+一方、次期艦載機要求で
+**「wingtip foldingだけでなく、full / deep wing foldingによる格納面積低減を正規評価対象とする」**
+ことは早期に可能。
+
+SBDについては主翼折畳みを持つものとして扱わない。
+SBDの主要鹵獲価値はfixed-wing structure、dive brake、bomb displacement / release、engine installation、maintenance practice等に置く。
+
+## 21. Aircraft maintenance tools / training material — CLOSED central
+
+Enterpriseから得る「治具」はfactory master jigではなく、**carrier / squadron maintenance fixtures and teaching material**を中心とする。
+
+期待される現物・資料:
+- engine overhaul stands
+- bearing / valve servicing tools
+- propeller handling / adjustment equipment
+- control-cable rigging / tension tools
+- hydraulic servicing rigs
+- landing-gear / wheel / brake servicing fixtures
+- armament / gunsight adjustment tools
+- electrical test meters / portable test gear
+- sheet-metal / control-surface repair equipment
+- hoists / aircraft handling fixtures
+- inspection gauges / go-no-go aids
+- spare-parts bins / stock cards / requisition forms
+
+training / documentation:
+- aircraft erection / maintenance instructions
+- illustrated parts lists
+- engine / propeller / carburetor / magneto manuals
+- hydraulic / landing-gear / armament instructions
+- squadron inspection schedules
+- aircraft discrepancy records
+- engine-hour / component-change records
+- maintenance checklists
+- troubleshooting material
+- flight preparation / deck handling forms
+- carrier qualification / landing records
+- squadron gunnery / bombing training papers
+
+価値:
+- completed aircraft designだけでなく
+  - inspection interval
+  - replacement criterion
+  - troubleshooting method
+  - specialized-tool policy
+  - parts tracking
+  - onboard repair / exchange philosophy
+を一体で比較できる。
+
+ただしGrumman / Douglas工場のmaster production jigやfactory process controlを艦上から直接得るとはしない。
+
+## 22. 文書処分漏れ — CLOSED central middle line
+
+Enterprise abandon時に米側は
+- code / crypto
+- radar / IFF sensitive material
+- CIC / operations documents
+- recognition / intelligence material
+の破壊を命じている。
+
+よって**現用crypto key / authenticatorを大量完全鹵獲**する中央案は採らない。
+
+一方、
+- Enterpriseは急速なabandon + Phelps scuttleを前提としている
+- 全紙資料を完全焼却する時間はない
+- registered secret / confidential publicationsや一部working filesをsafe / vaultへ収納し「艦とともに沈める」処置が行われ得る
+ため、処分漏れは相当量残る。
+
+中央回収内容:
+
+### 22.1 技術・整備文書 — 大量回収
+- machinery / electrical / hydraulic manuals
+- piping / wiring diagrams
+- parts lists
+- maintenance / inspection cards
+- repair records
+- inventory / requisition records
+- aircraft / engine maintenance records
+- damage-control diagrams
+- shop instructions
+- manufacturer manuals
+
+秘密処分priorityが低く、残存率が高い。
+
+### 22.2 operational / staff paperwork — 部分回収
+- TF16 flag dispatch fileの残存部
+- received CinCPac intelligence / secret dispatchの一部hard copy
+- Point Luck / rendezvous / search / contact関連plot・chart・staff working paper
+- 6/3–6/4 radio / communication logの残存部
+- aircraft-status / CAP / strike / maintenance / fuel / ammunition paperwork
+- air-group briefing material
+
+これらにより、
+**米側が戦闘前からMidway主目標、日本主力空母4隻級、来攻時期をかなり正確に把握し、事前待伏せ配置を取っていた**
+ことは資料上確認できる中央。
+
+### 22.3 codebreaking source implication — CLOSED central, limited
+
+HYPOのJN-25 worksheets、Rochefort資料、AF water-shortage deception原資料等をEnterpriseから鹵獲することはない。
+それらはshore intelligence側の資料である。
+
+ただしair-group / flag-staffのpersonal notebook / briefing memo / informal paperを少量回収し、
+**少なくとも1点で "code" / "code breakers" または同程度に情報源を示唆する短い記載が残る**
+を中央とする。
+
+この断片単独では:
+- どのcode systemか
+- 何%読めているか
+- どのstationが解読したか
+- exact method
+は分からない。
+
+しかし公式の事前敵情精度と併せれば、
+「米側の異常に正確な事前情報に通信解読が関与した可能性」
+を日本側が疑うための物証は存在する。
+
+これは**暗号解読手法の鹵獲**ではなく、**情報源categoryの示唆**である。
+
+## 23. 技術吸収の段階 — CLOSED classification
+
+### A. 現物を見れば比較的早く理解できる
+- carrier deck / hangar workflow
+- elevator / arresting layout
+- aviation-fuel piping / isolation arrangement
+- firefighting / repair-locker placement
+- compartment / access / maintenance layout
+- F4F-4 folding-wing geometry and handling
+- aircraft maintenance organization / tooling
+- documentation / checklist / parts-control practice
+
+### B. 分解すれば仕組みはかなり分かるが、再現にはengineering workが要る
+- hydraulic systems
+- elevator / arresting machinery details
+- electrical distribution / breaker logic
+- radar / fighter-direction implementation
+- aircraft accessories / instruments
+- structural material / joint practice
+
+### C. 完成品を得ても量産再現には長いindustrial gateが残る
+- high-frequency radar components / reliable tubes
+- large switchgear with comparable reliability
+- high-precision reduction gears
+- boiler / turbine manufacturing quality
+- shaft / bearing metallurgy and large-machine accuracy
+- material heat treatment / production consistency
+
+原則:
+**CONCEPT / IMPLEMENTATION OBSERVED ≠ DOMESTIC MASS-PRODUCTION QUALIFIED**
+
+Enterpriseは「完成した比較標準器」を一隻分与えるが、製造設備・supplier・工程能力・耐久試験を無料では与えない。
+
+## 24. 6/26時点の情報成果状態
+
+6/26までにCLOSED central:
+- comprehensive photographic record
+- substantial technical documents / manuals / logs recovered
+- portable radio / radar / electrical / hydraulic / aircraft-maintenance samplesの一部を船体外へ移送済み
+- structural / weld / material sample collection開始済み
+- captured paperworkの一次分類 / 翻訳開始
+- aviation / DC / electrical / radar exploitation priorities確立
+- F4F-4 folding-wing mechanismを明示的なstudy itemへ追加
+
+まだOPEN / future:
+- exact captured F4F airframe countの最終監査
+- complete safe / vault inventory
+- codebreaking示唆文書のexact wording / provenance
+- large machinery destructive-test results
+- metallurgical replication feasibility
+- Japanese operational / doctrinal response
+- US-side cryptographic / procedural countermeasures
+
+**ここでは回収事実と理解可能範囲までを固定し、その後の「日本がどこまで賢く使うか」は別gateとする。**
