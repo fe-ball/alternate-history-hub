@@ -27,8 +27,8 @@ scenarios:
     status: active
     authority_version: "Branch B v100"
     canonical_clock: "1944-06-16T14:15"
-    clock_state: "open-event-simulation; forager-approved-through-1944-06-16T14:15; saipan-ground-approved-through-1944-06-16-dawn; post-1415-working-synthesis-recorded-not-authority; fleet-hull-equipment-reaudit-working-checkpoint-recorded; next-june-sortie-disposition-and-carrier-defense-reaudit; tf58-asw-meta-reaudit-still-mandatory-before-post1415-promotion; china-1944-05-29_to_06-14-detail-gap; aircraft-audit-working-strong"
-    frontier: "FORAGER現行正本は6/16 14:15据置。艦艇装備監査は04_RESUME/FLEET_HULL_ESCORT_REAUDIT_WORKING_SNAPSHOT_2026-09-23.mdまでWORKINGで前進。次チャットは04_RESUME/00_NEXT_CHAT_JUNE_DISPOSITION_CARRIER_DEFENSE_REAUDIT_2026-09-23.mdを入口に、残るDD/海防艦/旧式DD・哨戒艇の個艦roll-forwardを閉じ、各艦の1942-44損傷・修理・改装・移動から実際の6月出撃時配置/燃料/護衛割当を再構築する。その上で日米空母防空をCAP・電探/戦闘機指揮・艦砲AA・護衛配置・操艦/編隊技能まで一体監査し、post-14:15 WORKING航空戦の防空損耗数値を再計算する。TF58全体ASWメタ監査はpost-14:15正本化前の必須gateとして維持"
+    clock_state: "canonical-anchor-only; authority-remains-1944-06-16T14:15; saipan-ground-approved-through-1944-06-16-dawn; post-1415-working-not-authority; 10Jun-Marianas-resident-and-regional-movable-air-wallet-reopened-before-air-combat-replay; tf58-asw-meta-reaudit-still-mandatory-before-post1415-promotion; china-1944-05-29_to_06-14-detail-gap"
+    frontier: "FORAGER正本は1944-06-16 14:15据置。次チャットはAUDIT_RESET_2026-09-25/88_NEXT_CHAT_10JUN_MARIANAS_REGIONAL_AIR_MOBILITY_WALLET_REAUDIT_v001.mdを入口とし、航空戦再演の前に1944-06-10時点のマリアナ常駐航空戦力と、Bonins/Palau/Yap/比島等周辺からJ1/J2/J3警戒で実際に呼び戻し・フェリー可能な航空戦力をphysical/serviceable/crewed/MR/immediate、命令、移動時間、整備・予備発動機、燃料、受入飛行場、供出元機会費用まで分離して閉じる。史実Biak/KONによるマリアナ航空兵力抽出は現行Branchへ自動継承しない。旧6/10 fighter143–176 / total192–248 / late-Zui-sei41–49はREOPEN CANDIDATEで、代替値を先取りしない。第一機動艦隊航空は実際の陸上移管がない限り島嶼戦力へ二重計上しない。10日walletが閉じるまで11日TF58 sweepを再演しない。TF58全体ASWメタ監査はpost-14:15正本化前の必須gateとして維持"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/keisanki-ibun"
     entrypoint: "scenarios/keisanki-ibun/README.md"
