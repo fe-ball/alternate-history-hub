@@ -3261,6 +3261,204 @@ rather than lose operational fleet carriers。
 - US knows Enterprise is being towed but lacks a continuous track through 6/15 central。
 - next gate: **6/16–6/20 Wake-support transition / further submarine interception / Akagi-Kaga onward route / Enterprise evidence release and US strategic regrouping**。
 
+#### 10.0AA 6/16–6/20 — Wake support transition / Kwajalein route / evidence release — CLOSED central
+
+**Wake is support node, not Enterprise anchorage**
+- Wake lagoon channel was only partially dredged to **~20 ft** in late 1941 and the turning basin was unfinished。
+- Yorktown-class normal draft is already about28 ft; R3 Enterprise remains deeper / listed。
+- therefore **Enterprise does not enter Wake lagoon — CLOSED**。
+- Wake provides:
+  - radio / navigation relay
+  - local patrol aircraft / fighter warning
+  - small-boat / personnel / stores support where sea permits
+  - rendezvous point for oilers / escorts
+- prize convoy remains offshore / moving rather than anchoring against the reef。
+
+**historical support anchor — Genyo Maru**
+- historically **Genyo Maru was off Wake 15–17 June 1942**, refueling CruDiv 5。
+- R3 therefore uses Genyo as a fresh support / tow-relief asset without inventing a ship from nowhere。
+- 6/16:
+  - Genyo rendezvous east / southeast of Wake
+  - escorts refuel sequentially
+  - fresh heavy wire / pumps / food / water / repair stores transferred
+  - Shinkoku remains primary tow pending planned relief
+- Wake airfield / patrol detachment expands daylight search around the convoy, but no radar umbrella is invented。
+
+**6/17 pre-dawn submarine attack — protection costs a support ship**
+- US submarine concentration around the projected Wake / Marshall route remains the principal threat。
+- changed geometry leaves attacker identity OPEN。
+- **05:00級、6 Mk14-class torpedoes** are fired into the Enterprise / towing-oiler track at 2,500–4,000yd-class solution。
+- result central:
+  - 1 premature / abnormal detonation
+  - 1 **high-order hit on Shinkoku Maru**
+  - remaining torpedoes miss / run deep
+  - **Enterprise itself receives no hit**
+- the Shinkoku hit is not treated as a magical “bodyguard sacrifice”; she is the tow ship ahead of the carrier and shares the torpedo spread geometry。
+- hit location central: starboard mid / aft cargo-oil compartment, causing fire / flooding and tow-load concern but not immediate machinery total-loss。
+- tow is slipped / cut; Enterprise drifts under DD control。
+- Japanese DDs conduct aggressive depth-charge search; US submarine escapes central。
+
+**Shinkoku damage / tow redundancy**
+- Shinkoku fire contained after several hours。
+- propulsion survives at reduced **8–10kt-class** but heavy ocean tow is judged unsafe。
+- no catastrophic tanker explosion central。
+- **Genyo Maru takes Enterprise tow 09:00–12:00級** after emergency bridle transfer。
+- initial Genyo tow 2.5–3.0kt, restored to **3.5–4.0kt** by evening。
+- Shinkoku withdraws west under reduced speed with **one DD escort**。
+- Kokuyo remains reserve tow / logistics。
+- this is why Japan’s earlier decision to retain more than one large auxiliary around the prize matters: one torpedo hit does not automatically force Enterprise scuttle。
+
+**Wake passage**
+- 6/17 afternoon–night、prize group passes **south / southwest of Wake rather than entering lagoon**。
+- does not stop inside artillery / reef hazard for propaganda or ceremony。
+- Wake-based patrol / local fighter activity and Genyo support reduce air-search risk for the transition period。
+- Akashi continues engineering work underway。
+- no grounding。
+
+**next safe anchorage choice — Kwajalein, CLOSED**
+- Kwajalein is a major Japanese naval / submarine base with a large lagoon。
+- later US surveys recorded Gea Pass dragged to **49 ft** and safe lagoon anchorage with depths over49 ft; northern passes also give deep access。
+- this is fundamentally different from Wake’s 20-ft unfinished channel。
+- therefore once Wake support has been used, **Enterprise turns S–SSW for Kwajalein rather than attempting a direct Truk/Kure ocean tow**。
+- Wake–Kwajalein is roughly **640 nmi-class** great-circle scale。
+- at 3.5–4.3kt and with ASW / tow delays, ETA becomes **6/24–6/26級 central**。
+- strategic logic:
+  1. reach a deep enclosed anchorage sooner
+  2. let Akashi work in sheltered water
+  3. unload / inspect prize safely
+  4. reduce exposure before deciding Truk / Kure onward tow
+- Kwajalein is **first secure anchorage**, not final repair destination。
+
+**CarDiv 5 release after Wake transition**
+- Shokaku / Zuikaku maintain distant air umbrella through the high-risk 6/17 transition / submarine contact。
+- after prize turns toward the Marshall base network and Wake / Roi / Kwajalein search coverage increases:
+  - **6/18–6/19 CarDiv 5 is released from dedicated prize umbrella — CLOSED central**
+- fighters may still be staged / dispatched on specific contact reports where geometry permits, but the carriers cease being a standing Enterprise escort。
+- this respects priority doctrine: special prize protected strongly, but not at the cost of indefinite fleet-carrier immobilization。
+
+**Akagi / Kaga withdrawal ledger — CLOSED central**
+Kaga:
+- faster 12–18kt controlled withdrawal allows her to reach Truk first。
+- **6/11–6/12 Truk arrival central**。
+- No.4 Naval Construction / Repair Department performs temporary structural / fire / flight-deck stabilization; Akashi’s absence slows specialist work but does not make Truk incapable of emergency repairs。
+- no carrier-air operation restoration at Truk central。
+- **6/14–6/15 departs onward for Kure / major-yard repair** at ~14–16kt-class safe transit。
+
+Akagi:
+- 8–12kt steering-limited withdrawal is slower。
+- **6/14–6/15 Truk arrival central**。
+- steering / rudder-control and damaged-deck temporary stabilization by local repair department。
+- exact permanent rudder / deck repair requires Japanese yard。
+- **6/19–6/20 onward departure central**, 12–14kt-class after temporary steering improvement。
+- Akagi / Kaga are not held near Wake to help Enterprise; recovering own fleet carriers is a separate priority。
+
+**Midway maturation 6/16–6/20**
+- no functioning Japanese radar set is invented by 6/20。
+- captured SCR-270 remains technical-intelligence material, not an operational Japanese warning station。
+- imported fuel remains primary; captured US fuel is used only after staged sampling / filtration and does not suddenly create unlimited sortie capacity。
+
+6/16:
+- shore fighters **30–32 serviceable**
+- B5N 8–10
+- D3A 4–6
+- Zuiho still local cover
+- picket / seaplane warning network
+
+6/18:
+- shore fighters **32–36**
+- B5N **10–12**
+- D3A **6–9**
+- main runway full-length enough for routine single-engine operations; second runway improving
+- limited twin-engine ferry / emergency landing possible, but no routine bomber squadron yet
+- additional Japanese AA / local-defense weapons emplaced
+
+6/20:
+- shore fighters **34–38、central 36**
+- B5N **10–12**
+- D3A **6–9**
+- seaplane search active
+- imported fuel / workshop throughput sufficient for routine fighter CAP / local search
+- radar warning **NO**
+- routine G3M/G4M-class offensive detachment **not yet CLOSED**
+- **Zuiho may withdraw / rotate from permanent close cover on 6/20 — CLOSED central**
+- Midway classification: self-defending fighter / search base with limited strike capability; still logistics-fragile and radar-blind。
+
+**US submarine / air pressure after Wake**
+- 6/17 Shinkoku hit demonstrates that the prize route is penetrable。
+- after the convoy turns south for Kwajalein, US boats are redirected toward likely Marshall approaches。
+- through 6/20:
+  - one additional distant / ambiguous contact
+  - **no second Enterprise firing solution central**
+- PBY search from Hawaii / Laysan network cannot maintain dense continuous coverage over the Wake–Kwajalein leg after loss of Midway。
+- this is a reduction in persistence, not immunity。
+
+**US carrier regrouping through 6/20**
+- Saratoga remains in Hawaiian defense / training / ready reserve。
+- Wasp follows her historical Pacific transfer and reaches the U.S. West Coast / San Diego area in the historical mid-June window; she is not operationally at Midway by 6/20。
+- Nimitz does not attack Kwajalein / Midway with a lone Saratoga while Japanese carrier strength remains uncertain and multiple Japanese fleet carriers survive。
+- US immediate offensive method remains submarines + long-range reconnaissance while carrier strength rebuilds。
+
+**Enterprise capture evidence — release sequence CLOSED**
+Stage 1 — claim:
+- IGHQ / Navy may publicly claim Enterprise captured before photographs are issued。
+- exact communiqué date is not tied to hull location, but claim becomes firm once 6/9 PBY confirms to the US and Japanese internal reporting is stable。
+
+Stage 2 — selected photographs:
+- technical photo negatives / duplicate prints sent separately from prize convoy reach the rear by relay。
+- **6/19–6/20、Japanese Navy Ministry / IGHQ releases a selected photographic set via Domei / controlled press channels — CLOSED central**。
+- selection shows:
+  - unmistakable Enterprise flight deck / island / US markings
+  - Japanese prize / repair personnel aboard
+  - enough damage to make capture credible
+- crop / selection avoids:
+  - contemporary escort formation
+  - horizon / solar cues where practical
+  - tow route
+  - fresh ASW dispositions
+  - detailed technical close-ups reserved for intelligence use
+- this uses real proof without sacrificing current operational location。
+
+Stage 3 — physical foreign inspection:
+- **not yet**。
+- foreign correspondents / diplomats cannot be safely taken to an exposed moving tow。
+- once Enterprise reaches a secure lagoon / major base, physical inspection by selected neutral / Axis correspondents or attachés becomes an option。
+- their later eyewitness reporting can provide a stronger independent credibility layer。
+
+**US public response to photographs**
+- US Navy cannot plausibly claim the photographed hull is fictitious once silhouette / markings are clear and CINCPAC already has PBY confirmation。
+- Washington can avoid validating Japanese technical claims and exact condition, but must treat Enterprise as lost from US service and captured / in enemy possession。
+- propaganda impact is large but not operationally decisive by itself。
+- Japanese release is timed for **proof after route protection**, not sadistic spectacle / battlefield taunting。
+
+**6/20 strategic state — CLOSED central**
+- Enterprise:
+  - afloat
+  - list ~12–14° after temporary regression / recovery around Shinkoku hit
+  - Genyo primary tow **3.7–4.2kt central**
+  - Kokuyo reserve
+  - Akashi support
+  - course toward Kwajalein
+  - ETA 6/24–6/26
+  - technical intelligence already partly externalized
+- Shinkoku:
+  - torpedo-damaged, self-propelled reduced-speed withdrawal west
+- Midway:
+  - ~36 shore fighters
+  - B5N 10–12 / D3A 6–9
+  - no radar
+  - Zuiho releasable from permanent cover
+- Akagi / Kaga:
+  - Kaga already onward to major-yard repair
+  - Akagi temporarily stabilized at Truk / beginning onward movement
+- US:
+  - Saratoga conserved
+  - Wasp arriving Pacific theater
+  - submarine / PBY pressure continues
+- public information:
+  - selected Enterprise capture photos released by 6/20 central
+  - physical foreign inspection deferred
+- next gate: **6/21–6/26 Enterprise arrival at Kwajalein and first secure-anchorage salvage audit; Midway longer-term logistics/radar; US decision on when Saratoga + Wasp can resume offensive carrier operations**。
+
 #### 10.0N Midwayへ復帰 — 18:45の作戦判断 — CLOSED / next simulation gate
 
 **18:45以後の追加dusk strike — NO GO, CLOSED**
