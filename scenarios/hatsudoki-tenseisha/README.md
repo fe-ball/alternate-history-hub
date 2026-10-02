@@ -9,6 +9,7 @@
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 > **Forward planning ledger:** [relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md](relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md)
+> **Next-session world ripple ledger:** [relaunch/16-WORLD-STRATEGY-RIPPLE-1942H2.md](relaunch/16-WORLD-STRATEGY-RIPPLE-1942H2.md)
 
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
@@ -20,6 +21,7 @@
 3. authority入口の **現在の読み順** に従い、必要なengine / aircraft / naming / war-ledgerを読む
 4. 現行論点では特に [14 — 真珠湾後〜ミッドウェー午後チェックポイント](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md) を優先する
 5. Enterprise再建・工廠負荷・空母建造の6/26時点forward planは [15 — Enterprise再建・ミッドウェー後工廠負荷・空母建造計画](relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md) を参照する
+6. 1942年後半へ時計を進める前の世界波及監査は [16 — 世界戦略波及 1942H2](relaunch/16-WORLD-STRATEGY-RIPPLE-1942H2.md) を参照する
 
 最大version、更新日の新しさ、記述年代の未来さだけでauthorityを決めない。
 
@@ -59,6 +61,7 @@ CLOSED central:
 - foreign physical inspectionはKwajaleinでは行わない
 
 次は、
+0. 1942H2 world ripple audit — Ironclad / Pedestal / PQ18 / Torch / CVE / Atlantic / Persian Corridor
 1. 6/27–7/3 Enterprise sheltered repair / Truk tow decision
 2. Saratoga + Wasp Pearl concentration
 3. Midway fuel / radar / land-attack maturity
