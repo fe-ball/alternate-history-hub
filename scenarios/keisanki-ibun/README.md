@@ -11,7 +11,18 @@ Working canonical clock: **1944-06-16T14:15**
 Clock state: **OPEN / EVENT-SIMULATION**  
 Post-14:15 working syntheses exist, but are **NOT AUTHORITY** and do not advance the canonical clock.
 
-Current frontier: **1944-06-10 Marianas air-power / ISR / base-protection reset is SELECTED WORKING. The old small v098/v089 aggregate air board is rejected as a combat input. Read file 91 first, then rebuild the 11-Jun TF58 sweep from the new resident aviation board and explicit base-protection / ISR / ASW states. TF58 whole-system ASW remains mandatory before post-14:15 promotion.**
+Current frontier: **11-Jun first Japanese anti-carrier counterstrike is the next gate. Before resolving it, re-audit Branch aircraft/weapon/AA performance and tactical research; do not silently restore historical hit rates. Read file 92 first.**
+
+## 11-Jun first counterstrike handoff（2026-10-02）
+
+[次回の直接入口](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/92_NEXT_CHAT_11JUN_FIRST_COUNTERSTRIKE_WEAPONS_TACTICS_REAUDIT_HANDOFF_v001.md)を最初に読む。
+
+- 次回は第一次対艦反撃を解く前に、current50/51/52/53、v099航空/誉、v098 anti-radar/approach doctrine、現行艦隊AA/電子装備、Ni/Cr/Mo等の特殊合金配分線を再確認する。
+- Branch機体性能・戦闘機固定銃・D4Y爆撃・B6N/B5N雷撃・日本島嶼AAを史実性能/史実命中率へ黙って戻さない。史実は校正・矛盾検査に限定。
+- 直前会話の日本攻撃機24–34＋護衛10–14、二実攻撃軸＋一情報軸、米日損失帯は **DISCUSSION / NOT SETTLED**。監査後に再計算する。
+- 二実軸＋一情報軸は検証対象として保持。軸数増加のCIC負荷と、日本側の航法・護衛・攻撃密度低下を両方払う。
+- 海面下・水上も同じ時計に載せる。11-Jun潜水艦のTF58 attack-quality contactを自動付与しない。
+- v100正本時計は1944-06-16 14:15のまま。TF58全体ASW meta-auditはpost-14:15昇格前の必須gate。
 
 ## 10-Jun Marianas aviation reset（2026-10-02）
 
@@ -73,14 +84,13 @@ Approved through 1944-06-16T14:15:
 - U.S. deep carrier counterstrike range gate = HOLD / RED at 14:15.
 
 Current immediate analytical task:
-- read `current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/91_10JUN_MARIANAS_AIR_POWER_ISR_BASE_PROTECTION_RESET_CLOSEOUT_v001.md` first;
-- treat the old small 10-Jun v098/v089 aviation totals as rejected aggregate inputs, not lower bounds;
-- use the new resident aviation board: physical 580–700 / serviceable 500–620 / crewed 465–575 / MR 420–520 / immediate 250–310, fighter MR about 290–360 class;
-- keep First Mobile Fleet aviation separate from island aviation unless an actual transfer/recovery event occurs;
-- retain file 90 Sea Board B structure, with later file-91 closeouts for Nisshin/Chitose-Chiyoda roles, named DD contingency wallet, local craft, Army source/payload and U.S. ISR;
-- allocate the new air board by actual airfield/water-air node and protection state before calculating 11-Jun ground losses or scramble strength;
-- use ISR S/C/R/P/I/D roles and explicit Tokai/ASW commitments; do not count Ka-go as Marianas resident without a dated movement;
-- replay the 11-Jun TF58 sweep from the new inputs without tuning toward the old 11–16 Jun loss bands;
+- read `current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/92_NEXT_CHAT_11JUN_FIRST_COUNTERSTRIKE_WEAPONS_TACTICS_REAUDIT_HANDOFF_v001.md` first;
+- preserve the 10-Jun zero-baseline air/sea board and rejected-old-board guard;
+- before any 11-Jun counterstrike hit/loss calculation, recheck Branch aircraft performance, fixed-gun lethality, D4Y/B6N/B5N ordnance/release envelopes, U.S. F6F/CAP state, U.S. CIC/5in-VT/Bofors defense, Japanese island AA, and special-alloy reliability effects;
+- historical performance/hit rates are calibration only, not defaults;
+- treat the discussed 24–34 attack aircraft + 10–14 escorts and two-real-axis + one-information-axis plan as a geometry candidate, not a settled sortie;
+- keep surface/submarine/water-air clocks active in parallel; no automatic 11-Jun submarine carrier contact;
+- only after that audit, resolve detection -> CAP allocation -> AA -> release geometry -> weapon hit/miss -> damage -> return/SAR;
 - TF58 whole-system ASW meta-audit remains mandatory before any post-14:15 promotion.
 
 China 29 May–14 Jun detailed event sequence remains a parallel OPEN ledger and must not be inferred from the global date.
