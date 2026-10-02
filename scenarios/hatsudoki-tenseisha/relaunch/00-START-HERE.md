@@ -90,6 +90,18 @@ CLOSED central / policy:
 - 「ミッドウェー改修」をbattle repair / lessons refit / emergency conversion / auxiliary-yard burdenへ分解して追う
 - 空母大量建造計画は直感で縮小せず、史実級の全力計画枠を維持。R3差分はearly miracle commissioningではなく、後続艦の中止・遅延・割込み減少として表現
 
+### 16 — 世界戦略波及 1942H2
+`16-WORLD-STRATEGY-RIPPLE-1942H2.md`
+
+6/26時点から時計を進めず、1942年後半へ進む前に英米日の「若干足りない」が他戦域へどう転嫁されるかを監査するsupporting ledger。
+
+PROVISIONAL world-frame / next-session agenda:
+- 日本側は五号作戦、MOMIAL基地化、段階化FS、中部太平洋、印度洋圧力を同時に検討し、工兵・輸送・航空・tanker等で過積載になる
+- 商船問題は後年型の大量撃沈より、徴傭・航海日数・遠隔基地維持による**拘束不足**を主に見る
+- 修理空母航空隊・生存熟練者・cross-deck経験を基礎に「より有機的な艦載機運用研究」を進めるが、1944年式空地分離を先取りしない
+- 米太平洋はSaratoga + Waspが当面の正規空母核。RNはIndomitable喪失 / Formidable損傷でMadagascar、Malta、Eastern Fleet、Home Fleet、Torch、Arctic convoy間の配分が厳しくなる
+- 次回はIronclad再監査、Pedestal、PQ18/北方再開、Torch/CVE配分、Atlantic ASW/U-boat、Persian Corridor/対ソ援助、日本の限定raid余地を順に掘る
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
@@ -109,8 +121,9 @@ CLOSED central / policy:
 15. [真珠湾第一波](13-PEARL-HARBOR-FIRST-WAVE-1941-12-07.md)
 16. **[現行戦役台帳・ミッドウェー午後](14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)**
 17. **[Enterprise再建・工廠負荷・空母建造forward plan](15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md)**
-18. [旧再開プロンプト（真珠湾時点・REFERENCE）](../SESSION-START-PROMPT-1941-12-07.md)
-19. [pre-relaunch参考](../pre-relaunch/README.md)
+18. **[1942H2 世界戦略波及・次回監査入口](16-WORLD-STRATEGY-RIPPLE-1942H2.md)**
+19. [旧再開プロンプト（真珠湾時点・REFERENCE）](../SESSION-START-PROMPT-1941-12-07.md)
+20. [pre-relaunch参考](../pre-relaunch/README.md)
 
 後続正本が旧planningと競合する場合は、後続正本の明示的なsupersessionを優先する。
 
@@ -167,6 +180,11 @@ CLOSED central:
   - foreign physical inspection still deferred; Kwajalein is not opened to outside observers
 
 次の論点:
+0. **1942H2世界波及の事前監査**
+   - Ironclad / Pedestal / PQ18 / Torch / CVE / Atlantic ASW / Persian Corridor
+   - 英米の「一枚足りない」がどこへ転嫁されるか
+   - 日本が一時的な連合軍空母不足を限定raid等でどう利用し得るか
+   - 詳細は [16](16-WORLD-STRATEGY-RIPPLE-1942H2.md)
 1. **6/27–7/3 Enterprise Kwajalein sheltered repair**
    - temporary underwater patches / shoring
    - 48–72h tow certification
