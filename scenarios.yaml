@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-10-01"
+updated: "2026-10-02"
 
 scenarios:
   asai:
@@ -27,8 +27,8 @@ scenarios:
     status: active
     authority_version: "Branch B v100"
     canonical_clock: "1944-06-16T14:15"
-    clock_state: "canonical-anchor-only; authority-remains-1944-06-16T14:15; saipan-ground-approved-through-1944-06-16-dawn; post-1415-working-not-authority; 10Jun-Marianas-air-wallet-selected-working-plus-sea-Board-B-fast-lift-preposition-selected-working-before-air-combat-replay; tf58-asw-meta-reaudit-still-mandatory-before-post1415-promotion; china-1944-05-29_to_06-14-detail-gap"
-    frontier: "FORAGER正本は1944-06-16 14:15据置。次チャットはAUDIT_RESET_2026-09-25/90_10JUN_MARIANAS_SEA_BOARD_B_FAST_LIFT_PREPOSITION_CLOSEOUT_v001.mdを入口とし、89/88を親監査として読む。航空Board AはM0 physical296–372 / serviceable252–320 / crewed232–297 / MR200–266 / immediate125–174、fighter MR152–194、post-10Jun M1 9–17 MR、M2は0中心OPEN、第一機動艦隊航空は別財布。海Board BはJ3でfast-lift walletをfreeze/identify、10Junでforward-concentration preparationとし、Saipan突入命令はまだ出さない。五空母主力はSulu/Philippine reaction systemで東進HOLD、重/高速水上戦力は西/南反応系、Fuso/Yamashiro/Ise/HyugaはPhilippines/DEI inner reserve。NisshinはDavao–Palau反応軸でFREEZE/PREPARE、Chitose/Chiyodaは一隻をwater-air support、一隻をoptional heavy-lift候補、Aoba/Kinu＋minelayer/T.127 mission classをfast-lift候補として個艦所在を閉じる。modern DD 6–8 relief-convertible slotsはearmarkのみでまだscreenから外さず、slow convoyはrear hold。Saipan R3/R2・Tinian R2–R3・Guam R2受入とheavy local craft reserve、2,000–3,500 personnel planning poolのmodular load準備を置く。残OPENはNisshin機関/燃料/搭載艇、Chitose/Chiyoda名寄せ、Aoba/Kinu/Tsugaru/Itsukushima/T.127個艦所在、DD名寄せ、local craft physical→MR、Army source unit/cargo、米ISR。これらを必要範囲で閉じ、輸送準備が米ISRと11Jun初動に与える効果を払ってからTF58 sweepを再演する。史実Biak/KONは自動継承せず、files79–85は方法/代替監査としてのみ使う。TF58全体ASWメタ監査はpost-14:15正本化前の必須gateとして維持"
+    clock_state: "canonical-anchor-only; authority-remains-1944-06-16T14:15; saipan-ground-approved-through-1944-06-16-dawn; post-1415-working-not-authority; 10Jun-Marianas-zero-baseline-air-sea-closeout-selected-working-before-11Jun-air-combat-replay; old-Board-A-aggregate-invalid; tf58-asw-meta-reaudit-still-mandatory-before-post1415-promotion; china-1944-05-29_to_06-14-detail-gap"
+    frontier: "FORAGER正本は1944-06-16 14:15据置。次チャットはAUDIT_RESET_2026-09-25/91_10JUN_MARIANAS_COUPLED_AIR_SEA_ZERO_BASELINE_CLOSEOUT_v001.mdを入口とし、90をSea Board B親監査、89/88を失敗履歴・親監査として読む。旧10Jun航空Board Aのphysical296–372 / MR200–266 / fighter MR152–194等は総戦力入力としてINVALID/QUARANTINED。新しいSELECTED WORKINGはMarianas resident physical580–700 / serviceable500–620 / crewed465–575 / MR420–520 / immediate250–310、fighter MR約290–360。瑞星零戦の量的主力層、強風・瑞雲/E13A/F1M、水上ISR、C6N/Ki-46、Tokaiを独立財布として含め、Ka-goはMarianas 0-center（日時付き移動なし）。第一機動艦隊航空は別財布、専用/準専用ISR核29–40 MR級。基地保護はraw parking / dispersed / revetment / covered-cut-in / hardenedを分離し、水上航空は分散泊地・揚収・燃料/整備分散で別管理。Sea Board BはNisshinをDavao–Palau primary fast heavy lift、Chitose/Chiyodaをwater-air support + optional heavy-lift role slots、2nd Amphibious Brigade由来のfirst lift 2,450–2,950人+250–350t級、local-craft reception walletを保持。DDはShimakaze/Kishinami/Okinami/Naganami/Asashimo/Tamanami/Fujinami/Hamakazeをnamed contingency walletとし、earmarkのみで未離脱。ここから11Jun TF58 sweepをfield/launch/protection/ISR stateから再演する。史実Biak/KONは自動継承せず、TF58全体ASWメタ監査はpost-14:15正本化前の必須gateとして維持"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/keisanki-ibun"
     entrypoint: "scenarios/keisanki-ibun/README.md"
