@@ -11,7 +11,7 @@ Working canonical clock: **1944-06-16T14:15**
 Clock state: **OPEN / EVENT-SIMULATION**  
 Post-14:15 working syntheses exist, but are **NOT AUTHORITY** and do not advance the canonical clock.
 
-Current frontier: **1944-06-10 Marianas coupled air-sea contingency audit. Aviation Board A and Sea Board B structural close are SELECTED WORKING. Before replaying the 11-Jun TF58 sweep, finish the remaining individual-hull / local-craft / Army-payload / U.S.-ISR open items from file 90. TF58 whole-system ASW remains mandatory before post-14:15 promotion.**
+Current frontier: **1944-06-10 Marianas zero-baseline coupled air-sea closeout is SELECTED WORKING. The old Aviation Board A aggregate is invalid/quarantined. Use file 91 as the replay entrypoint, with Sea Board B file 90 as parent. Next event is the 11-Jun TF58 sweep replay from the rebuilt air OOB, ISR, field and protection state. TF58 whole-system ASW remains mandatory before post-14:15 promotion.**
 
 ## 最新の監査・取消し指示（2026-09-25）
 
@@ -59,13 +59,15 @@ Approved through 1944-06-16T14:15:
 - U.S. deep carrier counterstrike range gate = HOLD / RED at 14:15.
 
 Current immediate analytical task:
-- read `current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/90_10JUN_MARIANAS_SEA_BOARD_B_FAST_LIFT_PREPOSITION_CLOSEOUT_v001.md` first, then file 89 / 88 as parent audits;
-- retain the 10-Jun aviation Board A as SELECTED WORKING: M0 physical 296–372 / serviceable 252–320 / crewed 232–297 / MR 200–266 / immediate 125–174; fighter MR 152–194;
-- do not double-count the J2 Palau/Yap 8–14 MR class already folded into M0; post-10-Jun M1 remains 9–17 MR class and M2 remains 0-center / OPEN;
-- Sea Board B structural close: five carriers remain Sulu/Philippine HOLD; heavy/fast surface stays west/south; four slow BBs remain inner Philippines/DEI reserve; Nisshin is Davao–Palau FREEZE/PREPARE; Chitose/Chiyoda split one water-air support + one optional heavy-lift candidate; Aoba/Kinu + minelayer/T.127 mission class are fast-lift candidates; 6–8 relief-convertible DD slots are earmarked but not detached; slow convoy remains rear hold;
-- before the 11-Jun air replay, close the remaining individual Nisshin/Chitose/Chiyoda/Aoba/Kinu/Tsugaru/Itsukushima/T.127 locations/readiness, named DD slots, local craft physical→MR, Army source/cargo modules and U.S. ISR consequences;
-- treat J3 (~8 Jun) as freeze/prepare and 10 Jun as forward-concentration preparation, not a Saipan penetration order because exact landing island/time is still unknown;
-- use files 79–85 only as working doctrine/feasibility inputs; do not import their later combat outcomes as current history;
+- read `current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/91_10JUN_MARIANAS_COUPLED_AIR_SEA_ZERO_BASELINE_CLOSEOUT_v001.md` first, then file 90; files 89/88 are parent audits and failure-history context only;
+- **do not use** the old 10-Jun Aviation Board A aggregate (physical 296–372 / MR 200–266 / fighter MR 152–194) as a force input;
+- new 10-Jun SELECTED WORKING Marianas resident envelope: physical **580–700**, serviceable **500–620**, crewed **465–575**, MR **420–520**, immediate **250–310**, fighter MR about **290–360**;
+- rebuild the 11-Jun fighter launch sequence from actual field assignment, pre-raid CAP, ready state, refuel/rearm, fighter-direction handoff, ISR protection and U.S. sweep geometry; total fighter MR is not the first-contact number;
+- preserve the layered ISR structure: water-air / H6K-H8K broad search, C6N / Ki-46 / D4Y fast confirmation and recontact, Tone/Chikuma and Oyodo/Shiun fleet reconnaissance, shore/fleet plot handoff, fighter reconnaissance-denial;
+- keep Tokai as a dedicated ASW wallet; Ka-go is a real but small national capability with **Marianas 0-center** until a dated host/unit movement exists;
+- protect land aircraft through separate raw-parking / dispersed-parking / revetment / covered-cut-in / hardened categories; protect water-air through dispersed anchorages, haul-out/ramp, repair and fuel/ordnance dispersion;
+- Sea Board B remains: Nisshin primary fast heavy lift on the Davao–Palau axis; Chitose/Chiyoda role slots split water-air support + optional heavy lift; first Army fast echelon 2,450–2,950 personnel with 250–350 t priority cargo; named DD contingency wallet Shimakaze/Kishinami/Okinami/Naganami/Asashimo/Tamanami/Fujinami/Hamakaze, earmarked but not yet detached;
+- exact ordinary squadron names, Chitose-vs-Chiyoda hull split, Nisshin carried-craft count, second-lift Aoba/Kinu/Tsugaru/Itsukushima/T.127 locations, exact shelter-by-field counts and exact C6N national production remain OPEN but do not block the 11-Jun replay;
 - keep First Mobile Fleet carrier aviation separate from island aviation unless an actual shore-transfer event occurs;
 - TF58 whole-system ASW meta-audit remains mandatory before any post-14:15 promotion.
 
@@ -73,17 +75,18 @@ China 29 May–14 Jun detailed event sequence remains a parallel OPEN ledger and
 
 ## Reading order
 
-1. [10-Jun Sea Board B fast-lift closeout](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/90_10JUN_MARIANAS_SEA_BOARD_B_FAST_LIFT_PREPOSITION_CLOSEOUT_v001.md)
-2. [10-Jun coupled air-sea contingency handoff](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/89_NEXT_CHAT_10JUN_MARIANAS_AIR_SEA_CONTINGENCY_TRANSPORT_PREPOSITION_v001.md)
-3. [latest audit/reset instruction and source-lineage corrections](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_NEXT_CHAT_PROVENANCE_RECOVERY_2026-09-25.md)
-4. [v100 current read-first](current/00_CURRENT_AUTHORITY/00_READ_FIRST_CURRENT_V100_2026-09-21.md)
-5. [v100 full handoff](current/V100_ADDENDUM_2026-09-21/00_HANDOFF/00_READ_FIRST_V100_FULL_HANDOFF.md)
-6. [v100 supersession/status map](current/V100_ADDENDUM_2026-09-21/01_AUTHORITY/V100_SUPERSESSION_AND_STATUS_MAP.md)
-7. [ship/equipment/fleet re-audit resume](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_READ_FIRST_SHIP_EQUIPMENT_AND_FLEET_REAUDIT_2026-09-23.md)
-8. [v100 next frontier](current/V100_ADDENDUM_2026-09-21/04_RESUME/NEXT_FRONTIER_1944-06-16_1415.md)
-9. [v099 aircraft / Homare audit](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/01_AIRCRAFT_AUDIT_AND_HOMARE_POOL_1944H1.md)
-10. [v099 anti-magic method guard](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/03_USER_METHOD_GUARD_ANTI_MAGIC.md)
-11. retained v098/v097/v096 authority where not superseded.
+1. [10-Jun coupled air-sea zero-baseline closeout](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/91_10JUN_MARIANAS_COUPLED_AIR_SEA_ZERO_BASELINE_CLOSEOUT_v001.md)
+2. [10-Jun Sea Board B fast-lift closeout](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/90_10JUN_MARIANAS_SEA_BOARD_B_FAST_LIFT_PREPOSITION_CLOSEOUT_v001.md)
+3. [10-Jun coupled air-sea contingency handoff](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/89_NEXT_CHAT_10JUN_MARIANAS_AIR_SEA_CONTINGENCY_TRANSPORT_PREPOSITION_v001.md)
+4. [latest audit/reset instruction and source-lineage corrections](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_NEXT_CHAT_PROVENANCE_RECOVERY_2026-09-25.md)
+5. [v100 current read-first](current/00_CURRENT_AUTHORITY/00_READ_FIRST_CURRENT_V100_2026-09-21.md)
+6. [v100 full handoff](current/V100_ADDENDUM_2026-09-21/00_HANDOFF/00_READ_FIRST_V100_FULL_HANDOFF.md)
+7. [v100 supersession/status map](current/V100_ADDENDUM_2026-09-21/01_AUTHORITY/V100_SUPERSESSION_AND_STATUS_MAP.md)
+8. [ship/equipment/fleet re-audit resume](current/V100_ADDENDUM_2026-09-21/04_RESUME/00_READ_FIRST_SHIP_EQUIPMENT_AND_FLEET_REAUDIT_2026-09-23.md)
+9. [v100 next frontier](current/V100_ADDENDUM_2026-09-21/04_RESUME/NEXT_FRONTIER_1944-06-16_1415.md)
+10. [v099 aircraft / Homare audit](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/01_AIRCRAFT_AUDIT_AND_HOMARE_POOL_1944H1.md)
+11. [v099 anti-magic method guard](current/V099_ADDENDUM_2026-09-20/03_SESSION_UPDATES/03_USER_METHOD_GUARD_ANTI_MAGIC.md)
+12. retained v098/v097/v096 authority where not superseded.
 
 ## Clean aviation references
 
