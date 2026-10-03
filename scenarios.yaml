@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-10-02"
+updated: "2026-10-03"
 
 scenarios:
   asai:
@@ -44,8 +44,8 @@ scenarios:
     status: active
     authority_version: "Relaunch R3"
     canonical_clock: "1942-06-26T18:00:00-10:30"
-    clock_state: "relaunch-r3; advanced through 1942-06-26 18:00; Enterprise entered Kwajalein lagoon and sheltered salvage under Akashi+Urakami CLOSED central after a 6/23 Mk14 contact dud; Midway radar-assisted forward base with ~44 fighters and limited land-attack capability; Wasp redirected toward Pearl to rebuild a Saratoga+Wasp carrier nucleus; next gate 6/27-7/3 Kwajalein repair/tow decision, US carrier concentration, Midway maturation, and exploitation/verification of Enterprise"
-    frontier: "1942-06-26 18:00級。Enterpriseは6/23米潜水艦Mk14 1本が船体へ接触するも不発、6/25 Kwajalein lagoonへ安全入泊。Akashi+Urakami Maru sheltered salvageでlist 7-9度、主機/操舵/ship main power dead、5kt級next towはPROVISIONAL。Midwayはfighter42-46（central44）+B5N12-15+D3A8-12+land-attack6級+fixed early-warning radar1基でradar-assisted forward base。SaratogaはHawaii、Waspは6/24-25 San Diego発Pearl向けへ転用。次は6/27-7/3 Enterprise repair/tow certification、Saratoga-Wasp集結、Midway成熟化、Enterprise技術/宣伝第二段階を閉じる"
+    clock_state: "relaunch-r3; canonical clock remains 1942-06-26 18:00; Enterprise Kwajalein sheltered salvage and Midway radar-assisted base remain current historical state; later Five-Go/FS/Arakan/base-development discussion is forward-analysis only, not future fact; next analytical gate is 1942H2 IJA aircraft naming/production/deployment re-audit before feeding updated air power back into forward operations"
+    frontier: "canonical 1942-06-26 18:00据置。今回forward-analysisは17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.mdへ保存。Five-Goはengineer/transport重視・集中船腹二波、FSは旧7月案凍結/基地化・偵察・limited raid先行、Kiska/Attu本格基地化、Arakanは研究→準備→英攻勢反応→舟艇側背/Cox's Bazar→条件次第ChittagongをPROVISIONALとする。次チャット最優先は05/10/11を再読し、O4系次期一般戦闘機の正式名称・制式呼称・量産/初配備を閉じ、Ki-45系の技術/任務分化/後継、Ki-46・Ki-21/Ki-49等への波及を再監査する。その後更新航空戦力をFive-Go/FS/Arakan/base-allocationへ再投入。canonical operational gatesのEnterprise 6/27-7/3 repair/tow、Saratoga-Wasp集結、Midway成熟化等は未解決のまま維持"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-ledger-through-enterprise-kwajalein-sheltered-salvage-midway-radar-1942-06-26-1800"
+    source_import: "relaunch-r3-continuity-through-1942-06-26-1800-plus-17-forward-analysis-handoff-five-go-fs-arakan-aircraft"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
