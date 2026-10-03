@@ -102,6 +102,20 @@ PROVISIONAL world-frame / next-session agenda:
 - 米太平洋はSaratoga + Waspが当面の正規空母核。RNはIndomitable喪失 / Formidable損傷でMadagascar、Malta、Eastern Fleet、Home Fleet、Torch、Arctic convoy間の配分が厳しくなる
 - 次回はIronclad再監査、Pedestal、PQ18/北方再開、Torch/CVE配分、Atlantic ASW/U-boat、Persian Corridor/対ソ援助、日本の限定raid余地を順に掘る
 
+### 17 — 日本側1942H2戦略整理・五号/FS/Arakan・航空機更新 handoff
+`17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md`
+
+今回会話のforward-analysisを保存する次回handoff。canonical clockは進めない。
+
+PROVISIONAL discussion results:
+- Five-Goは大攻勢の存在より主攻比率 / H-hour / stage-transition条件を封止し、engineer / transport / signal密度を上げる方向
+- Five-Go船腹は恒久拘束でなく、25万総トン級centralの集中前送を二波に分けるworking model
+- FSは中止でなく旧7月案を凍結し、Solomons / PM基地線・偵察・limited raidを先行。original three-island planは魅力低下、NC限定はcontingency
+- Kiska / AttuはMidway保持下で史実より本格基地化価値が高い
+- Indian Ocean / Arakanは研究→準備→英攻勢→舟艇側背機動 / Cox's Bazar → 条件次第Chittagongという段階案
+- Nisshinはseaplane tender固定でなくfast heavy transport / amphibious logistics候補。Bengal Bay水上機ISRは特設母艦＋Port Blair / Akyab前進基地で分担
+- **次回最優先は陸軍1942H2新型機。O4系次期一般戦闘機の正式名称・制式呼称・量産/初配備を閉じ、Ki-45系の影響・派生・後継を再監査する**
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
@@ -121,9 +135,10 @@ PROVISIONAL world-frame / next-session agenda:
 15. [真珠湾第一波](13-PEARL-HARBOR-FIRST-WAVE-1941-12-07.md)
 16. **[現行戦役台帳・ミッドウェー午後](14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)**
 17. **[Enterprise再建・工廠負荷・空母建造forward plan](15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md)**
-18. **[1942H2 世界戦略波及・次回監査入口](16-WORLD-STRATEGY-RIPPLE-1942H2.md)**
-19. [旧再開プロンプト（真珠湾時点・REFERENCE）](../SESSION-START-PROMPT-1941-12-07.md)
-20. [pre-relaunch参考](../pre-relaunch/README.md)
+18. **[1942H2 世界戦略波及](16-WORLD-STRATEGY-RIPPLE-1942H2.md)**
+19. **[1942H2 日本側戦略・Five-Go/FS/Arakan・航空機次回handoff](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)**
+20. [旧再開プロンプト（真珠湾時点・REFERENCE）](../SESSION-START-PROMPT-1941-12-07.md)
+21. [pre-relaunch参考](../pre-relaunch/README.md)
 
 後続正本が旧planningと競合する場合は、後続正本の明示的なsupersessionを優先する。
 
@@ -180,11 +195,12 @@ CLOSED central:
   - foreign physical inspection still deferred; Kwajalein is not opened to outside observers
 
 次の論点:
-0. **1942H2世界波及の事前監査**
-   - Ironclad / Pedestal / PQ18 / Torch / CVE / Atlantic ASW / Persian Corridor
-   - 英米の「一枚足りない」がどこへ転嫁されるか
-   - 日本が一時的な連合軍空母不足を限定raid等でどう利用し得るか
-   - 詳細は [16](16-WORLD-STRATEGY-RIPPLE-1942H2.md)
+0. **次回分析frontier: 1942H2陸軍新型航空機の命名・量産・初配備**
+   - O4系次期一般戦闘機の正式名称 / 制式呼称
+   - Ki-43 / Ki-44からの継承
+   - Ki-45系の影響、派生任務、後継機
+   - Ki-46、Ki-21 / Ki-49等との技術・発動機・艤装共有
+   - 詳細は [17](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)
 1. **6/27–7/3 Enterprise Kwajalein sheltered repair**
    - temporary underwater patches / shoring
    - 48–72h tow certification
@@ -201,6 +217,9 @@ CLOSED central:
    - technical disassembly priorities
    - later foreign physical verification
    - public messaging vs OPSEC
+6. **Forward-analysis follow-up after aircraft closure**
+   - Five-Go / FS保留 /基地化 / Arakan-Bengal Bayへ航空戦力更新値を再投入
+   - 1942H2世界波及の詳細監査が必要なら [16](16-WORLD-STRATEGY-RIPPLE-1942H2.md)へ戻る
 
 Forward-plan note:
 - EnterpriseのKwajalein → Truk → Kure持帰りと、本土での日本式104,000shp-class再建造方針は [15](15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md) でCLOSED central planningとする。
