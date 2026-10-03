@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "navigation_revision": "2026-09-30",
+  "navigation_revision": "2026-10-04",
   "kind": "NAVIGATION-ONLY-NO-CANON-PROMOTION",
   "scenario_id": "asai",
   "repository": "fe-ball/alternate-history-hub",
@@ -18,9 +18,9 @@
     "Japan_China": "WAR-CONTINUES"
   },
   "working_history": {
-    "latest_campaign_close": "Port Moresby captured in replay-local working branch, 1942-04-20; base-air regeneration and carrier-contact discussion continued through 1942-04-30 evening",
+    "latest_campaign_close": "Existing MO replay-local branch remains preserved through 1942-04-30 evening; latest re-audit returned to 1941-12 through 1942Q1 and reached the 1942-04-05 Indian Ocean Force A contact gate.",
     "status": "WORKING",
-    "coverage": "Late-Dec continuation; 1941 airlift and AT-3 audits; West/Doolittle/early-MO; Crace-type surface action; Taurama-Port Moresby campaign; post-capture air-base regeneration; Lexington contact gate",
+    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga; airlift/AT-3; FT technical/doctrine re-audit; 1942Q1 Makassar/Timor/Lexington/Lae propagation; First Indian Ocean three-carrier/search re-audit; preserved MO branch through 1942-04-30.",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
@@ -29,28 +29,32 @@
       "Doolittle-type raid working gate",
       "Early-MO replay through 1942-04-30 evening",
       "Port Moresby capture and post-capture base-air buildup",
-      "Lexington / Zuikaku carrier-contact gate"
+      "Lexington / Zuikaku carrier-contact gate",
+      "FT tactical/warhead/production re-audit",
+      "1942Q1 Makassar/Timor/Lexington/Lae propagation",
+      "First Indian Ocean Apr 5 Force A search/contact branch"
     ]
   },
   "discussion_frontier": {
     "completed": [
       "Pearl / Enterprise continuation",
       "Southern operations sampled locally",
-      "Wake / Saratoga continuation",
+      "Wake / Saratoga continuation and FT re-audit",
       "1941 airlift WORKING-CLOSE",
       "AT-3 working technical re-audit",
-      "First Indian Ocean / western base-air / GT torpedo-boat demand discussion",
-      "Doolittle-type raid feasibility gate",
-      "Early-MO replay from Tulagi through 1942-04-16 evening",
-      "Crace-type Allied surface interception replay",
-      "Taurama landing through Port Moresby capture",
-      "22-25 April Allied interdiction versus Japanese base-air buildup",
-      "Type 1 Float Fighter and E6 Single late-April role correction",
-      "26-30 April regeneration race and Lexington carrier-contact setup"
+      "FT technical model: cross-track/run-on/HE-SAP/IR semantics",
+      "Prewar FT+Type91 doctrine reinterpretation",
+      "1942Q1 FT production working ramp",
+      "Makassar / Timor / Lexington-Rabaul / Lae-Salamaua FT propagation",
+      "First Indian Ocean force reduction to Akagi/Soryu/Hiryu central",
+      "Cornwall/Dorsetshire result retained without FT",
+      "Apr 5 afternoon second-search working branch",
+      "Force A contact around 15:32 central",
+      "Night-IR concept closed as non-mainline technical desire"
     ],
-    "next_gate": "Reconcile E5/E6 core life, middle-distillate fuel quality, and permitted output/rating as one operational trade space before resuming the 1942-05-01 carrier-contact replay",
-    "next_gate_source": "V26:13#14",
-    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION"
+    "next_gate": "From 1942-04-05 ~15:32 Force A contact, decide the Japanese first strike: actor knowledge, ready aircraft, FT/Type91/IR/HE/SAP stock, distance/sunset/recovery, British CAP/radar/AA, then strike package and valid-release resolution. Do not deliberately wait for night to showcase IR.",
+    "next_gate_source": "V26:17#14;V26:18#io_first_strike",
+    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; existing MO through Apr30 preserved/frozen"
   },
   "default_read_order": [
     "current/active/00-SESSION-HANDOFF.md",
@@ -119,6 +123,22 @@
     "V26:14": {
       "path": "records/V26/14-POST-V26-MO-PORT-MORESBY-WORKING-DECISION-REGISTER-2026-09-30.tsv",
       "blob_sha": "cba2ef0926343ef8afb09354bdef4dab2891c346"
+    },
+    "V26:15": {
+      "path": "records/V26/15-POST-V26-TECH-DETOUR-JET-WEAPONS-WORKING-HANDOFF-2026-10-01.md",
+      "blob_sha": "45030abbeae3c47518739f8ef6cd101cdafa4cf1"
+    },
+    "V26:16": {
+      "path": "records/V26/16-POST-V26-FT-PEARL-FORCEZ-WORKING-HANDOFF-2026-10-02.md",
+      "blob_sha": "2c6ebc9b5c2e55e2467cbae0f7d66f48ae6dc386"
+    },
+    "V26:17": {
+      "path": "records/V26/17-POST-V26-FT-Q1-INDIAN-OCEAN-WORKING-HANDOFF-2026-10-04.md",
+      "blob_sha": "4a3a6fa6ac0d7e4f8a6ea51628bc30110da8da92"
+    },
+    "V26:18": {
+      "path": "records/V26/18-POST-V26-FT-Q1-INDIAN-OCEAN-WORKING-DECISION-REGISTER-2026-10-04.tsv",
+      "blob_sha": "41b75591df08d7fbc89ebb97806a0b250c4422b0"
     }
   },
   "lineage_sources": [
@@ -126,7 +146,7 @@
     "records/V25/00-SESSION-HANDOFF-V25.md"
   ],
   "source_routes": "navigation/SOURCE-ROUTES.json",
-  "verified_source_commit": "ac2c149f20a1a44ffdc2fe6e1889b7216c66591f",
+  "verified_source_commit": "33bbe3180598d709d135b461c801569f8e10f333",
   "freshness_rule": "Compare same-axis handoffs/registers/checkpoints/progress and tree inventory. New or changed sources require review and manifest update; neither this pointer nor file mtime wins over contradictory explicit branch evidence.",
   "default_search_scope": [
     "current/active",
