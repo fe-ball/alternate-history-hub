@@ -9,96 +9,140 @@ Status: NAVIGATION-ONLY / SOURCE-BOUND ROLLUP / NO CANON PROMOTION
 **正本はV26、正本時計は1941-12-07 14:30 HSTのまま。**
 日米戦は開戦済み、中国戦は継続、日ソ戦はV25の非開戦状態を継承する。
 
-POST-V26 WORKINGのreplay-local frontierは、現在 **1942-04-30夕刻のCoral Sea carrier-contact gate** まで進んでいる。これは全世界時計でもCANON promotionでもない。
+既存のMO replay-local枝は1942-04-30夕刻まで保存されているが、現在の議論フロンティアではない。
+今回のFT再監査は1941末～1942Q1へ戻って因果を洗い直し、第一次インド洋作戦の **1942-04-05午後 Force A接触** まで到達した。
 
-最新の実作業原文は：
-- V26:13 = MO水上戦 / Port Moresby攻略 / 基地航空再生 / 4月30日carrier-contact handoff
-- V26:14 = そのWORKING decision register
+**現在の再開点：1942-04-05 15:32級、B5N索敵機が英Force Aを発見した中央WORKING枝。**
+次は日本側の第一撃判断から始める。
 
-## 直近までに処理したこと
+最新原文：
+- V26:17 = FT技術/戦術再監査、Q1非決戦使用、損耗連鎖、インド洋索敵handoff
+- V26:18 = そのWORKING decision register
 
-V26:12の「4月16日夕刻以後のCrace型水上戦」は処理済み。
+## 今回の主要更新
 
-その後の中央WORKINGは：
+### FTの命中モデル
 
-1. 4月16日夕刻、水上接触で日本側護衛がMO輸送船団への突破を阻止。
-2. 4月17日Taurama主上陸。
-3. 4月18日Kila Kila占領。
-4. 4月19日Seven Mile占領。
-5. 4月20日Port Moresby市街 / Paga Hill占領。
-6. 4月21日以降、Kila / Seven Mile / Fairfax Harbourを段階復旧。
-7. 4月22–25日、連合軍阻止爆撃は基地化を遅らせるが停止させず。
-8. 一式水戦をFairfax泊地CAPへ、A6Mを主CAP、E6 Twinを外周高速層、E6 Singleを4月末の高空迎撃増援として分業。
-9. 4月29–30日、Lexington級米空母群の概略datumを日本側が得る中央線。
-10. 4月30日夕刻でcarrier-contact gateに停止。
+Fritz-X型の2D着弾CEP比較は使わない。
 
-## 重要な修正
+FTは：
+- 高度軸を姿勢/滑空＋radio-altimeter系で拘束
+- 横軸をgyro/course、IR型では1次元terminal yaw補正
+- 外れ後もRUN-ONまたは設定自爆まで飛翔
 
-### 艦砲射撃
+として扱う。
 
-Kila Kila以後もKinugasa/Furutakaの20.3cm艦砲射撃は終了しない。
-Seven Mileや道路・砲兵・通信・燃料などの登録目標への準備/阻止射撃として継続可能。
-味方歩兵と敵歩兵が近接する部分では75mm山砲へ比重を移す。
+### 弾頭
 
-### 一式水戦
+- HE = AA / 上構 / command / hangar-side / transport / light combatant のsystem suppression
+- SAP短延期 = light/unarmored sideを抜いて内部損傷
+- 高級SAPのterminal-dip / ごく短距離水面接触枝は試験可能だが保証性能ではない
+- RF近接は1941末でもtest-only
 
-MO局地には既存の一式水上戦闘機枠がある。
-Fairfaxへ少数を移し、泊地・輸送船団の低空局地CAPを担当する。
-F1MはCAPから解放し、観測・近海哨戒・連絡へ戻す。
+### 戦術成熟
 
-### E6 Single
+EnterpriseやForce Zで混成戦術を「発見」した扱いは撤回。
+1939–40にはFT/Type91混成、FT-first / Type91-first、screen suppression、多軸研究が存在し、1940–41に実用教範へ進む。
 
-E6 Singleは技術候補ではなく既存のservice-production interceptor/high-cover line。
-ただしRabaul過去配備を遡及捏造せず、4月21–22日に6機級の転用を決定し、29日中央値でSeven Mileにphysical 4 / serviceable-combat-present 3級とするWORKING。
+### Wake / Saratoga
 
-### GT燃料
+Dec22中央：
+- Saratoga: FT/HE×1 + FT/SAP×1 + 250kg SAP×2 + Type91×1
+- Saratoga mission kill / afloat
+- Soryu: 500lb級爆弾1発
+- Hiryu: direct hit 0
+- Saratoga前線復帰は旧Mar5–15中心から **Mar20–Apr5、中心Mar27** へ後退
 
-**「E6用の専用ケロシン物流」扱いは撤回。**
+### 1942Q1 FT生産
 
-現行V16技術正本は、GT利用を独立したjet-fuel islandではなく、軍用中質油プールの品質別運用としている。
+WORKING service-release ramp：
+- Jan ~105–125
+- Feb ~125–150
+- Mar ~140–165
+- Apr ~145–175 sensitivity
 
-- Grade A: 航空GT向け高品質中質油
-- Grade B: 標準軍用中質油、条件付き/derated航空GT運用を含む
-- Grade C: より寛容な地上・定置・一部舶用
+GR系が最も伸ばしやすく、IRは校正/検出器歩留まり律速。
 
-前進基地では：
-中質油在庫 → 水/塩/夾雑物等の処理・品質確認 → 許容rating決定 → sortie release
-とする。
+### Q1通常対艦使用
 
-Grade Aがない = E6が飛べない、ではない。
+- Makassar: FT約9、Houston追加SAP損傷でTimor護衛を欠席
+- Timor: GR/HE 6発級、Mauna Loa喪失、Meigs mission kill
+- Darwin: 大量FTなし
+- Feb20 Lexington: G4M17機中不可逆~9、Lexington FT/SAP 1発中心
+- 24th Air Flotilla壊滅回避によりSR遅延が縮み、Lae-Salamaua上陸はMar5級へ前進
+- Mar10 Lae: 主要輸送船の一部が既に離脱し、日本船腹・人的損失が減る
+- Langley / Java Sea / Sunda / Exeter-Pope / Edsall / Pecosは中央FT使用なし
 
-## 次のチャットのPRIMARY NEXT
+### インド洋
 
-**コア寿命 × 燃料品質 × 出力/rating の相互トレードオフ再整理。**
+中央西方正規空母は：
+- Akagi
+- Soryu
+- Hiryu
 
-E5/E6 J・JFについて、
+CarDiv5はMO用に温存。
 
-- 標準ratingでのscheduled removal / core-life基準
-- Grade A/B/Cや実際の燃料性状による許容温度・rating
-- transient/high-power許可
-- soot/coking/hot-corrosion
-- inspection interval
-- cumulative life debit
-- selected-Ni高温ratingの寿命コスト
-- 新占領基地での最低限fuel-treatment / inspection package
-- 「燃やせる」「通常rating可」「deratedのみ」「飛行不可だが地上用途可」の区分
+Cornwall/Dorsetshireは三空母のD3Aだけで史実級撃沈が可能なのでFTを追加しない。
 
-を一つの運用モデルに統合する。
+4月5日午後、午前索敵・巡洋艦撃沈後に第二次索敵を出す中央枝：
+- B5N ~4
+- 回収済みE7K/E8N少数
+- E13Aを大量な余剰機として捏造しない
+- SW～SSW重点
+- Force Aを15:32級に発見する中央線
 
-最終的に
-**fuel class × permitted rating × inspection penalty × core-life consequence × mission use**
-の表を閉じる。
+## 夜間IR案の扱い
 
-この技術gateを閉じた後で、1942-05-01級のLexington vs Zuikaku + Port Moresby/Rabaul基地航空のcarrier-contact replayへ戻る。
+「夜間こそIR補正を活かせるのでは」という欲望は、一部士官・技術者が口にする面白い技術提案として保持する。
+
+ただし中央作戦判断にはしない。
+
+理由：
+- IRは1次元yaw補正であり成熟した夜間識別seekerではない
+- 多艦隊夜間識別、編隊航法、攻撃同期、味方識別が難しい
+- 夜間の発着艦・回収リスクが大きい
+- 希少IRを実証目的で賭ける合理性が弱い
+- 「夜を狙う」より、現接触からの第一撃または接触維持→翌朝攻撃の方が合理的
+
+**次回は夜間IR案を再審しない。**
+
+## CURRENT NEXT
+
+1942-04-05 ~15:32 Indian Ocean。
+
+B5N索敵機からForce A：
+- 戦艦1
+- 空母複数
+- 巡洋艦/駆逐艦多数
+
+級の接触報告を受けた日本側が、**第一撃をどうするか**を決める。
+
+順序：
+
+1. 接触報告の信頼度 / actor knowledge
+2. Akagi/Soryu/HiryuのA6M/D3A/B5N実働数
+3. Type91 / FT / FT-IR / HE / SAP combat-present stock
+4. 距離、日没、天候、帰投/着艦clock
+5. Force AのCAP / radar / AA / formation / maneuver
+6. 日本側第一撃の発艦時刻・規模・兵装・攻撃軸
+7. CAP interception → valid release
+8. その後にのみ命中/損傷
+
+## 保存される別枝
+
+V26:13のMO replay-local枝（Port Moresby攻略～Apr30 Lexington contact）は消さない。
+ただしSaratoga復帰時計・FT在庫・Q1損耗差分をまだ完全伝播していないため **FROZEN / DEFERRED**。
+
+V26:13のGT core-life × fuel-quality × rating gateも未解決のまま保存し、Indian Ocean再監査後に戻る。
 
 ## 優先して読む原文
 
-1. V26:13
-2. V26:14
-3. V26:12（親MO枝）
-4. current technical:
-   - V16 AIRPOWER SUSTAINMENT / TRAINING / AIRFIELD closeout
-   - V16 MIDDLE-DISTILLATE / DIESEL / GT FUEL-INDUSTRY closeout
-   - E6 engine / Single / Twin technical closeouts
+1. V26:17
+2. V26:18
+3. V26:16
+4. V26:12
+5. V26:13 / 14（保存MO枝）
+6. FT technical study
+7. B5N/D3A/Type91 1941 closeouts
 
-このrollupと原記録が食い違った場合は、同軸のより新しい明示的handoff/registerを優先し、旧枝・別シナリオの未来時刻で解決しない。
+同軸のより新しい明示的handoff/registerを優先し、CANON / WORKING / OPENを混同しない。
