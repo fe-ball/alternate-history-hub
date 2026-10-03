@@ -3,6 +3,15 @@
 
 Status: **NEXT-CHAT ENTRYPOINT / DISCUSSION HANDOFF / NOT AUTHORITY / NO CANONICAL CLOCK ADVANCE**
 
+## 2026-10-04 continuation pointer
+
+The later discussion continues in:
+- `93_NEXT_CHAT_D0_JOINT_FIRST_COUNTERSTRIKE_MARIANAS_AIR_SYSTEM_HANDOFF_v001.md`
+
+File 93 preserves this file's mandatory weapons/tactics guard but adds the subsequent Marianas-air reset propagation, ground/fortification retention, carrier-origin shore-residence rule, thick-relief correction, and the new next-session focus on a researched **SAI B-D+0 joint land-based + carrier first counterstroke**. Where the later discussion explicitly quarantines a through-run assumption, read file 93 first.
+
+---
+
 Authority remains **Branch B v100**.  
 Canonical machine clock remains **1944-06-16T14:15**.  
 Saipan ground authority remains approved through **1944-06-16 dawn**.
