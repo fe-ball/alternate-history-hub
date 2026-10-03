@@ -2,26 +2,27 @@ id	source_status	navigation_role	statement	sources
 CANON	CURRENT-CLOSE	ANCHOR	V26正本時計1941-12-07T14:30:00-10:30。以後のworkingを正本昇格させない。	V26:01#V26-D01
 WAR-US	CURRENT-CLOSE	ACTIVE-AXIS	日米戦開戦済み。	V26:01#V26-D02;V26:00
 WAR-USSR	INHERITED	ACTIVE-AXIS	V25の対ソ非開戦を継承。現行後続資料に開戦上書きなし。	records/V25/00-SESSION-HANDOFF-V25.md#4;V26:00
-WAKE-SECOND	WORKING-CLOSE	COMPLETED	第二次Wakeは12月23日午後陥落。	V26:09#wake_fall_dec23
-AIRLIFT	WORKING-CLOSE	COMPLETED	1941輸送航空再監査済み。	V26:08;V26:09
-AT3-AUDIT	WORKING-CLOSE	COMPLETED	AT-3技術再監査済み。1941年実用飛行機は0。	V26:10;V26:11
-WEST-IO	WORKING	REPLAY-LOCAL-CLOSE	第一次インド洋作戦と西方基地航空・GT水雷艇需要は当面一区切り。	V26:12#2
-DOOLITTLE	WORKING	DEFERRED-GATE	Doolittle型作戦は構想・訓練を残すが史実日付へ固定しない。	V26:12#3
-MO-EARLY	WORKING	REPLAY-LOCAL	前倒しMOは4月8日級Tulagiから開始。4月9–16日の空母戦とChina Strait進入をV26:12で処理。	V26:12
-MO-SURFACE-APR16	WORKING-CLOSE	COMPLETED	4月16日夕刻のCrace型水上接触は処理済み。連合軍水上部隊はMO輸送船団への直接到達に失敗。	V26:13#2;V26:14#MO-SURFACE
-MO-LANDING-APR17-20	WORKING-CLOSE	REPLAY-LOCAL	4月17日Taurama上陸、18日Kila Kila、19日Seven Mile、20日Port Moresby市街/Paga占領を中央WORKINGとする。	V26:13#3;V26:13#5
-MO-NGF-CORRECTION	WORKING-CLOSE	TECH-REPLAY-GUARD	重巡艦砲射撃はKila以後も登録目標への準備/阻止射撃として継続可能。近接混戦では陸上砲兵へ比重移動。	V26:13#4
-MO-BASE-RESTORE	WORKING	REPLAY-LOCAL	Kila/Seven Mile/Fairfaxのcapturedとservice-releasedを分離し、4月21日以降段階復旧。	V26:13#6
-TYPE1-FLOAT-FIGHTER	WORKING	CARRY-FORWARD	既存MO一式水戦枠からFairfaxへ少数を移し泊地/輸送船局地CAP。	V26:12#5.1;V26:13#7
-E6-SINGLE-MO	WORKING	REPLAY-LOCAL	E6 Single 6機級を4月21-22日に南東方面へ転用し、29日中央値でSeven Mile physical 4 / serviceable-combat-present 3。	V26:13#8
-MO-INTERDICTION-APR22-25	WORKING-CLOSE	REPLAY-LOCAL	連合軍阻止爆撃は基地化を遅延させるがPort Moresby再生を停止させない。	V26:13#9
-MO-AIR-LAYER	WORKING	REPLAY-LOCAL	A6M主CAP、E6 Single高空、E6 Twin外周、一式水戦泊地低空、F1M/E13A/H6K/H7Y索敵観測へ分業。	V26:13#7;V26:13#8;V26:13#9
-GT-FUEL-SEMANTICS	CURRENT-CLOSE	TECH-GUARD	GT航空燃料を専用ケロシン島として扱わず、Grade A/B/C軍用中質油プールを品質・承認ratingに応じて使う。	V26:13#10
-GT-FUEL-FORWARD-BASE	WORKING	REPLAY-GUARD	前進基地では中質油在庫→処理/品質確認→許容rating→sortie release。Grade A不在を即飛行不能としない。	V26:13#10
-P39-REDIRECT	WORKING	REPLAY-LOCAL	4月末P-39増勢はTownsville/Cairns/Horn Island側へ滞留しPM combat-presentにはしない。	V26:13#11
-ZUIKAKU-APR30	WORKING	REPLAY-LOCAL	瑞鶴は4月末に限定再生し主要機動航空戦力を維持。完全定数回復とはしない。	V26:13#11
-LEXINGTON-CONTACT	WORKING	REPLAY-LOCAL	4月29-30日に米空母群の概略接触を得る中央線。30日夕刻でcarrier-contact gate。	V26:13#12
-GT-CORE-FUEL-RATING	NEXT	CURRENT-NEXT	E5/E6系のコア寿命・燃料品質・許容出力/rating相互トレードオフを再整理し運用表を閉じる。	V26:13#14;V26:14#GT-CORE-FUEL-RATING
-CARRIER-BATTLE	NEXT	DEFERRED-NEXT	5月1日級carrier-contact replayはGT監査後に再開。	V26:13#15;V26:14#CARRIER-BATTLE
-AT3-NEXT	NEXT	DEFERRED-NEXT	AT-3試験・調達gateは未処理だが現在の最優先ではない。	V26:11
-DOOLITTLE-FOLLOWUP	WORKING	DEFERRED-GATE	MO後のDoolittle型作戦は別途再監査。	V26:12#3
+FT-MODEL	WORKING-CLOSE	TECH-GUARD	FTをFritz-X型2D CEPで扱わず、高度拘束・cross-track・target-motion・maneuver・run-onを分離する。	V26:17#1
+FT-RUNON	WORKING-CLOSE	TECH-GUARD	外れFTは設定RUN-ONまたはSELF-DESTRUCT。自動二次目標選択はしない。	V26:17#1.2
+FT-HE-SAP	WORKING-CLOSE	TECH-GUARD	HEはsystem suppression、SAP短延期はlight/unarmored sideからの内部損傷。	V26:17#2
+FT-DIP	WORKING	OPEN-TECH	高級SAPのterminal-dip/短距離水面接触耐性は試験枝。保証水中走行ではない。	V26:17#2.3
+FT-PROX	WORKING	TECH-GUARD	RF/proximityは1941末test-only。	V26:17#2.4
+FT-DOCTRINE	WORKING-CLOSE	SUPERSEDING-INTERPRETATION	1939-40からFT/Type91混成研究あり。Enterprise/ForceZを発見点にしない。	V26:17#3
+ENTERPRISE-FT	WORKING	CARRY-FORWARD	54機FT overlay、mission kill/afloat、不可逆7-9中心8。戦術意味のみ再解釈。	V26:17#5
+FORCE-Z-FT	WORKING	CARRY-FORWARD	Type91~33+FT~18。HE-first suppression→Type91→SAPも既知の選択肢。Type91が主沈没兵器。	V26:17#6
+WAKE-SARATOGA	WORKING-CLOSE	REPLAY-LOCAL	Saratoga FT/HE1+FT/SAP1+250kg2+Type91x1、Soryu 500lb級1発、Hiryu direct0。	V26:17#7
+SARATOGA-RETURN	WORKING-CLOSE	REPLAY-LOCAL	Saratoga前線復帰Mar20-Apr5、中心Mar27。旧Mar5-15中心を置換。	V26:17#7.5
+FT-Q1-PRODUCTION	WORKING	INDUSTRIAL	Jan105-125 / Feb125-150 / Mar140-165 / Apr145-175級service release。GR優先拡張、IR律速。	V26:17#8
+MAKASSAR-FT	WORKING	REPLAY-LOCAL	Feb4 FT約9、Houston追加SAP損傷でTimor convoy護衛欠席中央。	V26:17#9.1
+TIMOR-FT	WORKING-CLOSE	REPLAY-LOCAL	Feb16 GR/HE6発級。Mauna Loa喪失、Meigs mission kill。Type91/IR/標準FT不要中央。	V26:17#9.2
+LEXINGTON-FEB20	WORKING	REPLAY-LOCAL	G4M17機不可逆~9、Lexington FT/SAP1発中心。24th Air Flotilla cadre壊滅回避。	V26:17#9.4
+SR-MAR5	WORKING	REPLAY-LOCAL	航空補充遅延縮小によりLae-Salamaua landing center Mar5級、band Mar4-6。	V26:17#9.5
+LAE-MAR10	WORKING	REPLAY-LOCAL	主要輸送船の一部離脱済み。Tenyo沈没、Kokai大破、Kiyokawa中破等。日本KIA60-85/WIA110-160。	V26:17#9.5
+Q1-ROUND	WORKING-CLOSE	METHOD	Mar10以後の低価値通常対艦は集約可能。後続OOB/侵攻clock/高損耗空襲/希少新弾なら詳細再開。	V26:17#9.6
+INDIAN-FORCE	WORKING	REPLAY-LOCAL	西方主力中央=Akagi/Soryu/Hiryu、CarDiv5はMO温存。Tone/Chikuma等索敵支援は西方中央。	V26:17#11
+IO-CRUISERS	WORKING-CLOSE	REPLAY-LOCAL	Cornwall/Dorsetshireは三空母D3Aで史実級撃沈。FT追加不要。	V26:17#11
+IO-SEARCH	WORKING	CURRENT-FRONTIER	Apr5午後第二次索敵：B5N~4+再使用E7K/E8N少数、SW-SSW重点。15:32級Force A接触中央。	V26:17#12
+NIGHT-IR	WORKING-CLOSE	NON-MAINLINE	夜間IRは一部士官/技術者の面白い願望として保持するが、意図的に夜を狙う作戦案にはしない。	V26:17#13
+IO-FIRST-STRIKE	NEXT	CURRENT-NEXT	Apr5 15:32級Force A接触から日本第一撃の時刻・規模・兵装・攻撃軸を決める。	V26:17#14;V26:18#io_first_strike
+MO-BRANCH	WORKING-FROZEN	PRESERVED	V26:13のMO枝through Apr30は保存。FT/Q1/Saratoga差分未伝播のため現在は凍結。	V26:13;V26:17#14
+GT-CORE-FUEL-RATING	NEXT-DEFERRED	DEFERRED-NEXT	V26:13のE5/E6 core-life×fuel-quality×rating gateは未解決で保存。	V26:13#14
