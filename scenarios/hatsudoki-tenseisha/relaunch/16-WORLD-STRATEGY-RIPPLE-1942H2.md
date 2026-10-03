@@ -1,7 +1,7 @@
 # 世界戦略波及台帳 — 1942年後半への「一枚足りない」効果
 
 > **Authority:** Relaunch R3 supporting / forward-analysis ledger  
-> **Status:** PROVISIONAL world-frame / next-session agenda  
+> **Status:** PROVISIONAL world-frame; next-session agenda superseded by [17](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)  
 > **Canonical clock remains:** **1942-06-26 約18:00**  
 > 本稿は時計を進めない。1942年後半へ進む前に、R3で英米日それぞれの「若干足りない」が他戦域へどう転嫁されるかを監査する入口とする。
 
@@ -317,7 +317,11 @@ Guard:
 - repeated large raids compete with FS preparation / base consolidation
 - central expectation is selective operations, not permanent carrier patrol everywhere
 
-## 8. Next-session audit order
+## 8. Earlier audit order — world-frame reference
+
+> 今回会話で一巡済み。個別再監査が必要な時のreference順として残す。次回の主入口は [17](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)。
+
+### Original audit order
 
 Do not over-close future outcomes. Recommended order:
 
@@ -349,6 +353,6 @@ Do not over-close future outcomes. Recommended order:
    - Regia Marina / Axis air
 9. Feed results back into **Japanese FS / limited raid / Five-Go timing choices**.
 
-## 9. Resume line
+## 9. Resume note
 
-**Resume at 1942-06-26 18:00. Main next topic: deepen the world-wide “slightly short” ripple before advancing time — RN/USN carrier allocation, Ironclad, Pedestal, Arctic restart/PQ18, Torch/CVE competition, Atlantic ASW/U-boats, Persian Corridor/Soviet aid, and how Japan may exploit temporary Allied carrier scarcity without assuming hindsight.**
+World-ripple frame remains valid as PROVISIONAL reference, but the active next-session frontier moved to [17](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md). Canonical clock remains 1942-06-26 18:00.
