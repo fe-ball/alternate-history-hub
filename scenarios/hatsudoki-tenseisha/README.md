@@ -9,7 +9,8 @@
 > **Authority entrypoint:** [relaunch/00-START-HERE.md](relaunch/00-START-HERE.md)
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 > **Forward planning ledger:** [relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md](relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md)
-> **Next-session world ripple ledger:** [relaunch/16-WORLD-STRATEGY-RIPPLE-1942H2.md](relaunch/16-WORLD-STRATEGY-RIPPLE-1942H2.md)
+> **World ripple ledger:** [relaunch/16-WORLD-STRATEGY-RIPPLE-1942H2.md](relaunch/16-WORLD-STRATEGY-RIPPLE-1942H2.md)
+> **Next-session handoff:** [relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md](relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)
 
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
@@ -22,6 +23,7 @@
 4. 現行論点では特に [14 — 真珠湾後〜ミッドウェー午後チェックポイント](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md) を優先する
 5. Enterprise再建・工廠負荷・空母建造の6/26時点forward planは [15 — Enterprise再建・ミッドウェー後工廠負荷・空母建造計画](relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md) を参照する
 6. 1942年後半へ時計を進める前の世界波及監査は [16 — 世界戦略波及 1942H2](relaunch/16-WORLD-STRATEGY-RIPPLE-1942H2.md) を参照する
+7. **次回チャットは [17 — 日本側1942H2戦略・Five-Go/FS/Arakan・航空機handoff](relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md) から再開する**
 
 最大version、更新日の新しさ、記述年代の未来さだけでauthorityを決めない。
 
@@ -61,12 +63,17 @@ CLOSED central:
 - foreign physical inspectionはKwajaleinでは行わない
 
 次は、
-0. 1942H2 world ripple audit — Ironclad / Pedestal / PQ18 / Torch / CVE / Atlantic / Persian Corridor
+0. **1942H2陸軍新型機の命名・量産・初配備監査**
+   - O4系次期一般戦闘機の正式名称 / 制式呼称
+   - Ki-45系の影響・派生任務・後継
+   - Ki-46、Ki-21 / Ki-49等の関連系列
+   - 詳細は [17](relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)
 1. 6/27–7/3 Enterprise sheltered repair / Truk tow decision
 2. Saratoga + Wasp Pearl concentration
 3. Midway fuel / radar / land-attack maturity
 4. Akagi / Kaga major-yard repair timeline
 5. Enterprise technical / propaganda exploitation second stage
+6. 航空機更新値をFive-Go / FS保留 / Arakan-Bengal Bay /基地化へ再投入
 
 Forward-plan CLOSED central:
 - EnterpriseはKwajalein → Truk → Kureを中央線とする
