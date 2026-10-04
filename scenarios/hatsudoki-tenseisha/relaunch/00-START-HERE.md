@@ -116,6 +116,21 @@ PROVISIONAL discussion results:
 - Nisshinはseaplane tender固定でなくfast heavy transport / amphibious logistics候補。Bengal Bay水上機ISRは特設母艦＋Port Blair / Akyab前進基地で分担
 - **次回最優先は陸軍1942H2新型機。O4系次期一般戦闘機の正式名称・制式呼称・量産/初配備を閉じ、Ki-45系の影響・派生・後継を再監査する**
 
+
+### 18 — 航空機枝・Enterprise技術吸収・1943戦力台帳 forward
+`18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md`
+
+航空機再監査の後続正本 / conditional forward ledger。canonical clockは進めない。
+
+主なclosure:
+- Ki-63 / 二式戦闘機をIJA次期一般戦闘機のworking world-internal identityとして採用
+- 峰2000PS級の1942–43量産rampとA7M / B7A / 峰Ki-44 / Ki-67間のallocation
+- 昴二二零戦 → A7M、J2M separate-line、B6N / D4Y / B7Aの1942–43時計
+- Enterpriseからfolding / arresting / dive-release / maintenance / fighter-direction / DC / EMIを比較吸収。US design wholesale copyはしない
+- radio practical standardを「重量・電力で実用化」から1942H2 EMI suppression / 1943 design-in EMCへ段階化
+- 1943-03-31 / 09-30 major combat-aircraft pool / first-line / serviceability conditional bands
+- Five-Go / Chittagong / carrier / base allocationへ使えるno-double-counting ceiling
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
@@ -195,12 +210,12 @@ CLOSED central:
   - foreign physical inspection still deferred; Kwajalein is not opened to outside observers
 
 次の論点:
-0. **次回分析frontier: 1942H2陸軍新型航空機の命名・量産・初配備**
-   - O4系次期一般戦闘機の正式名称 / 制式呼称
-   - Ki-43 / Ki-44からの継承
-   - Ki-45系の影響、派生任務、後継機
-   - Ki-46、Ki-21 / Ki-49等との技術・発動機・艤装共有
-   - 詳細は [17](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)
+0. **次回分析frontier: 更新済み航空戦力をFive-Go / FS-base / allocationへ戻す**
+   - Five-Go第一期の航空配分と広元 / 万県線のstage-transition
+   - 約1か月再編後の第二期 成都 / 重慶線の開始条件・停止条件
+   - FS凍結下のSolomons / Port Moresby / Milne-Samarai基地成熟
+   - Aleutiansはwinter buildupまで保持し、1943-03 maritime-interdiction / Komandorski gateで再開
+   - 航空機数値は [18](18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md) を使用
 1. **6/27–7/3 Enterprise Kwajalein sheltered repair**
    - temporary underwater patches / shoring
    - 48–72h tow certification
@@ -217,8 +232,9 @@ CLOSED central:
    - technical disassembly priorities
    - later foreign physical verification
    - public messaging vs OPSEC
-6. **Forward-analysis follow-up after aircraft closure**
-   - Five-Go / FS保留 /基地化 / Arakan-Bengal Bayへ航空戦力更新値を再投入
+6. **Aircraft closure reference**
+   - Ki-63 / IJN fighter-strike branches / Enterprise feedback / 1943 force inventoryは [18](18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md)
+   - Five-Go / FS保留 /基地化 / Arakan-Bengal Bayへこの在庫を二重計上せず再投入
    - 1942H2世界波及の詳細監査が必要なら [16](16-WORLD-STRATEGY-RIPPLE-1942H2.md)へ戻る
 
 Forward-plan note:
