@@ -5,6 +5,7 @@
 > **Canonical clock remains:** **1942-06-26 約18:00**
 > 本稿は今回会話で進めた1942年後半〜1943年の作戦研究を、canonical future factへ昇格させずに再開可能な形で保存する。
 > 実際の未来イベント・作戦成功・配備完了はまだCLOSEDではない。CLOSED / PROVISIONAL / OPENを分離する。
+> **2026-10-04 update:** 本稿§0/§8の航空機OPEN agendaは [18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md](18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md) で再監査済み。競合時は18を優先し、active analytical frontierはFive-Go / FS-base / allocationへ戻る。
 
 ## 0. このhandoffの最重要事項
 
@@ -76,7 +77,7 @@
 - 四健在空母を毎週raidに出さない。
 - 2個航空戦隊単位で即応 / 再訓練を交代するのが自然。
 - large raidは敵輸送集中やcarrier location等の情報trigger時のみ。
-- Akagi / Kaga復帰時期はfuture OPEN。7月即復帰ではなくmajor-yard repairが必要。
+- Akagi / Kagaは7月即復帰ではないが、修理時計は [15](15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md) §25で再監査済み。**Kaga 1942Q4、Akagi 1942年末までのfirst-line return central**。
 
 ## 3. 五号作戦 / 四川作戦 — 根・編成・船腹
 
@@ -428,3 +429,45 @@ This is the next chat's first target.
 ## 10. Next-session resume line
 
 **Canonical clockは1942-06-26 18:00据置。最初に陸軍1942H2新型航空機を、名称・制式呼称・量産時計・初配備まで含めて再監査する。特にO4系次期一般戦闘機の正式名称を閉じ、Ki-45系の経験が双発戦闘機・長距離戦闘・迎撃・襲撃・夜戦方向や後継機へどう伝播したかをもう一度見る。Ki-46、Ki-21/Ki-49等の関連系列も同じ発動機・武装・防御・radio/ISR・production gateの中で再整理する。その後、更新済み航空戦力を入力としてArakan / Bengal Bay研究→準備→英攻勢反応、およびFive-Go / FS保留 / 基地化配分へ戻る。**
+
+## 11. 2026-10-04 forward discussion update — aircraft closure / operational context
+
+### aircraft
+Detailed closure is in [18](18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md).
+
+Key results:
+- IJA next-main air-cooled fighter project = **Ki-63 / 二式戦闘機**; 「疾風」official nickname is PROVISIONAL central.
+- Ki-63 1942 production 180–240級、1943にmain-successor ramp。
+- O4 Ki-44 new mass-production priority declines; 峰Ki-44 remains limited specialist interceptor branch.
+- IJN bridge = 昴二二零戦; A7M / 烈風equivalent first flight 1942Q3 central、1943H2 limited first-line conversion.
+- B6N / D4Y mature earlier without deleting carrier / structural gates.
+- B7A / 流星 keeps historical requirement and 1942-05 first-flight lineage; 峰 + maturation / carrier-system work makes 1943H2 limited operational existence plausible.
+- Enterprise exploitation primarily advances folding / arresting / dive-release / maintenance / fighter-direction / DC / EMI maturity, not wholesale US-design copying.
+- practical radio 1941 is reinterpreted as weight / power / installation-enabled usefulness, not full EMI solution; 1942H2 shielding / bonding / filtering standards and 1943 design-in EMC follow.
+
+### Arakan / Chittagong conditional forward line
+
+Still **PROVISIONAL conditional**, not canonical fact:
+- British First Arakan offensive remains likely.
+- Japanese prepared defense can transition middle-A → middle-B; if British forces remain committed, Chittagong becomes realistic high branch.
+- Chittagong high branch uses 55 Division + reinforcement division-class (38 Division central candidate), temporary Bay-of-Bengal naval escalation, and forward air pressure.
+- objective is not automatic Calcutta land advance. Chittagong is the more natural strategic stop / wedge.
+- Bose / Azad Hind political use of actual Indian territory becomes a summer-1943 conditional branch; civil sovereignty can be granted while Japanese operational military control remains.
+
+### Aleutians winter closure
+
+Through winter 1942–43, central preparation:
+- Kiska / Attu both treated as real long-hold bases, not disposable pickets.
+- FS freeze frees enough shipping / construction margin to pre-stock substantial bulk, but Midway occupation cargo is not double-counted.
+- working additional delivered cargo across H2 / winter = **4–6万t級 actual cargo**.
+- Kiska: ~7,000–8,000 personnel-class, mature AA/coast-defense / power / workshop / storage / water / roads / seaplane support.
+- Attu: ~3,200–4,000 personnel-class, earlier continuous construction and limited airstrip development.
+- water-air emphasis remains A6M2-N / E13A; huge land-air regiment is not generated.
+- re-open at 1943 March maritime interdiction / Komandorski gate; US May Attu landing is not pre-fixed.
+
+### South / Central Pacific
+
+- both sides increasingly base-up rather than immediately escalate.
+- Japanese inner line matures around Rabaul / Port Moresby / Solomons / Midway.
+- original FS three-island occupation remains effectively displaced by base-network / ISR / submarine / selective-raid strategy.
+- Milne Bay / Samarai exact 1942H2 campaign remains a priority audit before final 1943 spring base map closure.
