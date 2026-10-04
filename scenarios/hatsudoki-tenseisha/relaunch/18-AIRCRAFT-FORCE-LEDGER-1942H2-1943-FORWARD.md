@@ -718,3 +718,135 @@ Next:
 5. Arakan / Chittagong air allocation uses §11 conditional band, not free extra aircraft
 
 Canonical 1942-06-26 operational gates (Enterprise onward tow, Saratoga/Wasp, Midway maturation) remain unresolved and are not overwritten by this forward ledger.
+
+
+## 16. Five-Go Phase-II X-day前航空戦 — advance reservation
+
+> **Status:** PROVISIONAL interaction reservation, not a fixed future result.  
+> **Window:** first-phase consolidation from 1943-07-25級 to Phase-II X-day.  
+> **X-day working center:** **1943-09-01級**, allowable window **1943-08-28〜09-05** pending logistics / Allied movement / other-theater shocks.
+
+### 16.1 Why reserve the interaction rather than the outcome
+
+By the Guangyuan / Daxian / Wanzhou first-phase line:
+- Japan has pushed Hanzhong / Guangyuan / Wanzhou-area fields into normal fighter / reconnaissance range of Chengdu / Chongqing.
+- China can no longer solve air pressure only by withdrawing aircraft farther inland without abandoning the political / industrial / logistics core.
+- Chinese air units still have strong incentive to conserve aircraft.
+- Fourteenth Air Force has less political / operational freedom to refuse combat because defense of Sichuan bases and support of the Chinese war effort are core missions.
+- Allied reinforcement remains constrained by Hump tonnage and by competing India / Burma requirements.
+
+Therefore the expected pattern is **episodic counter-air / interception / base attack**, not continuous maximal sortie rates and not a pre-fixed decisive air battle.
+
+### 16.2 Japanese reserved force envelope
+
+From §11 Five-Go pool, reserve for the pre-X air campaign:
+- total serviceable IJA aircraft in China main theater: **520–620**
+- fighters: **320–390**
+- bomber / attack: **145–180**
+- reconnaissance: **45–60**
+
+This is a theater envelope, not a promise that all aircraft sit at Guangyuan.
+
+Forward / near-forward distribution central:
+- Hanzhong / Guangyuan northern axis: 35–40%
+- Daxian / central-support axis: 15–20%
+- Wanzhou / eastern axis: 25–30%
+- rear reserve / repair / rotation: 15–20%
+
+fighter mix direction:
+- Ki-43 / 九九戦 remains numerical backbone
+- Ki-63 / 二式戦 grows through the window; **80–120 serviceable in the China main theater early**, potentially **110–150級 by X-day** if no diversion
+- Ki-44 remains smaller interceptor / point-defense / fast-sweep element
+- no free additional aircraft beyond §9 / §11 national pool
+
+### 16.3 Allied historical anchor and R3 reservation
+
+Historical Fourteenth Air Force inventory was about:
+- July 1943: 182 aircraft / 123 fighters
+- August: 180 / 117
+- September: 193 / 127
+
+R3 does not automatically multiply this force. It may receive emergency reinforcement, but:
+- every extra aircraft still requires fuel / ammunition / spares over the Hump
+- India / Assam / Chittagong pressure can compete for the same fighters, transports, engineers and fuel
+- Chinese Air Force units can preserve strength more aggressively than US units
+
+Working pre-X Allied combat envelope in Sichuan / China central:
+- Fourteenth AF total combat aircraft available to the China theater: **175–220**
+- US fighters: **110–145 physical**, typically **75–105 serviceable** depending supply / maintenance / dispersal
+- Chinese combat-capable fighters: **60–100 physical**, with a smaller fraction willingly exposed to repeated sweeps
+- emergency US reinforcement beyond this range is a **trigger**, not baseline
+
+### 16.4 Operational pattern
+
+Japanese objectives:
+1. protect Ki-46 reconnaissance / photo cycle
+2. force Allied fighters to reveal / disperse
+3. damage runway / fuel / repair nodes enough to reduce sortie generation
+4. cover first-phase road / bridge / dump reconstruction
+5. suppress daylight movement / artillery concentration before Phase II
+6. avoid wasting bomber strength on symbolic city bombing when counter-air / logistics targets are more valuable
+
+Chinese Air Force:
+- conservation first
+- rise for high-value bomber interception / capital-defense / favorable-warning contacts
+- disperse to satellite strips / camouflage / decoys
+- avoid routine pursuit of every Japanese sweep
+
+Fourteenth Air Force:
+- cannot fully adopt conservation
+- selective P-40 / P-38 interception and sweeps
+- periodic fighter-bomber / B-25 attacks on Hanzhong / Guangyuan / Wanzhou forward aviation system
+- B-24 use remains selective because heavy-bomber fuel / replacement burden is high
+
+### 16.5 Tempo and attrition reservation
+
+Weather / repair / dispersal prevent continuous maximum effort.
+
+Normal-intensity central over roughly five weeks:
+- **12–18 major contact / strike days**
+- additional small reconnaissance / interception / harassment sorties between them
+
+If no major reinforcement or diversion occurs, planning attrition band before X-day:
+- Japanese combat / operational write-offs: **45–70**
+- US Fourteenth AF write-offs: **35–55**
+- Chinese air-force write-offs: **30–50**
+- Allied total: **65–105**
+
+This is an accounting reserve, not pre-written battle results.
+
+Expected qualitative result if the band materializes:
+- Chinese aviation shifts further toward preservation
+- Fourteenth AF remains coherent and dangerous
+- Japan does **not** gain permanent air supremacy
+- Japan gains **intermittent / sectoral daylight operational superiority** sufficient for Phase-II ground movement on chosen days
+
+### 16.6 X-day air-condition gate
+
+Phase II does not require destruction of Allied aviation.
+
+Air gate is satisfied if:
+- Japanese China-theater serviceable aircraft remain **>=500級**
+- fighters remain **>=320級**
+- forward Hanzhong / Guangyuan / Daxian / Wanzhou air system is repairable / supplied
+- Ki-46 reconnaissance can still obtain regular operational imagery
+- Allied fighters cannot impose continuous daylight denial over both Chengdu and Chongqing axes
+- Chinese large daytime ground movements remain materially constrained
+
+Air gate fails / X-day slips if:
+- Japanese forward-field fuel / road / runway serviceability breaks down
+- Fourteenth AF receives a major additional fighter force and sustains it
+- another theater forces removal of roughly **80–120 Japanese fighters** or equivalent aviation-support capacity
+- a major Allied base-attack cycle destroys enough fuel / maintenance infrastructure to reduce sortie generation for >1 week
+
+### 16.7 Re-open triggers before X-day
+
+Recalculate this reservation if any of the following occurs:
+1. major US carrier / South Pacific move changes Japanese strategic priority
+2. Chittagong / India requires substantially more IJA aviation than §11 band
+3. US diverts a full additional fighter group or equivalent into China
+4. Hump throughput materially exceeds / falls below expected 1943 trajectory
+5. Chinese Air Force chooses an unexpectedly aggressive decisive battle
+6. Japanese Phase-I ground logistics force a Phase-II delay beyond mid-September
+
+Absent those triggers, carry this reservation forward to the Phase-II decision meeting rather than re-simulating every routine sortie.
