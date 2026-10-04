@@ -73,7 +73,7 @@ CLOSED central:
 1. 6/27–7/3 Enterprise sheltered repair / Truk tow decision
 2. Saratoga + Wasp Pearl concentration
 3. Midway fuel / radar / land-attack maturity
-4. Akagi / Kaga major-yard repair timeline
+4. Akagi / Kaga repair follow-through — timing centralはrelaunch/15 §25で閉鎖済み
 5. Enterprise technical / propaganda exploitation second stage
 6. 航空機更新値をFive-Go / FS保留 / Arakan-Bengal Bay /基地化へ再投入
 
