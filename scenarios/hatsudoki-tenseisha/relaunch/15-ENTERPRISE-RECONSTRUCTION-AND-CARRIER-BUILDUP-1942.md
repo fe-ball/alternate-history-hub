@@ -628,3 +628,23 @@ Enterpriseは「完成した比較標準器」を一隻分与えるが、製造�
 - US-side cryptographic / procedural countermeasures
 
 **ここでは回収事実と理解可能範囲までを固定し、その後の「日本がどこまで賢く使うか」は別gateとする。**
+
+
+## 25. 赤城・加賀 1942修理時計 — forward closure
+
+> **Status:** PROVISIONAL central planning closure. Canonical clock 1942-06-26は進めない。
+
+Midway損傷像:
+- Kaga: 500lb級2発 central、前後elevator / flight-deck damage、局所hangar fire。bridge / main machinery / rudder centralで生存。
+- Akagi: 1000lb級1発 + damaging near-miss、central elevator / upper hangar damage、steering damage。main machinery total lossなし。
+
+修理中央:
+- **Kaga:** Kure major-yard repair → 1942-09〜10月級 flight-deck / elevator / fire-damage completion、Q4 work-up後 first-line return。
+- **Akagi:** steering / deck / upper-hangar repairがKagaより長く、1942-11〜12月級 completion / work-up、**1942年末までにfirst-line return central**。
+- both: 1943Q1には、新規yard shock / additional damageがなければoperational carrier poolへ戻る。
+
+意味:
+- 1943春の日本carrier strengthを「Soryu / Hiryu / Shokaku / Zuikakuの4隻のみ」と数えない。
+- Junyo / Hiyo / Ryujo / Zuiho等を含めると、carrier hull / deck availabilityは史実1943春より明確に厚い。
+- ただしcarrier air group / DD / fleet oiler / trained deck crew / sortie cycleは別gateであり、甲板数=同時最大打撃力ではない。
+- Enterprise reconstructionとyard labor competitionは残るが、Akagi / Kagaを1943春まで未修理放置するcentralは採らない。
