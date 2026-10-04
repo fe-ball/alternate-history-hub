@@ -227,7 +227,7 @@ CLOSED central:
    - fuel throughput
    - radar operator proficiency
    - land-attack squadron growth
-4. **Akagi / Kaga major-yard repair timeline**
+4. **Akagi / Kaga repair follow-through** — timing centralは [15](15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md) §25で閉鎖済み。新規yard shockのみ再OPEN
 5. **Enterprise capture exploitation second stage**
    - technical disassembly priorities
    - later foreign physical verification
