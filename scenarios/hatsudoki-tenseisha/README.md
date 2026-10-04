@@ -10,7 +10,8 @@
 > **Current war ledger:** [relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md)
 > **Forward planning ledger:** [relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md](relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md)
 > **World ripple ledger:** [relaunch/16-WORLD-STRATEGY-RIPPLE-1942H2.md](relaunch/16-WORLD-STRATEGY-RIPPLE-1942H2.md)
-> **Next-session handoff:** [relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md](relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)
+> **Strategy handoff:** [relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md](relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)
+> **Aircraft / 1943 force ledger:** [relaunch/18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md](relaunch/18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md)
 
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
@@ -23,7 +24,8 @@
 4. 現行論点では特に [14 — 真珠湾後〜ミッドウェー午後チェックポイント](relaunch/14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md) を優先する
 5. Enterprise再建・工廠負荷・空母建造の6/26時点forward planは [15 — Enterprise再建・ミッドウェー後工廠負荷・空母建造計画](relaunch/15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md) を参照する
 6. 1942年後半へ時計を進める前の世界波及監査は [16 — 世界戦略波及 1942H2](relaunch/16-WORLD-STRATEGY-RIPPLE-1942H2.md) を参照する
-7. **次回チャットは [17 — 日本側1942H2戦略・Five-Go/FS/Arakan・航空機handoff](relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md) から再開する**
+7. [17 — 日本側1942H2戦略・Five-Go/FS/Arakan handoff](relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md) でforward戦略を確認する
+8. **航空機再監査は [18 — 航空機枝・Enterprise技術吸収・1943戦力forward ledger](relaunch/18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md) を優先し、次回はFive-Go / FS-base / allocationへ戻る**
 
 最大version、更新日の新しさ、記述年代の未来さだけでauthorityを決めない。
 
@@ -63,11 +65,11 @@ CLOSED central:
 - foreign physical inspectionはKwajaleinでは行わない
 
 次は、
-0. **1942H2陸軍新型機の命名・量産・初配備監査**
-   - O4系次期一般戦闘機の正式名称 / 制式呼称
-   - Ki-45系の影響・派生任務・後継
-   - Ki-46、Ki-21 / Ki-49等の関連系列
-   - 詳細は [17](relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)
+0. **更新済み航空戦力をFive-Go / FS-base / allocationへ再投入**
+   - Five-Go第一期→広元 / 万県線→第二期成都 / 重慶のstage gate
+   - South Pacific基地成熟 / Milne-Samarai
+   - Aleutians 1943-03 maritime-interdiction gate
+   - 航空機の量産・serviceabilityは [18](relaunch/18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md)
 1. 6/27–7/3 Enterprise sheltered repair / Truk tow decision
 2. Saratoga + Wasp Pearl concentration
 3. Midway fuel / radar / land-attack maturity
