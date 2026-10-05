@@ -44,8 +44,8 @@ scenarios:
     status: active
     authority_version: "Relaunch R3"
     canonical_clock: "1942-06-26T18:00:00-10:30"
-    clock_state: "relaunch-r3; canonical clock remains 1942-06-26 18:00; Enterprise Kwajalein sheltered salvage and Midway radar-assisted base remain current historical state; later Five-Go/FS/Arakan/base-development and 1943 aircraft-force tables are conditional forward-analysis only, not future fact; aircraft naming/production/serviceability re-audit is now stored in relaunch/18 and the next analytical gate returns updated air power to Five-Go/FS/base allocation"
-    frontier: "canonical 1942-06-26 18:00据置。17はFive-Go/FS/Arakan/base forward handoff、18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.mdはKi-63/二式戦、IJN fighter-strike branches、峰量産、Enterprise技術吸収、radio/EMI、1943-03/09 major-aircraft pool/serviceabilityをconditional forward ledgerとして保存。次は18のno-double-counting allocationをFive-Go第一期→広元/万県stage gate→約1か月再編後の成都/重慶第二期へ投入し、並行してFS凍結下のSolomons/Port Moresby/Milne-Samarai基地成熟を閉じる。Aleutiansはwinter buildupまで保持し1943-03 maritime-interdiction/Komandorski gateで再開。canonical operational gatesのEnterprise 6/27-7/3 repair/tow、Saratoga-Wasp集結、Midway成熟化等は未解決のまま維持"
+    clock_state: "relaunch-r3; canonical clock remains 1942-06-26 18:00; Enterprise Kwajalein sheltered salvage and Midway radar-assisted base remain current historical state; Five-Go/FS/Arakan/base-development, 1943 aircraft-force tables, Zuiryu recommissioning and 1943 summer convergence are conditional forward-analysis only, not future fact; active forward ledger is relaunch/19"
+    frontier: "canonical 1942-06-26 18:00据置。17は1942H2 Five-Go/FS/Arakan source handoff、18は1942H2-43 aircraft/production/serviceability/X-day air reservation、19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.mdをactive forward ledgerとする。1943夏working state: Five-Go第一期は広元/達県/万県線で作戦的縦深追撃を止め第二期形成戦へ、瑞龍は5月海試→6-7月航空艤装試験→8月limited readiness→9月work-up、A7M/B7Aはrollout/pilot-productionで通常の米前線接触はまだ、米海軍はChina emergency air reinforcementとfast-carrier learning raid pressureを検討。次はChiang/Chennault/Stilwell/Marshall/Arnold/King/Nimitzの配分争い、China emergency package、first US fast-carrier raid target/force/date、日本側Five-Go X-day再OPEN thresholdを閉じる。canonical operational gatesのEnterprise 6/27-7/3 repair/tow、Saratoga-Wasp集結、Midway成熟化等は未解決のまま維持"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-through-1942-06-26-1800-plus-18-forward-aircraft-force-ledger-and-17-strategy-handoff"
+    source_import: "relaunch-r3-continuity-through-1942-06-26-1800-plus-19-summer-pre-X-strategic-convergence-18-aircraft-force-ledger-17-strategy-handoff"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
