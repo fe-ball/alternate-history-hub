@@ -882,3 +882,12 @@ Recalculate this reservation if any of the following occurs:
 6. Japanese Phase-I ground logistics force a Phase-II delay beyond mid-September
 
 Absent those triggers, carry this reservation forward to the Phase-II decision meeting rather than re-simulating every routine sortie.
+
+
+## 17. successor strategic integration
+
+The aircraft / serviceability / Five-Go pre-X air reservation in this ledger is now integrated into:
+[19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md](19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md).
+
+18 remains authoritative for aircraft technical / production / force-accounting inputs.  
+19 is the active forward ledger for Allied response, US allocation, carrier pressure and the final Phase-II X-day decision.
