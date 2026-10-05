@@ -131,6 +131,19 @@ PROVISIONAL discussion results:
 - 1943-03-31 / 09-30 major combat-aircraft pool / first-line / serviceability conditional bands
 - Five-Go / Chittagong / carrier / base allocationへ使えるno-double-counting ceiling
 
+### 19 — 1943夏・Five-Go第二期Xデー前の戦略収斂
+`19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md`
+
+航空機再監査後の1943夏forward-stateを統合する継続台帳。canonical clockは進めない。
+
+主なworking state:
+- Five-Go第一期は広元 / 達県 / 万県線で作戦的縦深追撃を止め、局地地上戦＋航空戦＋工兵 / 補給による**第二期形成戦**へ
+- 中国正面はKi-43 / Ki-63-I / Ki-44 / Ki-45 / Ki-46が中心。峰Ki-63はまだtrial / limited-serial候補
+- 瑞龍は1943-05海試、06–07航空艤装試験、08 limited readiness、09 work-up、10 full carrier employment central
+- A7M / B7Aはsummer rollout / trial / pilot-production段階で、通常の米前線接触はまだ
+- 米側はChina emergency air reinforcementとfast-carrier raid pressureを組み合わせる可能性が高いが、exact allocation / raid targetはOPEN
+- late-August / early-SeptemberにFive-Go X-day、米fast-carrier pressure、瑞龍戦列化、日本次世代艦載機transitionが収斂
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
@@ -210,12 +223,13 @@ CLOSED central:
   - foreign physical inspection still deferred; Kwajalein is not opened to outside observers
 
 次の論点:
-0. **次回分析frontier: 更新済み航空戦力をFive-Go / FS-base / allocationへ戻す**
-   - Five-Go第一期の航空配分と広元 / 万県線のstage-transition
-   - 約1か月再編後の第二期 成都 / 重慶線の開始条件・停止条件
-   - FS凍結下のSolomons / Port Moresby / Milne-Samarai基地成熟
-   - Aleutiansはwinter buildupまで保持し、1943-03 maritime-interdiction / Komandorski gateで再開
-   - 航空機数値は [18](18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md) を使用
+0. **次回分析frontier: 1943夏のAllied response / US allocation / fast-carrier pressureを閉じる**
+   - Chiang / Chennault / Stilwell / Marshall / Arnold / King / Nimitzの配分争い
+   - China emergency air packageの規模 / Hump priority
+   - 最初のUS fast-carrier raid target / force / date
+   - Japanese reaction threshold: Five-Go X-dayを遅らせるほどのPacific threatとは何か
+   - Milne-Samarai / South Pacific base geometryもraid選定前に再確認
+   - working stateは [19](19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md)、航空数値は [18](18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md)
 1. **6/27–7/3 Enterprise Kwajalein sheltered repair**
    - temporary underwater patches / shoring
    - 48–72h tow certification
