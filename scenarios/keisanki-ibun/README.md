@@ -13,6 +13,17 @@ Post-14:15 working syntheses exist, but are **NOT AUTHORITY** and do not advance
 
 Current frontier: **11-Jun first Japanese anti-carrier counterstrike is the next gate. Before resolving it, re-audit Branch aircraft/weapon/AA performance and tactical research; do not silently restore historical hit rates. Read file 92 first.**
 
+
+## 会話上の26-Jun WORKING continuation（2026-10-05）
+
+[26-Jun再編・決戦輸送の会話引継ぎ](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/94_NEXT_CHAT_26JUN_US_FORCE_RECONSTITUTION_MARIANAS_DECISIVE_TRANSPORT_HANDOFF_v001.md)を、**post-14:15候補線を続ける場合の入口**として使う。
+
+- **NOT AUTHORITY / NO CANONICAL CLOCK ADVANCE**。Branch B v100 / 1944-06-16T14:15と、Saipan地上正本16-Jun dawnは変更しない。
+- upstreamの因果監査をやり直す場合は、従来どおりfile 92 -> 93を先に読む。file 94はその監査を省略して正本化するための資料ではない。
+- 会話候補線では、D+0の大規模carrier+Marianas counterstroke、TF58の機能分離、Saipan/Tinian三層補給、modern-DD財布の逼迫、非DD決戦輸送、8-BB surface intervention、CAP-heavy航空運用、25/26-Jun決戦輸送を一続きのWORKING台帳として保持する。
+- 26-Jun候補では、米軍は累計死傷者数だけでなく、rifle-company cohesion、leader/NCO/specialist holes、砲兵/FDC/通信、戦車/車両、LVT/舟艇、shore-party/boat-crew、補充の海上移動と島内再編時計を再監査する。
+- 次の主要gateは、77th Division RCT級のSaipan転用 feasibility、米amphibious-wallet、26-Jun TF58/日本航空/DD再生、非DD輸送艦の個艦provenance、そして正本化前必須のTF58 whole-system ASW meta-audit。
+
 ## 11-Jun first counterstrike handoff（2026-10-02）
 
 [次回の直接入口](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/92_NEXT_CHAT_11JUN_FIRST_COUNTERSTRIKE_WEAPONS_TACTICS_REAUDIT_HANDOFF_v001.md)を最初に読む。
