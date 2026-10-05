@@ -7,142 +7,167 @@ Status: NAVIGATION-ONLY / SOURCE-BOUND ROLLUP / NO CANON PROMOTION
 対象は scenarios/asai の中国戦継続軸（V24 → V25 → V26 → POST-V26 WORKING）。
 
 **正本はV26、正本時計は1941-12-07 14:30 HSTのまま。**
-日米戦は開戦済み、中国戦は継続、日ソ戦はV25の非開戦状態を継承する。
-
-既存のMO replay-local枝は1942-04-30夕刻まで保存されているが、現在の議論フロンティアではない。
-今回のFT再監査は1941末～1942Q1へ戻って因果を洗い直し、第一次インド洋作戦の **1942-04-05午後 Force A接触** まで到達した。
-
-**現在の再開点：1942-04-05 15:32級、B5N索敵機が英Force Aを発見した中央WORKING枝。**
-次は日本側の第一撃判断から始める。
+1942年のIndian Ocean / MO / Port Moresbyはreplay-local WORKINGであり、正本時計の前進ではない。
 
 最新原文：
-- V26:17 = FT技術/戦術再監査、Q1非決戦使用、損耗連鎖、インド洋索敵handoff
-- V26:18 = そのWORKING decision register
+- V26:19 = Indian Ocean Force A決着、夜間分離/撤退、早期MO再演、Port Moresby再収束、FT次回監査handoff
+- V26:20 = そのWORKING decision register
 
-## 今回の主要更新
+## 今回閉じた主要WORKING
 
-### FTの命中モデル
+### Indian Ocean
 
-Fritz-X型の2D着弾CEP比較は使わない。
+1942-04-05 Force A接触から中央第一撃を再演。
 
-FTは：
-- 高度軸を姿勢/滑空＋radio-altimeter系で拘束
-- 横軸をgyro/course、IR型では1次元terminal yaw補正
-- 外れ後もRUN-ONまたは設定自爆まで飛翔
+中央第一撃：
+- A6M2 18
+- D3A1 24
+- B5N2 24
+- Type91 12
+- FT 12
 
-として扱う。
+中央結果：
+- Indomitable = carrier mission kill / afloat
+- Formidable = damaged / recoverable
+- 日本側は英夜襲姿勢を認識して高速離脱
+- 英ASV夜間捜索はstrike-quality再接触に至らず、夜襲なし
+- 日本空母艦載電探はこの時点では置かない
+- 英退避航路への日本潜水艦脅威は実在するが、中央では高品質雷撃射点なし
 
-### 弾頭
+### Doolittle
 
-- HE = AA / 上構 / command / hangar-side / transport / light combatant のsystem suppression
-- SAP短延期 = light/unarmored sideを抜いて内部損傷
-- 高級SAPのterminal-dip / ごく短距離水面接触枝は試験可能だが保証性能ではない
-- RF近接は1941末でもtest-only
+Doolittle型作戦は削除しない。
+ただし史実1942-04-18は固定しない。
 
-### 戦術成熟
+**現在：DEFERRED / OPEN**
 
-EnterpriseやForce Zで混成戦術を「発見」した扱いは撤回。
-1939–40にはFT/Type91混成、FT-first / Type91-first、screen suppression、多軸研究が存在し、1940–41に実用教範へ進む。
+### MO再演
 
-### Wake / Saratoga
+旧V26:12-14の結果維持を目的とせず、Tulagi後から再演。
 
-Dec22中央：
-- Saratoga: FT/HE×1 + FT/SAP×1 + 250kg SAP×2 + Type91×1
-- Saratoga mission kill / afloat
-- Soryu: 500lb級爆弾1発
-- Hiryu: direct hit 0
-- Saratoga前線復帰は旧Mar5–15中心から **Mar20–Apr5、中心Mar27** へ後退
+主要中央：
+- CarDiv5は史実May2-3のZero-ferry weather delayを自動継承しない
+- Tulagi raidは保持
+- H6K/H7Y searchでYorktown再接触
+- Apr9 Yorktown = offensive-carrier mission kill
+- Apr10 Saratoga = offensive-carrier mission kill
+- Apr10 Shokaku = 1000lb級2発でcarrier mission kill
+- Zuikaku = direct hit 0 central / combat effective
+- Shokakuは発艦不能だがlimited emergency landing可
+- 少数のShokaku機をShohoへ緊急再配分
+- Shohoは旧枝のSaratoga被弾を受けず健在
+- Apr12 G4M/FT+Type91でCrace阻止部隊を攻撃
+  - Chicago = Type91 x1
+  - Australia = FT-IR/SAP x1
+  - CraceはJomard直接阻止を断念
+- 旧Apr16 Crace水上戦は削除
+- early-P39も削除
+- Jomard route retained
+- Apr16 Taurama landing
+- Apr17 Kila Kila
+- Apr18 Seven Mile
+- Apr19 Port Moresby physical capture
 
-### 1942Q1 FT生産
+Apr19以後は旧base-growth-race骨格へ概ね再収束する。
+ただし：
+- Shoho健在
+- Shokaku撤退
+- Zuikaku航空隊は摩耗・再編済み
+- FT/陸攻/H7Y/H6Kの分業が強い
+- 基地release時計は物理的に妥当な範囲で約1日前倒し
 
-WORKING service-release ramp：
-- Jan ~105–125
-- Feb ~125–150
-- Mar ~140–165
-- Apr ~145–175 sensitivity
+を持ち越す。
 
-GR系が最も伸ばしやすく、IRは校正/検出器歩留まり律速。
+## 重要な新しい技術問題
 
-### Q1通常対艦使用
+今回の再演ではFT回避を主に：
+- 母機の接近/攻撃姿勢
+- 敵側の事前情報
+- FT/Type91/D3Aのmixed geometry
 
-- Makassar: FT約9、Houston追加SAP損傷でTimor護衛を欠席
-- Timor: GR/HE 6発級、Mauna Loa喪失、Meigs mission kill
-- Darwin: 大量FTなし
-- Feb20 Lexington: G4M17機中不可逆~9、Lexington FT/SAP 1発中心
-- 24th Air Flotilla壊滅回避によりSR遅延が縮み、Lae-Salamaua上陸はMar5級へ前進
-- Mar10 Lae: 主要輸送船の一部が既に離脱し、日本船腹・人的損失が減る
-- Langley / Java Sea / Sunda / Exeter-Pope / Edsall / Pecosは中央FT使用なし
+から処理した。
 
-### インド洋
+しかし、**標準FTそのものの最終巡航/terminal speed、実用投下距離、time-of-flightを秒単位ではまだCLOSEしていない。**
 
-中央西方正規空母は：
-- Akagi
-- Soryu
-- Hiryu
+このため、過去の戦闘で防御側へ与えた反応時間が過大だった可能性がある。
 
-CarDiv5はMO用に温存。
+特に：
+- CAPなし
+- FT母機を追い払えない
+- weapon release後の回避が主になる
 
-Cornwall/Dorsetshireは三空母のD3Aだけで史実級撃沈が可能なのでFTを追加しない。
+Crace型ケースは再監査感度が高い。
 
-4月5日午後、午前索敵・巡洋艦撃沈後に第二次索敵を出す中央枝：
-- B5N ~4
-- 回収済みE7K/E8N少数
-- E13Aを大量な余剰機として捏造しない
-- SW～SSW重点
-- Force Aを15:32級に発見する中央線
+一方Yorktown/Saratogaは：
+- radar warning
+- fighter interception
+- B5N approach cue
+- prior FT intelligence
 
-## 夜間IR案の扱い
+があるため、問題の中心はweaponを見てからではなくpre-release cueだった。
 
-「夜間こそIR補正を活かせるのでは」という欲望は、一部士官・技術者が口にする面白い技術提案として保持する。
+## 母機別FTの重要差
 
-ただし中央作戦判断にはしない。
+B5N：
+- 浅降下/増速のattack setupが比較的見えやすい
+- 既存working release envelopeは350–380 km/h級
+- pre-release warningが相対的に長い
 
-理由：
-- IRは1次元yaw補正であり成熟した夜間識別seekerではない
-- 多艦隊夜間識別、編隊航法、攻撃同期、味方識別が難しい
-- 夜間の発着艦・回収リスクが大きい
-- 希少IRを実証目的で賭ける合理性が弱い
-- 「夜を狙う」より、現接触からの第一撃または接触維持→翌朝攻撃の方が合理的
+高速母機：
+- release conditionへ入るための増速操作が短い/不要化しやすい
+- weapon-side ramjet transitionも短くなり得る
+- FTは単なるstandoff weaponではなく**short-warning snap-release weapon**へ性格が変わる可能性がある
 
-**次回は夜間IR案を再審しない。**
+ただし、store-separation / adapter / q qualificationを閉じる前に任意の高速投下を認めない。
 
-## CURRENT NEXT
+H8K用FT：
+- interface提案段階
+- rocket-assisted ramjet FT + drop/ejector armも提案段階
+- combat-presentではない
 
-1942-04-05 ~15:32 Indian Ocean。
+## CURRENT NEXT — USER-DIRECT
 
-B5N索敵機からForce A：
-- 戦艦1
-- 空母複数
-- 巡洋艦/駆逐艦多数
-
-級の接触報告を受けた日本側が、**第一撃をどうするか**を決める。
+次回はキャンペーンを進める前に、**FT性能を数値から再確認する。**
 
 順序：
 
-1. 接触報告の信頼度 / actor knowledge
-2. Akagi/Soryu/HiryuのA6M/D3A/B5N実働数
-3. Type91 / FT / FT-IR / HE / SAP combat-present stock
-4. 距離、日没、天候、帰投/着艦clock
-5. Force AのCAP / radar / AA / formation / maneuver
-6. 日本側第一撃の発艦時刻・規模・兵装・攻撃軸
-7. CAP interception → valid release
-8. その後にのみ命中/損傷
+1. 標準FTのpost-release加速 / ramjet capture / cruise / terminal speedをCLOSE
+2. 実用release rangeを母機別にCLOSE
+   - B5N
+   - G3M/G4M
+   - 高速G4As / E6 Twin級
+   - 将来H8K / rocket-assisted枝は別
+3. defender reaction timelineをCLOSE
+   - 母機発見
+   - attack cue
+   - weapon detection
+   - time of flight
+   - 艦の回頭時間
+4. 母機別のFT最適運用を再設計
+5. **投下距離を不必要に長く取り、FTを過度に慎重な「チキン兵器」にしていないか監査**
+6. 新モデルで既戦闘を再検証
+   - Enterprise
+   - Force Z
+   - Wake / Saratoga
+   - Feb20 Lexington
+   - Indian Ocean Force A
+   - Apr9 Yorktown
+   - Apr10 Saratoga
+   - Apr12 Crace
 
-## 保存される別枝
+**過去のhit packetを結果維持のために保護しない。**
+新しい速度/射程/反応モデルと矛盾するなら、その戦闘を再OPENする。
 
-V26:13のMO replay-local枝（Port Moresby攻略～Apr30 Lexington contact）は消さない。
-ただしSaratoga復帰時計・FT在庫・Q1損耗差分をまだ完全伝播していないため **FROZEN / DEFERRED**。
-
-V26:13のGT core-life × fuel-quality × rating gateも未解決のまま保存し、Indian Ocean再監査後に戻る。
+Secondary deferred:
+- Doolittle型作戦の日程/空母配分
+- base-growth raceの大局観測
+- GT core-life × fuel-quality × rating gate
 
 ## 優先して読む原文
 
-1. V26:17
-2. V26:18
-3. V26:16
-4. V26:12
-5. V26:13 / 14（保存MO枝）
-6. FT technical study
-7. B5N/D3A/Type91 1941 closeouts
-
-同軸のより新しい明示的handoff/registerを優先し、CANON / WORKING / OPENを混同しない。
+1. V26:19
+2. V26:20
+3. FT technical study
+4. V26:17 / 18
+5. V26:16
+6. V26:12–14（旧MO枝。置換点に注意）
