@@ -86,5 +86,5 @@ AIの推論、ユーザー指定、未確定案、superseded事項を可能な�
 
 ## Claude資料の追加取り込み — 2026-10-06
 
-- [樹脂含浸シナリオ：コンテキスト全39文書](scenarios/resin-impregnation/README.md) — 木材加工・樹脂化学・複合材料の技術経営シミュレーション。期区分・ECN数値管理・ユーザー制約の参照関係を維持。
+- [樹脂含浸シナリオ：コンテキスト全39文書](scenarios/resin-impregnation/README.md) — 木材加工・樹脂化学・複合材料の技術経営シミュレーション。元テキスト保全・修正版・監査記録を分離。数値と量産条件等を修正し、未解決事項を明示。
 - 回収範囲・テキスト取得方法・検証上の限界は [取り込み記録](scenarios/resin-impregnation/import/IMPORT-STATUS.md)。

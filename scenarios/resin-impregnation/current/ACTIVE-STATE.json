@@ -1,0 +1,28 @@
+{
+  "scenario_id": "resin-impregnation",
+  "authority_version": "import-audit-1",
+  "updated_on": "2026-10-06",
+  "canonical_clock": null,
+  "clock_state": "no-single-clock-designated",
+  "state": "imported-design-documents-with-corrections-and-open-feasibility-gates",
+  "entrypoint": "../00-READ-FIRST.md",
+  "rules": "../SCENARIO-RULES.md",
+  "constraints": "User_Narrative_Constraints.md",
+  "phase_authority": "Phase_Analysis.md",
+  "finance_definitions": "Master_Parameters.md",
+  "finance_basis": "Revenue_Model.md",
+  "handoff": "active/00-SESSION-HANDOFF.md",
+  "decisions": "../audit/DECISION-REGISTER.md",
+  "source_snapshot_status": "REFERENCE; not current authority",
+  "open_items": [
+    "FIN-01",
+    "FIN-02",
+    "FIN-03",
+    "TECH-01",
+    "TECH-02",
+    "TECH-03",
+    "LAW-01",
+    "LAW-02",
+    "SUPPLY-01"
+  ]
+}

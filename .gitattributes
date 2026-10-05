@@ -5,3 +5,6 @@ scenarios/*/import/archives/*.zip -text
 
 # Preserve recovered Claude source text and manifest hashes.
 scenarios/resin-impregnation/current/*.md -text
+
+# Keep captured Claude text bytes intact.
+scenarios/resin-impregnation/import/source-2026-10-06/*.md -text whitespace=-blank-at-eol,-blank-at-eof,cr-at-eol

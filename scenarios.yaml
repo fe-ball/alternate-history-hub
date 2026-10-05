@@ -76,15 +76,15 @@ scenarios:
   resin-impregnation:
     title: "樹脂含浸シナリオ"
     status: active
-    authority_version: "Claude project current 39-document snapshot (imported 2026-10-06; project update validated 2026-05-06)"
+    authority_version: "import-audit-1 (39-document Claude capture plus documented corrections; 2026-10-06)"
     canonical_clock: null
     clock_state: "no-single-clock-designated; technology-business-timeline-through-circa-1942-is-not-a-confirmed-simulation-clock"
-    frontier: "全39文書の取り込み完了。次のシミュレーション・改訂対象はユーザー指定待ち。制約はUser_Narrative_Constraints、期区分はPhase_Analysis §0、経済数値はMaster_Parameters / Revenue_Modelを優先し、草案・試算・拡張オプションの留保を維持"
+    frontier: "全39資料を新規配置し14資料を修正。P3/P4未配賦・資金・ガラス量産条件・低アルカリ原料・国別知財がOPEN。00-READ-FIRSTと監査記録から再開。未来試算を進行済み時計にせず、草案・拡張案の留保を維持"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/resin-impregnation"
     entrypoint: "scenarios/resin-impregnation/README.md"
     scenario_rules: "scenarios/resin-impregnation/SCENARIO-RULES.md"
-    authority_entrypoint: "scenarios/resin-impregnation/current/_00_INDEX_シナリオ設定資料集.md"
+    authority_entrypoint: "scenarios/resin-impregnation/00-READ-FIRST.md"
     import_status: "scenarios/resin-impregnation/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual-history-and-chemistry-materials-business-simulation"
     source_import: "all-39-current-claude-project-context-markdown-documents"

@@ -1,0 +1,141 @@
+{
+  "revision": "import-audit-1",
+  "status": "PASS",
+  "source_files": 39,
+  "source_utf8_bytes": 671976,
+  "current_files": 39,
+  "corrected_files": 14,
+  "ecn_definitions": 134,
+  "checked_ecn_references": 159,
+  "relative_links": 185,
+  "finance": {
+    "P1": {
+      "leaf_tags": [
+        "REV_P1_LUMBER",
+        "REV_P1_PLYWOOD"
+      ],
+      "subtotal_yen": 800000,
+      "macro_target_yen": 800000,
+      "unallocated_yen": 0,
+      "state": "ARITHMETIC_MATCH_ONLY"
+    },
+    "P2": {
+      "leaf_tags": [
+        "REV_P2_SHUTTLE",
+        "REV_P2_INSUL",
+        "REV_P2_GEAR",
+        "REV_P2_PROP",
+        "REV_P2_LUMBER"
+      ],
+      "subtotal_yen": 4000000,
+      "macro_target_yen": 4000000,
+      "unallocated_yen": 0,
+      "state": "ARITHMETIC_MATCH_ONLY"
+    },
+    "P3": {
+      "leaf_tags": [
+        "REV_P3_SHUTTLE",
+        "REV_P3_COMP_JOINT",
+        "REV_P3_COMP_PROP",
+        "REV_P3_INSUL",
+        "REV_P3_GEAR",
+        "REV_P3_LINING",
+        "REV_P3_OTHER"
+      ],
+      "subtotal_yen": 11600000,
+      "macro_target_yen": 12000000,
+      "unallocated_yen": 400000,
+      "state": "OPEN"
+    },
+    "P4": {
+      "leaf_tags": [
+        "REV_P4_SHUTTLE",
+        "REV_P4_COMP_ALL",
+        "REV_P4_INSUL",
+        "REV_P4_CHEM",
+        "REV_P4_AVIA",
+        "REV_P4_OTHER"
+      ],
+      "subtotal_yen": 32800000,
+      "macro_target_yen": 35000000,
+      "unallocated_yen": 2200000,
+      "state": "OPEN"
+    },
+    "P5": {
+      "leaf_tags": [
+        "REV_P5_AVIA_COMP_PROP",
+        "REV_P5_GFRP_WING",
+        "REV_P5_GFRP_OTHER",
+        "REV_P5_RADOME",
+        "REV_P5_AVIA_FLOAT",
+        "REV_P5_BOAT_PANEL",
+        "REV_P5_TANK",
+        "REV_P5_COMP",
+        "REV_P5_EPOXY",
+        "REV_P5_INSUL",
+        "REV_P5_HF_BOARD",
+        "REV_P5_VARNISH",
+        "REV_P5_ACETATE",
+        "REV_P5_PMMA",
+        "REV_P5_PVB",
+        "REV_P5_ARMOR",
+        "REV_P5_RUBBER",
+        "REV_P5_SELFSEAL",
+        "REV_P5_ROCKET",
+        "REV_P5_CARBON",
+        "REV_P5_FURFURAL",
+        "REV_P5_LINING",
+        "REV_P5_AVIA_TRAINER",
+        "REV_P5_AVIA_LIAISON",
+        "REV_P5_AVIA_PATROL",
+        "REV_P5_AVIA_SPARE"
+      ],
+      "subtotal_yen": 85000000,
+      "macro_target_yen": 85000000,
+      "unallocated_yen": 0,
+      "state": "ARITHMETIC_MATCH_ONLY"
+    },
+    "P6": {
+      "leaf_tags": [
+        "REV_P6_AVIA_BASE",
+        "REV_P6_PROP",
+        "REV_P6_FRP_STRUCT",
+        "REV_P6_FLOAT",
+        "REV_P6_TANK",
+        "REV_P6_EPOXY",
+        "REV_P6_COMP_INSUL",
+        "REV_P6_OPTICAL",
+        "REV_P6_ARMOR",
+        "REV_P6_STRATEGIC",
+        "REV_P6_DIESEL_CAST",
+        "REV_P6_CFRP",
+        "REV_P6_RADOME",
+        "REV_P6_SELFSEAL",
+        "REV_P6_ROCKET",
+        "REV_P6_OTHER"
+      ],
+      "subtotal_yen": 125000000,
+      "macro_target_yen": 125000000,
+      "unallocated_yen": 0,
+      "state": "ARITHMETIC_MATCH_ONLY"
+    }
+  },
+  "p5_profit_unreconciled_yen": 1800000,
+  "open_items": [
+    "FIN-01",
+    "FIN-02",
+    "FIN-03",
+    "TECH-01",
+    "TECH-02",
+    "TECH-03",
+    "LAW-01",
+    "LAW-02",
+    "SUPPLY-01"
+  ],
+  "limits": [
+    "Arithmetic consistency only; OPEN residuals are not revenue or incurred costs.",
+    "Not a full audit of historical, technical, legal or commercial feasibility.",
+    "Hashes cover recovered UI text, not original upload bytes."
+  ],
+  "errors": []
+}

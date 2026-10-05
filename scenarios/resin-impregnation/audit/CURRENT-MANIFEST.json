@@ -1,0 +1,320 @@
+{
+  "revision": "import-audit-1",
+  "date": "2026-10-06",
+  "files": [
+    {
+      "path": "current/00_シナリオ戦略改訂レポート.md",
+      "sha256": "20eb2048baa6d557a340c67d06b61451cbc3e2b5bdc102c309d29fc63485b603",
+      "bytes": 10396,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/01_タイムライン.md",
+      "sha256": "e1caa407dd30f84372608f04b1c8659bd3aece1cdab144150d374680fa146423",
+      "bytes": 37700,
+      "changed_from_capture": true,
+      "changes": [
+        "ガラス能力・備蓄への派生参照を修正版へ接続。"
+      ]
+    },
+    {
+      "path": "current/02_基幹技術データ集.md",
+      "sha256": "df53d39f9202dafa29dce5d7e8df22423393b75af423d3443924dcd1c6d3f7d5",
+      "bytes": 23102,
+      "changed_from_capture": true,
+      "changes": [
+        "ガラス能力・備蓄への派生参照を修正版へ接続。"
+      ]
+    },
+    {
+      "path": "current/_00_INDEX_シナリオ設定資料集.md",
+      "sha256": "729ea9abb707d8bd03ff3afa51321f79479ad028ba9635f5c53c5418331fd477",
+      "bytes": 15354,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Aviation_Fleet_List.md",
+      "sha256": "f2d528edd12f0ab1573a35f4cae673068a082511ce56f503abf0b3aaa8c31f90",
+      "bytes": 19462,
+      "changed_from_capture": true,
+      "changes": [
+        "航空部門のECN6件をマスタに一致させ、販売量・フロート対単位・混成増槽と旧設備案の状態を修正。",
+        "航空リストと全社財務の構成比衝突を修正。"
+      ]
+    },
+    {
+      "path": "current/Carbon_Material_Hierarchy.md",
+      "sha256": "76104c8b216efebd50a2311069cfa0dd0aabea3a25f131c2efd8bd756e3867ac",
+      "bytes": 13696,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/CFRP_Complete.md",
+      "sha256": "36aa5143fd8f6539c17f5bb99de746c36910bd6c3d3edcb3b00b3abd3becc64c",
+      "bytes": 21319,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Chemical_Resource_Management.md",
+      "sha256": "2088845cb4fae563d85db218d35edd046d7f1c313fd21ad0c1b4af873516c388",
+      "bytes": 5940,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Commercial_And_Financial_Strategy.md",
+      "sha256": "09b1c37d3d55ed77a50f3054b450d5e683c92c81d9ce26068518fc23132eff14",
+      "bytes": 14468,
+      "changed_from_capture": true,
+      "changes": [
+        "財務の派生判断を監査済み基準へ接続。",
+        "完成練習機の旧単価/利益率を財務基準へ合わせ、エポキシ価格の断定を修正。"
+      ]
+    },
+    {
+      "path": "current/Composite_Armor.md",
+      "sha256": "9699ea3e2571731f64bac3e010ea8cc3f77e3717aaa927c9e49f44c574386060",
+      "bytes": 19203,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Compreg_Markets_And_Lifecycle.md",
+      "sha256": "901f26be75d2a7b5d55c5a3853f5488d3bcc8c381373f294e341a27cedf6317e",
+      "bytes": 13052,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Conductive_Fiber_Dispersal.md",
+      "sha256": "9207012fcc2030dc99df232a23979662fec32326378fea4fd9e25568a6727459",
+      "bytes": 20829,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Cooperation_Partners.md",
+      "sha256": "4ffb6e642fc7e07a8a394fa6897d3ca31ae213b4e43434f53cd82f0287ee2ed3",
+      "bytes": 10810,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Corrosion_Resistant_Business.md",
+      "sha256": "fb55215eda1fd6a6c4e88b2c9038aef20f97a4219e89d41b708a8b52236a55f8",
+      "bytes": 8873,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Detailed_Growth_Simulation.md",
+      "sha256": "fc9dc65fdd6ff0da035b27feb58a8bd666ac490455c7690f5da363e88b7dcfa1",
+      "bytes": 11612,
+      "changed_from_capture": true,
+      "changes": [
+        "インフレ二重計上を防ぎ、1932/1936/1937の基準、1938補間、利益和と内訳の分類を修正。",
+        "人件費比率だけで企業規模の実現性が証明されたとする断定を修正。",
+        "WPI未定義年と実質売上の解釈を留保。"
+      ]
+    },
+    {
+      "path": "current/Economic_Refactoring_Logic.md",
+      "sha256": "82f6f0d20e0e3d92556ae6621e3ce4adc876be7fafe8494c1a05d0bc5093d770",
+      "bytes": 11543,
+      "changed_from_capture": true,
+      "changes": [
+        "財務の派生判断を監査済み基準へ接続。",
+        "WPIの1944/1945年混同、価格倍率、資金獲得と統制免除の断定を修正。"
+      ]
+    },
+    {
+      "path": "current/Epoxy_Strategy.md",
+      "sha256": "7479a565443a193baf6455b5aa0052262807974df04620483ec305961e4dc0d2",
+      "bytes": 9835,
+      "changed_from_capture": true,
+      "changes": [
+        "原料合成の工程省略と未来知識の自動伝播を修正。",
+        "秘密特許の出願設定と法的効果を区別。",
+        "研究年と特許公開日を分け、1934年の未公開資料を外部トリガーにする誤りを修正。",
+        "クレームを照合せず法的完全回避とする結論を条件付き評価へ修正。"
+      ]
+    },
+    {
+      "path": "current/Furan_Resin_And_Furfurylated_Wood.md",
+      "sha256": "f59b06ba2801e924420bc6bbdd6e8d426267f1eeca0624cbdbbb170936916178",
+      "bytes": 25684,
+      "changed_from_capture": true,
+      "changes": [
+        "供給/需要レンジの保証解釈を再監査。",
+        "レンジの一部比較から全ケースの供給余剰を保証する誤りを修正。"
+      ]
+    },
+    {
+      "path": "current/GFRP_Development.md",
+      "sha256": "1c8721549d80c81228fa2d89db9cedf8a283473cbc2f69de715325c8f41a495a",
+      "bytes": 6512,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/GFRP_Mass_Production_Feasibility_Analysis.md",
+      "sha256": "6d0f470c7f44fdde3932575788c73b866c87237d43dfd4cc7c0d76d8bb2f9d23",
+      "bytes": 14672,
+      "changed_from_capture": true,
+      "changes": [
+        "紡糸の速度/流量、予算との競合、維持能力の断定を修正。",
+        "B₂O₃とホウ砂の質量混同、Na₂O持込み、備蓄の不足を修正。",
+        "繊維の体積率/重量率を修正し、排他的配分と良品出荷の条件を明記。"
+      ]
+    },
+    {
+      "path": "current/GFRP需要シミュレーション草案.md",
+      "sha256": "af0d080e3edded2093f5d47413ce9e50b451807fb9822bb6491557143623b7cb",
+      "bytes": 7107,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Industry_Improvement_Impact.md",
+      "sha256": "cad6d1b081382e6f7670728dba01248d5b861e003dac6df9d4375582809e5781",
+      "bytes": 36191,
+      "changed_from_capture": true,
+      "changes": [
+        "ガラス能力・備蓄への派生参照を修正版へ接続。"
+      ]
+    },
+    {
+      "path": "current/Interface_Solution.md",
+      "sha256": "b403c39b5c7780cba4215fe8a9c747a5cede2ffdc0d5a8211ffe953a547f4707",
+      "bytes": 5232,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Master_Parameters.md",
+      "sha256": "c1b63f485804f5fb197cfb371b9514c3e21bbe07f8669a511e28ee2144fd1c0d",
+      "bytes": 28401,
+      "changed_from_capture": true,
+      "changes": [
+        "未定義の増槽平均単価タグを定義し、1936年利益率の計算と統制の断定を修正。"
+      ]
+    },
+    {
+      "path": "current/Military_Applications.md",
+      "sha256": "70e977abca86f73bdaaa92904ee216199a3e596fc2afd730b04268e9eb7cfb48",
+      "bytes": 22254,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Mitsubishi_Diesel_Aircraft_Feasibility.md",
+      "sha256": "b92335b936304f687b44a4176ac5e9385c7ef8e4c95bae2e4115ea570117b6e9",
+      "bytes": 9631,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Oji_Paper_Collaboration.md",
+      "sha256": "865bc9e6523bf0261ad67b2b08f1fa2a3f246024d5b0c410b7e471e7a515d2e0",
+      "bytes": 15561,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Patent_Collision_Timeline.md",
+      "sha256": "87cc123173cc5c1ecd016f0ebb67cc311ac0816f981a0256ad818be57ddc3952",
+      "bytes": 3617,
+      "changed_from_capture": true,
+      "changes": [
+        "無条件の特許回避、先使用権と全世界権利の混同、研究年と公報公開日の混同を修正。"
+      ]
+    },
+    {
+      "path": "current/Phase_Analysis.md",
+      "sha256": "a9f25c8fe53047fa54319d473eb8d6ac657740105792894e636a7694bac759b2",
+      "bytes": 27725,
+      "changed_from_capture": true,
+      "changes": [
+        "単一値ECNタグにレンジを結び付けた箇所を修正。"
+      ]
+    },
+    {
+      "path": "current/Product_Catalog_And_Demand_Matrix.md",
+      "sha256": "a8fc3f641981764161500fcfceb35c4e8e65944ddf30800c8ff7e04d16be767d",
+      "bytes": 95040,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Propeller_Technology_Timeline.md",
+      "sha256": "fcf7506ecf021e9c802b00fed94f468808f5ddc1e53166cf183ccc0933d42fff",
+      "bytes": 10830,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Radar_Proximity_Rocket.md",
+      "sha256": "99f36e97b970fbc73a357e3efef2b4901de066590760546bfda623a13f47e065",
+      "bytes": 13145,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Revenue_Model.md",
+      "sha256": "a2fc0a0c0211edf0b634daa010fe1e272da4e65ce8875dba00e190d24bfe38b6",
+      "bytes": 20586,
+      "changed_from_capture": true,
+      "changes": [
+        "ECN参照2件、単価×数量8件、年次基準、利益率、売上と資金残高の混同を修正。P3/P4の不足内訳を明示。",
+        "100%に満たなかった構成比表を排他的な集計へ再構成し、素材供給専業という余計な制約を除去。",
+        "必要販売量を工場実能力と区別。補助タグの二重計上を保留。"
+      ]
+    },
+    {
+      "path": "current/Sankyo_Amicable_Relationship.md",
+      "sha256": "f0ea8e1e48872ef97b6cd76e825364c83df6c9e31a49c90782d8afa968d8ed63",
+      "bytes": 5890,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Seaplane_Strategy.md",
+      "sha256": "ab4b064733a7b4ba8ece8041a67c3f62f6206e22bef55e23a08c75d892c3e1b2",
+      "bytes": 9381,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Synthetic_Rubber_Route.md",
+      "sha256": "b5d305fd6c6ef93444a2bf36bb10dec0343afe5a697c3a05de5caa1dce42be28",
+      "bytes": 16111,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/Taiwan_Bagasse_Furfural.md",
+      "sha256": "b7dd9a4ffe53ac8f1e7674cc92249246a5dd7edab85c65c1eaecd772aa384bf0",
+      "bytes": 6050,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/User_Narrative_Constraints.md",
+      "sha256": "26bcbed7941cfca5c6a69fe3bfc0c35b5b08216430920c3da91721c3a4252711",
+      "bytes": 27525,
+      "changed_from_capture": false,
+      "changes": []
+    },
+    {
+      "path": "current/史実人物リスト.md",
+      "sha256": "bdd3a645b933fb91c1079b1621f7a56fb94ab0ee8049d6a2d512a2854dbdc75d",
+      "bytes": 4601,
+      "changed_from_capture": false,
+      "changes": []
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # 経済マスタパラメータ・定数定義（暫定版）
 
+> 修正版 2026-10-06。計算・参照・根拠不足を監査し、確定できない条件はOPENとした。変更根拠は [監査記録](../audit/DECISION-REGISTER.md)。
+
 本資料は、シナリオ内の経済規模を一元管理するためのマスタデータである。各ドキュメントの「円・万円」記述は、本資料で定義されたコードを参照する形式で記述される。
 
 ---
@@ -79,7 +81,7 @@ ECNタグは以下のカテゴリ・命名規則に従う：
 
 ### §0.2 ECNタグ参照箇所索引
 
-本資料群で使用される全ECNタグの**定義箇所**と**参照箇所**を一覧する。`(M)` = Master_Parameters（定義元）、`(R)` = Revenue_Model（根拠）、その他は参照のみ。各タグの末尾に主要な使用文書を記載。本索引は資料の更新時に随時メンテナンスする。
+本資料群で使用される全ECNタグの**定義箇所**と**参照箇所**を一覧する。`(M)` = Master_Parameters（定義元）、`(R)` = Revenue_Model（根拠）、その他は参照のみ。各タグの末尾に主要な使用文書を記載。本索引は主要な参照先の手動一覧であり、修正後の実参照箇所は [ECN-REFERENCES.json](../audit/ECN-REFERENCES.json) で確認する。機械検証した数値参照をファイル名・行番号付きで記録し、例示コードと暗黙参照は分ける。
 
 #### §0.2.1 物価指数（ECN:INF_*）
 
@@ -110,6 +112,7 @@ ECNタグは以下のカテゴリ・命名規則に従う：
 | `PRICE_BOAT_PANEL` | 50,000円 | (M), Seaplane_Strategy |
 | `PRICE_TANK_L` | 250円 | (M), Aviation_Fleet_List, Military_Applications |
 | `PRICE_TANK_G` | 600円 | (M), Aviation_Fleet_List |
+| `PRICE_TANK_AVG` | 300円 | (M), (R), Aviation_Fleet_List。P5混成平均の暫定値 |
 | `PRICE_AMMO_BOX` | 25円 | (M), Military_Applications |
 | `PRICE_GEAR_PIECE_AVG` | 5円 | (M), Military_Applications |
 | `PRICE_REPAIR_KIT` | 45円 | (M), Military_Applications |
@@ -320,6 +323,7 @@ ECNタグは以下のカテゴリ・命名規則に従う：
 | **飛行艇艇体パネル** | `ECN:PRICE_BOAT_PANEL` | 50,000円 | |
 | **麻FRP落下増槽** | `ECN:PRICE_TANK_L` | 250円 | 使い捨て |
 | **GFRP落下増槽** | `ECN:PRICE_TANK_G` | 600円 | 航続距離延長用 |
+| **落下増槽の混成平均（P5）** | `ECN:PRICE_TANK_AVG` | 300円 | 750万円÷25,000個から導出。構成比・実受注は未確定 |
 | **コンプレグ弾薬箱** | `ECN:PRICE_AMMO_BOX` | 25円 | |
 | **歩兵装備樹脂部品(平均)** | `ECN:PRICE_GEAR_PIECE_AVG` | 5円 | |
 | **航空機補修キット** | `ECN:PRICE_REPAIR_KIT` | 45円 | |
@@ -387,7 +391,7 @@ ECNタグは以下のカテゴリ・命名規則に従う：
 ※`Phase_Analysis.md §0` に従い、F5前半（エポキシ・GFRP事業の立ち上げ期）に対応する財務ブロック。日華事変（1937）末で年率3,500万円。
 - `ECN:REV_P4`: 3,500万円 (総計)
 - `ECN:REV_P4_MID`: 3,000万円
-- `ECN:REV_P4_PROFIT`: 530万円（利益率17.5%）
+- `ECN:REV_P4_PROFIT`: 530万円（利益率約17.7%）
 - `ECN:REV_P4_SHUTTLE`: 150万円
 - `ECN:REV_P4_COMP_ALL`: 800万円
 - `ECN:REV_P4_INSUL`: 400万円
@@ -428,7 +432,7 @@ ECNタグは以下のカテゴリ・命名規則に従う：
 - `ECN:REV_P5_COMP`: 800万円（コンプレグ板材・弾薬箱・歩兵装備・小物自明置換品等。野戦橋梁・港湾設備は下記内訳参照）
   - うち `ECN:REV_P5_FIELD_BRIDGE`: 10万円（野戦用運搬橋梁。工兵本部向け）
   - うち `ECN:REV_P5_HARBOR`: 10万円（港湾設備一式：桟橋踏板・係船柱カバー・水上機スロープ・係留ブイ等。海軍設営隊向け）
-- `ECN:REV_P5_EPOXY`: 1,100万円（接着剤・封止・シーラント。価格統制外）
+- `ECN:REV_P5_EPOXY`: 1,100万円（接着剤・封止・シーラント。価格統制の扱いはOPEN。成分秘匿だけで免除されない）
   - うち `ECN:REV_P5_SELF_PROT_AMMO`: 3万円（自己防護型弾薬コンテナ）
 - `ECN:REV_P5_INSUL`: 550万円（積層板・絶縁材）
 - `ECN:REV_P5_HF_BOARD`: 50万円（高周波エポキシ-ガラス積層板。電探回路基板用。芝浦・海軍技研向け）

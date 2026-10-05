@@ -1,0 +1,960 @@
+{
+  "revision": "import-audit-1",
+  "scope": "explicit numeric references outside fenced examples; syntax placeholders excluded",
+  "references": [
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 47,
+      "code": "PRICE_TRAINER_P5",
+      "value": "4.5万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 62,
+      "code": "PRICE_LIAISON_P5",
+      "value": "12万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 225,
+      "code": "PRICE_PROP_C",
+      "value": "800円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 225,
+      "code": "REV_P3_COMP_PROP",
+      "value": "150万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 226,
+      "code": "PRICE_PROP_G_EARLY",
+      "value": "2,500円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 226,
+      "code": "REV_P4_PROP",
+      "value": "250万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 227,
+      "code": "QTY_PROP_SUPPLY",
+      "value": "3,000本"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 227,
+      "code": "PRICE_PROP_G",
+      "value": "5,500円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 227,
+      "code": "REV_P5_AVIA_COMP_PROP",
+      "value": "1,650万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 233,
+      "code": "PRICE_FLOAT_C",
+      "value": "2,500円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 233,
+      "code": "REV_P3_AVIA_FLOAT",
+      "value": "20万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 234,
+      "code": "PRICE_FLOAT_G",
+      "value": "12,000円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 234,
+      "code": "REV_P5_AVIA_FLOAT",
+      "value": "250万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 240,
+      "code": "PRICE_TANK_L",
+      "value": "250円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 240,
+      "code": "REV_P4_TANK",
+      "value": "50万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 241,
+      "code": "QTY_TANK_SUPPLY",
+      "value": "25,000個"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 241,
+      "code": "PRICE_TANK_AVG",
+      "value": "300円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 241,
+      "code": "REV_P5_TANK",
+      "value": "750万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 249,
+      "code": "REV_P5_GFRP_WING",
+      "value": "560万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 256,
+      "code": "REV_P3_EPOXY",
+      "value": "50万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 257,
+      "code": "REV_P4_EPOXY",
+      "value": "250万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 258,
+      "code": "REV_P5_EPOXY",
+      "value": "1,100万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 264,
+      "code": "REV_P4_ARMOR_INIT",
+      "value": "50万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 265,
+      "code": "REV_P4_ARMOR",
+      "value": "120万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 266,
+      "code": "REV_P5_ARMOR",
+      "value": "350万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 272,
+      "code": "REV_P4_PMMA_INIT",
+      "value": "50万円"
+    },
+    {
+      "file": "Aviation_Fleet_List.md",
+      "line": 273,
+      "code": "REV_P5_PMMA",
+      "value": "150万円"
+    },
+    {
+      "file": "GFRP_Mass_Production_Feasibility_Analysis.md",
+      "line": 65,
+      "code": "CAPEX_PLATINUM",
+      "value": "2,500万円"
+    },
+    {
+      "file": "GFRP_Mass_Production_Feasibility_Analysis.md",
+      "line": 65,
+      "code": "CAPEX_PLAT_SELF",
+      "value": "800万円"
+    },
+    {
+      "file": "GFRP_Mass_Production_Feasibility_Analysis.md",
+      "line": 65,
+      "code": "REV_P4_MID",
+      "value": "3,000万円"
+    },
+    {
+      "file": "Master_Parameters.md",
+      "line": 39,
+      "code": "CAPEX_PLATINUM",
+      "value": "2,500万円"
+    },
+    {
+      "file": "Military_Applications.md",
+      "line": 31,
+      "code": "PRICE_AMMO_BOX",
+      "value": "25円"
+    },
+    {
+      "file": "Military_Applications.md",
+      "line": 33,
+      "code": "REV_P3_AMMO_BOX",
+      "value": "150万円"
+    },
+    {
+      "file": "Military_Applications.md",
+      "line": 44,
+      "code": "PRICE_GEAR_PIECE_AVG",
+      "value": "5円"
+    },
+    {
+      "file": "Military_Applications.md",
+      "line": 46,
+      "code": "REV_P4_GEAR_ALL",
+      "value": "120万円"
+    },
+    {
+      "file": "Military_Applications.md",
+      "line": 57,
+      "code": "PRICE_REPAIR_KIT",
+      "value": "45円"
+    },
+    {
+      "file": "Military_Applications.md",
+      "line": 59,
+      "code": "REV_P3_REPAIR_KIT",
+      "value": "30万円"
+    },
+    {
+      "file": "Military_Applications.md",
+      "line": 72,
+      "code": "PRICE_RADIO_SEAL",
+      "value": "15円"
+    },
+    {
+      "file": "Military_Applications.md",
+      "line": 74,
+      "code": "REV_P3_RADIO_SEAL",
+      "value": "40万円"
+    },
+    {
+      "file": "Military_Applications.md",
+      "line": 135,
+      "code": "PRICE_TANK_L",
+      "value": "250円"
+    },
+    {
+      "file": "Military_Applications.md",
+      "line": 137,
+      "code": "REV_P4_TANK",
+      "value": "50万円"
+    },
+    {
+      "file": "Phase_Analysis.md",
+      "line": 92,
+      "code": "REV_P1",
+      "value": "80万円"
+    },
+    {
+      "file": "Phase_Analysis.md",
+      "line": 114,
+      "code": "REV_P2",
+      "value": "400万円"
+    },
+    {
+      "file": "Phase_Analysis.md",
+      "line": 152,
+      "code": "CAPEX_RESIN_PLANT",
+      "value": "80万円"
+    },
+    {
+      "file": "Phase_Analysis.md",
+      "line": 153,
+      "code": "REV_P3",
+      "value": "1,200万円"
+    },
+    {
+      "file": "Phase_Analysis.md",
+      "line": 156,
+      "code": "CAPEX_DR980",
+      "value": "120万円"
+    },
+    {
+      "file": "Phase_Analysis.md",
+      "line": 174,
+      "code": "CAPEX_PLATINUM",
+      "value": "2,500万円"
+    },
+    {
+      "file": "Phase_Analysis.md",
+      "line": 174,
+      "code": "CAPEX_PLAT_SELF",
+      "value": "800万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 45,
+      "code": "REV_P1_LUMBER",
+      "value": "50万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 46,
+      "code": "REV_P1_PLYWOOD",
+      "value": "30万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 47,
+      "code": "REV_P1",
+      "value": "80万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 65,
+      "code": "REV_P2_SHUTTLE",
+      "value": "200万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 66,
+      "code": "REV_P2_INSUL",
+      "value": "100万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 67,
+      "code": "REV_P2_GEAR",
+      "value": "50万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 68,
+      "code": "REV_P2_PROP",
+      "value": "15万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 69,
+      "code": "REV_P2_LUMBER",
+      "value": "35万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 70,
+      "code": "REV_P2",
+      "value": "400万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 89,
+      "code": "REV_P3_SHUTTLE",
+      "value": "500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 90,
+      "code": "REV_P3_COMP_JOINT",
+      "value": "150万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 91,
+      "code": "REV_P3_COMP_PROP",
+      "value": "150万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 92,
+      "code": "REV_P3_INSUL",
+      "value": "200万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 93,
+      "code": "REV_P3_GEAR",
+      "value": "100万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 94,
+      "code": "REV_P3_LINING",
+      "value": "50万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 95,
+      "code": "REV_P3_OTHER",
+      "value": "10万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 98,
+      "code": "REV_P3",
+      "value": "1,200万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 108,
+      "code": "CAPEX_DR980",
+      "value": "120万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 109,
+      "code": "CAPEX_RESIN_PLANT",
+      "value": "80万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 119,
+      "code": "REV_P4_SHUTTLE",
+      "value": "150万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 120,
+      "code": "REV_P4_COMP_ALL",
+      "value": "800万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 121,
+      "code": "REV_P4_INSUL",
+      "value": "400万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 122,
+      "code": "REV_P4_CHEM",
+      "value": "300万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 123,
+      "code": "REV_P4_AVIA",
+      "value": "1,500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 124,
+      "code": "REV_P4_OTHER",
+      "value": "130万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 127,
+      "code": "REV_P4",
+      "value": "3,500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 129,
+      "code": "REV_P4_MID",
+      "value": "3,000万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 129,
+      "code": "REV_P4",
+      "value": "3,500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 135,
+      "code": "CAPEX_PLATINUM",
+      "value": "2,500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 135,
+      "code": "CAPEX_PLAT_SELF",
+      "value": "800万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 136,
+      "code": "CAPEX_AVIA_FACTORY",
+      "value": "150万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 147,
+      "code": "PRICE_TRAINER_P5",
+      "value": "45,000円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 148,
+      "code": "PRICE_LIAISON_P5",
+      "value": "120,000円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 149,
+      "code": "PRICE_PATROL_P6",
+      "value": "250,000円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 151,
+      "code": "REV_P5_AVIA_BASE",
+      "value": "940万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 156,
+      "code": "REV_P5_AVIA_COMP_PROP",
+      "value": "1,650万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 156,
+      "code": "PRICE_PROP_G",
+      "value": "5,500円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 157,
+      "code": "REV_P5_GFRP_WING",
+      "value": "560万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 157,
+      "code": "QTY_WING_SUPPLY",
+      "value": "700機分"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 158,
+      "code": "REV_P5_GFRP_OTHER",
+      "value": "200万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 159,
+      "code": "REV_P5_RADOME",
+      "value": "100万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 160,
+      "code": "REV_P5_AVIA_FLOAT",
+      "value": "250万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 161,
+      "code": "REV_P5_BOAT_PANEL",
+      "value": "150万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 162,
+      "code": "REV_P5_TANK",
+      "value": "750万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 162,
+      "code": "QTY_TANK_SUPPLY",
+      "value": "25,000個"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 162,
+      "code": "PRICE_TANK_AVG",
+      "value": "300円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 163,
+      "code": "REV_P5_AVIA_COMP",
+      "value": "3,660万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 168,
+      "code": "REV_P5_COMP",
+      "value": "800万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 169,
+      "code": "REV_P5_FIELD_BRIDGE",
+      "value": "10万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 170,
+      "code": "REV_P5_HARBOR",
+      "value": "10万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 171,
+      "code": "REV_P5_EPOXY",
+      "value": "1,100万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 172,
+      "code": "REV_P5_SELF_PROT_AMMO",
+      "value": "3万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 173,
+      "code": "REV_P5_INSUL",
+      "value": "550万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 174,
+      "code": "REV_P5_HF_BOARD",
+      "value": "50万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 175,
+      "code": "REV_P5_VARNISH",
+      "value": "200万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 176,
+      "code": "REV_P5_ACETATE",
+      "value": "100万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 177,
+      "code": "REV_P5_PMMA",
+      "value": "150万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 178,
+      "code": "REV_P5_PVB",
+      "value": "50万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 184,
+      "code": "REV_P5_ARMOR",
+      "value": "350万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 185,
+      "code": "REV_P5_RUBBER",
+      "value": "130万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 186,
+      "code": "REV_P5_SELFSEAL",
+      "value": "50万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 187,
+      "code": "REV_P5_ROCKET",
+      "value": "20万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 188,
+      "code": "REV_P5_CARBON",
+      "value": "150万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 189,
+      "code": "REV_P5_FURFURAL",
+      "value": "100万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 190,
+      "code": "REV_P5_LINING",
+      "value": "100万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 191,
+      "code": "REV_P5_STRATEGIC",
+      "value": "900万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 195,
+      "code": "REV_P5",
+      "value": "8,500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 209,
+      "code": "REV_P6_AVIA_BASE",
+      "value": "1,200万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 210,
+      "code": "REV_P6_PROP",
+      "value": "2,200万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 211,
+      "code": "REV_P6_FRP_STRUCT",
+      "value": "1,200万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 212,
+      "code": "REV_P6_WING_SPAR_CF",
+      "value": "50万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 213,
+      "code": "REV_P6_FLOAT",
+      "value": "500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 214,
+      "code": "REV_P6_TANK",
+      "value": "1,000万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 215,
+      "code": "REV_P6_EPOXY",
+      "value": "1,500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 216,
+      "code": "REV_P6_SELF_PROT_AMMO",
+      "value": "5万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 217,
+      "code": "REV_P6_COMP_INSUL",
+      "value": "1,200万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 218,
+      "code": "REV_P6_FIELD_BRIDGE",
+      "value": "15万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 219,
+      "code": "REV_P6_HARBOR",
+      "value": "30万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 220,
+      "code": "REV_P6_OPTICAL",
+      "value": "300万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 221,
+      "code": "REV_P6_ARMOR",
+      "value": "500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 222,
+      "code": "REV_P6_STRATEGIC",
+      "value": "1,100万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 223,
+      "code": "REV_P6_CONDUCTIVE_FIBER",
+      "value": "30万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 224,
+      "code": "REV_P6_DIESEL_CAST",
+      "value": "50万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 225,
+      "code": "REV_P6_CFRP",
+      "value": "500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 226,
+      "code": "REV_P6_RADOME",
+      "value": "200万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 227,
+      "code": "REV_P6_SELFSEAL",
+      "value": "150万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 228,
+      "code": "REV_P6_ROCKET",
+      "value": "100万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 229,
+      "code": "REV_P6_OTHER",
+      "value": "800万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 230,
+      "code": "REV_P6",
+      "value": "12,500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 275,
+      "code": "REV_P2",
+      "value": "400万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 275,
+      "code": "REV_P2_PROFIT",
+      "value": "80万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 276,
+      "code": "REV_P3",
+      "value": "1,200万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 276,
+      "code": "REV_P3_PROFIT",
+      "value": "240万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 277,
+      "code": "REV_P4_MID",
+      "value": "3,000万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 277,
+      "code": "REV_P4_PROFIT",
+      "value": "530万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 278,
+      "code": "REV_P5",
+      "value": "8,500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 278,
+      "code": "REV_P5_PROFIT",
+      "value": "1,400万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 279,
+      "code": "REV_P6",
+      "value": "12,500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 279,
+      "code": "REV_P6_PROFIT",
+      "value": "1,875万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 287,
+      "code": "CAPEX_DR980",
+      "value": "120万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 287,
+      "code": "REV_P2",
+      "value": "400万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 288,
+      "code": "CAPEX_RESIN_PLANT",
+      "value": "80万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 289,
+      "code": "CAPEX_PLATINUM",
+      "value": "2,500万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 289,
+      "code": "CAPEX_PLAT_SELF",
+      "value": "800万円"
+    },
+    {
+      "file": "Revenue_Model.md",
+      "line": 290,
+      "code": "CAPEX_AVIA_FACTORY",
+      "value": "150万円"
+    },
+    {
+      "file": "Seaplane_Strategy.md",
+      "line": 37,
+      "code": "PRICE_FLOAT_C",
+      "value": "2,500円"
+    },
+    {
+      "file": "Seaplane_Strategy.md",
+      "line": 40,
+      "code": "REV_P3_AVIA_FLOAT",
+      "value": "20万円"
+    },
+    {
+      "file": "Seaplane_Strategy.md",
+      "line": 51,
+      "code": "PRICE_FLOAT_G",
+      "value": "12,000円"
+    },
+    {
+      "file": "Seaplane_Strategy.md",
+      "line": 53,
+      "code": "REV_P5_AVIA_FLOAT",
+      "value": "250万円"
+    },
+    {
+      "file": "Seaplane_Strategy.md",
+      "line": 64,
+      "code": "PRICE_BOAT_PANEL",
+      "value": "5万円"
+    },
+    {
+      "file": "Seaplane_Strategy.md",
+      "line": 66,
+      "code": "REV_P5_BOAT_PANEL",
+      "value": "150万円"
+    }
+  ]
+}
