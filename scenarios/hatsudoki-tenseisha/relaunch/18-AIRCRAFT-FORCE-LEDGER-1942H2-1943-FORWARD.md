@@ -121,6 +121,38 @@ role:
 - Ki-63 = long-range / field / general air-superiority main successor
 - Ki-44 = point-defense / high-speed interceptor branchへspecialize
 
+
+
+### Ki-63-II / 二式戦闘機二型 candidate — 峰発展型
+
+[11](11-ENGINE-AIRCRAFT-ROADMAP-1940-1941.md)で既に払ったbranchを維持する。
+
+1941-12-07時点:
+- 峰2000PS級が現実化したため、Ki-63系の**峰搭載installation / structure studyとprototype preparationを並行**
+- 昴Ki-63量産を峰待ちで止めない
+
+1942–43 working clock:
+- 1942H2: installation study / structure strengthening / prop / cooling / CG mule
+- 1943 Q1: prototype fabrication / first-flight preparation
+- 1943 Q2–Q3: flight / service trial
+- 1943 H2: limited serial candidate
+- 1944: 昴二二Ki-63から本格切替するか再判定
+
+working configuration:
+- engine: 峰2000PS級
+- normal combat mass: **3.55–3.70t級**
+- max speed: **665–675km/h級**
+- 5000m: **4:00–4:15級**
+- general-fighter range remains materially longer than Ki-44, though somewhat shorter than 昴Ki-63
+- armament: 2×12.7 + 2×20mm baseline、4×20mm growth
+- armor / self-sealing / radio / field-service requirements remain Ki-63 family standards
+
+allocation guard:
+- A7M / B7A / Ki-67 / 峰Ki-44とO5 enginesを競合
+- 1943に峰Ki-63を大量量産して昴Ki-63を食わない
+- 1943H2ではprototype / limited serialの範囲がcentral
+
+
 ---
 
 ## 3. Ki-44 — O4 mass branch縮小、峰specialist branch
