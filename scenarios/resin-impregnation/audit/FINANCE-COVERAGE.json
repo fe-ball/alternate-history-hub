@@ -1,0 +1,279 @@
+{
+  "revision": "source-audit-2",
+  "unit": "JPY; quantities are aircraft except SPARES",
+  "basis": "P5 limited financial baseline; alternative quantities from GFRP需要シミュレーション草案 §3 are separate cases",
+  "unknown_means": "null = not estimated; never infer zero revenue or no business",
+  "p5_macro_target_yen": 85000000,
+  "p6_macro_target_yen": 125000000,
+  "baseline_aircraft_quantity": 125,
+  "baseline_aircraft_sales_yen": 8150000,
+  "baseline_aircraft_and_support_yen": 9400000,
+  "original_complete_plan_share_percent": 40,
+  "original_share_state": "WORKING_SCOPE_NOT_RECONCILED",
+  "alternative_aircraft_totals": [
+    95,
+    187,
+    295
+  ],
+  "alternative_totals_state": "ROW_SUM_ONLY_NOT_QUALIFIED_CAPACITY",
+  "items": [
+    {
+      "id": "TRAINER",
+      "label": "公開・初練",
+      "baseline_quantity": 100,
+      "baseline_revenue_yen": 4500000,
+      "alternative_quantities": [
+        40,
+        60,
+        80
+      ],
+      "full_plan_price_yen": null,
+      "full_plan_revenue_yen": null,
+      "source": "current/GFRP需要シミュレーション草案.md",
+      "state": "OPEN_SCOPE_OR_CAPACITY",
+      "reason": "同年同ケースの数量差"
+    },
+    {
+      "id": "LIAISON",
+      "label": "DR連絡",
+      "baseline_quantity": 20,
+      "baseline_revenue_yen": 2400000,
+      "alternative_quantities": [
+        10,
+        15,
+        20
+      ],
+      "full_plan_price_yen": null,
+      "full_plan_revenue_yen": null,
+      "source": "current/GFRP需要シミュレーション草案.md",
+      "state": "OPEN_SCOPE_OR_CAPACITY",
+      "reason": "フロート版との重複・累計エンジン"
+    },
+    {
+      "id": "PATROL",
+      "label": "四号・D哨",
+      "baseline_quantity": 5,
+      "baseline_revenue_yen": 1250000,
+      "alternative_quantities": [
+        0,
+        10,
+        20
+      ],
+      "full_plan_price_yen": null,
+      "full_plan_revenue_yen": null,
+      "source": "current/GFRP需要シミュレーション草案.md",
+      "state": "OPEN_SCOPE_OR_CAPACITY",
+      "reason": "ディーゼル中道案10〜30機は別ケース"
+    },
+    {
+      "id": "SPARES",
+      "label": "補用品・整備支援",
+      "baseline_quantity": null,
+      "baseline_revenue_yen": 1250000,
+      "alternative_quantities": null,
+      "full_plan_price_yen": null,
+      "full_plan_revenue_yen": null,
+      "source": "current/Revenue_Model.md",
+      "state": "OPEN_SCOPE_OR_CAPACITY",
+      "reason": "940万円に含有、完成機台数ではない"
+    },
+    {
+      "id": "INTERMEDIATE",
+      "label": "公開・中練",
+      "baseline_quantity": null,
+      "baseline_revenue_yen": null,
+      "alternative_quantities": [
+        20,
+        30,
+        50
+      ],
+      "full_plan_price_yen": null,
+      "full_plan_revenue_yen": null,
+      "source": "current/GFRP需要シミュレーション草案.md",
+      "state": "UNPRICED_PLAN",
+      "reason": "未収録の量産案"
+    },
+    {
+      "id": "TWIN_PUBLIC",
+      "label": "公開・双汎（自社）",
+      "baseline_quantity": null,
+      "baseline_revenue_yen": null,
+      "alternative_quantities": [
+        20,
+        40,
+        60
+      ],
+      "full_plan_price_yen": null,
+      "full_plan_revenue_yen": null,
+      "source": "current/GFRP需要シミュレーション草案.md",
+      "state": "UNPRICED_PLAN",
+      "reason": "他社製造の完成機を自社売上にしない"
+    },
+    {
+      "id": "TWIN_SECRET",
+      "label": "四号・双汎",
+      "baseline_quantity": null,
+      "baseline_revenue_yen": null,
+      "alternative_quantities": [
+        5,
+        15,
+        30
+      ],
+      "full_plan_price_yen": null,
+      "full_plan_revenue_yen": null,
+      "source": "current/GFRP需要シミュレーション草案.md",
+      "state": "UNPRICED_PLAN",
+      "reason": "夜戦等の派生との重複確認"
+    },
+    {
+      "id": "NIGHT",
+      "label": "四号・夜戦",
+      "baseline_quantity": null,
+      "baseline_revenue_yen": null,
+      "alternative_quantities": [
+        0,
+        10,
+        20
+      ],
+      "full_plan_price_yen": null,
+      "full_plan_revenue_yen": null,
+      "source": "current/GFRP需要シミュレーション草案.md",
+      "state": "UNPRICED_PLAN",
+      "reason": "同じ機体を派生と二重計数しない"
+    },
+    {
+      "id": "FLYING_BOAT",
+      "label": "四号・飛艇",
+      "baseline_quantity": null,
+      "baseline_revenue_yen": null,
+      "alternative_quantities": [
+        0,
+        5,
+        10
+      ],
+      "full_plan_price_yen": null,
+      "full_plan_revenue_yen": null,
+      "source": "current/GFRP需要シミュレーション草案.md",
+      "state": "UNPRICED_PLAN",
+      "reason": "哨戒親カテゴリとの範囲確認"
+    },
+    {
+      "id": "CF_SPECIAL",
+      "label": "CF特務",
+      "baseline_quantity": null,
+      "baseline_revenue_yen": null,
+      "alternative_quantities": [
+        0,
+        2,
+        5
+      ],
+      "full_plan_price_yen": null,
+      "full_plan_revenue_yen": null,
+      "source": "current/GFRP需要シミュレーション草案.md",
+      "state": "UNPRICED_PLAN",
+      "reason": "自家用試験と外販を分離"
+    }
+  ],
+  "unallocated_businesses": [
+    {
+      "id": "AVIATION_OPTIONS",
+      "state": "SCOPE_OPEN",
+      "basis": "Aviation_Fleet_List.md",
+      "issue": "攻撃/高偵の検討候補、販売台数未指定",
+      "incremental_revenue_yen": null,
+      "known_tagged_revenue_yen": {}
+    },
+    {
+      "id": "SILICONE",
+      "state": "SCOPE_OPEN",
+      "basis": "Interface_Solution.md",
+      "issue": "塗料・油・絶縁材の親カテゴリと自家用/外販",
+      "incremental_revenue_yen": null,
+      "known_tagged_revenue_yen": {}
+    },
+    {
+      "id": "CARBON_PRODUCTS",
+      "state": "PARTLY_CODED_SCOPE_OPEN",
+      "basis": "Carbon_Material_Hierarchy.md",
+      "issue": "電極・活性炭・コンパウンドの等級/親カテゴリ",
+      "incremental_revenue_yen": null,
+      "known_tagged_revenue_yen": {
+        "REV_P5_CARBON": 1500000
+      }
+    },
+    {
+      "id": "LINING",
+      "state": "PARTLY_CODED_SCOPE_OPEN",
+      "basis": "Corrosion_Resistant_Business.md",
+      "issue": "初期小口と拡大ケース、施工/材料の範囲",
+      "incremental_revenue_yen": null,
+      "known_tagged_revenue_yen": {
+        "REV_P3_LINING": 500000,
+        "REV_P5_LINING": 1000000
+      }
+    },
+    {
+      "id": "MILITARY_COMPONENTS",
+      "state": "SCOPE_OPEN",
+      "basis": "Military_Applications.md",
+      "issue": "周辺品の親カテゴリと社内消費/外販",
+      "incremental_revenue_yen": null,
+      "known_tagged_revenue_yen": {}
+    },
+    {
+      "id": "PARTNER_COMPONENTS",
+      "state": "SCOPE_OPEN",
+      "basis": "Cooperation_Partners.md",
+      "issue": "用途別親コードと外販売上",
+      "incremental_revenue_yen": null,
+      "known_tagged_revenue_yen": {}
+    },
+    {
+      "id": "ROCKET_SCOPE",
+      "state": "PARTLY_CODED_SCOPE_OPEN",
+      "basis": "Radar_Proximity_Rocket.md",
+      "issue": "財務収録と証拠状態、未実証成功を実績化しない",
+      "incremental_revenue_yen": null,
+      "known_tagged_revenue_yen": {
+        "REV_P5_ROCKET": 200000,
+        "REV_P6_ROCKET": 1000000
+      }
+    },
+    {
+      "id": "CONDUCTIVE_SCOPE",
+      "state": "PARTLY_CODED_SCOPE_OPEN",
+      "basis": "Conductive_Fiber_Dispersal.md",
+      "issue": "端材二重配分・回収費と財務収録",
+      "incremental_revenue_yen": null,
+      "known_tagged_revenue_yen": {
+        "REV_P6_CONDUCTIVE_FIBER": 300000
+      }
+    },
+    {
+      "id": "JV_REPORTING",
+      "state": "SCOPE_OPEN",
+      "basis": "Industry_Improvement_Impact.md",
+      "issue": "合弁年商・親外販・持分利益・配当を分離",
+      "incremental_revenue_yen": null,
+      "known_tagged_revenue_yen": {}
+    },
+    {
+      "id": "LICENSED_OTHER_MFG",
+      "state": "SCOPE_OPEN",
+      "basis": "Aviation_Fleet_List.md",
+      "issue": "他社完成機は他社売上、素材外販/許諾料は別",
+      "incremental_revenue_yen": null,
+      "known_tagged_revenue_yen": {}
+    }
+  ],
+  "recalculation": "full external sales = baseline + missing external sales + changes to included items - duplicate/displaced sales; unresolved inputs remain null",
+  "open_ids": [
+    "FIN-04",
+    "FIN-05",
+    "SUPPLY-02",
+    "SUPPLY-03",
+    "SUPPLY-04",
+    "TECH-07"
+  ],
+  "unallocated_note": "These are reconciliation subjects; some have known parent/aggregate tags. Only additional unpriced revenue is null, never erase tagged baseline amounts."
+}

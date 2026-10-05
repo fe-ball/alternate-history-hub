@@ -75,3 +75,5 @@ P3/P4の売上内訳未配賦、量産設備と販売量、資金残高、白金
 ## 取得元の確認
 
 回収した未編集本文は [取り込み控え](import/source-2026-10-06/) と [SOURCE-MANIFEST.json](import/SOURCE-MANIFEST.json)。矛盾を戻さないため、通常はcurrentの修正版を参照する。取得方法と未回収範囲は [IMPORT-STATUS.md](import/IMPORT-STATUS.md)。
+
+原設定も含む監査は [SOURCE-AUDIT.md](audit/SOURCE-AUDIT.md)。完成機・化学品・合弁の財務収録範囲は [FINANCE-COVERAGE.md](audit/FINANCE-COVERAGE.md)。元の拡張案を限定財務ケースで縮めない。

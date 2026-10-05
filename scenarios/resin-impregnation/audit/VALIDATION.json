@@ -1,13 +1,13 @@
 {
-  "revision": "import-audit-1",
+  "revision": "source-audit-2",
   "status": "PASS",
   "source_files": 39,
   "source_utf8_bytes": 671976,
   "current_files": 39,
-  "corrected_files": 14,
+  "corrected_files": 38,
   "ecn_definitions": 134,
   "checked_ecn_references": 159,
-  "relative_links": 185,
+  "relative_links": 246,
   "finance": {
     "P1": {
       "leaf_tags": [
@@ -130,8 +130,39 @@
     "TECH-03",
     "LAW-01",
     "LAW-02",
-    "SUPPLY-01"
+    "SUPPLY-01",
+    "FIN-04",
+    "FIN-05",
+    "TECH-04",
+    "TECH-05",
+    "TECH-06",
+    "TECH-07",
+    "TECH-08",
+    "TECH-09",
+    "TECH-10",
+    "TECH-11",
+    "SUPPLY-02",
+    "SUPPLY-03",
+    "SUPPLY-04",
+    "HIST-02",
+    "HIST-03",
+    "MARKET-01",
+    "IMPACT-01"
   ],
+  "source_audit_coverage_files": 39,
+  "finance_scope": {
+    "baseline_aircraft_count": 125,
+    "aircraft_sales_yen": 8150000,
+    "aircraft_and_support_yen": 9400000,
+    "alternative_counts": [
+      95,
+      187,
+      295
+    ],
+    "full_plan_revenue_yen": null,
+    "original_plan_share_state": "WORKING_SCOPE_NOT_RECONCILED",
+    "unallocated_businesses": 10
+  },
   "limits": [
     "Arithmetic consistency only; OPEN residuals are not revenue or incurred costs.",
     "Not a full audit of historical, technical, legal or commercial feasibility.",

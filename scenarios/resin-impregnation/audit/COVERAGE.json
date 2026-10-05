@@ -1,0 +1,318 @@
+{
+  "revision": "source-audit-2",
+  "scope": "全39資料の前提・計算・相互参照・用途/財務範囲を点検。全技術/制度/史実の実証監査ではない。",
+  "files": [
+    {
+      "path": "current/00_シナリオ戦略改訂レポート.md",
+      "checked_dimensions": "追随・秘匿・上位目標",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "20eb2048baa6d557a340c67d06b61451cbc3e2b5bdc102c309d29fc63485b603",
+      "current_sha256": "1be9b2b3e3951f880a95f672aa61282542a8f0fe86f92dccfcc0b3972c4e6c49",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/01_タイムライン.md",
+      "checked_dimensions": "年表・公開情報・達成状態",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "a0999a9e54bc9e8ef789ec074f79f2ad9903a1667ad667d22925be28c6f34de4",
+      "current_sha256": "e26e5dbef55cb8d6c442c68ca68e22a10cb97de81239bcc5b8a51657538ee36d",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/02_基幹技術データ集.md",
+      "checked_dimensions": "物性・容量・用途認定",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "39a4fb3b2646a1e38a030c2ba051727c4a5af9739abf78086176de7d25b3433b",
+      "current_sha256": "c7177d42fbf1dee30a32cab97084a7241857e2271285c159e966f6112a53a2a2",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Aviation_Fleet_List.md",
+      "checked_dimensions": "完成機網羅性・単位・原価・燃料費",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "e19958f44286369e670f3e61979952281f2acd7a7d0c53891cf8553b97e9b5b0",
+      "current_sha256": "005d34649017c8fab83dad7626a51334453217538206220d65074436652b7157",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/CFRP_Complete.md",
+      "checked_dimensions": "前駆体・物性・良品原価・用途品質",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "36aa5143fd8f6539c17f5bb99de746c36910bd6c3d3edcb3b00b3abd3becc64c",
+      "current_sha256": "8d2cb7741cb82d245c3272f9684260b4e8978b5e4ca4643c0f37fda9716b2790",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Carbon_Material_Hierarchy.md",
+      "checked_dimensions": "比弾性率・PAN・全原価・共用炉",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "76104c8b216efebd50a2311069cfa0dd0aabea3a25f131c2efd8bd756e3867ac",
+      "current_sha256": "65aefa5feeb27b2472e2ac381dd3ab4c092be36ed0381ca41b1984ae47b4070a",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Chemical_Resource_Management.md",
+      "checked_dimensions": "共用資源・供給先・有限能力",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "2088845cb4fae563d85db218d35edd046d7f1c313fd21ad0c1b4af873516c388",
+      "current_sha256": "e471b3e7bf7eeb5fcf8ced60f4cfc24b9d0d81e04b548dd8046128bbb5e0ffc5",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Commercial_And_Financial_Strategy.md",
+      "checked_dimensions": "金融・催事・価格統制・年次",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "c89cc9bc2c4ec860202ffed45bad283a5087838e20d85f35d919479270ae0b00",
+      "current_sha256": "ea490f5204a07946abbd8e79137d1ee720449be084b3a5285cd8e49b057ff73a",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Composite_Armor.md",
+      "checked_dimensions": "質量/面密度・証拠状態（性能未検証）",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "9699ea3e2571731f64bac3e010ea8cc3f77e3717aaa927c9e49f44c574386060",
+      "current_sha256": "bbec52bf027b351ec53c2b66346d578e2b4191e712acb035f199668555c8b73e",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Compreg_Markets_And_Lifecycle.md",
+      "checked_dimensions": "市場母数・耐久・催事・物性",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "901f26be75d2a7b5d55c5a3853f5488d3bcc8c381373f294e341a27cedf6317e",
+      "current_sha256": "dc069737a138f0ad9b99610c5511d485dc3416f502c259b04733ee0a2817a04f",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Conductive_Fiber_Dispersal.md",
+      "checked_dimensions": "原価範囲・端材二重配分・証拠状態（性能未検証）",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "9207012fcc2030dc99df232a23979662fec32326378fea4fd9e25568a6727459",
+      "current_sha256": "f1ae9423fca64778dce1c2417afe4f08b992d9008c404117787d088f330fb40a",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Cooperation_Partners.md",
+      "checked_dimensions": "協業状態・財務重複・自然な接触",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "4ffb6e642fc7e07a8a394fa6897d3ca31ae213b4e43434f53cd82f0287ee2ed3",
+      "current_sha256": "3159f5b9800ebf0c31a3caa26b37508b84b62e9dac1c440bb808571be4caef9d",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Corrosion_Resistant_Business.md",
+      "checked_dimensions": "薬液適合・用途認定・原価",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "fb55215eda1fd6a6c4e88b2c9038aef20f97a4219e89d41b708a8b52236a55f8",
+      "current_sha256": "bc90d4529217ddf452e7240d12101676f5509a46bbc524fba17cbd2ff4d7cd20",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Detailed_Growth_Simulation.md",
+      "checked_dimensions": "売上・利益・収録範囲・年次",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "49f7a7179a9616320135b8673aa508ad825489a44751b7904595f4bfd2fe427d",
+      "current_sha256": "99d7a35e67959adf073ef5c15d3cbf47a9c3f605f442b7cfbc61270e2e4be256",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Economic_Refactoring_Logic.md",
+      "checked_dimensions": "供給上限・財務範囲・価格の年",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "910f16788158c960b21b310ef879f67447a29fdad6f20b4e01644cf3f5ff0c36",
+      "current_sha256": "61f045292847af9a28478c6179e9026e4e31d5b7ad1c3d966f9693ce91750556",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Epoxy_Strategy.md",
+      "checked_dimensions": "公報/研究年・工程能力・用途認定",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "da8ecf167428718c81ea1bae8db85353d09478efd30e17ceb6e4e29a29b1fe4f",
+      "current_sha256": "521190654cc9e0c275ba23a758eba2253f0190b714fb84228e85f702ee1b105c",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Furan_Resin_And_Furfurylated_Wood.md",
+      "checked_dimensions": "王子母数・供給/需要の同一ケース",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "0a6c68eace9400cb760a00917ed242ac23a1c012fba4140b0da26003e330baf6",
+      "current_sha256": "e18f98d59be55459987bbf67ced5438cb1c9318a44101818432569d80b98240f",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/GFRP_Development.md",
+      "checked_dimensions": "界面時系列・並列研究・公報の伝達",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "1c8721549d80c81228fa2d89db9cedf8a283473cbc2f69de715325c8f41a495a",
+      "current_sha256": "b58c310e9de618b00327ba577cbf4f56a2924a9deabab5ded96fb34218891cec",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/GFRP_Mass_Production_Feasibility_Analysis.md",
+      "checked_dimensions": "径/流量・質量/体積・構造用途・拡張余地",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "44dceb01cba5af8b6e08a92fd504fb621c85c0b38854d785af40fafc5d5aa1c2",
+      "current_sha256": "782d004ae8b72f827bf3dd29f657794f8c43ac0b6c82ba803e5ea66c8a5f5998",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/GFRP需要シミュレーション草案.md",
+      "checked_dimensions": "行和・モデル間数量差・エンジン・設備",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "af0d080e3edded2093f5d47413ce9e50b451807fb9822bb6491557143623b7cb",
+      "current_sha256": "94a9d1897597da655e239e94d7ec6832c4bb8dd85ac9f668ecfe9a65a56c030a",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Industry_Improvement_Impact.md",
+      "checked_dimensions": "合弁・母数・他社増分・非金銭効果",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "8c5fc80ee23fa5cc979e05b99410cb2be10d61ec13b798083b59071159c8e567",
+      "current_sha256": "cc278fad7a4b7d2a4cc0063207004e05c182010cd570107f804cd01a621794b0",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Interface_Solution.md",
+      "checked_dimensions": "合成と官能基・PoC/認定・未収録シリコーン",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "b403c39b5c7780cba4215fe8a9c747a5cede2ffdc0d5a8211ffe953a547f4707",
+      "current_sha256": "2ed7435968d6e0a014e1a1921381e85dd36779f1d788056ebf3758e76ed708b2",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Master_Parameters.md",
+      "checked_dimensions": "定義・索引・財務範囲・暫定値",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "102bbd222c85bc09779a537b513e3492308f83b790579a2e4a06cca9317c0fae",
+      "current_sha256": "f4d3176c1ff56f4ec2b80118dd91d4979be623aaaea174a8821ddb92cfbb467d",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Military_Applications.md",
+      "checked_dimensions": "財務範囲・社内消費/外販・証拠状態（性能未検証）",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "70e977abca86f73bdaaa92904ee216199a3e596fc2afd730b04268e9eb7cfb48",
+      "current_sha256": "8f418e123a3174f68ec21ffafbdb2ea4882a339f521f5e1e9a345d8f8c27640e",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Mitsubishi_Diesel_Aircraft_Feasibility.md",
+      "checked_dimensions": "燃料費・用途上限・3ケースと財務収録",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "b92335b936304f687b44a4176ac5e9385c7ef8e4c95bae2e4115ea570117b6e9",
+      "current_sha256": "8dec8131447dc2343a6b495cccbc5e0c48313095e0429c7fddb93f2cb1e8ecd0",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Oji_Paper_Collaboration.md",
+      "checked_dimensions": "工場年代・収率基準・母数・投資・調達",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "865bc9e6523bf0261ad67b2b08f1fa2a3f246024d5b0c410b7e471e7a515d2e0",
+      "current_sha256": "3d7f39821ab0a7611e8e9b796a9bbdfa82dd334474f71ee39aae725b295c7518",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Patent_Collision_Timeline.md",
+      "checked_dimensions": "公開日・国別権利・導入経路",
+      "status": "REVIEWED_NO_NEW_EDIT",
+      "source_sha256": "b5f94f214f5ce1dd8647e799740196dfec9202861ccd417fdb768366de78e2ac",
+      "current_sha256": "87cc123173cc5c1ecd016f0ebb67cc311ac0816f981a0256ad818be57ddc3952",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Phase_Analysis.md",
+      "checked_dimensions": "概念/財務区分・催事・認定状態",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "030b7948886d9bb8689e156912487ca7ffc70718d156b5ce04a8197375b504c7",
+      "current_sha256": "bf5d09f89c72f6fd6037ea8063a5bacf9aa2e7edd689a0679d74849f7f20104e",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Product_Catalog_And_Demand_Matrix.md",
+      "checked_dimensions": "用途別収録・性能の派生断定・燃料費",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "a8fc3f641981764161500fcfceb35c4e8e65944ddf30800c8ff7e04d16be767d",
+      "current_sha256": "1e882a44b1c10472e6c023911a8a8d355773aee8cae3b37688fe44aae730088b",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Propeller_Technology_Timeline.md",
+      "checked_dimensions": "企業沿革・力の桁・材料による絶対断定",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "fcf7506ecf021e9c802b00fed94f468808f5ddc1e53166cf183ccc0933d42fff",
+      "current_sha256": "3fb4d9d88e39a44af10d5a68f741c52f223588d3d2b52e2a127bfc6a9c541922",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Radar_Proximity_Rocket.md",
+      "checked_dimensions": "財務収録・協業/試作/認定状態（性能未検証）",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "99f36e97b970fbc73a357e3efef2b4901de066590760546bfda623a13f47e065",
+      "current_sha256": "e171d46d5b4fb3e007a30a350fd1744f56dd5c8d68ee01ea109224ee0483d29c",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Revenue_Model.md",
+      "checked_dimensions": "積上げ・全機種未収録・重複・売上分類",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "ddce517959df6eae46e277eedcdae9190119e1ffa3463230ab916b7bf7383ff1",
+      "current_sha256": "c3814a58b778d1139a7821e1fa0ab7484a0a08b8234f7739c4a0991ff7b62ac9",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Sankyo_Amicable_Relationship.md",
+      "checked_dimensions": "沿革・研究例外・輸送条件・友好/内製",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "f0ea8e1e48872ef97b6cd76e825364c83df6c9e31a49c90782d8afa968d8ed63",
+      "current_sha256": "390f3ec74f162152eee6cff8fe1021797ad4471f100e1e92954f67459feb89f0",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Seaplane_Strategy.md",
+      "checked_dimensions": "本/対・単価・吸水の範囲・燃料費",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "ab4b064733a7b4ba8ece8041a67c3f62f6206e22bef55e23a08c75d892c3e1b2",
+      "current_sha256": "fa13d70d321ad1d44d69d40294b8f54d9812c08dd6b21d1c70e6211c815d8235",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Synthetic_Rubber_Route.md",
+      "checked_dimensions": "炭素収支・別原料・合弁・工程の証拠状態",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "b5d305fd6c6ef93444a2bf36bb10dec0343afe5a697c3a05de5caa1dce42be28",
+      "current_sha256": "41e65459dcf745fd053f8a054c5ff446dcbac35a9fdbca060ef2d4ebb5d1ee83",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/Taiwan_Bagasse_Furfural.md",
+      "checked_dimensions": "湿/乾・糖の二重利用・燃料機会費用・投資",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "b7dd9a4ffe53ac8f1e7674cc92249246a5dd7edab85c65c1eaecd772aa384bf0",
+      "current_sha256": "ec911e45624419fe88f659ec92387b135d5876a6d4bb020e878746b35a125594",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/User_Narrative_Constraints.md",
+      "checked_dimensions": "上位目標・未来知識・事業拡張・不要な縮小回避",
+      "status": "REVIEWED_NO_NEW_EDIT",
+      "source_sha256": "26bcbed7941cfca5c6a69fe3bfc0c35b5b08216430920c3da91721c3a4252711",
+      "current_sha256": "26bcbed7941cfca5c6a69fe3bfc0c35b5b08216430920c3da91721c3a4252711",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/_00_INDEX_シナリオ設定資料集.md",
+      "checked_dimensions": "相互参照・工場索引",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "729ea9abb707d8bd03ff3afa51321f79479ad028ba9635f5c53c5418331fd477",
+      "current_sha256": "b433c58f28463eba4fd0653fd7aad1d5c90f2ec19053a2f4101abfc40bc5ca1e",
+      "all_external_claims_verified": false
+    },
+    {
+      "path": "current/史実人物リスト.md",
+      "checked_dimensions": "接触候補/達成済み契約の区別・在任照合限界",
+      "status": "CORRECTED_OR_QUALIFIED",
+      "source_sha256": "bdd3a645b933fb91c1079b1621f7a56fb94ab0ee8049d6a2d512a2854dbdc75d",
+      "current_sha256": "1e68cf7b9db7db168a93934218b3ea384e7bdb2bb5d620d07995daf746689de8",
+      "all_external_claims_verified": false
+    }
+  ]
+}

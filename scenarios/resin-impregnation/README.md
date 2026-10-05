@@ -15,6 +15,8 @@ Claudeプロジェクトの全39文書を新規シナリオとして回収し、
 | [import/source-2026-10-06](import/source-2026-10-06/) | 回収した39文書の未編集スナップショット。現行判断には使わない |
 | [import/IMPORT-STATUS.md](import/IMPORT-STATUS.md) | 取得範囲と忠実性の限界 |
 
-現行整理版は `import-audit-1`（2026-10-06）。`canonical_clock` は未指定。1942年等の年表・将来試算を、その年まで進行が確定した証拠とは扱わない。需要草案・オプション・試算は未確定のまま維持する。
+現行整理版は `source-audit-2`（2026-10-06）。`canonical_clock` は未指定。1942年等の年表・将来試算を、その年まで進行が確定した証拠とは扱わない。需要草案・オプション・試算は未確定のまま維持する。
 
 元の [Claudeプロジェクト](https://claude.ai/project/019d16ee-963d-7207-86ee-448111dd18a6) と [2026-05-06の更新確認](https://claude.ai/chat/39562d1e-fc57-42e3-b9c2-d0041cc62a59) を取得元・現行性の根拠として記録した。GitHubの修正はClaude側の文書には反映していない。
+
+追加監査では元設定の工場年代・比弾性率・原価・燃料費/物量・合弁会計を訂正し、完成機40%構想とPAN研究を条件付きで保持した。[原設定監査](audit/SOURCE-AUDIT.md) と [財務収録範囲](audit/FINANCE-COVERAGE.md) から再開できる。

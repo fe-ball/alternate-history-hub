@@ -61,7 +61,7 @@
 |:---|:---|
 | **[Synthetic_Rubber_Route.md](Synthetic_Rubber_Route.md)** | フルフラル→THF→ブタジエン→合成ゴムへの化学基盤。理研等との合弁化による間接展開と、特殊品（防振マウント等）の自社内製化という二段構えの戦略。 |
 | **[Corrosion_Resistant_Business.md](Corrosion_Resistant_Business.md)** | フラン樹脂の化学プラント向け耐蝕ライニング事業。R&D不要・即時収益化可能な恐慌期の下支え事業。 |
-| **[Oji_Paper_Collaboration.md](Oji_Paper_Collaboration.md)** | 製紙工場（王子等）とのパルプ廃液連携によるフルフラルの主力量産基盤構築。接触先工場（気田→春日井→苫小牧）の選定、前加水分解によるDP品質向上、副産物回収（リグノスルホン酸塩・酢酸・メタノール）、合弁構造案、SP生産量からの潜在量逆算、社内競合資源の管理。 |
+| **[Oji_Paper_Collaboration.md](Oji_Paper_Collaboration.md)** | 製紙工場（王子等）とのパルプ廃液連携によるフルフラルの主力量産基盤構築。接触先工場の再選定（気田閉鎖・春日井戦後開業を修正）、前加水分解によるDP品質向上、副産物回収（リグノスルホン酸塩・酢酸・メタノール）、合弁構造案、SP生産量からの潜在量逆算、社内競合資源の管理。 |
 | **[Cooperation_Partners.md](Cooperation_Partners.md)** | 萱場製作所・NGK・芝浦（電探関連深化）・島津・日本光学等との協力企業ネットワーク。セルフシーリング燃料タンクの三菱・中島との協業を含む。 |
 | **[Chemical_Resource_Management.md](Chemical_Resource_Management.md)** | 希硫酸・苛性ソーダ・水素・メタノール・酢酸・蒸留設備など、複数事業ラインが共用する主要薬品・設備の経路別消費量と調達制約の一覧。ABE副産ガスの社内循環設計を含む。 |
 | **[Taiwan_Bagasse_Furfural.md](Taiwan_Bagasse_Furfural.md)** | 台湾のサトウキビバガスからのフルフラル生産と、台湾ABE発酵事業（嘉義工場等）との物質循環の可能性。第6期以降の拡張オプション。キシロースのABE原料転用による食料競合緩和を含む。 |

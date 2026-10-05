@@ -1,6 +1,6 @@
 {
   "scenario_id": "resin-impregnation",
-  "authority_version": "import-audit-1",
+  "authority_version": "source-audit-2",
   "updated_on": "2026-10-06",
   "canonical_clock": null,
   "clock_state": "no-single-clock-designated",
@@ -23,6 +23,26 @@
     "TECH-03",
     "LAW-01",
     "LAW-02",
-    "SUPPLY-01"
-  ]
+    "SUPPLY-01",
+    "FIN-04",
+    "FIN-05",
+    "TECH-04",
+    "TECH-05",
+    "TECH-06",
+    "TECH-07",
+    "TECH-08",
+    "TECH-09",
+    "TECH-10",
+    "TECH-11",
+    "SUPPLY-02",
+    "SUPPLY-03",
+    "SUPPLY-04",
+    "HIST-02",
+    "HIST-03",
+    "MARKET-01",
+    "IMPACT-01"
+  ],
+  "source_audit": "../audit/SOURCE-AUDIT.md",
+  "coverage": "../audit/COVERAGE.json",
+  "finance_scope": "../audit/FINANCE-COVERAGE.json"
 }

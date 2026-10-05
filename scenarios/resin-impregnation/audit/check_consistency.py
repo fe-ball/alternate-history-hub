@@ -177,6 +177,36 @@ def main():
 
     state = load(CURRENT / 'ACTIVE-STATE.json')
     require(state['canonical_clock'] is None, 'Clock was promoted without a designation')
+    coverage = load(ROOT / 'audit/COVERAGE.json')
+    require(coverage['revision'] == current['revision'] == state['authority_version'], 'Audit/state revision mismatch')
+    require(len(coverage['files']) == 39, 'Audit coverage must contain 39 entries')
+    require({Path(e['path']).name for e in coverage['files']} == expected_names, 'Audit coverage inventory mismatch')
+    source_hashes = {Path(e['current_path']).name: e['sha256'] for e in source['files']}
+    for entry in coverage['files']:
+        name = Path(entry['path']).name
+        require(entry['source_sha256'] == source_hashes[name], f'Coverage source hash: {name}')
+        require(entry['current_sha256'] == hashlib.sha256((ROOT / entry['path']).read_bytes()).hexdigest(), f'Coverage current hash: {name}')
+        require(bool(entry['checked_dimensions']) and entry['all_external_claims_verified'] is False, f'Coverage scope missing or overstated: {name}')
+
+    scope = load(ROOT / 'audit/FINANCE-COVERAGE.json')
+    require(scope['revision'] == current['revision'], 'Finance scope revision mismatch')
+    included = [e for e in scope['items'] if e['baseline_revenue_yen'] is not None]
+    aircraft = [e for e in included if e['id'] != 'SPARES']
+    require(sum(e['baseline_quantity'] for e in aircraft) == scope['baseline_aircraft_quantity'] == 125, 'Baseline aircraft count')
+    require(sum(e['baseline_revenue_yen'] for e in aircraft) == scope['baseline_aircraft_sales_yen'] == 8150000, 'Aircraft versus support scope')
+    require(sum(e['baseline_revenue_yen'] for e in included) == scope['baseline_aircraft_and_support_yen'] == yen('REV_P5_AVIA_BASE'), 'Coverage baseline versus master')
+    require(scope['p5_macro_target_yen'] == yen('REV_P5') and scope['p6_macro_target_yen'] == yen('REV_P6'), 'Coverage macro versus master')
+    require([sum(e['alternative_quantities'][i] for e in scope['items'] if e['alternative_quantities'] is not None) for i in range(3)] == scope['alternative_aircraft_totals'] == [95, 187, 295], 'Alternative aircraft row sums')
+    require(all(e['full_plan_price_yen'] is None and e['full_plan_revenue_yen'] is None for e in scope['items']), 'Unknown full-plan amounts were promoted')
+    require(all(e['incremental_revenue_yen'] is None for e in scope['unallocated_businesses']), 'Additional unpriced business amounts must remain null')
+    for entry in scope['unallocated_businesses']:
+        for code, amount in entry['known_tagged_revenue_yen'].items():
+            require(amount == yen(code), f'Known business revenue erased or altered: {code}')
+    require(set(scope['open_ids']).issubset(state['open_items']), 'Finance scope issues missing from active state')
+    require(scope['original_complete_plan_share_percent'] == 40 and scope['original_share_state'] == 'WORKING_SCOPE_NOT_RECONCILED', 'Original full-plan share lost or promoted')
+    for name in ['CFRP_Complete.md', 'Carbon_Material_Hierarchy.md']:
+        content = (CURRENT / name).read_text(encoding='utf-8')
+        require('PAN系CFRPは到達不可能' not in content and '主人公の知識投入では解決できない' not in content, f'PAN categorical ban regressed: {name}')
     decisions = (ROOT / 'audit/DECISION-REGISTER.md').read_text(encoding='utf-8')
     require(all(item in decisions for item in state['open_items']), 'Active OPEN list differs from register')
     report = {'revision': current['revision'], 'status': 'PASS' if not ERRORS else 'FAIL',
@@ -185,6 +215,8 @@ def main():
               'ecn_definitions': len(definitions), 'checked_ecn_references': len(references),
               'relative_links': link_count, 'finance': finances,
               'p5_profit_unreconciled_yen': int(profit_delta), 'open_items': state['open_items'],
+              'source_audit_coverage_files': len(coverage['files']),
+              'finance_scope': {'baseline_aircraft_count': scope['baseline_aircraft_quantity'], 'aircraft_sales_yen': scope['baseline_aircraft_sales_yen'], 'aircraft_and_support_yen': scope['baseline_aircraft_and_support_yen'], 'alternative_counts': scope['alternative_aircraft_totals'], 'full_plan_revenue_yen': None, 'original_plan_share_state': scope['original_share_state'], 'unallocated_businesses': len(scope['unallocated_businesses'])},
               'limits': ['Arithmetic consistency only; OPEN residuals are not revenue or incurred costs.', 'Not a full audit of historical, technical, legal or commercial feasibility.', 'Hashes cover recovered UI text, not original upload bytes.'],
               'errors': ERRORS}
     if args.write_report:

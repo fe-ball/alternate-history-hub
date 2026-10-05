@@ -76,10 +76,10 @@ scenarios:
   resin-impregnation:
     title: "樹脂含浸シナリオ"
     status: active
-    authority_version: "import-audit-1 (39-document Claude capture plus documented corrections; 2026-10-06)"
+    authority_version: "source-audit-2 (39-document source assumptions and scope audited; corrections and OPEN gates; 2026-10-06)"
     canonical_clock: null
     clock_state: "no-single-clock-designated; technology-business-timeline-through-circa-1942-is-not-a-confirmed-simulation-clock"
-    frontier: "全39資料を新規配置し14資料を修正。P3/P4未配賦・資金・ガラス量産条件・低アルカリ原料・国別知財がOPEN。00-READ-FIRSTと監査記録から再開。未来試算を進行済み時計にせず、草案・拡張案の留保を維持"
+    frontier: "全39資料の原設定も監査。完成機40%案とPAN研究を復元、王子工場年代・比弾性率・原価・燃料費/物量・合弁会計を修正。全機種/未収録商品の財務、工場再選定、実能力・用途認定はOPEN。SOURCE-AUDITとFINANCE-COVERAGEから再開"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/resin-impregnation"
     entrypoint: "scenarios/resin-impregnation/README.md"
