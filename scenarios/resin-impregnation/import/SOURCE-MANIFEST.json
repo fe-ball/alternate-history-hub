@@ -1,0 +1,246 @@
+{
+  "scenario_id": "resin-impregnation",
+  "imported_on": "2026-10-06",
+  "source_project": "https://claude.ai/project/019d16ee-963d-7207-86ee-448111dd18a6",
+  "source_scope": "all 39 current project-context Markdown documents",
+  "acquisition": "Claude UI code-view text; display-only blank-line placeholders removed; lines joined with LF",
+  "original_upload_bytes_verified": false,
+  "file_count": 39,
+  "total_utf8_bytes": 671976,
+  "files": [
+    {
+      "path": "current/00_シナリオ戦略改訂レポート.md",
+      "bytes": 10396,
+      "sha256": "20eb2048baa6d557a340c67d06b61451cbc3e2b5bdc102c309d29fc63485b603",
+      "git_blob_sha1": "e143f7d8652e396c34bf2a7747ac95a9deae87a0"
+    },
+    {
+      "path": "current/01_タイムライン.md",
+      "bytes": 37107,
+      "sha256": "a0999a9e54bc9e8ef789ec074f79f2ad9903a1667ad667d22925be28c6f34de4",
+      "git_blob_sha1": "2acfec8954077504d0f2a75d9f34525a8b31242f"
+    },
+    {
+      "path": "current/02_基幹技術データ集.md",
+      "bytes": 22509,
+      "sha256": "39a4fb3b2646a1e38a030c2ba051727c4a5af9739abf78086176de7d25b3433b",
+      "git_blob_sha1": "d2996ad1659b6f43ac382ab71cf264b938bd6d09"
+    },
+    {
+      "path": "current/_00_INDEX_シナリオ設定資料集.md",
+      "bytes": 15354,
+      "sha256": "729ea9abb707d8bd03ff3afa51321f79479ad028ba9635f5c53c5418331fd477",
+      "git_blob_sha1": "9bfedab6439b6ce141f5865736cdf166799a46bf"
+    },
+    {
+      "path": "current/Aviation_Fleet_List.md",
+      "bytes": 18888,
+      "sha256": "e19958f44286369e670f3e61979952281f2acd7a7d0c53891cf8553b97e9b5b0",
+      "git_blob_sha1": "186fc8988bf90687604e94d3172edb8ed0ad57ce"
+    },
+    {
+      "path": "current/Carbon_Material_Hierarchy.md",
+      "bytes": 13696,
+      "sha256": "76104c8b216efebd50a2311069cfa0dd0aabea3a25f131c2efd8bd756e3867ac",
+      "git_blob_sha1": "a76ba277392e29af96672281ee26893755230e83"
+    },
+    {
+      "path": "current/CFRP_Complete.md",
+      "bytes": 21319,
+      "sha256": "36aa5143fd8f6539c17f5bb99de746c36910bd6c3d3edcb3b00b3abd3becc64c",
+      "git_blob_sha1": "f29062a7fa38d38c30be62903fa99c41af53a6c3"
+    },
+    {
+      "path": "current/Chemical_Resource_Management.md",
+      "bytes": 5940,
+      "sha256": "2088845cb4fae563d85db218d35edd046d7f1c313fd21ad0c1b4af873516c388",
+      "git_blob_sha1": "f7e7bd689b17e6def1dc9590c3b4f04897a1a01a"
+    },
+    {
+      "path": "current/Commercial_And_Financial_Strategy.md",
+      "bytes": 13853,
+      "sha256": "c89cc9bc2c4ec860202ffed45bad283a5087838e20d85f35d919479270ae0b00",
+      "git_blob_sha1": "5b1f2a9a3acabe6cc8c4e19c148f977d010ac9cd"
+    },
+    {
+      "path": "current/Composite_Armor.md",
+      "bytes": 19203,
+      "sha256": "9699ea3e2571731f64bac3e010ea8cc3f77e3717aaa927c9e49f44c574386060",
+      "git_blob_sha1": "6b1f35c6cba20c5a2d9777610821b58437d20691"
+    },
+    {
+      "path": "current/Compreg_Markets_And_Lifecycle.md",
+      "bytes": 13052,
+      "sha256": "901f26be75d2a7b5d55c5a3853f5488d3bcc8c381373f294e341a27cedf6317e",
+      "git_blob_sha1": "1259598fe006c57bddbcbf5665555630b750b065"
+    },
+    {
+      "path": "current/Conductive_Fiber_Dispersal.md",
+      "bytes": 20829,
+      "sha256": "9207012fcc2030dc99df232a23979662fec32326378fea4fd9e25568a6727459",
+      "git_blob_sha1": "73907a5a18492d8343e30d44616be83107b0231f"
+    },
+    {
+      "path": "current/Cooperation_Partners.md",
+      "bytes": 10810,
+      "sha256": "4ffb6e642fc7e07a8a394fa6897d3ca31ae213b4e43434f53cd82f0287ee2ed3",
+      "git_blob_sha1": "25cb5a5839af3e68741fa44eb29bb4d2ddeba532"
+    },
+    {
+      "path": "current/Corrosion_Resistant_Business.md",
+      "bytes": 8873,
+      "sha256": "fb55215eda1fd6a6c4e88b2c9038aef20f97a4219e89d41b708a8b52236a55f8",
+      "git_blob_sha1": "d3adc538b939b6a9e27794cc2bcb79e66be1e761"
+    },
+    {
+      "path": "current/Detailed_Growth_Simulation.md",
+      "bytes": 10312,
+      "sha256": "49f7a7179a9616320135b8673aa508ad825489a44751b7904595f4bfd2fe427d",
+      "git_blob_sha1": "0ede1e7b7d94b5c2b91259def8eed598479bbda6"
+    },
+    {
+      "path": "current/Economic_Refactoring_Logic.md",
+      "bytes": 11122,
+      "sha256": "910f16788158c960b21b310ef879f67447a29fdad6f20b4e01644cf3f5ff0c36",
+      "git_blob_sha1": "3d713b560e2055317fbcaf7b8e754c3cc7ff9a38"
+    },
+    {
+      "path": "current/Epoxy_Strategy.md",
+      "bytes": 10749,
+      "sha256": "da8ecf167428718c81ea1bae8db85353d09478efd30e17ceb6e4e29a29b1fe4f",
+      "git_blob_sha1": "d134efc74f5a513f1bcb7bc66c53049a19ebff39"
+    },
+    {
+      "path": "current/Furan_Resin_And_Furfurylated_Wood.md",
+      "bytes": 25514,
+      "sha256": "0a6c68eace9400cb760a00917ed242ac23a1c012fba4140b0da26003e330baf6",
+      "git_blob_sha1": "9807c2e6f1ee2c6219ab06d6f6064e26d2ffebc9"
+    },
+    {
+      "path": "current/GFRP_Development.md",
+      "bytes": 6512,
+      "sha256": "1c8721549d80c81228fa2d89db9cedf8a283473cbc2f69de715325c8f41a495a",
+      "git_blob_sha1": "7c975ebfdf178f71752b280400df43ed6c60fb0b"
+    },
+    {
+      "path": "current/GFRP_Mass_Production_Feasibility_Analysis.md",
+      "bytes": 11888,
+      "sha256": "44dceb01cba5af8b6e08a92fd504fb621c85c0b38854d785af40fafc5d5aa1c2",
+      "git_blob_sha1": "6399f534fb03d48195f9fd7c8b590ab4c6cc4f0d"
+    },
+    {
+      "path": "current/GFRP需要シミュレーション草案.md",
+      "bytes": 7107,
+      "sha256": "af0d080e3edded2093f5d47413ce9e50b451807fb9822bb6491557143623b7cb",
+      "git_blob_sha1": "6f7bb4c588a3c34706bb9d06969ace19653b18bc"
+    },
+    {
+      "path": "current/Industry_Improvement_Impact.md",
+      "bytes": 35598,
+      "sha256": "8c5fc80ee23fa5cc979e05b99410cb2be10d61ec13b798083b59071159c8e567",
+      "git_blob_sha1": "674490baecae9f553b557fe11ea30b4920b13a55"
+    },
+    {
+      "path": "current/Interface_Solution.md",
+      "bytes": 5232,
+      "sha256": "b403c39b5c7780cba4215fe8a9c747a5cede2ffdc0d5a8211ffe953a547f4707",
+      "git_blob_sha1": "0869640742be2361f002068260f7bc7778435064"
+    },
+    {
+      "path": "current/Master_Parameters.md",
+      "bytes": 27708,
+      "sha256": "102bbd222c85bc09779a537b513e3492308f83b790579a2e4a06cca9317c0fae",
+      "git_blob_sha1": "bc61c078a27d704fd1f434d6c34b1967e1d6daa8"
+    },
+    {
+      "path": "current/Military_Applications.md",
+      "bytes": 22254,
+      "sha256": "70e977abca86f73bdaaa92904ee216199a3e596fc2afd730b04268e9eb7cfb48",
+      "git_blob_sha1": "44a959bf22d7d9ba558bbae80f5b350ab573bb5a"
+    },
+    {
+      "path": "current/Mitsubishi_Diesel_Aircraft_Feasibility.md",
+      "bytes": 9631,
+      "sha256": "b92335b936304f687b44a4176ac5e9385c7ef8e4c95bae2e4115ea570117b6e9",
+      "git_blob_sha1": "b480d91f486391c63911853885eabf75b233b9e2"
+    },
+    {
+      "path": "current/Oji_Paper_Collaboration.md",
+      "bytes": 15561,
+      "sha256": "865bc9e6523bf0261ad67b2b08f1fa2a3f246024d5b0c410b7e471e7a515d2e0",
+      "git_blob_sha1": "7b2f243ae164fdffc2a70472f0116bbd5195bb15"
+    },
+    {
+      "path": "current/Patent_Collision_Timeline.md",
+      "bytes": 6509,
+      "sha256": "b5f94f214f5ce1dd8647e799740196dfec9202861ccd417fdb768366de78e2ac",
+      "git_blob_sha1": "8a20c2e232a26daa59bf3daf02c070f9ad708929"
+    },
+    {
+      "path": "current/Phase_Analysis.md",
+      "bytes": 27477,
+      "sha256": "030b7948886d9bb8689e156912487ca7ffc70718d156b5ce04a8197375b504c7",
+      "git_blob_sha1": "3293a5958683bd4e8bb764c61a213d6dbe467d2d"
+    },
+    {
+      "path": "current/Product_Catalog_And_Demand_Matrix.md",
+      "bytes": 95040,
+      "sha256": "a8fc3f641981764161500fcfceb35c4e8e65944ddf30800c8ff7e04d16be767d",
+      "git_blob_sha1": "cd984163e14d7f01a6e54876cf702652aa7c8f22"
+    },
+    {
+      "path": "current/Propeller_Technology_Timeline.md",
+      "bytes": 10830,
+      "sha256": "fcf7506ecf021e9c802b00fed94f468808f5ddc1e53166cf183ccc0933d42fff",
+      "git_blob_sha1": "0f95a97207d6d3cee7c6f12ee3bf3059af3c0f8f"
+    },
+    {
+      "path": "current/Radar_Proximity_Rocket.md",
+      "bytes": 13145,
+      "sha256": "99f36e97b970fbc73a357e3efef2b4901de066590760546bfda623a13f47e065",
+      "git_blob_sha1": "7e187cec6abf7584ca933851a543e45b9826ffed"
+    },
+    {
+      "path": "current/Revenue_Model.md",
+      "bytes": 18400,
+      "sha256": "ddce517959df6eae46e277eedcdae9190119e1ffa3463230ab916b7bf7383ff1",
+      "git_blob_sha1": "60d85bbf61559f298c2b97b252b050bd868bf164"
+    },
+    {
+      "path": "current/Sankyo_Amicable_Relationship.md",
+      "bytes": 5890,
+      "sha256": "f0ea8e1e48872ef97b6cd76e825364c83df6c9e31a49c90782d8afa968d8ed63",
+      "git_blob_sha1": "d5721d190d92d5a0cdf67c1d6f25ac192b16d4f6"
+    },
+    {
+      "path": "current/Seaplane_Strategy.md",
+      "bytes": 9381,
+      "sha256": "ab4b064733a7b4ba8ece8041a67c3f62f6206e22bef55e23a08c75d892c3e1b2",
+      "git_blob_sha1": "d143cbff7a54ad4670255cec0399998c375c3c78"
+    },
+    {
+      "path": "current/Synthetic_Rubber_Route.md",
+      "bytes": 16111,
+      "sha256": "b5d305fd6c6ef93444a2bf36bb10dec0343afe5a697c3a05de5caa1dce42be28",
+      "git_blob_sha1": "33bac13fc12a2c237f936bfa4bd760557d44c74d"
+    },
+    {
+      "path": "current/Taiwan_Bagasse_Furfural.md",
+      "bytes": 6050,
+      "sha256": "b7dd9a4ffe53ac8f1e7674cc92249246a5dd7edab85c65c1eaecd772aa384bf0",
+      "git_blob_sha1": "62321140dcc0fc3e957c1ec03e31a30641e47f96"
+    },
+    {
+      "path": "current/User_Narrative_Constraints.md",
+      "bytes": 27525,
+      "sha256": "26bcbed7941cfca5c6a69fe3bfc0c35b5b08216430920c3da91721c3a4252711",
+      "git_blob_sha1": "3e3aa7cc703caafca6609058e1ab69d17fbe595e"
+    },
+    {
+      "path": "current/史実人物リスト.md",
+      "bytes": 4601,
+      "sha256": "bdd3a645b933fb91c1079b1621f7a56fb94ab0ee8049d6a2d512a2854dbdc75d",
+      "git_blob_sha1": "6f36e809b2b5130f6e8e4e5dab081d5e6b3c5ce6"
+    }
+  ]
+}

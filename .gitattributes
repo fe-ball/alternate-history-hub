@@ -2,3 +2,6 @@
 scenarios/asai/import/source-v22b-full-exact/** -text
 scenarios/keisanki-ibun/import/source-v097-full/** -text
 scenarios/*/import/archives/*.zip -text
+
+# Preserve recovered Claude source text and manifest hashes.
+scenarios/resin-impregnation/current/*.md -text

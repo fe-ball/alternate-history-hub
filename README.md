@@ -24,6 +24,7 @@
 | [計算機異聞](scenarios/keisanki-ibun/README.md) | active | Branch B v100 | 1944-06-16T14:15 | OPEN / EVENT-SIMULATION（以後はWORKING） | 艦艇装備・6月出撃配置・空母防空の再監査。正本化前にTF58 ASW監査 |
 | [発動機転生者](scenarios/hatsudoki-tenseisha/README.md) | active | Relaunch R3 | 1942-06-26T18:00:00-10:30 | Enterprise Kwajalein sheltered salvage・Midway radar-assisted base | 6/27–7/3 repair/tow decision → Saratoga/Wasp concentration → Midway maturation |
 | [豊国IF](scenarios/toyokuni-if/README.md) | active | v3＋執筆規律 | 一律の確定時計は未指定 | 派生叙述は1613年まで、提言採否はOPEN | 呂宋統治・後金問題・国内政治 |
+| [樹脂含浸シナリオ](scenarios/resin-impregnation/README.md) | active | Claude現行39文書（2026-10-06回収） | 単一時計は未指定 | 年表・試算と確定進行を分離 | 取り込み完了。次の検討対象はユーザー指定待ち |
 
 ## 読み方
 
@@ -82,3 +83,8 @@ AIの推論、ユーザー指定、未確定案、superseded事項を可能な�
 - [豊国IF：38文書と原本ZIP2本を回収・分類](scenarios/toyokuni-if/README.md)
 
 原文保全と現行の読み順を分離。最大版番号ではなく明示的な正典指定を優先し、提案・未決・旧稿を自動的に確定設定へ昇格させない。
+
+## Claude資料の追加取り込み — 2026-10-06
+
+- [樹脂含浸シナリオ：コンテキスト全39文書](scenarios/resin-impregnation/README.md) — 木材加工・樹脂化学・複合材料の技術経営シミュレーション。期区分・ECN数値管理・ユーザー制約の参照関係を維持。
+- 回収範囲・テキスト取得方法・検証上の限界は [取り込み記録](scenarios/resin-impregnation/import/IMPORT-STATUS.md)。
