@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-10-04"
+updated: "2026-10-05"
 
 scenarios:
   asai:
@@ -8,7 +8,7 @@ scenarios:
     authority_version: "V26"
     canonical_clock: "1941-12-07T14:30:00-10:30"
     clock_state: "canonical-anchor-only; latest-working-continuation-and-local-planning-clocks-are-separate"
-    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. Current working next: 1942-04-05 Force A contact -> Japanese first-strike decision. Night-IR is non-mainline; existing MO/GT gates are preserved but deferred."
+    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. Current working next: numerically re-audit FT speed, practical release range, mother-aircraft-specific pre-release warning and defender reaction time; test the user concern that prior release distances may have made FT an over-cautious 'chicken weapon'. Then revalidate the major prior FT combats without protecting existing hit packets. Apr19 Port Moresby capture remains replay-local working; Doolittle and GT gates remain deferred/open."
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/00-READ-FIRST-GENERIC.md"
@@ -19,7 +19,7 @@ scenarios:
     canonical_source: "scenarios/asai/records/V26/00-SESSION-HANDOFF-V26.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "current-v26-plus-post-v26-working-continuation-through-ft-q1-indian-ocean-reaudit-and-complete-v22b-source-snapshot"
+    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-05-indian-ocean-mo-replay-and-ft-performance-reaudit-frontier-plus-complete-v22b-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository; source-record-trees-preserved-during-navigation-restructure"
 
   keisanki-ibun:
