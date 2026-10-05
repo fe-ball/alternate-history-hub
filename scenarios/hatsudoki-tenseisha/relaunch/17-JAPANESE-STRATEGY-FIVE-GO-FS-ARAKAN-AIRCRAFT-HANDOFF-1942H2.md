@@ -471,3 +471,12 @@ Through winter 1942–43, central preparation:
 - Japanese inner line matures around Rabaul / Port Moresby / Solomons / Midway.
 - original FS three-island occupation remains effectively displaced by base-network / ISR / submarine / selective-raid strategy.
 - Milne Bay / Samarai exact 1942H2 campaign remains a priority audit before final 1943 spring base map closure.
+
+
+## 12. successor forward ledger
+
+1943 summer convergence / Five-Go Phase-II pre-X state has moved to:
+[19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md](19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md).
+
+This file remains the 1942H2 Five-Go / FS / Arakan source ledger.  
+For 1943 summer decisions, use 19 together with the aircraft counts / X-day air reservation in [18](18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md).
