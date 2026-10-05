@@ -144,6 +144,20 @@ PROVISIONAL discussion results:
 - 米側はChina emergency air reinforcementとfast-carrier raid pressureを組み合わせる可能性が高いが、exact allocation / raid targetはOPEN
 - late-August / early-SeptemberにFive-Go X-day、米fast-carrier pressure、瑞龍戦列化、日本次世代艦載機transitionが収斂
 
+### 20 — 柳船・水上航空・日向航空偵察戦艦 1942H2–1943
+`20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md`
+
+1943夏のsupport / technical forward ledger。canonical clockは進めない。
+
+主なworking state:
+- 柳船の価値は1943には「radarの存在を知る」より、precision tracking / EW / measurement / implementation比較へ移る
+- Enterprise資料をI-29/U-180会合のPackage A、I-8のPackage Bとして高密度交換する案
+- raid後にも滑走路と独立した水上航空でISR / contact handoffを再開する基地 doctrine
+- A6M2-N O4 growth、Kasei Kyofu mainline、O5 Kyofu growth、E13A / F1M / Zuiun role separation
+- Hyuga only aviation-reconnaissance battleship conversion; Ise remains OPEN
+- Hyuga 1943Q4 initial completion central、Zuiun / Kasei Kyofuはshipboard-compatible、O5 Kyofuはhandling gate後
+- later island-relief role = small manpower + dense aviation / engineering / spares / fuel support
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
@@ -223,13 +237,12 @@ CLOSED central:
   - foreign physical inspection still deferred; Kwajalein is not opened to outside observers
 
 次の論点:
-0. **次回分析frontier: 1943夏のAllied response / US allocation / fast-carrier pressureを閉じる**
-   - Chiang / Chennault / Stilwell / Marshall / Arnold / King / Nimitzの配分争い
-   - China emergency air packageの規模 / Hump priority
-   - 最初のUS fast-carrier raid target / force / date
-   - Japanese reaction threshold: Five-Go X-dayを遅らせるほどのPacific threatとは何か
-   - Milne-Samarai / South Pacific base geometryもraid選定前に再確認
-   - working stateは [19](19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md)、航空数値は [18](18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md)
+0. **次回分析frontier: 1943夏auditで未閉鎖の日本側support layer**
+   - preserved aircrew pool / training / cross-deck / partial air-ground separation / tactical research
+   - 1943 destroyer / escort ledger、瑞龍用52,000shp plant×2の実コスト、夕雲/秋月/松/海防艦
+   - Aleutians / Midway-Wake / South Pacific-New Guinea / Bengalのactual landed cargo / monthly sustainment / fortification
+   - base-network reconnaissance: search sectors / detour coverage / confirmation / shadowing / handoff capacity
+   - technical support assumptionsは [20](20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md)、strategic convergenceは [19](19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md)
 1. **6/27–7/3 Enterprise Kwajalein sheltered repair**
    - temporary underwater patches / shoring
    - 48–72h tow certification
