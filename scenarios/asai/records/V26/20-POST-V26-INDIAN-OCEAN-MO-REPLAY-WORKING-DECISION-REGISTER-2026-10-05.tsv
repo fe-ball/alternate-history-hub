@@ -1,0 +1,39 @@
+id	source_status	navigation_role	statement	sources
+IO-APR5-CONTACT	WORKING-CLOSE	REPLAY-LOCAL	1942-04-05 15:32級Force A接触。主力艦隊・空母複数・戦艦1の認識は高信頼。	V26:19#1.1
+IO-FIRST-STRIKE	WORKING	REPLAY-LOCAL	中央第一撃=A6M18+D3A24+B5N24。B5NはType91x12+FTx12。	V26:19#1.1
+IO-VALID-RELEASE	WORKING	REPLAY-LOCAL	Force Aへの中央valid release=D3A20/Type919/FT10。	V26:19#1.2
+IO-INDOMITABLE	WORKING	REPLAY-LOCAL	Indomitable=D3A2+Type91x1+FT/HE1+FT-IR/SAP1、carrier mission kill / afloat / self-propelled。	V26:19#1.3
+IO-FORMIDABLE	WORKING	REPLAY-LOCAL	Formidable=D3A2+Type91x1+FT/HE1、damagedだが中央mission killではない。	V26:19#1.3
+IO-NIGHT-POSTURE	WORKING-CLOSE	REPLAY-LOCAL	英国は条件付き夜襲意図を保持、日本は英分離をprobable fighting postureと解釈して高速離脱。ASV再接触はstrike-qualityに育たず夜襲なし。	V26:19#1.4
+IO-JPN-RADAR	WORKING-CLOSE	TECH-GUARD	1942-04-05 Kido Butaiにcombat-present艦載電探は置かない。夜間主センサーは見張・光学・水上機・無線。	V26:19#1.4
+IO-SUB-RETREAT	WORKING	REPLAY-LOCAL	英退避航路で日本潜水艦接触可能性あり、中央では高品質雷撃射点なし。Uボートは中央脅威外。	V26:19#1.6
+DOOLITTLE	WORKING-OPEN	DEFERRED	Doolittle型作戦は存続するが史実1942-04-18を固定しない。DEFERRED / OPEN。	V26:19#2;V26:19#9
+MO-TULAGI	WORKING-CLOSE	REPLAY-LOCAL	Tulagi raid自体は保持。旧CarDiv5反撃結果は再演し直す。	V26:19#3.1
+MO-CARDIV5-RANGE	WORKING-CLOSE	REPLAY-LOCAL	早期MOでは史実May2-3 Zero-ferry遅延をコピーせず、CarDiv5はTulagi後の反撃圏にいる中央。	V26:19#3.2
+MO-CARDIV5-SCREEN	OPEN	OOB-GATE	史実Myoko/Haguro screenを4月へ自動コピーしない。代替screen OOBは別監査対象。	V26:19#3.2
+MO-YORKTOWN-SEARCH	WORKING	REPLAY-LOCAL	Tulagi来襲方位→H6K初接触→H7Y再接触でYorktown moving track成立中央。	V26:19#4
+MO-YORKTOWN-STRIKE	WORKING	REPLAY-LOCAL	Apr9中央strike=A6M12+D3A18+B5N18、Type919+FT9。	V26:19#4
+MO-YORKTOWN-DAMAGE	WORKING	SUPERSEDING-REPLAY	Yorktown=D3A2+Type91x1+FT/HE1+FT-IR/SAP1、offensive-carrier mission kill。旧1bomb+1torpedo結果を置換。	V26:19#4
+MO-APR10-SEARCH	WORKING-CLOSE	REPLAY-LOCAL	H7Y/H6K/B5N layered searchで日本がSaratoga strike-quality contactを先取、米SBDがCarDiv5を直後発見。	V26:19#5.1
+MO-SARATOGA-STRIKE	WORKING	REPLAY-LOCAL	日本中央strike=A6M15+D3A24+B5N18。Type919+FT9。	V26:19#5.2
+MO-SARATOGA-DAMAGE	WORKING	REPLAY-LOCAL	Saratoga=D3A2+Type91x1+FT-IR/SAP1、offensive-carrier mission kill / afloat / self-propelled。	V26:19#5.2
+MO-US-COUNTERSTRIKE	WORKING	REPLAY-LOCAL	Saratoga中央strike=F4F6+SBD24+TBD12。	V26:19#5.3
+MO-SHOKAKU	WORKING	REPLAY-LOCAL	Shokaku=1000lb級爆弾2発、carrier mission kill / fast / afloat。発艦不可、限定緊急着艦は可能。	V26:19#5.3;V26:19#6
+MO-ZUIKAKU	WORKING	REPLAY-LOCAL	Zuikaku direct hit 0 central、combat effective。	V26:19#5.3
+MO-RECOVERY	WORKING	REPLAY-LOCAL	Shokaku limited landing + Zuikaku mass recovery。追加機体損失は少数、搭乗員大量喪失にはしない。	V26:19#6
+MO-SHOHO-TRANSFER	WORKING	REPLAY-LOCAL	Shokaku隊からA6M4+B5N4級をShohoへ緊急移管する中央。持続運用には12-72hの人員/整備移管が必要。	V26:19#6
+MO-CRACE-APR12	WORKING	SUPERSEDING-REPLAY	Apr12 G4M16(Type918+FT8)でCraceを攻撃。Chicago Type91x1、Australia FT-IR/SAPx1中央。CraceはJomard阻止任務断念。	V26:19#7
+MO-OLD-APR16-SURFACE	SUPERSEDED	DELETE-OLD-EVENT	旧Apr16 Crace vs Japanese surface battleは中央から削除。	V26:19#7
+MO-EARLY-P39	SUPERSEDED	DELETE-OLD-EVENT	4月中旬Port MoresbyのP-39少数配備は削除。史実配備時計から早すぎる。	V26:19#8
+MO-SARATOGA-SHOHO-APR14	SUPERSEDED	DELETE-OLD-EVENT	旧Apr14 Saratoga-Shoho exchangeは削除。Saratogaは既にmission kill / retreat。	V26:19#8
+MO-SHOHO	WORKING	REPLAY-LOCAL	Shohoは旧枝の1000lb被弾を受けずcombat effective、convoy CAP / close-cover deckとして価値上昇。	V26:19#8
+MO-ROUTE	WORKING-CLOSE	REPLAY-LOCAL	Jomard route retained。旧China Strait reroute理由(Saratoga健在+Shoho損傷)が消滅。	V26:19#8
+MO-LANDING	WORKING	REPLAY-LOCAL	中央Apr16 Taurama上陸→Apr17 Kila Kila→Apr18 Seven Mile→Apr19 Port Moresby physical capture。	V26:19#8
+MO-RECONVERGENCE	WORKING-CLOSE	CONTINUITY	Apr19以後は旧base-growth-race骨格へ概ね再収束。ただしShoho健在、Shokaku撤退、Zuikaku航空隊摩耗、FT/陸上航空分業、基地release時計約1日前倒しを持ち越す。	V26:19#8
+H8K-FT	PROPOSED	DEFERRED-TECH	H8K用FT interfaceは提案段階。rocket-assisted ramjet FT + drop/ejector armも開発提案でcombat-presentではない。	V26:19#11
+FT-NUMERIC-SPEED	OPEN	CURRENT-NEXT	標準FTのpost-release加速、ramjet capture、cruise/terminal speedを数値CLOSEする。	V26:19#10-12
+FT-RANGE	OPEN	CURRENT-NEXT	実用release rangeをB5N/G3M-G4M/高速母機/将来H8K系で分離してCLOSEする。	V26:19#12
+FT-REACTION-TIME	OPEN	CURRENT-NEXT	母機発見→予備動作→weapon detection→TOF→艦回頭までのreaction timelineをCLOSEする。既存処理は母機cue中心でFT自身TOF未数値化。	V26:19#10;V26:19#12
+FT-MOTHER-OPT	OPEN	CURRENT-NEXT	B5N/G3M/G4M/高速G4As・E6Twin級/将来H8Kの母機別最適運用を再監査。高速母機では予備動作が短くなる可能性を重点確認。	V26:19#11-12
+FT-CHICKEN-WEAPON	USER-DIRECT	CURRENT-NEXT	投下距離を不必要に長く取りすぎてFTを過度に慎重な“チキン兵器”として扱っていないか監査する。	V26:19#12
+FT-PAST-COMBAT-VALIDATION	OPEN	CURRENT-NEXT	新FT速度/射程/反応モデルでEnterprise/ForceZ/Wake-Saratoga/Feb20 Lexington/Indian Ocean/Yorktown/Apr10 Saratoga/Apr12 Craceを再検証し、矛盾するhit packetは維持目的で保護しない。	V26:19#12
