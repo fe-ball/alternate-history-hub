@@ -13,6 +13,7 @@
 > **Strategy handoff:** [relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md](relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)
 > **Aircraft / 1943 force ledger:** [relaunch/18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md](relaunch/18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md)
 > **1943 summer convergence ledger:** [relaunch/19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md](relaunch/19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md)
+> **Yanagi / seaplane / Hyuga ledger:** [relaunch/20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md](relaunch/20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md)
 
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
@@ -27,7 +28,8 @@
 6. 1942年後半へ時計を進める前の世界波及監査は [16 — 世界戦略波及 1942H2](relaunch/16-WORLD-STRATEGY-RIPPLE-1942H2.md) を参照する
 7. [17 — 日本側1942H2戦略・Five-Go/FS/Arakan handoff](relaunch/17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md) でforward戦略を確認する
 8. [18 — 航空機枝・Enterprise技術吸収・1943戦力forward ledger](relaunch/18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md) で1943航空戦力を確認する
-9. **現行forward frontierは [19 — 1943夏・Five-Go第二期Xデー前の戦略収斂](relaunch/19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md)。Allied response / US allocation / fast-carrier pressureを続ける**
+9. [19 — 1943夏・Five-Go第二期Xデー前の戦略収斂](relaunch/19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md) でstrategic convergenceを確認する
+10. **[20 — 柳船・水上航空・日向航空偵察戦艦](relaunch/20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md) をsupport layerとして読み、次回はaircrew / destroyer / base logistics / reconnaissanceを閉じる**
 
 最大version、更新日の新しさ、記述年代の未来さだけでauthorityを決めない。
 
@@ -67,12 +69,12 @@ CLOSED central:
 - foreign physical inspectionはKwajaleinでは行わない
 
 次は、
-0. **1943夏のAllied response / US allocation / fast-carrier pressure**
-   - Chiang / Chennault等のChina救援要求とHump / India / Pacific配分
-   - first US fast-carrier raidのtarget / force / date
-   - Five-Go X-dayを実際に再OPENするJapanese reaction threshold
-   - Milne-Samarai / South Pacific base geometry
-   - 詳細は [19](relaunch/19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md)、航空数値は [18](relaunch/18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md)
+0. **1943夏auditの未閉鎖support layer**
+   - preserved aircrew / training / cross-deck / partial air-ground separation / tactics
+   - destroyer / escort force ledger、夕雲/秋月/松/海防艦
+   - forward-base actual cargo / sustainment / fortification
+   - base-network reconnaissance / detour search / contact handoff
+   - 詳細は [20](relaunch/20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md)、strategic frameは [19](relaunch/19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md)
 1. 6/27–7/3 Enterprise sheltered repair / Truk tow decision
 2. Saratoga + Wasp Pearl concentration
 3. Midway fuel / radar / land-attack maturity
