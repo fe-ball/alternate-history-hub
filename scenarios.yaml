@@ -44,8 +44,8 @@ scenarios:
     status: active
     authority_version: "Relaunch R3"
     canonical_clock: "1942-06-26T18:00:00-10:30"
-    clock_state: "relaunch-r3; canonical clock remains 1942-06-26 18:00; Enterprise Kwajalein sheltered salvage and Midway radar-assisted base remain current historical state; Five-Go/FS/Arakan/base-development, 1943 aircraft-force tables, Zuiryu recommissioning and 1943 summer convergence are conditional forward-analysis only, not future fact; active forward ledger is relaunch/19"
-    frontier: "canonical 1942-06-26 18:00据置。17は1942H2 Five-Go/FS/Arakan source handoff、18は1942H2-43 aircraft/production/serviceability/X-day air reservation、19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.mdをactive forward ledgerとする。1943夏working state: Five-Go第一期は広元/達県/万県線で作戦的縦深追撃を止め第二期形成戦へ、瑞龍は5月海試→6-7月航空艤装試験→8月limited readiness→9月work-up、A7M/B7Aはrollout/pilot-productionで通常の米前線接触はまだ、米海軍はChina emergency air reinforcementとfast-carrier learning raid pressureを検討。次はChiang/Chennault/Stilwell/Marshall/Arnold/King/Nimitzの配分争い、China emergency package、first US fast-carrier raid target/force/date、日本側Five-Go X-day再OPEN thresholdを閉じる。canonical operational gatesのEnterprise 6/27-7/3 repair/tow、Saratoga-Wasp集結、Midway成熟化等は未解決のまま維持"
+    clock_state: "relaunch-r3; canonical clock remains 1942-06-26 18:00; Enterprise Kwajalein sheltered salvage and Midway radar-assisted base remain current historical state; Five-Go/FS/Arakan/base-development, 1943 aircraft-force tables, Zuiryu recommissioning, summer convergence, Yanagi/seaplane/Hyuga ledgers are conditional forward-analysis only, not future fact; active support frontier is relaunch/20 with strategic convergence retained in relaunch/19"
+    frontier: "canonical 1942-06-26 18:00据置。19は1943夏strategic convergence、20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.mdはYanagi exchange / post-raid seaplane resilience / Hyuga aviation-reconnaissance battleship support layer。Yanagiは便数増より一便の情報密度、Enterprise Package A=I-29/U-180、Package B=I-8をPROVISIONAL。Hyuga only conversion、Ise OPEN、1943Q4 initial completion central、Zuiun/Kasei Kyofu shipboard-compatible、O5 Kyofuはhandling gate後。次はpreserved aircrew/training/cross-deck/partial air-ground separation、1943 destroyer/escort ledgerとMatsu/Kaibokan、Aleutians/Midway-Wake/South Pacific-New Guinea/Bengal actual landed cargoとfortification、base-network reconnaissance/search-handoffを閉じ、その後US allocation/fast-carrier raidとFive-Go X-day reaction thresholdへ戻る。canonical operational gatesは未解決のまま維持"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-through-1942-06-26-1800-plus-19-summer-pre-X-strategic-convergence-18-aircraft-force-ledger-17-strategy-handoff"
+    source_import: "relaunch-r3-continuity-through-1942-06-26-1800-plus-20-Yanagi-seaplane-Hyuga-support-ledger-19-summer-convergence-18-aircraft-force-ledger-17-strategy-handoff"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
