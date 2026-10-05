@@ -648,3 +648,231 @@ Midway損傷像:
 - Junyo / Hiyo / Ryujo / Zuiho等を含めると、carrier hull / deck availabilityは史実1943春より明確に厚い。
 - ただしcarrier air group / DD / fleet oiler / trained deck crew / sortie cycleは別gateであり、甲板数=同時最大打撃力ではない。
 - Enterprise reconstructionとyard labor competitionは残るが、Akagi / Kagaを1943春まで未修理放置するcentralは採らない。
+
+
+## 26. Enterprise再就役仕様 — 艦名・艤装・航空隊・所属
+
+> **Status:** CLOSED central design / organization plan with dated readiness gates still conditional on successful reconstruction.  
+> **Canonical clock remains 1942-06-26.**  
+> 本節は「再建が中央工程で成功した場合」の1943再就役形を閉じる。工事成功そのものをcanonical future factへ逆流させない。
+
+### 26.1 艦名 — 瑞龍（ずいりゅう / ZUIRYŪ）
+
+**CLOSED central name: 瑞龍**
+
+理由:
+- 旧艦名Enterpriseの逐語訳・意訳は採らない。
+- 鹵獲大型艦は日本海軍のwarship naming practiceに従って日本名を与えるのが自然。
+- 1942–43空母名の龍 / 鶴 / 鳳 / 鷹系瑞祥・飛翔動物の慣例に整合。
+- 「瑞」は瑞鶴 / 瑞鳳にも用いられるauspicious element、「龍」は蒼龍 / 飛龍 / 雲龍と同じcarrier vocabulary。
+- 蒼龍(Sōryū)と音が近い翔龍(Shōryū)は運用上の混同余地から避ける。
+- 神龍 / 白龍も候補だが、capture / reconstructionを露骨な宗教・戦勝propaganda名へしすぎず、正規fleet-carrier名として自然な**瑞龍**を中央採用。
+- 1943に追加された山岳名も制度上可能だが、本艦は1942 reconstruction projectとして始まり、既存carrier naming vocabularyを継ぐ方が自然。
+
+administrative naming clock:
+- 1942–43 reconstruction documents: **旧エンタープライズ / E艦**級の工事呼称を使用
+- 1943-05 main sea-trial success確認後、Navy Ministryが**航空母艦 瑞龍**を正式付名・登録する中央
+- 1943-07 aviation acceptance / recommissioning work-up
+- 1943-08 limited operational readiness
+
+class handling:
+- propaganda / public: 「鹵獲米空母Enterpriseを再建した航空母艦瑞龍」
+- technical / yard: 旧Enterprise改造
+- fleet list: one-off **瑞龍型航空母艦**として扱ってよいが、量産class設計の意味は持たせない
+
+### 26.2 外形 / 艦橋 / flight-deck arrangement
+
+**US hull geometryを大きく作り替えない。**
+
+- starboard island / funnel位置を維持
+- island interiorはJapanese navigation / flag plot / air-defense / fighter-direction workflowへ再配置
+- mast topはJapanese antenna / signal fitに合わせて軽量再構成
+- surviving US branch ventilation / hydraulic / elevator systemsはsurvey後利用
+- open-hangar architectureを「日本新造空母も真似すべき」と一般化しない
+- armored flight deck化、island relocation、大規模bulge追加など工期を増やす改造は採らない
+
+flight deck:
+- original deck footprintをrepair / resurface
+- Japanese landing markings / lighting / deck signalingを追加
+- 3 elevator arrangementはrepairして維持する中央
+- Japanese deck-running operationsを標準とし、catapultはcombat-air-group成立のcritical requirementにしない
+
+### 26.3 arresting / elevator compatibility
+
+Enterpriseの米式carrier machineryを全部捨てない。
+
+arresting:
+- surviving hydraulic arresting machinery / sheave / foundationは高価値systemとしてrepair / reuse
+- wire / consumable / control / servicing interfaceはJapanese-produced replacementを整備
+- 1943 qualification targetは**4.5–5.0t-class landing mass**まで段階試験
+- A7Mはphysical elevator / deck-handling compatibilityをCLOSED central
+- B7Aもfolded geometryはphysical handling可能とするが、high-mass arrested landing qualificationはShokaku / Zuikaku trial結果を先に使い、瑞龍へのcombat qualificationは1943H2別gate
+
+意味:
+- 瑞龍は大型新型艦載機に比較的向く
+- ただし「米式gearだから流星を即安全運用」は不可
+
+### 26.4 aviation fuel / DC reconstruction
+
+Enterpriseから学んだ実装を、本艦自身には最も直接戻せる。
+
+CLOSED central:
+- avgas pipingをsectional isolation
+- remote / local shutoff pointsを増やす
+- damaged-line isolation / drainageを明示
+- foam / sprinkler / portable-pump capabilityをrepair / strengthen
+- repair lockers / hose / breathing / portable-light / emergency-power storesを分散
+- damage-control diagrams / valve labeling / compartment status boardをJapanese crew向けに再作成
+
+本艦は1943 IJNの中では**damage-control organizationが最もUS comparisonの影響を受けたcarrier**になる。
+ただしunarmored flight deck / open hangar / avgas / ordnance hazardを消す意味ではない。
+
+### 26.5 radar / fighter direction
+
+initial combat fit central:
+- **Type 21 air-search radar ×2**
+  - island / mast side one fixed
+  - second set placed where deck-edge / retractable installation interference is manageable
+- captured CXAM / US radar setをfleet-standard combat radarとして継続使用しない。complete / partial equipmentはtechnical specimenへ回す
+- Type 22はinitial requirementではなくgrowth / later-refit provision
+- Type 13は1943-08 initial fitへ先取りしない
+
+fighter-direction organization:
+- US plotting / air-control spacesを参考に
+  - radar operator
+  - plot
+  - fighter-direction officer
+  - air-group radio control
+  - CAP status / fuel / relief board
+を一つのworkflowへまとめる
+- USN CICを丸ごと再現するのではなく、1943 IJN hardwareで実施できる人間系統を優先
+- 瑞龍をcarrier fighter-direction doctrineのevaluation shipとする
+
+### 26.6 gun / AA fit
+
+#### 5-inch battery
+**8 × US 5"/38 single mountsを1943 initial fitではretainする中央。**
+
+理由:
+- mount / foundationを撤去しType 89 twinへ再配置する工事を追加しない
+- complete captured gun / director / maintenance systemをsea-going comparisonとして使う価値が大きい
+- shell / semi-fixed cartridge geometryは国内でdedicated lotを生産可能な難度
+
+guard:
+- captured ammunitionだけで永続運用しない
+- 1942H2–43H1にshore firing / pressure / fuze trialsを実施し、Japanese explosive / mechanical-time-fuze practiceを用いた**瑞龍専用5-inch ammunition lot**をqualified
+- VT fuzeは存在しない
+- unique ammunition logisticsは本艦固有costとして明記
+- damaged US director / power unitを魔法的に永久維持せず、spares manufacture / optical-local backupを準備
+
+これにより瑞龍のheavy AAはType 89 carrierより一部で優秀になり得るが、US late-war radar/VT-directed 5"/38 systemにはならない。
+
+#### light AA
+US 1.1-inch / Oerlikon batteryはlong-term standardから外す。
+
+1943 initial central:
+- **Type 96 25mm: 16 triple + 12 single = 60 barrels級**
+- Type 95-class local directors / rangefindingをavailable positionへ配置
+- later 1943 combat lessonsでsingle / triple追加余地
+
+Bofors 40mmをEnterpriseから得たことにはしない。R3拿捕時点のEnterpriseは1942-06 fitであり、historical later Bofors refitより前。
+
+### 26.7 operational air group
+
+Enterprise hull historical capacityをそのまま「日本機90機実用」に変換しない。
+Japanese aircraft dimensions / folding / deck doctrine / unfamiliar ship handlingを払う。
+
+**August 1943 limited-readiness group:**
+- fighter 30–32
+- B6N 12–15
+- D4Y / D4Y-C 12–15
+- total operational **54–62級**
+
+**October 1943 full-work-up target:**
+- fighter **36**
+- B6N **18**
+- D4Y / D4Y-C **18**
+- total operational **72**
+- plus dismantled / reserve aircraft 6–8級を許容
+
+fighter mix:
+- initial = 昴二二Zero dominant
+- A7M 4–6 aircraft evaluation detachmentを1943Q3後半からcross-deck可
+- A7Mが即36機全置換とはしない
+
+B7A:
+- August air groupへ入れない
+- Shokaku / Zuikaku carrier qualification後、1943Q4に4–6 aircraft級の瑞龍cross-deck / arresting trialを許容
+- 1943中のpermanent B7A squadronはOPEN
+
+### 26.8 crew / work-up
+
+one-off foreign hullなのでcrew experienceを軽視しない。
+
+central:
+- construction / engineering nucleus is retained through trials
+- ship crew receives veteran carrier cadre from existing IJN carriers plus newly trained personnel
+- air group is not built by stripping one frontline carrier wholesale
+- deck / elevator / arresting / fuel / DC departments receive dedicated manuals based on captured US material translated into Japanese procedure
+
+work-up:
+- 1943-05 machinery sea trials
+- 06–07 flight-deck / arresting / emergency / DC trials
+- July second half: integrated air-group work-up
+- **August: limited combat availability**
+- **September: high-tempo work-up / fleet exercises**
+- **October: full fleet-carrier employment central absent defects**
+
+qualification losses:
+- unfamiliar deck / gear means several landing / handling accidents are expected
+- 2–4 aircraft-class training write-offs are acceptable central; zero-accident miracle is not
+
+### 26.9 fleet assignment
+
+**1943H2 central organization: First Carrier Division third carrier with Akagi / Kaga, after initial direct work-up under Third Fleet / Mobile Force control.**
+
+sequence:
+1. July–August: Third Fleet / Mobile Force direct work-up / evaluation
+2. limited readiness declaration: can sortie independently / as reserve deck
+3. after September exercises: **CarDiv 1 = Akagi + Kaga + Zuiryū** central
+4. Soryu / Hiryu and Shokaku / Zuikaku retain their established paired operating relationships rather than being broken only to find 瑞龍 a partner
+
+logic:
+- Akagi / Kaga already share large-carrier support / deck-cycle culture
+- 30kt Zuiryū can operate with them
+- three-carrier division is administratively / tactically acceptable and creates one heavy division without breaking two healthy sister-ship pairs
+- fuel / escort / oiler limits still govern whether all three sortie together
+
+### 26.10 operational role and strategic meaning
+
+瑞龍は1943 summerに:
+- 「鹵獲技術展示艦」だけではない
+- 「いきなり決戦主力」でもない
+
+August:
+- reserve fleet carrier
+- carrier training / fighter-direction / deck-handling evaluation
+- aircraft transport / surge deck if needed
+
+September–October:
+- genuine combat fleet-carrier
+- especially useful as flexible third deck in a heavy carrier group
+- new-aircraft cross-deck evaluation ship
+
+propaganda:
+- naming / sea-trial success can be publicized after machinery reliability is demonstrated
+- exact readiness / air-group / destination remains operationally secret
+- US intelligence should assume by late summer that former Enterprise is no longer merely a static technical prize
+
+### 26.11 what is deliberately NOT done
+
+- Enterpriseをliteral translation名へしない
+- 32–33kt復元のため工期を延長しない
+- US propulsion plantをcombat mainlineへ残さない
+- entire electrical / hydraulic systemを日本規格へ全交換しない
+- armored flight deck化しない
+- Bofors / VT / US late-war CICを魔法的に導入しない
+- initial 90-aircraft Japanese air groupを詰め込まない
+- A7M / B7Aを一挙に主力化しない
+- 8月limited readiness = immediate decisive-battle perfectionとはしない
+
