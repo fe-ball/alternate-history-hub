@@ -14,6 +14,26 @@ Post-14:15 working syntheses exist, but are **NOT AUTHORITY** and do not advance
 Current frontier: **11-Jun first Japanese anti-carrier counterstrike is the next gate. Before resolving it, re-audit Branch aircraft/weapon/AA performance and tactical research; do not silently restore historical hit rates. Read file 92 first.**
 
 
+## 最新の会話WORKING継続線（2026-10-05 / 正本ではない）
+
+**正本昇格の監査入口は引き続き file 92。会話上の最新WORKING再開入口は file 95。**
+
+- [26 Jun working handoff — decisive relief / U.S. reconstitution / FORAGER P4 gate](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/95_NEXT_CHAT_26JUN_US_RECONSTITUTION_FORAGER_P4_HANDOFF_v001.md)
+- [26 Jun structured working state](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/94_26JUN_DECISIVE_RELIEF_US_RECONSTITUTION_WORKING_STATE_v001.json)
+
+この継続線は、10-Jun zero-baselineとfile 92/93の監査ガードを保持したまま、会話で再演したD+0以後を **SELECTED WORKING / NOT AUTHORITY** として保存する。主な内容:
+- D+0集中対空母反撃後のTF58機能分離と日本空母船体温存;
+- Saipan direct / Tinian stock / Tinian->Saipan shuttle の三財布補給;
+- repeated fast reinforcementによるSaipan地上system再生;
+- modern fleet-DDのtheater mission-slot不足と、DD輸送から非DD船腹への転換;
+- Aoba / Kinu / Nisshin / Chitose / high-speed transportを用いた25/26-Jun CAP-heavy decisive relief;
+- 8-BB forward penetration + slow-4-BB conditional shore-fire + carrier-support-side architecture;
+- U.S. ground casualtyを人数だけでなくrifle-company leadership、FDC/signals、engineer/vehicle、Sherman、LVT/boat-systemの編制損傷として再計算;
+- 77th Infantry Division RCT-classのSaipan転用、Tinian/Guam HOLD、FORAGER **P4 START** working gate。
+
+**重要:** file 94/95の存在はcanonical clockを進めず、post-14:15正本化もしない。TF58 whole-system ASW meta-auditは依然必須。
+
+
 ## 会話上の26-Jun WORKING continuation（2026-10-05）
 
 [26-Jun再編・決戦輸送の会話引継ぎ](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/94_NEXT_CHAT_26JUN_US_FORCE_RECONSTITUTION_MARIANAS_DECISIVE_TRANSPORT_HANDOFF_v001.md)を、**post-14:15候補線を続ける場合の入口**として使う。
