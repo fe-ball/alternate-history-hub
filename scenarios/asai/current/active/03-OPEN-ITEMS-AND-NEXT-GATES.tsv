@@ -1,17 +1,15 @@
 priority	id	source_status	navigation_role	position	sources
-1	IO-CONTACT-CONFIDENCE	NEXT	CURRENT-NEXT	15:32級B5N contact reportの艦種・位置・針路・速力精度と日本司令部がどこまで信じるかを閉じる。	V26:17#12.4;V26:17#14
-2	IO-JAPAN-AIRGROUP	NEXT	CURRENT-NEXT	Akagi/Soryu/Hiryuの4月5日15:30時点A6M/D3A/B5N physical/serviceable/immediate-readyを、Colombo+Cornwall/Dorsetshire sortie後として確定する。	V26:17#14
-3	IO-ORDNANCE-STOCK	NEXT	CURRENT-NEXT	三空母のType91 / FT / FT-IR / HE / SAP combat-present stockと再武装時間を閉じる。	V26:17#14
-4	IO-TIME-DISTANCE	NEXT	CURRENT-NEXT	Force A距離・相対運動・日没・天候・攻撃隊航法・帰投/着艦clockを確定する。	V26:17#14
-5	IO-FORCE-A-DEFENSE	NEXT	CURRENT-NEXT	Warspite/Formidable/Indomitable以下のradar/CAP/AA/formation/aircraft readinessを監査する。	V26:17#14
-6	IO-FIRST-STRIKE-PACKAGE	NEXT	CURRENT-NEXT	日本側第一撃の時刻、機数、護衛、D3A/B5N、Type91/FT/IR、HE/SAP、攻撃軸を決める。	V26:17#14;V26:18#io_first_strike
-7	IO-FIRST-STRIKE-RESOLVE	NEXT	AFTER-PACKAGE	CAP interception→valid release→hit/damageの順で判定する。	V26:17#14
-8	IO-FOLLOWUP	WORKING	DEFERRED	第一撃後にcontact維持・英反撃・4月6/9への継続を必要に応じて再演する。	V26:17#14
-9	NIGHT-IR	WORKING-CLOSE	DO-NOT-REOPEN	夜間IRは面白い技術的欲望だが中央作戦では意図的に狙わない。	V26:17#13
-10	MO-PROPAGATION	WORKING-FROZEN	DEFERRED	Indian Ocean/Q1再監査後、Saratoga Mar27復帰・FT在庫・損耗差分を既存MO枝へ伝播する。	V26:13;V26:17#14
-11	GT-CORE-LIFE	NEXT-DEFERRED	DEFERRED	E5/E6 J・JFの標準scheduled removal/core-life基準をrating別に整理する。	V26:13#14
-12	GT-FUEL-QUALITY	NEXT-DEFERRED	DEFERRED	Grade A/B/Cと実燃料性状ごとの通常rating/derated/flight-reject境界を整理する。	V26:13#10;V26:13#14
-13	GT-RATING-TRADE	NEXT-DEFERRED	DEFERRED	fuel quality×temperature/rating×inspection×core-life debitを閉じる。	V26:13#14
-14	CARRIER-CONTACT-MAY01	NEXT-DEFERRED	DEFERRED	GT監査とQ1/Indian Ocean伝播後にMay1級Lexington vs Zuikaku+PM/Rabaul replayへ戻る。	V26:13#15
-15	FT-DIP-PROOF	OPEN	DEFERRED-TECH	terminal-dip/短距離水面接触枝のnose/wing/tail/impact試験を必要時に専用監査する。	V26:17#2.3
-16	FT-RF-PROX	OPEN	DEFERRED-TECH	RF/proximityのsea-clutter、安全解除、altimeter干渉、量産信頼性を別ゲートで監査する。	V26:17#2.4
+1	FT-NUMERIC-SPEED	OPEN	CURRENT-NEXT	標準FTのpost-release加速、ramjet capture、cruise/terminal speedを数値CLOSEする。	V26:19#10-12;V26:20#FT-NUMERIC-SPEED
+2	FT-RELEASE-RANGE	OPEN	CURRENT-NEXT	B5N/G3M-G4M/高速G4As・E6Twin級/将来H8K枝の実用release rangeを分離してCLOSEする。	V26:19#12;V26:20#FT-RANGE
+3	FT-REACTION-TIMELINE	OPEN	CURRENT-NEXT	母機発見→攻撃予備動作→weapon detection→TOF→艦回頭までを秒単位で閉じる。	V26:19#10;V26:20#FT-REACTION-TIME
+4	FT-MOTHER-AIRCRAFT-OPT	OPEN	CURRENT-NEXT	母機別にFT最適運用を再設計。B5Nと高速母機でpre-release cueがどれだけ縮むかを重点監査。	V26:19#11-12;V26:20#FT-MOTHER-OPT
+5	FT-CHICKEN-WEAPON-AUDIT	USER-DIRECT	CURRENT-NEXT	投下距離を不必要に長く取り、FTを過度に慎重な「チキン兵器」にしていないか監査する。	V26:19#12;V26:20#FT-CHICKEN-WEAPON
+6	FT-PAST-COMBAT-VALIDATION	OPEN	AFTER-MODEL	Enterprise/ForceZ/Wake-Saratoga/Feb20 Lexington/Indian Ocean/Yorktown/Apr10 Saratoga/Apr12 Craceを新モデルで再演算し、矛盾するhit packetを再OPENする。	V26:19#12;V26:20#FT-PAST-COMBAT-VALIDATION
+7	CRACE-FT-SENSITIVITY	OPEN	AFTER-MODEL	CAPなしCrace戦でpost-release reactionを過大評価していないか重点確認する。	V26:19#10
+8	HIGHSPEED-FT-QUALIFICATION	OPEN	AFTER-MODEL	G4As/E6Twin級高速母機のstore separation、adapter、dynamic-pressure envelope、release qualificationを閉じる。	V26:19#11
+9	H8K-FT-INTERFACE	PROPOSED	DEFERRED-TECH	H8K用FT、rocket-assisted ramjet、drop/ejector armは提案段階。量産/配備が十分になるまでcombat-present化しない。	V26:19#11
+10	DOOLITTLE-SCHEDULE	WORKING-OPEN	DEFERRED	史実Apr18非固定。FT監査/MO修理時計後にHornet/Enterprise等の配分と日程を再判断。	V26:19#9
+11	BASE-GROWTH-RACE	WORKING	DEFERRED	Apr19 Port Moresby capture後の基地成長レースは旧枝へ概ね再収束。FT監査後に大きく見る。	V26:19#8
+12	GT-CORE-LIFE	NEXT-DEFERRED	DEFERRED	E5/E6 J・JF scheduled removal/core-life基準をrating別に整理する。	V26:13#14
+13	GT-FUEL-QUALITY	NEXT-DEFERRED	DEFERRED	Grade A/B/Cと実燃料性状ごとの通常rating/derated/flight-reject境界を整理する。	V26:13#10;V26:13#14
+14	GT-RATING-TRADE	NEXT-DEFERRED	DEFERRED	fuel quality×temperature/rating×inspection×core-life debitを閉じる。	V26:13#14
