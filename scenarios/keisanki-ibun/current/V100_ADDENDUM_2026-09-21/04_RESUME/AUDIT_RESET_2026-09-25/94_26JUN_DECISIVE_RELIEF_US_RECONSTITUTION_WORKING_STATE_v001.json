@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "status": "SELECTED_WORKING_CAMPAIGN_STATE_NOT_AUTHORITY",
+  "authority_version": "Branch B v100",
+  "canonical_clock": "1944-06-16T14:15",
+  "working_clock": "1944-06-26T06:00",
+  "authority_guards": {
+    "post_1415_not_authority": true,
+    "saipan_ground_authority_frontier": "1944-06-16 dawn",
+    "tf58_whole_system_asw_meta_audit_required_before_promotion": true,
+    "china_1944_05_29_to_06_14_detail_gap_open": true,
+    "retired_sources_must_not_be_restored": true
+  },
+  "ground": {
+    "saipan": {
+      "as_of": "1944-06-26T06:00",
+      "front": {
+        "west_and_north_aslito": "strongly contested; U.S. physical advantage remains but Japanese night rollback erased part of prior-day gain",
+        "runway_operational": false,
+        "east_southeast_fire_control": "Japanese fire/interdiction remains active",
+        "bridgehead": "secure; no Japanese threat to throw U.S. force into the sea"
+      },
+      "external_reinforcement_total_inflow_personnel": [3880, 5240],
+      "external_reinforcement_currently_effective_personnel": [3100, 4200],
+      "mobile_local_reserve_personnel": [1500, 2000],
+      "tinian_role": "second logistics/aviation/reception node; receives western reinforcement, retains its own net increment, then relays bounded packets to Saipan",
+      "logistics_wallets": [
+        "Palau/Yap -> Saipan direct",
+        "Palau/Yap -> Tinian stock",
+        "Tinian -> Saipan local shuttle"
+      ]
+    },
+    "us_ground_casualties_cumulative": {
+      "band": [8800, 11600],
+      "center": 10100,
+      "note": "Working cumulative ground casualty class through 26 Jun 06:00; includes repeated Aslito fighting and 25 Jun bombardment/counterattack. Not a canonical casualty roll."
+    },
+    "us_currently_unfit_ground_personnel": [6500, 8500],
+    "us_replacements_and_return_to_duty_already_absorbed": [2000, 3000],
+    "us_formation_damage": {
+      "2d_marine_division": "AMBER; rifle-company/NCO/officer and specialist gaps materially reduce cohesive offensive output below paper strength",
+      "4th_marine_division": "AMBER-RED; longest continuous Aslito burden; multiple battalions need relief/reconstitution",
+      "27th_infantry_division": "AMBER; no longer an operational reserve, now a current fighting formation",
+      "fresh_24h_reserve": "roughly 2-4 battalion-equivalents across the three divisions",
+      "rifle_company_effect": "many companies can show 70-80% paper strength while only producing about 55-70% cohesive offensive output; hardest-hit companies can be lower"
+    },
+    "us_specialist_and_equipment_damage": {
+      "artillery_long_term_out_guns": [8, 14],
+      "artillery_short_medium_unavailable_guns": [12, 20],
+      "battery_sections_functionally_incomplete": [8, 12],
+      "artillery_system_useful_output_general": "about 75-85% class of an undamaged system, with worse local Aslito boxes",
+      "sherman_irreversible_or_long_term": [15, 22],
+      "sherman_short_repair_queue": [18, 30],
+      "tank_mr_share": "about 65-75% of landed tank wallet",
+      "lvt_physical_surviving_share": "about 75-85%",
+      "lvt_mission_ready_share": "about 55-70%",
+      "lcvp_lcm_lci_mission_ready_share": "about 70-80%"
+    }
+  },
+  "japan_surface": {
+    "battleships": {
+      "physical": 12,
+      "decisive_relief_25jun": {
+        "forward_eight": ["Kongo", "Haruna", "Hiei", "Kirishima", "Yamato", "Musashi", "Nagato", "Mutsu"],
+        "conditional_slow_four": ["Ise", "Hyuga", "Fuso", "Yamashiro"]
+      },
+      "25_26jun_outcome": "all eight forward battleships remain afloat and mobile; Hiei torpedo damage limits speed to roughly 25-27 kt; one Kongo-class heavy-hit candidate and additional topside damage do not mission-kill the main force"
+    },
+    "modern_destroyers": {
+      "jan1_physical_baseline": 81,
+      "jun16_pre_loss_physical_envelope": 86,
+      "jun16_provisional_national_mr": [71, 76],
+      "25jun_marianas_decisive_system": {
+        "physical_surviving": [35, 36],
+        "serviceable_crewed": [32, 35],
+        "mission_ready": [31, 34],
+        "immediately_fast_combat_ready": [28, 31]
+      },
+      "interpretation": "Not a national exhaustion. The binding shortage is modern fleet-DD mission slots in the Marianas decisive system. Repeated DD-as-transport use is no longer preferred.",
+      "all_12bb_plus_8cv_screen_need": {
+        "comfortable": [40, 44],
+        "workable_lean": [36, 38],
+        "emergency_minimum": [32, 34]
+      },
+      "preferred_policy": "Return modern DDs to screen/torpedo/contact roles; shift lift to cruisers, tenders, minelayers, landing ships and Tinian relay. Eight-BB forward penetration is feasible; all-12-BB close penetration remains too DD-hungry."
+    },
+    "non_dd_transport_working_close": {
+      "Aoba": "GREEN/MR; Saipan-direct principal cruiser transport candidate",
+      "Kinu": "AMBER-GREEN/limited MR after repair clock; Saipan-direct secondary cruiser transport",
+      "Nisshin": "AMBER/transport MR after local repair; heavy cargo and specialist transport; not full aviation plus max cargo",
+      "Chitose": "AMBER/transport MR; selected optional heavy-lift slot",
+      "Chiyoda": "GREEN; retained as water-air/ISR/recovery support",
+      "Tsugaru": "GREEN; Tinian/rear feeder, not close Saipan penetration",
+      "Itsukushima": "GREEN; Tinian/rear feeder, not close Saipan penetration",
+      "T127_equivalent": "low-speed rear feeder; not a fast direct-penetration asset",
+      "No4_high_speed_transport": "limited transport MR / short work-up; carries Daihatsu and useful cargo; no surface-combat credit"
+    },
+    "25_26jun_decisive_relief": {
+      "direct_group": ["Aoba", "Kinu", "Nisshin", "Chitose", "No.4 high-speed transport"],
+      "modern_dd_lead_and_screen": [3, 4],
+      "planned_personnel": [1250, 1650],
+      "planned_useful_cargo_tons": [350, 500],
+      "planned_daihatsu": 4,
+      "landed_personnel": [1000, 1350],
+      "landed_useful_cargo_tons": [280, 420],
+      "landed_daihatsu": [3, 4],
+      "tinian_feeder": "Tsugaru first; Itsukushima/T.127-class slower elements follow on later nights"
+    }
+  },
+  "aviation": {
+    "pre_25jun_working": {
+      "carrier_mr": [215, 260],
+      "carrier_fighter_mr": [95, 115],
+      "carrier_attack_recon_mr": [120, 145],
+      "marianas_mr": [115, 155],
+      "marianas_fighter_mr": [60, 80]
+    },
+    "25jun_doctrine": {
+      "priority": [
+        "fleet and surface CAP",
+        "ISR/recontact",
+        "near-range attacks on U.S. CVE/NGFS/light screen when useful",
+        "conditional limited TF58 strike"
+      ],
+      "carrier_self_cap_wallet": [40, 50],
+      "surface_cap_airborne_or_immediately_vectored": [30, 40],
+      "immediate_fighter_reserve": [10, 15],
+      "marianas_terminal_handoff": [15, 25],
+      "anti_tf58_release_gate": "fresh contact <=45 min, range about 350-380 nm or less, good carrier-box identification, daylight recovery margin, U.S. deck cycle exposed, and CAP remains adequate"
+    },
+    "25jun_us_first_antisurface_wave": {
+      "us_total": [138, 153],
+      "japanese_fighters_materially_engaged": [60, 75],
+      "us_irreversible": [34, 44],
+      "us_damaged_abort_jettison": [18, 26],
+      "japanese_fighter_irreversible": [22, 30],
+      "japanese_fighter_damaged_forced_landing": [10, 16]
+    },
+    "25jun_japanese_tf58_strike": {
+      "total": [70, 82],
+      "fighters": [21, 25],
+      "attackers": [48, 58],
+      "japanese_irreversible": [20, 27],
+      "us_f6f_irreversible": [8, 13],
+      "valid_releases": [22, 30],
+      "direct_hits_center": 3,
+      "center_effect": "one fleet CV torpedo+bomb heavy aviation mission-kill/FORAGER immediate out; one CVL bomb and temporary deck stop; 15-25 deck/hangar aircraft irreversible"
+    },
+    "25jun_us_second_antisurface_wave": {
+      "us_total": [80, 94],
+      "japanese_fighters_materially_engaged": [45, 58],
+      "us_irreversible": [21, 29],
+      "japanese_fighter_irreversible": [15, 22],
+      "center_ship_effect": "Nagato/Mutsu-class one bomb topside/AA/comms damage, fast-BB near miss, one DD medium damage; no BB torpedo mission kill"
+    },
+    "25jun_us_third_wave": "No centered 80-100-aircraft third mass wave. Search/armed-recon/local opportunity effort only unless geometry changes.",
+    "25jun_total_us_fast_carrier_air_irreversible_class": [78, 111],
+    "post_25jun_japanese_air_loss": "fighter losses are heavy and strike-leader quality remains a critical bottleneck; carrier hulls remain intact"
+  },
+  "us_naval": {
+    "tf58": {
+      "state": "still materially superior in absolute aviation, but divided across damaged-carrier escort, Saipan, CAP, search, ASW, carrier recovery and anti-surface tasks",
+      "25jun_additional_damage": "one fleet CV heavy aviation mission-kill/FORAGER out; one CVL temporary closure",
+      "repeat_three_wave_capacity": "materially worse than earlier working branch; next 48h regeneration of decks, crews, DDs and fuel becomes the key limiter"
+    },
+    "lee": {
+      "fast_battleships": 7,
+      "state": "still coherent stopper; 25/26 Jun night bounded gun exchange does not destroy either battle line",
+      "25_26jun_effect": "one U.S. fast BB takes a heavy 41/46cm hit class topside/secondary/fire-control damage while retaining speed; Japanese heavy ships also take bounded damage"
+    }
+  },
+  "us_reconstitution": {
+    "26jun_decision": {
+      "tinian_assault": "indefinite HOLD",
+      "guam_scheduled_assault": "HOLD",
+      "initial_reinforcement_choice": "divert one 77th Infantry Division RCT-class package to Saipan before breaking the Guam amphibious assault core",
+      "planning_personnel": [4500, 5500]
+    },
+    "movement_clock_center": {
+      "26jun": "DIVERT/order and shipping reroute",
+      "27_28jun": "Marianas approach",
+      "28jun": "first 2,000-3,000 personnel class landing",
+      "28_29jun": "remaining personnel/heavy equipment landing",
+      "29jun": "first battalion relief can matter",
+      "29_30jun": "RCT-scale coherent ground function if interdiction does not delay"
+    },
+    "replacement_package": {
+      "artillery_guns": [10, 16],
+      "replacement_shermans": [15, 25],
+      "trucks_prime_movers": [80, 120],
+      "other": [
+        "engineer plant/bulldozers/recovery equipment",
+        "radios/switchboards/field wire",
+        "mortar/AT weapons",
+        "LVT repair parts and bounded replacement vehicles",
+        "ammunition"
+      ]
+    },
+    "formation_conversion_rule": "Arrival ashore is not HP restoration. Troops/equipment must unload, assemble, pair with crews/weapons/vehicles, establish C2, move inland, relieve existing units, and allow 36-72h class reconstitution of the relieved formations.",
+    "escalation_gate": "If Aslito remains insecure around 29-30 Jun, Japanese reinforcement continues, Japanese fleet remains credible, and the first diverted RCT does not restore rotation, divert a second 77th RCT or part of the 1st Provisional Marine Brigade. That would effectively dissolve the original Guam schedule."
+  },
+  "forager_project_state": {
+    "phase": "P4_START_WORKING",
+    "reason": "The U.S. must alter objective sequence, divert a Guam-bound RCT-class formation, and bring replacement personnel/equipment/amphibious support into Saipan before Tinian/Guam can resume. This is campaign redesign, not U.S. defeat."
+  },
+  "rear_regeneration": {
+    "home_bonins_marianas": "continues as bounded small packets; all realized arrivals already included in current local-air states; no double counting",
+    "philippines_palau_carrier": "continues repair/replacement/qualified-crew acceptance; not an instant second carrier air force",
+    "i400_i401": "survived Eniwetok special strike and moved through replenishment/inspection; no automatic repeat six-aircraft strike; later use requires aircraft/catapult/hangar recertification and a valuable target"
+  },
+  "next_gates": [
+    "Reconstruct U.S. unit-by-unit reconstitution: battalion/company leadership, specialists, artillery/FDC, armor, LVT/boat crews and shore-party throughput.",
+    "Trace the actual shipping/escort/landing movement of the diverted 77th RCT and replacement package rather than teleporting it to Saipan.",
+    "Decide Japanese 26-30 Jun posture while the U.S. reinforcement is in transit: fleet withdrawal/regeneration versus another bounded intervention.",
+    "Keep Tinian as a replenished relay node, not a free donor pool; track its own personnel/cargo/boat balance.",
+    "Audit modern-DD repair return and national reallocations before another all-battleship or large relief operation.",
+    "Do not promote post-14:15 events before the mandatory TF58 whole-system ASW meta-audit."
+  ]
+}
