@@ -472,3 +472,12 @@ Do not close yet:
 8. British / India response if China requests aircraft from Assam / Bengal resources
 9. Five-Go X-day final GO / slip decision after all external pressures are inserted
 
+
+
+## 13. successor technical / support ledger
+
+Yanagi exchange, water-aircraft post-raid resilience, and Hyuga aviation-reconnaissance battleship planning are continued in:
+[20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md](20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md).
+
+19 remains the strategic convergence ledger.  
+20 supplies the technical / support assumptions that will later feed carrier-raid and base-network simulations.
