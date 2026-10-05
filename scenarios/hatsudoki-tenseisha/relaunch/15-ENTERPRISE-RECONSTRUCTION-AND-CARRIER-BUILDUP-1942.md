@@ -876,3 +876,11 @@ propaganda:
 - A7M / B7Aを一挙に主力化しない
 - 8月limited readiness = immediate decisive-battle perfectionとはしない
 
+
+
+## 27. Hyuga successor detail
+
+Hyuga conversion / initial seaplane group / later island-relief role is expanded in:
+[20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md](20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md).
+
+Section 11 remains governing for the policy that **Hyuga only** is committed and Ise remains OPEN.
