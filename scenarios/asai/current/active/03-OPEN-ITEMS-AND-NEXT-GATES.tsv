@@ -1,15 +1,16 @@
 priority	id	source_status	navigation_role	position	sources
-1	FT-NUMERIC-SPEED	OPEN	CURRENT-NEXT	標準FTのpost-release加速、ramjet capture、cruise/terminal speedを数値CLOSEする。	V26:19#10-12;V26:20#FT-NUMERIC-SPEED
-2	FT-RELEASE-RANGE	OPEN	CURRENT-NEXT	B5N/G3M-G4M/高速G4As・E6Twin級/将来H8K枝の実用release rangeを分離してCLOSEする。	V26:19#12;V26:20#FT-RANGE
-3	FT-REACTION-TIMELINE	OPEN	CURRENT-NEXT	母機発見→攻撃予備動作→weapon detection→TOF→艦回頭までを秒単位で閉じる。	V26:19#10;V26:20#FT-REACTION-TIME
-4	FT-MOTHER-AIRCRAFT-OPT	OPEN	CURRENT-NEXT	母機別にFT最適運用を再設計。B5Nと高速母機でpre-release cueがどれだけ縮むかを重点監査。	V26:19#11-12;V26:20#FT-MOTHER-OPT
-5	FT-CHICKEN-WEAPON-AUDIT	USER-DIRECT	CURRENT-NEXT	投下距離を不必要に長く取り、FTを過度に慎重な「チキン兵器」にしていないか監査する。	V26:19#12;V26:20#FT-CHICKEN-WEAPON
-6	FT-PAST-COMBAT-VALIDATION	OPEN	AFTER-MODEL	Enterprise/ForceZ/Wake-Saratoga/Feb20 Lexington/Indian Ocean/Yorktown/Apr10 Saratoga/Apr12 Craceを新モデルで再演算し、矛盾するhit packetを再OPENする。	V26:19#12;V26:20#FT-PAST-COMBAT-VALIDATION
-7	CRACE-FT-SENSITIVITY	OPEN	AFTER-MODEL	CAPなしCrace戦でpost-release reactionを過大評価していないか重点確認する。	V26:19#10
-8	HIGHSPEED-FT-QUALIFICATION	OPEN	AFTER-MODEL	G4As/E6Twin級高速母機のstore separation、adapter、dynamic-pressure envelope、release qualificationを閉じる。	V26:19#11
-9	H8K-FT-INTERFACE	PROPOSED	DEFERRED-TECH	H8K用FT、rocket-assisted ramjet、drop/ejector armは提案段階。量産/配備が十分になるまでcombat-present化しない。	V26:19#11
-10	DOOLITTLE-SCHEDULE	WORKING-OPEN	DEFERRED	史実Apr18非固定。FT監査/MO修理時計後にHornet/Enterprise等の配分と日程を再判断。	V26:19#9
-11	BASE-GROWTH-RACE	WORKING	DEFERRED	Apr19 Port Moresby capture後の基地成長レースは旧枝へ概ね再収束。FT監査後に大きく見る。	V26:19#8
-12	GT-CORE-LIFE	NEXT-DEFERRED	DEFERRED	E5/E6 J・JF scheduled removal/core-life基準をrating別に整理する。	V26:13#14
-13	GT-FUEL-QUALITY	NEXT-DEFERRED	DEFERRED	Grade A/B/Cと実燃料性状ごとの通常rating/derated/flight-reject境界を整理する。	V26:13#10;V26:13#14
-14	GT-RATING-TRADE	NEXT-DEFERRED	DEFERRED	fuel quality×temperature/rating×inspection×core-life debitを閉じる。	V26:13#14
+1	SHOKAKU-REPAIR	OPEN	CURRENT-NEXT	Apr29 1000lb級2hit後のShokaku応急/本修理/return clockを閉じる。	V26:21#12-15
+2	ZUIKAKU-AIRGROUP	OPEN	CURRENT-NEXT	Apr9 Yorktown+Apr29 Lexington二戦後の機体/搭乗員損耗、serviceable/sortie-ready数を閉じる。	V26:21#12-15
+3	SARATOGA-APR29	OPEN	CURRENT-NEXT	Apr20-May5 return band内のApr29時点でSaratogaがどこまでcombat-readyか閉じる。	V26:21#12-15
+4	DOOLITTLE-RETURN	OPEN	CURRENT-NEXT	Enterprise/HornetのApr21-23級raid後の航海/補給/航空隊再生時計を閉じる。	V26:21#12-15
+5	US-CARRIER-BALANCE	OPEN	AFTER-REGEN	Yorktown/Saratoga/Lexington/Enterprise/Hornetのpost-Apr29 Pacific balanceを再構成。	V26:21#15
+6	JP-NEXT-OP	OPEN	AFTER-REGEN	米日空母state確定後にMI/AL/FS/other次作戦を actor-knowledge込みで再評価。	V26:21#15
+7	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speedを厳密CLOSE。	V26:21#1
+8	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOFを厳密CLOSE。	V26:21#1
+9	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	標準FT fuel type/load/flow/residual fuelとthermal stateを閉じる。	V26:21#1-2
+10	FT-FUSE-PENETRATION	OPEN	PARALLEL-TECH	SAP fuse delay/penetration/structural energy-loss tableを閉じる。	V26:21#2;V26:21#14
+11	APR29-AIRLOSS	OPEN	AFTER-REGEN	Apr29双方の機種別airframe/aircrew loss ledgerを閉じる。	V26:21#14
+12	PM-BASE-GROWTH	WORKING	DEFERRED	Apr18 capture後のairfield/harbor/fuel/service-release growthを再接続。	V26:21#8;V26:21#14
+13	GT-CORE-LIFE	NEXT-DEFERRED	DEFERRED	E5/E6 J・JF scheduled removal/core-life基準をrating別整理。	V26:13#14
+14	GT-FUEL-QUALITY	NEXT-DEFERRED	DEFERRED	Grade A/B/C等のnormal/derated/flight-reject境界を整理。	V26:13#14
+15	GT-RATING-TRADE	NEXT-DEFERRED	DEFERRED	fuel quality×temperature/rating×inspection×core-life debitを閉じる。	V26:13#14
