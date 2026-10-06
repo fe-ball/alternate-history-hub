@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "date": "2026-10-07",
+    "status": "SELECTED_WORKING_REAUDIT_REQUIRED",
+    "authority": "Branch B v100",
+    "canonical_clock": "1944-06-16T14:15",
+    "promote_to_authority": false,
+    "companion_handoff": "96_NEXT_CHAT_SAIPAN_CAMPAIGN_CLOSEOUT_ANOMALY_AUDIT_HANDOFF_v001.md"
+  },
+  "robust_working": {
+    "us_eventual_capture_of_saipan": "GREEN",
+    "us_bridgehead_not_collapsed": "GREEN",
+    "higher_us_cost_than_historical": "GREEN_AMBER",
+    "japanese_external_reinforcement_mechanism": "GREEN_AMBER",
+    "reverse_slope_observation_rework_system": "GREEN_AMBER",
+    "selective_high_value_evacuation_concept": "GREEN_AMBER",
+    "rearguard_and_selective_evacuation_can_coexist": "GREEN",
+    "tinian_guam_forager_schedule_damage": "GREEN_AMBER"
+  },
+  "corrected_conversation_arithmetic": {
+    "us_ground_casualty_baseline_1944_06_26_0600": [
+      9000,
+      11950
+    ],
+    "us_ground_casualty_extreme_envelope_1944_07_07_1800": [
+      13710,
+      19645
+    ],
+    "japanese_added_ground_loss_1944_06_26_0600_to_1944_07_07_1800": [
+      7770,
+      12120
+    ],
+    "note": "Extreme envelope only; not a statistical confidence interval. Rebuild coherent center path."
+  },
+  "mandatory_reopen": {
+    "historical_calendar_snapback": {
+      "status": "RED",
+      "items": [
+        "final_attack_date",
+        "organized_resistance_end_date"
+      ],
+      "reason": "Major earlier divergence was followed by near-historical 6/7 Jul final attack and ~9 Jul closeout."
+    },
+    "final_operation_joint_support": {
+      "status": "RED_AMBER",
+      "reason": "Late replay became too ground-only; reprocess with surviving Marianas Army/Navy aviation, Tinian fire/recon, local artillery/mortars. Do not auto-add mobile-carrier aviation."
+    },
+    "post_25jun_japanese_aviation_wallet": {
+      "status": "RED",
+      "reason": "Late sortie/loss packages were generated before host-by-host MR/crew/repair roll-forward."
+    },
+    "sanshiki_ground_effect": {
+      "status": "RED_AMBER",
+      "reason": "Do not reduce to flash/shock. Re-audit as timed incendiary-fragment airburst for soft exposed targets; poor for runway cratering, deep cover, concrete and armor."
+    },
+    "aslito_operational_ladder": {
+      "status": "AMBER_RED",
+      "stages": [
+        "physical_strip_usable",
+        "emergency_recovery_liaison",
+        "intermittent_patrol_short_fighter_cycle",
+        "limited_tactical_operation",
+        "sustained_tactical_sortie_generation",
+        "mature_base_throughput"
+      ]
+    },
+    "mountain_physical_geometry": {
+      "status": "AMBER_RED",
+      "reason": "Observation function indices must emerge from dated ridge/crest/reverse-slope/route ownership."
+    },
+    "daihatsu_unique_wallet": {
+      "status": "RED_AMBER",
+      "reason": "20-Jun wallet was provisional; later shuttle/combat/evacuation/preservation may double-count craft pools."
+    },
+    "us_reinforcement_architecture_conflict": {
+      "status": "RED",
+      "cases": [
+        "95 handoff center: 77th Infantry Division RCT-class diversion",
+        "later conversation: 1/22 Marines first plus bounded 1st Provisional Marine Brigade support",
+        "mixed escalation: 1/22 first then 77th if stabilization fails"
+      ]
+    },
+    "second_us_battalion_apa_hit": {
+      "status": "AMBER_RED",
+      "tests": [
+        "miss",
+        "one-hit mission kill",
+        "package delayed or not released"
+      ]
+    },
+    "four_bb_29_30jun_intervention": {
+      "status": "AMBER_RED",
+      "reason": "Close fuel, ammunition, DD turnaround, crew fatigue, geometry and ISR; run GO/NO-GO."
+    },
+    "japanese_population_identity": {
+      "status": "RED_AMBER",
+      "reason": "Final attack manpower and isolated cells were not reconciled to total island population."
+    },
+    "combat_engineering_wallet": {
+      "status": "AMBER",
+      "reason": "Observation maintenance, wire, cave work, roads, Aslito denial, Marpi and evacuation routes share labor/plant."
+    },
+    "unryu_timing": {
+      "status": "AMBER",
+      "safe_working": "30 Jun outfitting/completion pipeline; combat credit 0; July completion preferred pending hard construction audit."
+    }
+  },
+  "sanshiki_ground_model": {
+    "strengths": [
+      "exposed_personnel",
+      "gun_crews",
+      "trucks_prime_movers",
+      "parked_aircraft",
+      "ammo_handling",
+      "fuel_tents_wooden_structures",
+      "surface_comms_fdc",
+      "fire_creation_work_interruption"
+    ],
+    "weaknesses": [
+      "runway_cratering",
+      "deep_caves",
+      "concrete",
+      "armor",
+      "well_covered_positions_vs_proper_HE"
+    ],
+    "branch_interaction": [
+      "survey",
+      "registered_target_boxes",
+      "optics",
+      "fire_data",
+      "fixed_ground_time_fuze_setup"
+    ]
+  },
+  "final_operation_required_wallets": [
+    "saipan_ground_population_cohesion_ammo_routes",
+    "tinian_fire_geometry_ammunition_observation",
+    "army_aviation",
+    "navy_local_aviation",
+    "us_aslito_cve_artillery_reserve_illumination_armor"
+  ],
+  "next_chat_priority": [
+    "close_us_reinforcement_architecture_conflict",
+    "close_post_25jun_japanese_aviation_MR",
+    "close_unique_daihatsu_local_craft_wallet",
+    "close_japanese_saipan_population_identity",
+    "map_tapotchau_central_highland_physical_control",
+    "rebuild_aslito_operational_ladder",
+    "reaudit_sanshiki_ground_effect",
+    "rerun_final_operation_without_historical_calendar_anchor",
+    "then_determine_final_attack_date_penetration_depth_us_final_losses_japanese_end_date_evacuation_total",
+    "then_build_tinian_organization_and_post_saipan_posture",
+    "then_build_guam_organization_and_post_saipan_posture"
+  ],
+  "next_chat_start_prompt": "Before Tinian/Guam, close Saipan. Start with the U.S. reinforcement architecture conflict and the post-25-Jun Japanese aviation wallet, then rerun the final operation without historical-calendar anchoring. Keep Sanshiki ground effect open for re-audit."
+}
