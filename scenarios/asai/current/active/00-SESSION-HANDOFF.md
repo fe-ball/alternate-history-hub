@@ -7,167 +7,159 @@ Status: NAVIGATION-ONLY / SOURCE-BOUND ROLLUP / NO CANON PROMOTION
 対象は scenarios/asai の中国戦継続軸（V24 → V25 → V26 → POST-V26 WORKING）。
 
 **正本はV26、正本時計は1941-12-07 14:30 HSTのまま。**
-1942年のIndian Ocean / MO / Port Moresbyはreplay-local WORKINGであり、正本時計の前進ではない。
+1942年のIndian Ocean / MO / Port Moresby / Lexington戦はreplay-local WORKINGであり、正本時計の前進ではない。
 
 最新原文：
-- V26:19 = Indian Ocean Force A決着、夜間分離/撤退、早期MO再演、Port Moresby再収束、FT次回監査handoff
-- V26:20 = そのWORKING decision register
+- V26:21 = FT damage / repair-clock re-audit、Doolittle再配分、MO再伝播、Lexington Apr29戦handoff
+- V26:22 = そのWORKING decision register
 
-## 今回閉じた主要WORKING
+## 今回の主要差分
 
-### Indian Ocean
+### FT
 
-1942-04-05 Force A接触から中央第一撃を再演。
+厳密な標準FTの加速・ramjet capture・巡航/終末速度・実用射程・TOFはまだOPEN。
+会話中の粗い速度/射程値をauthority化しない。
 
-中央第一撃：
-- A6M2 18
-- D3A1 24
-- B5N2 24
-- Type91 12
-- FT 12
+ただし戦闘モデルは以下でCLOSE寄り：
+- routine 10 km級「チキン兵器」として扱わない
+- B5Nでは浅降下/増速のpre-release cueが重要
+- valid release後のmissを全部post-release回避にしない
+- cross-track / lead / release-state / 事前運動 / terminal-corridor missを分離
+- CAPなしCrace型に長い投下後反応時間を与えない
+- SAPは「炸薬量少なめHE」ではなく、大質量高速突入+構造/設備破壊+短延期内部炸裂
+- 標準ramjet FTの高温推進部/残燃料はTNT換算せず、二次火災とdamage-control負荷を上げる
+- exact fuel mass / residual fuelはOPEN
 
-中央結果：
-- Indomitable = carrier mission kill / afloat
-- Formidable = damaged / recoverable
-- 日本側は英夜襲姿勢を認識して高速離脱
-- 英ASV夜間捜索はstrike-quality再接触に至らず、夜襲なし
-- 日本空母艦載電探はこの時点では置かない
-- 英退避航路への日本潜水艦脅威は実在するが、中央では高品質雷撃射点なし
+### 修理時計
 
-### Doolittle
+最新WORKING：
+- Enterprise: no-I-75枝、frontline return Mar20-Apr1級 / center Mar25
+- Wake Saratoga: FT/HE1 + FT/SAP1を含む重修理でfrontline return Apr20-May5級 / center Apr27
+- Yorktown Apr9: deep reconstruction、late-Aug-Sep級return計画
+- Formidable: weeks-scale repair、late-May-Jun級full normal return計画
+- Indomitable: major-yard repair、Jul-Aug級return計画
+- Chicago Apr12: late-Jun-Jul級return計画
+- Australia Apr12: mid/late-May級return計画
 
-Doolittle型作戦は削除しない。
-ただし史実1942-04-18は固定しない。
+## MO再演 — 最新中央
 
-**現在：DEFERRED / OPEN**
+### Apr9 Yorktown
 
-### MO再演
+中央hit packet維持：
+- D3A SAP x2
+- Type91 x1
+- FT/HE x1
+- FT-IR/SAP x1
 
-旧V26:12-14の結果維持を目的とせず、Tulagi後から再演。
+offensive-carrier mission kill / afloat / self-propelled。
+火災は制御可能でも艦内航空支援・電装・換気・構造は大規模再建を要する。
 
-主要中央：
-- CarDiv5は史実May2-3のZero-ferry weather delayを自動継承しない
-- Tulagi raidは保持
-- H6K/H7Y searchでYorktown再接触
-- Apr9 Yorktown = offensive-carrier mission kill
-- Apr10 Saratoga = offensive-carrier mission kill
-- Apr10 Shokaku = 1000lb級2発でcarrier mission kill
-- Zuikaku = direct hit 0 central / combat effective
-- Shokakuは発艦不能だがlimited emergency landing可
-- 少数のShokaku機をShohoへ緊急再配分
-- Shohoは旧枝のSaratoga被弾を受けず健在
-- Apr12 G4M/FT+Type91でCrace阻止部隊を攻撃
-  - Chicago = Type91 x1
-  - Australia = FT-IR/SAP x1
-  - CraceはJomard直接阻止を断念
-- 旧Apr16 Crace水上戦は削除
-- early-P39も削除
-- Jomard route retained
-- Apr16 Taurama landing
-- Apr17 Kila Kila
-- Apr18 Seven Mile
-- Apr19 Port Moresby physical capture
+### Apr10旧Saratoga/Shokaku戦
 
-Apr19以後は旧base-growth-race骨格へ概ね再収束する。
-ただし：
-- Shoho健在
-- Shokaku撤退
-- Zuikaku航空隊は摩耗・再編済み
-- FT/陸攻/H7Y/H6Kの分業が強い
-- 基地release時計は物理的に妥当な範囲で約1日前倒し
+**SUPERSEDED / DELETE-OLD-EVENT**
 
-を持ち越す。
+SaratogaはWake損傷の修理時計からApr10にcombat-presentではない。
 
-## 重要な新しい技術問題
+従って：
+- Apr10 Saratoga被攻撃なし
+- Apr10 Saratoga counterstrikeなし
+- Apr10 Shokaku 1000lb x2 damageなし
+- Shokaku / ZuikakuはApr9後も戦闘可能
 
-今回の再演ではFT回避を主に：
-- 母機の接近/攻撃姿勢
-- 敵側の事前情報
-- FT/Type91/D3Aのmixed geometry
+### Apr12 Crace
 
-から処理した。
+G4M16 / Type91 8 / FT 8。
+valid release Type91 6 / FT 7。
 
-しかし、**標準FTそのものの最終巡航/terminal speed、実用投下距離、time-of-flightを秒単位ではまだCLOSEしていない。**
+最新中央：
+- Chicago = FT/HE x1 + Type91 x1
+- Australia = FT-IR/SAP x1
+- FT direct hit total = 2
+- CraceはJomard直接阻止断念
+- 旧Apr16 Crace水上戦は発生しない
 
-このため、過去の戦闘で防御側へ与えた反応時間が過大だった可能性がある。
+### Doolittle型作戦
 
-特に：
-- CAPなし
-- FT母機を追い払えない
-- weapon release後の回避が主になる
+最新中央：
+- Enterprise + Hornet
+- raid window Apr21-23級 / center Apr22
+- Yorktown Apr9被弾後も中央では作戦を続行
+- LexingtonをMO緊急増援へ回す
 
-Crace型ケースは再監査感度が高い。
+### Port Moresby
 
-一方Yorktown/Saratogaは：
-- radar warning
-- fighter interception
-- B5N approach cue
-- prior FT intelligence
+局地空母優勢窓とCrace後退を受け、物理時計を壊さない範囲で約1日前倒し。
 
-があるため、問題の中心はweaponを見てからではなくpre-release cueだった。
+中央：
+- Apr15 Taurama landing
+- Apr16 Kila Kila
+- Apr17 Seven Mile
+- Apr18 Port Moresby physical capture
 
-## 母機別FTの重要差
+capture ≠ service release。
+航空基地・港湾・燃料・荷役・航路安全は別時計。
 
-B5N：
-- 浅降下/増速のattack setupが比較的見えやすい
-- 既存working release envelopeは350–380 km/h級
-- pre-release warningが相対的に長い
+### Lexington
 
-高速母機：
-- release conditionへ入るための増速操作が短い/不要化しやすい
-- weapon-side ramjet transitionも短くなり得る
-- FTは単なるstandoff weaponではなく**short-warning snap-release weapon**へ性格が変わる可能性がある
+中央：
+- Apr10 emergency order
+- Apr11 Pearl departure class
+- Apr25-27 Coral Sea outer approach / center Apr27
+- Apr27 H7Y CONTACT-1/2
+- Apr28 H6K/H7Y update → CONTACT-3-like track
+- Apr29 carrier action
 
-ただし、store-separation / adapter / q qualificationを閉じる前に任意の高速投下を認めない。
+Apr29中央：
+- Japan: A6M18 + D3A27 + B5N27級
+- Lexington: D3A bomb2 + Type91x2 + FTx2(HE1/SAP1級)
+- Lexington = carrier mission kill → 二次火災/爆発悪化 → abandoned / scuttled-or-sunk central
+- Lexington counterstrike = F4F8 + SBD26-28 + TBD10-12級
+- Shokaku = 1000lb-class bomb x2 / carrier mission kill / afloat / withdraw
+- Zuikaku = direct hit 0 / hull combat-effective
 
-H8K用FT：
-- interface提案段階
-- rocket-assisted ramjet FT + drop/ejector armも提案段階
-- combat-presentではない
+旧Apr10枝とは別ルートでShokaku mission kill / Zuikaku intactへ再収束する。
 
-## CURRENT NEXT — USER-DIRECT
+## 日本側情報
 
-次回はキャンペーンを進める前に、**FT性能を数値から再確認する。**
+神視点は禁止。
 
-順序：
+使う：
+- H7Y outer search
+- H6K track update
+- E13A/B5N local/tactical search
+- radio flash reports
+- traffic analysis / DF / stronger cryptologic institutions
 
-1. 標準FTのpost-release加速 / ramjet capture / cruise / terminal speedをCLOSE
-2. 実用release rangeを母機別にCLOSE
-   - B5N
-   - G3M/G4M
-   - 高速G4As / E6 Twin級
-   - 将来H8K / rocket-assisted枝は別
-3. defender reaction timelineをCLOSE
-   - 母機発見
-   - attack cue
-   - weapon detection
-   - time of flight
-   - 艦の回頭時間
-4. 母機別のFT最適運用を再設計
-5. **投下距離を不必要に長く取り、FTを過度に慎重な「チキン兵器」にしていないか監査**
-6. 新モデルで既戦闘を再検証
-   - Enterprise
-   - Force Z
-   - Wake / Saratoga
-   - Feb20 Lexington
-   - Indian Ocean Force A
-   - Apr9 Yorktown
-   - Apr10 Saratoga
-   - Apr12 Crace
+使わない：
+- named U.S. cipherの自動解読
+- exact repair completion dateの自動把握
+- exact carrier positionのtraffic-only魔法
 
-**過去のhit packetを結果維持のために保護しない。**
-新しい速度/射程/反応モデルと矛盾するなら、その戦闘を再OPENする。
+Apr10-11の合理的判断は：
+**「Yorktown一隻を止め、直近第二空母は見つからない。数日の局地優勢窓はありそうだが、増援空母は後から来る」**
 
-Secondary deferred:
-- Doolittle型作戦の日程/空母配分
-- base-growth raceの大局観測
-- GT core-life × fuel-quality × rating gate
+## CURRENT NEXT
+
+Apr29後のcarrier-force stateから再開。
+
+1. Shokaku repair / return clock
+2. ZuikakuのApr9+Apr29 airframe / aircrew / serviceability ledger
+3. Saratoga exact late-Apr readiness
+4. Enterprise/Hornet post-Doolittle return / replenishment
+5. U.S. Pacific carrier balance再構成
+6. その後に日本のMI / AL / FS / other next-operation choice
+
+Parallel technical follow-up:
+- FT exact speed / acceleration / range / TOF
+- exact FT fuel load / residual fuel
+- exact fuse-delay / penetration tables
+
+これらは今後もOPENだが、キャンペーン継続のhard blockerにはしない。
 
 ## 優先して読む原文
 
-1. V26:19
-2. V26:20
-3. FT technical study
+1. V26:21
+2. V26:22
+3. V26:19 / 20（旧Apr10枝のsuperseded点に注意）
 4. V26:17 / 18
-5. V26:16
-6. V26:12–14（旧MO枝。置換点に注意）
+5. FT technical study
