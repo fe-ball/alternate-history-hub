@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "navigation_revision": "2026-10-05",
+  "navigation_revision": "2026-10-06",
   "kind": "NAVIGATION-ONLY-NO-CANON-PROMOTION",
   "scenario_id": "asai",
   "repository": "fe-ball/alternate-history-hub",
@@ -18,52 +18,49 @@
     "Japan_China": "WAR-CONTINUES"
   },
   "working_history": {
-    "latest_campaign_close": "Replay-local working has now resolved the 1942-04-05 Indian Ocean Force A carrier action and propagated the FT/Q1 differences through an early-MO replay to Port Moresby physical capture on 1942-04-19; post-capture base-growth remains working and no canon clock promotion occurred.",
+    "latest_campaign_close": "Replay-local working now carries the FT damage/repair audit through revised early-MO: Saratoga is unavailable on Apr10, the old Apr10 Saratoga/Shokaku battle is superseded, Crace is interdicted on Apr12, Port Moresby is physically captured on Apr18, and Lexington is lost in an Apr29-class carrier action while Shokaku is mission-killed and Zuikaku remains combat-effective; no canon clock promotion occurred.",
     "status": "WORKING",
-    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga; airlift/AT-3; FT technical/doctrine re-audit; 1942Q1 Makassar/Timor/Lexington/Lae propagation; Indian Ocean Force A resolution and night disengagement; early-MO Tulagi/Yorktown/Saratoga/Shokaku exchange; Crace air interdiction; Port Moresby replay through 1942-04-19; FT numerical speed/range/reaction audit now open.",
+    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; post-Apr29 carrier-regeneration frontier.",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
       "1942 AT-3 prototype and procurement plans",
       "First Indian Ocean / western-base working discussion",
-      "Doolittle-type raid working gate",
-      "Early-MO replay through 1942-04-30 evening",
-      "Port Moresby capture and post-capture base-air buildup",
-      "Lexington / Zuikaku carrier-contact gate",
-      "FT tactical/warhead/production re-audit",
+      "Doolittle-type raid Apr21-23-class working branch",
+      "FT tactical/warhead/production/damage re-audit",
       "1942Q1 Makassar/Timor/Lexington/Lae propagation",
-      "First Indian Ocean Apr 5 Force A search/contact branch",
-      "Indian Ocean Apr 5 Force A daylight strike / British night-strike posture / Japanese disengagement",
-      "Early-MO replay replacing portions of the preserved Apr branch",
-      "Apr 9 Yorktown mission kill",
-      "Apr 10 Saratoga and Shokaku mission kills",
-      "Apr 12 Crace G4M/FT interdiction",
-      "Port Moresby physical capture Apr 19 replay-local",
-      "FT numerical speed / release range / mother-aircraft optimization re-audit"
+      "Indian Ocean Apr5 Force A daylight strike / night disengagement",
+      "Apr9 Yorktown mission kill and deep-repair planning",
+      "Apr10 Saratoga/Shokaku replay marked SUPERSEDED by repair-clock audit",
+      "Apr12 Crace G4M/FT interdiction with two FT hits central",
+      "Port Moresby physical capture Apr18 replay-local",
+      "Apr27-29 Lexington approach / CarDiv5 replay",
+      "Apr29 Lexington loss / Shokaku mission kill / Zuikaku combat-effective state",
+      "post-Apr29 carrier repair / air-group regeneration planning"
     ]
   },
   "discussion_frontier": {
     "completed": [
-      "Pearl / Enterprise continuation",
+      "Pearl / Enterprise continuation and no-I-75 latest working branch",
       "Southern operations sampled locally",
-      "Wake / Saratoga continuation and FT re-audit",
+      "Wake / Saratoga continuation and repair-clock rebase",
       "1941 airlift WORKING-CLOSE",
       "AT-3 working technical re-audit",
-      "FT technical model: cross-track/run-on/HE-SAP/IR semantics",
+      "FT cross-track/run-on/HE-SAP/IR semantics and kinetic/internal/fire damage reinterpretation",
       "Prewar FT+Type91 doctrine reinterpretation",
-      "1942Q1 FT production working ramp",
-      "Makassar / Timor / Lexington-Rabaul / Lae-Salamaua FT propagation",
-      "Indian Ocean three-carrier Force A contact and daylight strike replay",
-      "Indomitable carrier mission kill / Formidable damaged central",
-      "British conditional night-strike posture and Japanese night disengagement",
-      "Early-MO Tulagi/Yorktown replay",
-      "Apr10 Saratoga / Shokaku carrier exchange replay",
-      "Apr12 Crace air-interdiction replay",
-      "Port Moresby physical capture Apr19 replay-local and re-convergence to base-growth branch"
+      "1942Q1 Makassar / Timor / Lexington-Rabaul / Lae-Salamaua FT propagation audit",
+      "Indian Ocean three-carrier Force A action / night disengagement",
+      "Apr9 Yorktown mission kill and repair re-audit",
+      "Apr10 Saratoga/Shokaku branch superseded because Saratoga is not combat-ready",
+      "Apr12 Crace air interdiction revised to two FT direct hits central",
+      "Doolittle-type Enterprise+Hornet allocation, Apr21-23 class",
+      "Revised early-MO: Apr15 Taurama / Apr18 Port Moresby physical capture",
+      "Lexington emergency reinforcement / H7Y-H6K tracking / Apr29 CarDiv5 carrier action",
+      "Apr29 Lexington loss / Shokaku mission kill / Zuikaku intact-hull central"
     ],
-    "next_gate": "Before further campaign continuation, numerically re-audit FT performance: close standard-FT post-release acceleration, ramjet capture, cruise/terminal speed, practical release ranges and time-of-flight; distinguish B5N, G3M/G4M, high-speed G4As/E6-Twin-class and future H8K/rocket-assisted branches; close defender reaction timeline and verify whether prior releases were set unrealistically long ('chicken weapon'). Then revalidate Enterprise, Force Z, Wake/Saratoga, Feb20 Lexington, Indian Ocean, Apr9 Yorktown, Apr10 Saratoga and Apr12 Crace without preserving prior hit packets.",
-    "next_gate_source": "V26:19#10-12;V26:20#FT-NUMERIC-SPEED..FT-PAST-COMBAT-VALIDATION",
-    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr19 Port Moresby physical capture is working replay state, and further campaign progression is paused for FT performance re-audit."
+    "next_gate": "Resume from the post-Apr29 carrier-force state: close Shokaku repair/return clock, Zuikaku airframe-aircrew-serviceability losses after Yorktown+Lexington, Saratoga exact late-April readiness, and Enterprise/Hornet post-Doolittle return/replenishment; then reconstruct the U.S. Pacific carrier balance before choosing Japan's next major operation (MI/AL/FS/other). Keep rigorous FT numerical speed/range/TOF/fuel closure as a parallel technical follow-up, not a blocker and not an excuse to promote earlier rough numbers.",
+    "next_gate_source": "V26:21#15;V26:22#NEXT-SHOKAKU..NEXT-STRATEGY",
+    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; latest replay frontier is the Apr29-class Lexington vs CarDiv5 action, while V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
     "current/active/00-SESSION-HANDOFF.md",
@@ -156,6 +153,14 @@
     "V26:20": {
       "path": "records/V26/20-POST-V26-INDIAN-OCEAN-MO-REPLAY-WORKING-DECISION-REGISTER-2026-10-05.tsv",
       "blob_sha": "072d813556851a85a66dc2c7de3382f9c9a57804"
+    },
+    "V26:21": {
+      "path": "records/V26/21-POST-V26-FT-REPAIR-MO-LEXINGTON-WORKING-HANDOFF-2026-10-06.md",
+      "blob_sha": "83f9d0f153c8a7a6b2674739e816438ad43a7937"
+    },
+    "V26:22": {
+      "path": "records/V26/22-POST-V26-FT-REPAIR-MO-LEXINGTON-WORKING-DECISION-REGISTER-2026-10-06.tsv",
+      "blob_sha": "67193525ce859b082acebbc14410c1a10e05d63a"
     }
   },
   "lineage_sources": [
@@ -163,7 +168,7 @@
     "records/V25/00-SESSION-HANDOFF-V25.md"
   ],
   "source_routes": "navigation/SOURCE-ROUTES.json",
-  "verified_source_commit": "33bbe3180598d709d135b461c801569f8e10f333",
+  "verified_source_commit": "75a45b79ed79d378276311469de91bc646c8d7c2",
   "freshness_rule": "Compare same-axis handoffs/registers/checkpoints/progress and tree inventory. New or changed sources require review and manifest update; neither this pointer nor file mtime wins over contradictory explicit branch evidence.",
   "default_search_scope": [
     "current/active",
@@ -191,5 +196,5 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-05-indian-ocean-mo-replay-and-ft-performance-reaudit-frontier"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-06-ft-repair-mo-lexington-apr29-frontier"
 }
