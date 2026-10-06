@@ -1,0 +1,44 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26正本時計1941-12-07T14:30:00-10:30を維持。1942 replay-local workingを正本昇格させない。	V26:01;V26:21
+FT-NUMERIC	OPEN	DEFERRED-TECH	標準FTのpost-release加速/ramjet capture/cruise-terminal speed/practical range/TOFは厳密数値CLOSE未了。会話中の粗い数値推定をauthority化しない。	V26:21#1
+FT-DAMAGE-SAP	WORKING-CLOSE	DAMAGE-MODEL	FT/SAPは高速大質量突入+構造/設備破壊+短延期内部炸裂で扱う。重艦AP弾同等の主装甲貫徹兵器にはしない。	V26:21#2.1
+FT-DAMAGE-FIRE	WORKING	DAMAGE-MODEL	標準ramjet FTの高温推進部/残燃料はTNT換算せず、貫入後の二次火災確率・多点着火・damage-control負荷を上げる。燃料量はOPEN。	V26:21#2.3
+ENT-I75	WORKING	SUPERSEDING-REPLAY	最新会話中央ではDec8 I-75のEnterprise高品質雷撃射点なし/命中なし。旧追加shaft-strut損傷を削除。	V26:21#3.1
+ENT-RETURN	WORKING-PLAN	REPAIR-CLOCK	Enterprise frontline returnはMar20-Apr1級、中央Mar25。no-I75枝の修理/試験/航空隊回復を反映。	V26:21#3.1
+FORCEZ-FT	WORKING-CLOSE	RETAIN	Force ZはFT/HE上部抑圧+Type91水中損傷+SAP exploitationを維持。FTを主装甲帯/主沈没機構にはしない。	V26:21#3.2
+WAKE-SARA-TYPES	WORKING-CLOSE	REPLAY-LOCAL	Wake Saratoga中央FT命中はHE1+SAP1を維持。	V26:21#3.3
+WAKE-SARA-RETURN	WORKING-PLAN	SUPERSEDING-REPAIR	Saratoga frontline returnをApr20-May5級、中央Apr27へ後ろ倒し。旧Mar20-Apr5帯を置換。	V26:21#3.3
+Q1-MAKASSAR-TIMOR	WORKING-CLOSE	RETAIN	Makassar/Timor/Darwinは顕著なFT概念誤りなし。TimorはFT-GR/HEで標準ramjet FTと混同しない。	V26:21#3.4
+FEB20-LEX	WORKING-CLOSE	RETAIN	Feb20 Lexingtonはradar CAP有効、FT/SAP約1発中央、局所航空支援/電装/換気損傷。Mar10以前の戦闘復帰は維持可能。	V26:21#3.5
+IO-INDOMITABLE	WORKING	RETAIN	Apr5 Indomitable=D3A2+Type91x1+FT/HE1+FT-IR/SAP1、carrier mission kill/afloat。追加hit/sinkingは足さない。	V26:21#3.6
+IO-FORMIDABLE	WORKING	RETAIN	Apr5 Formidable=D3A2+Type91x1+FT/HE1、damaged/recoverable、中央mission killなし。	V26:21#3.6
+YORKTOWN-HITS	WORKING-CLOSE	REPLAY-LOCAL	Apr9 Yorktown=D3A SAP2+Type91x1+FT/HE1+FT-IR/SAP1。FT有効8/命中2を「6発post-release回避」と解釈しない。	V26:21#3.7
+YORKTOWN-RETURN	WORKING-PLAN	REPAIR-CLOCK	Yorktownは重度内部再建。late-Aug-Sep級frontline returnを中央計画帯とする。	V26:21#3.7
+MO-APR10-SARATOGA	SUPERSEDED	DELETE-OLD-EVENT	SaratogaがApr10 MOに間に合わないためV26:19のApr10対Saratoga攻撃/mission killを削除。	V26:21#3.8
+MO-APR10-US-COUNTER	SUPERSEDED	DELETE-OLD-EVENT	Apr10 Saratoga counterstrikeを削除。	V26:21#3.8
+MO-APR10-SHOKAKU	SUPERSEDED	DELETE-OLD-EVENT	Apr10 Shokaku 1000lb級2発mission killを削除。Shokaku/ZuikakuはApr9後も戦闘可能。	V26:21#3.8
+CRACE-FT	WORKING	SUPERSEDING-REPLAY	Apr12 G4M16/FT8/Type918。valid FT7から中央2hitへ修正。Chicago=FT/HE1+Type91x1、Australia=FT-IR/SAP1。	V26:21#3.9
+CRACE-RESULT	WORKING-CLOSE	REPLAY-LOCAL	CraceはJomard直接阻止を断念して南/南東へ後退。後続Apr16水上戦は中央で発生しない。	V26:21#3.9
+CHICAGO-REPAIR	WORKING-PLAN	REPAIR-CLOCK	ChicagoはFT/HE+Type91損傷後、frontline return late-Jun-Jul級を計画帯とする。	V26:21#3.9
+AUSTRALIA-REPAIR	WORKING-PLAN	REPAIR-CLOCK	AustraliaはFT-IR/SAP内部損傷。深修理3-6週級、normal return mid/late-May級計画。	V26:21#3.9
+FT-TYPE-MAP	WORKING-CLOSE	REPLAY-LOCAL	Enterprise/ForceZ/Wake/Q1/Indian Ocean/Yorktown/Craceの中央FT hit-type mappingをV26:21#4で保持。	V26:21#4
+US-CARRIER-APR8	WORKING-CLOSE	STATE	Apr8-10: Yorktown combat-present、Enterprise late-Mar復帰、Saratoga未復帰、Lexington combat-capable、Hornet special-mission拘束。	V26:21#5
+DOOLITTLE	WORKING	SUPERSEDING-REPLAY	Enterprise+HornetでDoolittle型作戦続行。Apr21-23級/中央Apr22。Yorktown被弾後も中央では中止せずLexingtonをMOへ送る。	V26:21#6
+JP-INTEL	WORKING-CLOSE	ACTOR-KNOWLEDGE	日本は米空母repair/movementを神視点で知らない。H7Y/H6K/E13A+traffic analysisで確率的に統合し、named cipher/plaintextを自動付与しない。	V26:21#7
+JP-LOCAL-SUPERIORITY	WORKING	ACTOR-JUDGMENT	Apr10-11日本はYorktown撃破+第二空母未発見から「数日の局地空母優勢窓」を高確率評価。ただし増援空母到来リスクを残す。	V26:21#7.2
+MO-PM-CLOCK	WORKING	SUPERSEDING-REPLAY	最新中央はApr15 Taurama→Apr16 Kila Kila→Apr17 Seven Mile→Apr18 Port Moresby physical capture。旧Apr16-19時計を約1日前倒し。	V26:21#8
+LEX-ORDER	WORKING	REPLAY-LOCAL	Yorktown mission kill後、LexingtonにApr10緊急南下命令、Apr11 Pearl出港級。	V26:21#9
+LEX-APPROACH	WORKING	REPLAY-LOCAL	Lexington Coral Sea outer approach Apr25-27級、中央Apr27。	V26:21#9.2
+LEX-H7Y-CONTACT	WORKING	REPLAY-LOCAL	Apr27 H7Yが高速空母TFをCONTACT-1/2で捕捉。即strike-qualityではなく翌日H6K/H7Y更新が必要。	V26:21#10
+LEX-TRACK	WORKING	REPLAY-LOCAL	Apr28 H6K/H7Y更新でCONTACT-3-like moving track中央。Lexingtonはradar/CAP/針路変更でstale geometryを崩す。	V26:21#10
+APR29-SEARCH	WORKING	REPLAY-LOCAL	Apr29は日本が前日trackにより先に戦術再接触/先発進、LexingtonもSBD発見後counterstrike発進。甲板上全滅奇襲にはしない。	V26:21#11.1
+APR29-JP-STRIKE	WORKING	REPLAY-LOCAL	CarDiv5中央strike A6M18+D3A27+B5N27級、Type91約13-14+FT約13-14。	V26:21#11.2
+APR29-LEX-DAMAGE	WORKING	REPLAY-LOCAL	Lexington中央=D3A bomb2+Type91x2+FTx2(HE1/SAP1級)。carrier mission kill後、二次火災/爆発悪化で放棄・自沈/沈没中央。	V26:21#11.3
+APR29-US-STRIKE	WORKING	REPLAY-LOCAL	Lexington counterstrike F4F8+SBD26-28+TBD10-12級。	V26:21#11.4
+APR29-SHOKAKU	WORKING	REPLAY-LOCAL	Shokaku=1000lb級bomb2、carrier mission kill/afloat/withdraw、limited emergency landing conditional。	V26:21#11.4
+APR29-ZUIKAKU	WORKING	REPLAY-LOCAL	Zuikaku direct hit 0 central、combat effective。ただしApr9+Apr29のair-group attritionを別計上する。	V26:21#11.4
+MO-LATEST-STATE	WORKING-CLOSE	CONTINUITY	Apr29後: Lexington lost、Shokaku mission kill、Zuikaku combat effective、Shoho健在、Port Moresby Apr18 physical capture。Yorktown/Saratoga/Enterprise/Hornetは各repair/mission clockを保持。	V26:21#12
+NEXT-SHOKAKU	OPEN	CURRENT-NEXT	Apr29 Shokaku修理/return clockを閉じる。	V26:21#15
+NEXT-ZUIKAKU	OPEN	CURRENT-NEXT	Yorktown+Lexington二戦後のZuikaku airframe/aircrew/serviceability ledgerを閉じる。	V26:21#15
+NEXT-US-CARRIERS	OPEN	CURRENT-NEXT	Saratoga late-Apr readinessとEnterprise/Hornet Doolittle帰還/再補給を閉じ、米太平洋空母stateを再構成する。	V26:21#15
+NEXT-STRATEGY	OPEN	AFTER-REGEN	上記再生後、日本のMI/AL/FS/その他次作戦選択を再評価する。	V26:21#15
