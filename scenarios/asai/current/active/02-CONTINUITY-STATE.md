@@ -180,3 +180,20 @@ The 0-hit and 2-hit branches remain explicit sensitivity tails only.
 
 Current next:
 Apr29 aircraft/aircrew losses -> Zuikaku and carrier-air-group regeneration -> final MI OOB.
+
+
+## 2026-10-08 Apr29 air loss and Zuikaku regeneration
+
+V26:35-36 close Apr29 aircraft/aircrew losses:
+- Japan irreversible 16 / aviation KIA-MIA 25 central;
+- Lexington physical air-group loss 72, but only 20 are direct combat losses;
+- Lexington aviation KIA-MIA ~44 central, with large rescued trained-aircrew remainder.
+
+V26:37-38 close Zuikaku MI regeneration:
+- 64 serviceable / 60 24h sortie-ready;
+- Gaifu12 / A6M10 / D3A20 / D4Y2 / B5N16 / B6N4 serviceable;
+- Type91 28 / FT 24 carried;
+- Shokaku remains out of MI central.
+
+Current next:
+remaining Japanese carrier air groups -> U.S. carrier balance -> final MI OOB.
