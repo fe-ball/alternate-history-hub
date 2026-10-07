@@ -82,7 +82,7 @@ HIST-01の1910年催事と1930年の混同はFIXED。出展計画の具体的催
 
 ## 2026-10-07 航空複合材・推進統合WORKINGの編入
 
-ユーザーの「ここでチャット限界、Github編入」により、直前会話の航空材料・プロペラ・機体統合検討を [Aviation_Composite_Integration_1933_1942.md](../current/Aviation_Composite_Integration_1933_1942.md) と関連文書へ永続化した。
+ユーザーの「ここでチャット限界、Github編入」により、直前会話の航空材料・プロペラ・機体統合検討を [Aviation_Composite_Integration_1933_1942.md](../current/active/Aviation_Composite_Integration_1933_1942.md) と関連文書へ永続化した。
 
 ### 採用した設計判断
 
