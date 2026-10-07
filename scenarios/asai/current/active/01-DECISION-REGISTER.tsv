@@ -81,3 +81,8 @@ MI-US-CARRIER-TIMING	WORKING-CLOSE	DEPLOYMENT	Saratoga Pearl May7 center; Enterp
 MI-US-AIR-TOTAL	WORKING-CLOSE	FINAL-OOB	Enterprise/Hornet/Saratoga serviceable232/24h-ready221; Yorktown absent, Lexington lost。	V26:41-44
 MI-FINAL-OOB	WORKING-CLOSE	ROLLED-FORWARD	日米carrier/screen/radar/AA/ASW/ordnance/Midway land airをV26:43-44で統合済み。	V26:43-44
 NEXT-MI-GEOMETRY	OPEN	CURRENT-NEXT	Jun3-4 starting geometry/search allocation/first contact timing-qualityを再演。	V26:43-44
+MI-START-GEOMETRY	WORKING-CLOSE	COMBAT-GEOMETRY	Jun4 0430 JP core~230-250nm NW Midway; US carrier center~190-220nm NE/E of JP core; Saratoga group15-25nm separated central。	V26:45-46
+MI-US-FIRST-CONTACT	WORKING-CLOSE	ACTOR-KNOWLEDGE	Midway PBY JP carrier-force sighting0530-0545/center0538; moving track by0550-0600。	V26:45-46
+MI-JP-FIRST-CONTACT	WORKING-CLOSE	ACTOR-KNOWLEDGE	D4Y finds Enterprise/Hornet0615-0630/center0622; separate Saratoga group0640-0700/center0650。	V26:45-46
+MI-INFO-RACE	WORKING-CLOSE	COMBAT-GEOMETRY	US first useful carrier-position advantage retained; Japanese carrier-blind interval shortened; both launch-quality by~0700。	V26:45-46
+NEXT-MI-STRIKE-PACKAGES	OPEN	CURRENT-NEXT	US first strike + Japanese counterstrike + Midway land-air allocationを閉じる。	V26:45-46
