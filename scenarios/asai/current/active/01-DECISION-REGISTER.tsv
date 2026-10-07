@@ -63,3 +63,8 @@ MI-TYPE91-EMBARKED	WORKING-CLOSE	ORDNANCE-ALLOCATION	Type91 Mod2 embarked=148: A
 MI-TYPE93-CARRIED	WORKING-CLOSE	ORDNANCE-ALLOCATION	carrier-support Type93 physical carried=334、ready171/reload163。12 modern DD192、outer DD54、Tone/Chikuma/Takao/Maya88。	V26:31-32
 NEXT-ORDNANCE	WORKING-CLOSE	ROLLED-FORWARD	旧current-nextのordnance stock/allocation gateはV26:31-32で閉鎖。generic FT countへ戻らない。	V26:27-32
 NEXT-SHOKAKU-HIT	OPEN	CURRENT-NEXT	次はV26:25防空状態を使いApr29 Shokaku 0-2 direct-hit branchのhit count/location/damageを判定。	V26:25;V26:31-32
+APR29-SHOKAKU-HITCOUNT	WORKING-CLOSE	REPLAY-LOCAL	V26:25の0-2 direct-hit branchから1x1000lb-class direct hitをcentral continuationに採用。0/2-hit tailsはsensitivity。	V26:25;V26:33-34
+APR29-SHOKAKU-LOCATION	WORKING-CLOSE	DAMAGE-MODEL	forward-starboard/island-adjacent flight deck→upper hangar/aviation-support hit central。machinery/waterline/magazine/avgas catastropheなし。	V26:33-34
+SHOKAKU-REPAIR	WORKING-PLAN	REPAIR-CLOCK	frontline carrier-ready fast Jun5-7/center Jun9-11/slow Jun14-18。	V26:33-34
+SHOKAKU-MI	WORKING-CLOSE	FORCE-STATE	MI combat-present=NO central。MIはShokaku return待ちにしない。	V26:23;V26:33-34
+NEXT-AIRLOSS	OPEN	CURRENT-NEXT	Apr29双方のairframe/aircrew loss ledgerをV26:25 defense stateで閉じる。	V26:25;V26:33-34
