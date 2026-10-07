@@ -1,10 +1,10 @@
 {
   "scenario_id": "resin-impregnation",
-  "authority_version": "source-audit-2",
-  "updated_on": "2026-10-06",
+  "authority_version": "source-audit-2 + aviation-integration-working-2026-10-07",
+  "updated_on": "2026-10-07",
   "canonical_clock": null,
   "clock_state": "no-single-clock-designated",
-  "state": "imported-design-documents-with-corrections-and-open-feasibility-gates",
+  "state": "imported-design-documents-with-corrections-plus-aviation-composite-propulsion-working-integration",
   "entrypoint": "../00-READ-FIRST.md",
   "rules": "../SCENARIO-RULES.md",
   "constraints": "User_Narrative_Constraints.md",
@@ -44,5 +44,7 @@
   ],
   "source_audit": "../audit/SOURCE-AUDIT.md",
   "coverage": "../audit/COVERAGE.json",
-  "finance_scope": "../audit/FINANCE-COVERAGE.json"
+  "finance_scope": "../audit/FINANCE-COVERAGE.json",
+  "aviation_integration": "Aviation_Composite_Integration_1933_1942.md",
+  "discussion_frontier": "Deep-dive large-aircraft airframe material gains: 5-go late 1300hp, G3M late, G4M from clean-sheet material/prop assumptions, then four-engine flying boat; quantify airframe mass, reallocation to protection/fuel/payload, prop/nacelle/feathering, one-engine performance, range and vibration."
 }
