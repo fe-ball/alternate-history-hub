@@ -2,7 +2,7 @@
 
 > 2026-10-07会話編入。これは単一の作中時計を進める記録ではなく、既存の材料・航空事業設定を接続するための設計基準・候補機・試算である。性能、価格、採用、量産数は個別に **WORKING / OPEN / QUALIFICATION REQUIRED** とし、試作成功・軍採用・量産達成を自動認定しない。
 >
-> 本資料は [CFRP_Complete.md](CFRP_Complete.md)、[Carbon_Material_Hierarchy.md](Carbon_Material_Hierarchy.md)、[Propeller_Technology_Timeline.md](Propeller_Technology_Timeline.md)、[Aviation_Fleet_List.md](Aviation_Fleet_List.md)、[Seaplane_Strategy.md](Seaplane_Strategy.md) の航空統合用入口とする。衝突する旧記述では本資料と2026-10-07以後の追補を優先する。
+> 本資料は [CFRP_Complete.md](../CFRP_Complete.md)、[Carbon_Material_Hierarchy.md](../Carbon_Material_Hierarchy.md)、[Propeller_Technology_Timeline.md](../Propeller_Technology_Timeline.md)、[Aviation_Fleet_List.md](../Aviation_Fleet_List.md)、[Seaplane_Strategy.md](../Seaplane_Strategy.md) の航空統合用入口とする。衝突する旧記述では本資料と2026-10-07以後の追補を優先する。
 
 ---
 
@@ -746,4 +746,4 @@ PAN-CF低シャンク3翅の初期量産目標：
 - PAN前駆体の1930年代量産は未来知識で研究方向を前倒しできても、紡糸・安定化・炭素化・QC・合弁設備の実装が必要。
 - プロペラ性能は軸出力、rpm、直径、弦長分布、捩り、翼型、ハブ、機体速度、空気密度を揃えて評価する。
 - 軍採用、量産数、戦果は本資料から自動確定しない。
-- 財務ECNへ新価格/売上を追加する場合は [Master_Parameters.md](Master_Parameters.md) → [Revenue_Model.md](Revenue_Model.md) → 参照文書の順で同期する。
+- 財務ECNへ新価格/売上を追加する場合は [Master_Parameters.md](../Master_Parameters.md) → [Revenue_Model.md](../Revenue_Model.md) → 参照文書の順で同期する。
