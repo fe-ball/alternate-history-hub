@@ -1,0 +1,17 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST. CAP/AA/valid-release replay is WORKING.	V26:00;V26:49
+MIDWAY-FIGHTER-LOSS	WORKING	AIR-COMBAT	Midway defense irreversible F2A14/F4F4=18, severe-damage~6 central; Japanese first-wave direct combat loss5 + return writeoff2 =7 irreversible。	V26:49
+MIDWAY-BASE-DAMAGE	WORKING-CLOSE	BASE-DAMAGE	Hangar/workshop, local power, fuel-transfer and AA damage; runway not persistently denied; throughput degraded for hours, base remains active。	V26:49
+MIDWAY-LAND-LOSS	WORKING	AIR-COMBAT	Land attack irreversible TBF5/B262/SBD8/SB2U3/B170=18 central。	V26:49
+MIDWAY-LAND-HITS	WORKING-CLOSE	COMBAT	Midway land-based attacks score carrier direct hit0 central under improved JP CAP/radar/AA; minor near-miss damage tail only。	V26:49
+JP-DECK-STATE	WORKING-CLOSE	DAMAGE-GUARD	Midway wave is recovering/refueling when US strike arrives, but anti-carrier reserve already launched; do not copy historical full rearm/deck-ordnance congestion state。	V26:47;V26:49
+US-STRIKE-LOSS	WORKING	AIR-COMBAT	US carrier strike irreversible pre/around release F4F8/SBD16/TBD19=43 central; Japanese defense fighter loss A6M4/Gaifu1=5。	V26:49
+US-VALID-SBD	WORKING-CLOSE	VALID-RELEASE	US SBD valid releases70/93 central: Cell1~30, Cell2~23, Cell3~17。	V26:49
+US-VALID-TBD	WORKING-CLOSE	VALID-RELEASE	US TBD valid torpedo runs17/44 central: Cell1~7, Cell2~5, Cell3~5。	V26:49
+JP-STRIKE-LOSS	WORKING	AIR-COMBAT	Japanese anti-carrier strike irreversible pre/around release A6M4/Gaifu1/D3A7/B5N-B6N6=18 central; US CAP F4F loss8 central。	V26:49
+JP-VALID-D3A	WORKING-CLOSE	VALID-RELEASE	Japanese D3A valid releases34/46 central: TF16-A13/TF16-B10/Saratoga11。	V26:49
+JP-VALID-T91	WORKING-CLOSE	VALID-RELEASE	Type91 valid conventional runs16/25: TF16-A6/TF16-B4/Saratoga6 central。	V26:49
+JP-VALID-FT	WORKING-CLOSE	VALID-RELEASE	FT valid releases22/25: TF16-A8/TF16-B6/Saratoga8; standoff raises release survival but not post-release automatic hit probability。	V26:29;V26:49
+NEXT-US-HITS	OPEN	CURRENT-NEXT	US SBD/TBD direct-hit outcomesをcarrier/cell別に判定。	V26:49
+NEXT-JP-HITS	OPEN	CURRENT-NEXT	JP D3A/Type91/FT direct-hit outcomesをUS carrier別に判定。	V26:49
+NEXT-DAMAGE	OPEN	AFTER-HITS	Hit location/fire/flooding/deck/propulsion/aviation-stateはhit packet後に判定。	V26:49
