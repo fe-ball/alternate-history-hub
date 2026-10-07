@@ -18,9 +18,9 @@
     "Japan_China": "WAR-CONTINUES"
   },
   "working_history": {
-    "latest_campaign_close": "Replay-local working now carries the FT damage/repair audit through revised early-MO: Saratoga is unavailable on Apr10, the old Apr10 Saratoga/Shokaku battle is superseded, Crace is interdicted on Apr12, Port Moresby is physically captured on Apr18, and Lexington is lost in an Apr29-class carrier action while Shokaku is mission-killed and Zuikaku remains combat-effective; no canon clock promotion occurred.",
+    "latest_campaign_close": "Replay-local working now carries the equipment audit through spring/early-summer 1942. The Apr29 Lexington loss remains central, but the prior fixed Shokaku two-direct-hit mission-kill result is reopened by the combined Gaifu/radar/FCS/37-mm defense re-audit: Shokaku damage is now a 0-2 direct-hit branch with 1-hit central and repair consequences OPEN. Zuikaku remains hull-combat-effective central. No canon clock promotion occurred.",
     "status": "WORKING",
-    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; post-Apr29 carrier-regeneration frontier.",
+    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration.",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
@@ -36,7 +36,8 @@
       "Port Moresby physical capture Apr18 replay-local",
       "Apr27-29 Lexington approach / CarDiv5 replay",
       "Apr29 Lexington loss / Shokaku mission kill / Zuikaku combat-effective state",
-      "post-Apr29 carrier repair / air-group regeneration planning"
+      "post-Apr29 carrier repair / air-group regeneration planning",
+      "spring-1942 fleet equipment integration V26:25-26"
     ]
   },
   "discussion_frontier": {
@@ -56,11 +57,18 @@
       "Doolittle-type Enterprise+Hornet allocation, Apr21-23 class",
       "Revised early-MO: Apr15 Taurama / Apr18 Port Moresby physical capture",
       "Lexington emergency reinforcement / H7Y-H6K tracking / Apr29 CarDiv5 carrier action",
-      "Apr29 Lexington loss / Shokaku mission kill / Zuikaku intact-hull central"
+      "Apr29 Lexington loss / Shokaku mission kill / Zuikaku intact-hull central",
+      "Spring-1942 carrier-air working inventory: Gaifu/D4Y/B6N provisional service-state bands",
+      "H7Y-D late-standard and E13A/F1M/E15K water-air working closure",
+      "Limited Type21-line air-warning and Type22-line surface-search radar working allocation",
+      "Shipboard AA integration: Type89/Type94 improved chain, limited 37-mm intermediate AA, Type96 constraints, no VT",
+      "Surface gunnery / night-fighting / Type93 torpedo-FCS system closure",
+      "Spring-1942 ASW baseline: Type93 acoustic suite improved reliability/QC, Type95 depth charge main line, no Type3/ahead-thrown/MAD",
+      "Apr29 Shokaku fixed two-hit result reopened to 0-2 direct-hit branch after defense-system re-audit"
     ],
-    "next_gate": "Continue the authoritative inventory of fleet-deployed equipment. Begin with spring/early-summer 1942 carrier aviation service state, then continue the remaining shipboard equipment inventory. See V26:23-24.",
-    "next_gate_source": "V26:23-24",
-    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; latest replay frontier is the Apr29-class Lexington vs CarDiv5 action, while V26 canon remains 1941-12-07 14:30 HST."
+    "next_gate": "Close exact MI destroyer/escort hull assignment and radar/sonar distribution; force-level Type91/Type93/FT stocks; Apr29 Shokaku hit-location/repair branch; and final carrier-air-group regeneration. Only then begin MI combat replay. See V26:25-26.",
+    "next_gate_source": "V26:25-26",
+    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 Lexington loss remains central but Shokaku damage/repair is reopened by V26:25-26. V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
     "current/active/00-SESSION-HANDOFF.md",
@@ -167,6 +175,14 @@
     },
     "V26:24": {
       "path": "records/V26/24-POST-V26-DOOLITTLE-AEW-MI-AL-FORCE-WORKING-DECISION-REGISTER-2026-10-07.tsv"
+    },
+    "V26:25": {
+      "path": "records/V26/25-POST-V26-FLEET-EQUIPMENT-INTEGRATION-WORKING-HANDOFF-2026-10-07.md",
+      "blob_sha": "d44f6ea9f5af97984a4189e501c06e187e07ef48"
+    },
+    "V26:26": {
+      "path": "records/V26/26-POST-V26-FLEET-EQUIPMENT-INTEGRATION-WORKING-DECISION-REGISTER-2026-10-07.tsv",
+      "blob_sha": "49f9f6ce2474df8d3e2d82e8b41e5ef088a538a8"
     }
   },
   "lineage_sources": [
@@ -202,5 +218,5 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-07-and-fleet-equipment-inventory-frontier"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-07-and-fleet-equipment-integration-through-V26-26"
 }
