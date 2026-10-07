@@ -163,3 +163,34 @@ Parallel technical follow-up:
 3. V26:19 / 20（旧Apr10枝のsuperseded点に注意）
 4. V26:17 / 18
 5. FT technical study
+
+
+---
+
+# 2026-10-07 latest continuation
+
+Latest original sources:
+- V26:23 = Doolittle / AEW / MI-AL force-planning handoff
+- V26:24 = matching decision register
+
+Discussion has advanced through:
+- Doolittle Apr22-class defense-system review;
+- post-raid air-defense lesson and Navy-origin AEW requirement;
+- AT-3 as a future warning-aircraft family candidate;
+- MI-first / AL-later separation;
+- Zuikaku regeneration for MI;
+- Ryujo fighter/search support-carrier use;
+- enlarged MI surface escort / DD / oiler feasibility.
+
+No canon clock promotion occurred.
+
+## CURRENT NEXT
+
+**Continue the authoritative inventory of fleet-deployed weapons.**
+
+First close spring/early-summer 1942 carrier aviation:
+A6M2 / D3A1 / B5N2 current operational state, then A7M / D4Y / B6N / A8N service and carrier-qualification gates.
+
+Then continue shipboard AA, naval radar/warning, Type91/Type93/FT allocation, cruiser/seaplane reconnaissance, gunnery/FCS and ASW/escort equipment.
+
+Do not resolve MI combat before this inventory is sufficiently closed.
