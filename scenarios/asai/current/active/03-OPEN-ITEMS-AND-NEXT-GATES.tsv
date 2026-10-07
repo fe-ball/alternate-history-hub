@@ -1,7 +1,7 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:27-28を参照し、Type91/Type93/FTのforce-level stock/allocationから再開する。	V26:27-28
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:29-30のFT target-cardを使い、Type91/Type93/FT family別force-level stock/allocationから再開する。	V26:29-30
 1	MI-DD-ESCORT	WORKING-CLOSE	ROLLED-FORWARD	Nagara+DD16、cell別radar picket/ASW/plane-guard役割を閉じた。	V26:27-28
-2	MI-ORDNANCE-STOCK	OPEN	CURRENT-NEXT	Type91 aerial torpedo、FT、Type93 ship torpedoのforce-level stockとcarrier/surface group別allocationを閉じる。	V26:27#11
+2	MI-ORDNANCE-STOCK	OPEN	CURRENT-NEXT	Type91 aerial torpedo、FT-G/GR/standard/IR family+HE/SAP、Type93 ship torpedoのforce-level stockとcarrier/surface group別allocationを閉じる。	V26:27#11;V26:29-30
 3	SHOKAKU-APR29-HIT	OPEN	CURRENT-NEXT	Apr29 Shokaku 0-2 direct-hit branchからhit location/damage stateを再判定。1-hit branch centralだが固定しない。	V26:25#7
 4	SHOKAKU-REPAIR	OPEN	CURRENT-NEXT	再判定damage stateから応急/yard/return clockを導出。MIはreturn待ちにしない。	V26:25#7
 5	ZUIKAKU-AIRGROUP	OPEN	CURRENT-NEXT	Apr9+Apr29後のGaifu/A6M/D3A/B5N/D4Y/B6N機体・搭乗員・serviceable/sortie-ready数を閉じる。	V26:23;V26:25
