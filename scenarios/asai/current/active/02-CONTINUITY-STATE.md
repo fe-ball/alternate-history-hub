@@ -134,3 +134,31 @@ Key closure:
 - enemy radar/CAP/evasive adaptation is active by spring 1942.
 
 Current next remains the actual spring-1942 ordnance stock/allocation ledger, now by FT family/warhead rather than a generic FT total.
+
+
+## 2026-10-07 ordnance-stock closure
+
+V26:31-32 close the current Type91 / FT-family / Type93 allocation gate as WORKING.
+
+MI central:
+- embarked FT 116 = standard94 + FT-IR18 + FT-GR4;
+- FT warhead split HE54 / SAP62;
+- FT staging reserve ~48;
+- embarked Type91 Mod2 148 + staging reserve center ~80;
+- carrier-support Type93 physical carried 334 = ready171 + reload163.
+
+Carrier allocation:
+- Akagi: Type91 28 / FT 24;
+- Kaga: 32 / 24;
+- Soryu: 24 / 18;
+- Hiryu: 24 / 18;
+- Zuikaku: 28 / 24;
+- Ryujo: 12 / 8.
+
+Type93 force:
+- 12 modern DD: 192;
+- Akebono/Ushio/Sazanami: 54;
+- Shiokaze: Type93 0;
+- Tone/Chikuma/Takao/Maya: 88.
+
+Current next is no longer ordnance inventory. Resume with Apr29 Shokaku hit-location/damage adjudication under the V26:25 defense state, then repair clock and carrier-air-group regeneration.
