@@ -56,3 +56,10 @@ FT-IR-SELECTIVE	WORKING-CLOSE	DOCTRINE	IRは1D yaw correctionのpremium選択枝
 FT-TARGET-CARDS	WORKING-CLOSE	DOCTRINE	carrier=standard+selectiveIR+Type91、capital=HE suppression+Type91+SAP、light/screen=GR/HE選択、transport=G/GR HE。	V26:29-30
 FT-NIGHT-GUARD	WORKING-CLOSE	DOCTRINE	IR目的で夜を意図的に待たない。deck recovery/navigation/identification burdenが優越。	V26:17-18;V26:29-30
 FT-ENEMY-ADAPTATION	WORKING-CLOSE	DOCTRINE	春1942には敵もFT存在を認識しradar/CAP/evasive/screen adaptationを行う。permanent surprise禁止。	V26:29-30
+MI-ORDNANCE-STOCK	WORKING-CLOSE	ROLLED-FORWARD	V26:29-30 target-card制約下でType91/FT-family/Type93 force-level stockとMI allocationをV26:31-32で閉じた。	V26:29-32
+MI-FT-STOCK	WORKING	ORDNANCE-STOCK	end-May FT service-released約1635-1785/center1705、serviceable national約1400-1520、forward約760-900。	V26:16-17;V26:31-32
+MI-FT-EMBARKED	WORKING-CLOSE	ORDNANCE-ALLOCATION	MI embarked FT=116: standard94/FT-IR18/FT-GR4、HE54/SAP62。Akagi24/Kaga24/Soryu18/Hiryu18/Zuikaku24/Ryujo8。	V26:31-32
+MI-TYPE91-EMBARKED	WORKING-CLOSE	ORDNANCE-ALLOCATION	Type91 Mod2 embarked=148: Akagi28/Kaga32/Soryu24/Hiryu24/Zuikaku28/Ryujo12。staging reserve center約80。	V26:31-32
+MI-TYPE93-CARRIED	WORKING-CLOSE	ORDNANCE-ALLOCATION	carrier-support Type93 physical carried=334、ready171/reload163。12 modern DD192、outer DD54、Tone/Chikuma/Takao/Maya88。	V26:31-32
+NEXT-ORDNANCE	WORKING-CLOSE	ROLLED-FORWARD	旧current-nextのordnance stock/allocation gateはV26:31-32で閉鎖。generic FT countへ戻らない。	V26:27-32
+NEXT-SHOKAKU-HIT	OPEN	CURRENT-NEXT	次はV26:25防空状態を使いApr29 Shokaku 0-2 direct-hit branchのhit count/location/damageを判定。	V26:25;V26:31-32
