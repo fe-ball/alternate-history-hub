@@ -1,0 +1,17 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST. U.S. MI carrier timing is post-V26 WORKING.	V26:00;V26:41
+SARATOGA-APR27-SEMANTICS	WORKING-CLOSE	DEPLOYMENT	Apr27 center = west-coast frontline/work-up release, not Pearl/Coral-Sea combat presence。	V26:21;V26:41
+SARATOGA-PEARL	WORKING-CLOSE	DEPLOYMENT	Saratoga sails west Apr30-May2/center May1, Pearl arrival May6-8/center May7; MI present by late May。	V26:21;V26:41
+TF16-DOOLITTLE-RETURN	WORKING-CLOSE	DEPLOYMENT	Apr22 raid -> Enterprise/Hornet Pearl return Apr29-30 central。	V26:23;V26:41
+TF16-SOUTH-RESPONSE	WORKING	DEPLOYMENT	Lexington loss/PM fall後、TF16 May1-3/center May2 southward cover sortie; no historical exact Coral Sea chase copied。	V26:21;V26:41
+TF16-MI-RECALL	WORKING-CLOSE	DEPLOYMENT	Central-Pacific threat strengthens May10-13; TF16 turn north May13-14, Pearl return May21-23/center May22。	V26:41
+YORKTOWN-MI	WORKING-CLOSE	FORCE-STATE	Yorktown Apr9 mission kill/deep repair; MI combat-present NO。	V26:21;V26:41
+LEXINGTON-MI	WORKING-CLOSE	FORCE-STATE	Lexington lost Apr29; MI combat-present NO。	V26:35;V26:41
+ENTERPRISE-MI-AIR	WORKING-CLOSE	FORCE-STATE	Serviceable76/24h-ready72: F4F26/SBD36/TBD14。	V26:41
+HORNET-MI-AIR	WORKING-CLOSE	FORCE-STATE	Serviceable77/24h-ready74: F4F27/SBD35/TBD15。	V26:41
+SARATOGA-MI-AIR	WORKING-CLOSE	FORCE-STATE	Serviceable79/24h-ready75: F4F28/SBD36/TBD15。	V26:41
+US-MI-CARRIER-TOTAL	WORKING-CLOSE	FORCE-STATE	Three carriers serviceable232/24h-ready221: F4F81/SBD107/TBD44。	V26:41
+US-MI-SORTIE	WORKING-CLOSE	DEPLOYMENT	Enterprise/Hornet May28; Saratoga May28-29; rendezvous Midway NE/E by Jun1-2 class。	V26:41
+JP-INTEL-US-CARRIERS	WORKING-CLOSE	ACTOR-KNOWLEDGE	Japan gets no exact Saratoga repair or US carrier count; use probabilistic inference/search only。	V26:41
+NEXT-MI-OOB	OPEN	CURRENT-NEXT	Final MI one-sheet OOBを日米carrier/screen/radar/AA/ASW/ordnance/Midway land airまで統合。	V26:39-42
+NEXT-MI-COMBAT	OPEN	AFTER-FINAL-OOB	OOB閉鎖後にsearch/contact replay開始。	V26:41
