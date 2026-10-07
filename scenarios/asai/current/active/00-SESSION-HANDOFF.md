@@ -114,10 +114,10 @@ Apr29中央：
 - Lexington: D3A bomb2 + Type91x2 + FTx2(HE1/SAP1級)
 - Lexington = carrier mission kill → 二次火災/爆発悪化 → abandoned / scuttled-or-sunk central
 - Lexington counterstrike = F4F8 + SBD26-28 + TBD10-12級
-- Shokaku = 1000lb-class bomb x2 / carrier mission kill / afloat / withdraw
-- Zuikaku = direct hit 0 / hull combat-effective
+- Shokaku = **旧V26:21の1000lb-class bomb x2固定結果はSUPERSEDED**。V26:25-26で0-2 direct-hit branchへ再OPEN、1-hit branch central、exact hit location/damage/repair OPEN
+- Zuikaku = direct hit 0 central / hull combat-effective（1-hit tailあり）
 
-旧Apr10枝とは別ルートでShokaku mission kill / Zuikaku intactへ再収束する。
+旧Apr10枝のShokaku mission-kill結果へ再収束したものとして扱わない。Apr29 Shokaku damageはV26:25-26の再監査枝を使用する。
 
 ## 日本側情報
 
