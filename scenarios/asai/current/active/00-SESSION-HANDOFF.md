@@ -282,3 +282,40 @@ These are normal responsibilities, not permanent ship reclassifications. Destroy
 7. MI combat replay only after the above.
 
 V26 canon clock remains 1941-12-07 14:30 HST.
+
+
+---
+
+# 2026-10-07 FT tactical-doctrine integration
+
+Latest original sources:
+- V26:29 = FT family / warhead / target-card doctrine integration
+- V26:30 = matching decision register
+
+FT is no longer treated as one generic ordnance bucket.
+
+Propulsion/control families:
+- FT-G = unpowered glide, short-range / lower-opportunity-cost branch;
+- FT-GR = glide + short rocket, useful for screen/light/transport suppression;
+- standard FT = principal high-value open-ocean ramjet branch;
+- FT-IR / FT-GR-IR = scarce 1D terminal yaw-correction branches, not modern seekers.
+
+Warheads remain separate:
+- HE = AA/director/command/hangar/electrical/ventilation/light-target suppression;
+- SAP = upper-side/internal mission-kill exploitation;
+- RF/proximity remains test-only central.
+
+Mixed doctrine:
+- FT-first and Type91-first are both valid;
+- attack bearings/phases are separated where practical;
+- fast carriers receive the strongest standard-FT + selective-IR + Type91 priority;
+- battleships retain Type91 as principal underwater sink/mobility mechanism;
+- FT-G/GR are more natural for important transports, auxiliaries and selected screen targets;
+- small agile destroyers are not routine unguided-FT targets;
+- do not deliberately wait for night merely to exploit IR.
+
+Enemy adaptation is mandatory by spring 1942: radar/CAP/evasive/screen responses can break mother-aircraft setup before release.
+
+## CURRENT NEXT
+
+Close actual Type91 / FT-family / Type93 stocks and allocation using V26:29-30 target cards. Generic "FT count" is insufficient.
