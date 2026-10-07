@@ -31,7 +31,7 @@
       "checked_dimensions": "完成機網羅性・単位・原価・燃料費",
       "status": "CORRECTED_OR_QUALIFIED",
       "source_sha256": "e19958f44286369e670f3e61979952281f2acd7a7d0c53891cf8553b97e9b5b0",
-      "current_sha256": "005d34649017c8fab83dad7626a51334453217538206220d65074436652b7157",
+      "current_sha256": "6f3ed3fe5bcf5d1d46ef5b70c37008f677464bc2cf7b574ede5262c864960fef",
       "all_external_claims_verified": false
     },
     {
@@ -39,7 +39,7 @@
       "checked_dimensions": "前駆体・物性・良品原価・用途品質",
       "status": "CORRECTED_OR_QUALIFIED",
       "source_sha256": "36aa5143fd8f6539c17f5bb99de746c36910bd6c3d3edcb3b00b3abd3becc64c",
-      "current_sha256": "8d2cb7741cb82d245c3272f9684260b4e8978b5e4ca4643c0f37fda9716b2790",
+      "current_sha256": "172b380caef17151fb3393ee1be45d7b856f40b3da241372475e417a39687007",
       "all_external_claims_verified": false
     },
     {
@@ -47,7 +47,7 @@
       "checked_dimensions": "比弾性率・PAN・全原価・共用炉",
       "status": "CORRECTED_OR_QUALIFIED",
       "source_sha256": "76104c8b216efebd50a2311069cfa0dd0aabea3a25f131c2efd8bd756e3867ac",
-      "current_sha256": "65aefa5feeb27b2472e2ac381dd3ab4c092be36ed0381ca41b1984ae47b4070a",
+      "current_sha256": "58510eaff82a0184ed23ca4f554292b940f08741f63348325fd47c8158a62110",
       "all_external_claims_verified": false
     },
     {
@@ -239,7 +239,7 @@
       "checked_dimensions": "企業沿革・力の桁・材料による絶対断定",
       "status": "CORRECTED_OR_QUALIFIED",
       "source_sha256": "fcf7506ecf021e9c802b00fed94f468808f5ddc1e53166cf183ccc0933d42fff",
-      "current_sha256": "3fb4d9d88e39a44af10d5a68f741c52f223588d3d2b52e2a127bfc6a9c541922",
+      "current_sha256": "19082d51c4edeb97d4d6e4a73de119f695c446e8b2cff6e67c16cafa324a8bac",
       "all_external_claims_verified": false
     },
     {
@@ -271,7 +271,7 @@
       "checked_dimensions": "本/対・単価・吸水の範囲・燃料費",
       "status": "CORRECTED_OR_QUALIFIED",
       "source_sha256": "ab4b064733a7b4ba8ece8041a67c3f62f6206e22bef55e23a08c75d892c3e1b2",
-      "current_sha256": "fa13d70d321ad1d44d69d40294b8f54d9812c08dd6b21d1c70e6211c815d8235",
+      "current_sha256": "20c2070775c8d3240e22d42ebc3dcc582b66ee7696b4eddad9b51dc84fe15751",
       "all_external_claims_verified": false
     },
     {
@@ -295,7 +295,7 @@
       "checked_dimensions": "上位目標・未来知識・事業拡張・不要な縮小回避",
       "status": "REVIEWED_NO_NEW_EDIT",
       "source_sha256": "26bcbed7941cfca5c6a69fe3bfc0c35b5b08216430920c3da91721c3a4252711",
-      "current_sha256": "26bcbed7941cfca5c6a69fe3bfc0c35b5b08216430920c3da91721c3a4252711",
+      "current_sha256": "a3ac0d8bf36ff784ed25819aedd3970f9853e0ee364a202671fdbe49664ce08e",
       "all_external_claims_verified": false
     },
     {
@@ -314,5 +314,6 @@
       "current_sha256": "1e68cf7b9db7db168a93934218b3ea384e7bdb2bb5d620d07995daf746689de8",
       "all_external_claims_verified": false
     }
-  ]
+  ],
+  "working_revision": "aviation-integration-2026-10-07"
 }
