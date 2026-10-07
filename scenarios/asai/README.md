@@ -22,6 +22,12 @@
 - [V26:36 matching decision register](records/V26/36-POST-V26-APR29-AIRFRAME-AIRCREW-LOSS-LEDGER-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:37 CarDiv5 / Zuikaku MI regeneration](records/V26/37-POST-V26-CARDIV5-ZUIKAKU-MI-AIRGROUP-REGEN-WORKING-HANDOFF-2026-10-08.md)
 - [V26:38 matching decision register](records/V26/38-POST-V26-CARDIV5-ZUIKAKU-MI-AIRGROUP-REGEN-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:39 carrier deployment timing / Japanese MI air groups](records/V26/39-POST-V26-MI-CARRIER-DEPLOYMENT-TIMING-AIRGROUP-WORKING-HANDOFF-2026-10-08.md)
+- [V26:40 matching decision register](records/V26/40-POST-V26-MI-CARRIER-DEPLOYMENT-TIMING-AIRGROUP-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:41 U.S. carrier deployment timing / MI balance](records/V26/41-POST-V26-US-CARRIER-DEPLOYMENT-TIMING-MI-BALANCE-WORKING-HANDOFF-2026-10-08.md)
+- [V26:42 matching decision register](records/V26/42-POST-V26-US-CARRIER-DEPLOYMENT-TIMING-MI-BALANCE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:43 final MI one-sheet OOB](records/V26/43-POST-V26-FINAL-MI-OOB-WORKING-HANDOFF-2026-10-08.md)
+- [V26:44 matching decision register](records/V26/44-POST-V26-FINAL-MI-OOB-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
@@ -48,12 +54,12 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:35-38でApr29 air-loss ledgerとZuikaku MI regenerationまでWORKING-CLOSE。残るcarrier-air / U.S. carrier balanceから再開する。**
+**V26:39-44で日米carrier deployment timingとfinal MI OOBまでWORKING-CLOSE。Jun3-4 search/contact replayから再開する。**
 
-1. Akagi/Kaga/Soryu/Hiryu/Ryujo end-May carrier-air readinessを閉じる
-2. Saratoga readiness + Enterprise/Hornet post-Doolittle returnを閉じる
-3. MI final one-sheet OOBへ統合
-4. 上記が閉じた後にのみMI combat replayへ進む
+1. Jun3-4 starting geometryを閉じる
+2. Japanese/U.S./Midway search allocationを閉じる
+3. first carrier-contact timing / qualityを判定
+4. contact後にのみstrike launch / hit / damageへ進む
 
 ## 構造
 
