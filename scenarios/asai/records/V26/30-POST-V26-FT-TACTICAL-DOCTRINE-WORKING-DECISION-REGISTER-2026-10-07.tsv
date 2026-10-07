@@ -1,0 +1,26 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26正本時計1941-12-07T14:30:00-10:30。FT戦術統合はPOST-V26 WORKING。	V26:00;V26:29
+FT-FAMILY-SEPARATION	WORKING-CLOSE	DOCTRINE	FTを一種類で扱わない。FT-G/FT-GR/standard FT/FT-GR-IR/FT-IRとHE/SAP等弾頭を別軸で管理。	V26:17-18;V26:29
+FT-G-ROLE	WORKING-CLOSE	DOCTRINE	FT-Gはunpowered glide短距離枝。重要transport/tanker/auxiliary等に合理的。fast carrierへの優先兵器ではない。	V26:16-17;V26:29
+FT-GR-ROLE	WORKING-CLOSE	DOCTRINE	FT-GRはshort-duration rocket枝。GR/HEをkey screen shipや重要light/medium targetへ使用可能。standard ramjetの残燃料fireを自動継承しない。	V26:17;V26:21;V26:29
+FT-STANDARD-ROLE	WORKING-CLOSE	DOCTRINE	standard ramjet FTは高価値open-ocean anti-ship主力。carrier/cruiser/capital targetでHE/SAP、multi-axis、RUN-ON/CUTを使い分ける。	V26:17-18;V26:29
+FT-IR-ROLE	WORKING-CLOSE	DOCTRINE	FT-IRは1D terminal yaw correctionのpremium枝。healthy maneuvering high-value target、特にfast carrierで選択使用。all-aspect/night identification/retargetなし。	V26:17-18;V26:29
+FT-WARHEAD-HE	WORKING-CLOSE	DOCTRINE	HEはAA/director/command/hangar/electrical/ventilation/light combatant/transportのsystem suppression。main belt kill用ではない。	V26:17-18;V26:21;V26:29
+FT-WARHEAD-SAP	WORKING-CLOSE	DOCTRINE	SAP/short-delayはupper hull/hangar-side/internal support spaceのmission-kill exploitation。heavy naval AP shell扱い禁止。	V26:17-18;V26:21;V26:29
+FT-RF-GUARD	NOT-ORDINARY-ISSUE	DOCTRINE	RF/proximityはspring-1942 ordinary issueへ昇格しない。test-only central。	V26:17-18;V26:29
+FT-PREWAR-DOCTRINE	WORKING-CLOSE	DOCTRINE	mixed FT+Type91は1939-40演習開始、1940-41成熟。Enterpriseで発見した概念ではない。	V26:17-18;V26:29
+FT-MULTIAXIS	WORKING-CLOSE	DOCTRINE	FTとType91を同一bearingへ重ねるのを標準としない。separated bearing/phaseでtarget turnとsystem suppressionを相互利用。	V26:16-18;V26:29
+FT-FIRST	WORKING-CLOSE	DOCTRINE	strong AA/command/aviation system targetではFT/HE first→D3A/continued pressure→Type91→SAP exploitationが有力。	V26:17;V26:21;V26:29
+TYPE91-FIRST	WORKING-CLOSE	DOCTRINE	target turnを強制する価値が高い場合はType91 first→separated-axis FT→exploitationが有力。	V26:17;V26:29
+FT-CARRIER-CARD	WORKING-CLOSE	TARGET-CARD	fast carrierはstandard FT+selective IR+Type91+D3A。IRはlateral-miss riskが高いattack lineへ優先。	V26:17;V26:29
+FT-CAPITAL-CARD	WORKING-CLOSE	TARGET-CARD	battleship/battlecruiserはFT/HE suppression→Type91 main underwater damage→SAP exploitation。daylight IR low priority central。	V26:17;V26:29
+FT-CRUISER-CARD	WORKING-CLOSE	TARGET-CARD	heavy cruiserはstandard HE/SAP、必要時Type91。clean D3A solutionがある場合FT浪費禁止。	V26:17-18;V26:29
+FT-LIGHT-SCREEN-CARD	WORKING-CLOSE	TARGET-CARD	light cruiser/key destroyerはFT-GR/HEまたはstandard HEをcorridor-opening価値がある時に使用。小型高速DDへのroutine unguided FTは非効率。	V26:17;V26:29
+FT-TRANSPORT-CARD	WORKING-CLOSE	TARGET-CARD	important transport/tanker/auxiliaryはFT-G/FT-GR HEを優先可能。低価値/固定標的は通常爆撃優先。	V26:17;V26:29
+FT-NIGHT-IR	WORKING-CLOSE	DOCTRINE	IR利用目的で夜を意図的に待たない。IRは1D correctionで夜間target acquisitionではなく、carrier recovery burdenが大きい。	V26:17-18;V26:29
+FT-RUNON	WORKING-CLOSE	DOCTRINE	missed FTのRUN-ONはprogrammed corridorのみ。第二目標自動選択なし。friendly/coast/neutral risk時はCUT/SELF-DESTRUCT。	V26:17-18;V26:29
+FT-MOTHER-AIRCRAFT	WORKING-CLOSE	DOCTRINE	B5Nがmass carrier mother aircraft。B6Nは高速setup/egress利得だがFT release envelopeは別qualification gate。Type91 400-430km/hをFTへ転用禁止。	V26:25;V26:29
+FT-BUILDING-BLOCKS	WORKING	DOCTRINE	3/6/9機をplanning building block、18機は複数axis/composite中心。target/round/aircraft dependentで固定編成ではない。	V26:16;V26:29
+FT-ENEMY-ADAPTATION	WORKING-CLOSE	DOCTRINE	春1942には敵もFT存在を認識。radar/CAP/turn/screen adaptationあり。permanent surprise禁止。	V26:17;V26:21;V26:29
+MI-FT-PRIORITY	WORKING-CLOSE	ORDNANCE-PLANNING	MI fleet carriersはstandard FT HE/SAP→selective IR→Type91 Mod2を高価値艦向けに配分。FT-G/GRはland/secondary/transport roles寄り。Ryujoをfull fleet-carrier heavy magazine化しない。	V26:29
+NEXT-ORDNANCE	OPEN	CURRENT-NEXT	このtarget-cardを制約としてspring-1942 FT family/Type91/Type93の実在庫・forward/carrier allocationを閉じる。	V26:29
