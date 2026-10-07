@@ -1,0 +1,15 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST. Zuikaku regeneration is post-V26 WORKING.	V26:00;V26:37
+APR9-CARDIV5-LOSS	WORKING-CLOSE	AIRLOSS	Apr9 Yorktown action CarDiv5 irreversible central A6M1/D3A3/B5N4=8; aviation KIA/MIA14.	V26:19;V26:37
+APR10-28-ATTRITION	WORKING	AIRLOSS	No Apr10 Saratoga battle. Ordinary operational attrition Apr10-28 central A6M1/D3A1/B5N1=3.	V26:21;V26:37
+APR29-DAWN-CARDIV5	WORKING	FORCE-STATE	Apr29 dawn combined serviceable CarDiv5 central A6M30/Gaifu9/D3A44/B5N48=131; 24h sortie-ready123-127.	V26:25;V26:37
+POST-APR29-SURVIVORS	WORKING	FORCE-STATE	After V26:35 irreversible subtraction immediate surviving pool ~A6M26/Gaifu8/D3A39/B5N42=115 before repairable-damage recovery.	V26:35;V26:37
+ZUIKAKU-MI-SERVICEABLE	WORKING-CLOSE	FORCE-STATE	Zuikaku end-May MI serviceable=64 central: Gaifu12/A6M10/D3A20/D4Y2/B5N16/B6N4.	V26:25;V26:37
+ZUIKAKU-MI-READY	WORKING-CLOSE	FORCE-STATE	Zuikaku physical assigned67-69/serviceable64/crewed~62/24h sortie-ready60 central.	V26:37
+ZUIKAKU-MI-READY-BYTYPE	WORKING	FORCE-STATE	24h ready central Gaifu11/A6M10/D3A19/D4Y2/B5N15/B6N3=60.	V26:37
+ZUIKAKU-GAIFU	WORKING-CLOSE	AIRCRAFT	MI combat-present Gaifu12 central concentrated on Zuikaku; low-rate end-May flow replaces Apr29 loss.	V26:25;V26:37
+ZUIKAKU-ORDNANCE	WORKING-CLOSE	FORCE-STATE	Zuikaku MI Type91=28/FT=24 carried central from V26:31-32.	V26:31-32;V26:37
+SHOKAKU-CADRE	WORKING-CLOSE	FORCE-STATE	Shokaku MI combat-present NO; surviving aircraft/crews split among repair/reconstitution/reserve/selected redistribution, not all stacked on Zuikaku.	V26:33-34;V26:37
+NEXT-MI-CARRIER-AIR	OPEN	CURRENT-NEXT	Akagi/Kaga/Soryu/Hiryu/Ryujo end-May air readiness and remaining D4Y/B6N allocationを統合する。	V26:23;V26:25;V26:37
+NEXT-US-CARRIER-BALANCE	OPEN	CURRENT-NEXT	Saratoga readiness + Enterprise/Hornet post-Doolittle returnを閉じ、MI時米空母balanceを作る。	V26:21;V26:37
+NEXT-MI-OOB	OPEN	AFTER-CARRIER-BALANCE	日米carrier-air/ships/radar/AA/ASW/ordnanceをfinal MI one-sheet OOBに統合。	V26:27-37
