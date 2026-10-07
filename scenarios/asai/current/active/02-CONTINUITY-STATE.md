@@ -237,3 +237,20 @@ Japan uses a broader ten-aircraft tactical search layer based on E13A/D4Y/B5N pl
 
 Current next:
 carrier and Midway strike packages -> radar/CAP/AA -> valid releases -> hits.
+
+
+## 2026-10-08 MI strike packages and valid releases
+
+V26:47-48 close launch packages.
+V26:49-50 resolve initial air combat, CAP/AA disruption and valid-release counts.
+
+Worldline weapon guard remains mandatory; historical Japanese weapon performance and historical deck-cycle catastrophe are not imported automatically.
+
+Current valid-release state:
+- U.S.: SBD70 / TBD17;
+- Japan: D3A34 / Type9116 / FT22.
+
+Midway remains active but servicing throughput is degraded.
+Japanese anti-carrier strike is already away before the U.S. main carrier attack reaches release.
+
+Current next is direct-hit adjudication, then damage state.
