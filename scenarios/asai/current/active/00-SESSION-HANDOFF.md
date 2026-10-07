@@ -230,3 +230,55 @@ Apr29 correction:
 5. then MI combat replay.
 
 V26 canon remains 1941-12-07 14:30 HST.
+
+
+---
+
+# 2026-10-07 MI escort allocation continuation
+
+Latest original sources:
+- V26:27 = exact MI destroyer/escort, radar-picket and ASW-role WORKING handoff
+- V26:28 = matching decision register
+
+Working-close force structure:
+- Nagara = carrier-screen coordination node;
+- historical MI destroyers retained: Arashi / Nowaki / Hagikaze / Maikaze; Urakaze / Isokaze / Hamakaze / Tanikaze; Kazagumo / Yugumo / Makigumo / Akigumo;
+- delayed/separated AL frees Shiokaze / Akebono / Ushio / Sazanami for the Ryujo / Takao / Maya outer-support element;
+- total carrier-support destroyer pool = 16.
+
+Central DD surface-radar pickets:
+- Arashi;
+- Urakaze;
+- Kazagumo.
+
+Central non-DD surface-radar nodes:
+- Haruna;
+- Tone;
+- Chikuma;
+- Takao.
+
+ASW reaction priorities:
+- Cell 1: Nowaki / Hagikaze;
+- Cell 2: Isokaze / Hamakaze;
+- Cell 3 inner: Yugumo / Makigumo;
+- Ryujo outer: Ushio / Akebono / Sazanami.
+
+Plane-guard/flexible priorities:
+- Maikaze;
+- Tanikaze;
+- Akigumo;
+- Shiokaze.
+
+These are normal responsibilities, not permanent ship reclassifications. Destroyers remain movable for damaged-ship escort, rescue, replenishment and surface action.
+
+## CURRENT NEXT
+
+1. Type91 aerial-torpedo stock and carrier allocation;
+2. FT stock and HE/SAP/IR allocation;
+3. Type93 ship-torpedo carried/reload stock by DD/cruiser force;
+4. Apr29 Shokaku hit/damage/repair branch;
+5. final carrier-air-group regeneration;
+6. final MI one-sheet OOB;
+7. MI combat replay only after the above.
+
+V26 canon clock remains 1941-12-07 14:30 HST.
