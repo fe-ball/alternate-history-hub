@@ -1,13 +1,13 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:25-26を参照し、MI exact escort/equipment distributionから再開する。	V26:25-26
-1	MI-DD-ESCORT	OPEN	CURRENT-NEXT	MI各carrier tactical cellとRyujo/Takao/Maya outer groupのexact DD/escort hullを確定し、radar picket/sonar escortを配る。	V26:25#4/#8
-2	MI-ORDNANCE-STOCK	OPEN	CURRENT-NEXT	Type91/Type93/FTのforce-level stockと各carrier/surface groupへのallocationを閉じる。	V26:25#8
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:27-28を参照し、Type91/Type93/FTのforce-level stock/allocationから再開する。	V26:27-28
+1	MI-DD-ESCORT	WORKING-CLOSE	ROLLED-FORWARD	Nagara+DD16、cell別radar picket/ASW/plane-guard役割を閉じた。	V26:27-28
+2	MI-ORDNANCE-STOCK	OPEN	CURRENT-NEXT	Type91 aerial torpedo、FT、Type93 ship torpedoのforce-level stockとcarrier/surface group別allocationを閉じる。	V26:27#11
 3	SHOKAKU-APR29-HIT	OPEN	CURRENT-NEXT	Apr29 Shokaku 0-2 direct-hit branchからhit location/damage stateを再判定。1-hit branch centralだが固定しない。	V26:25#7
 4	SHOKAKU-REPAIR	OPEN	CURRENT-NEXT	再判定damage stateから応急/yard/return clockを導出。MIはreturn待ちにしない。	V26:25#7
 5	ZUIKAKU-AIRGROUP	OPEN	CURRENT-NEXT	Apr9+Apr29後のGaifu/A6M/D3A/B5N/D4Y/B6N機体・搭乗員・serviceable/sortie-ready数を閉じる。	V26:23;V26:25
 6	APR29-AIRLOSS	OPEN	CURRENT-NEXT	再監査防空状態を使いApr29双方の機種別airframe/aircrew loss ledgerを閉じる。	V26:25#7
-7	MI-FINAL-OOB	OPEN	AFTER-FORCE-DETAIL	空母・水上艦・DD・航空隊・radar/AA/FCS/ASW・弾薬を一枚のMI開始OOBへ統合。	V26:25-26
-8	MI-COMBAT	OPEN	AFTER-FINAL-OOB	上記force-stateが閉じた後にのみMI combat replayを開始。	V26:25#8
+7	MI-FINAL-OOB	OPEN	AFTER-FORCE-DETAIL	空母・水上艦・DD・航空隊・radar/AA/FCS/ASW・弾薬を一枚のMI開始OOBへ統合。	V26:27-28
+8	MI-COMBAT	OPEN	AFTER-FINAL-OOB	上記force-stateが閉じた後にのみMI combat replayを開始。	V26:27#11
 9	SARATOGA-APR29	OPEN	PARALLEL-REGEN	Apr20-May5 return band内のApr29時点Saratoga readinessを閉じる。	V26:21
 10	DOOLITTLE-RETURN	OPEN	PARALLEL-REGEN	Enterprise/HornetのApr21-23 raid後航海/補給/航空隊再生時計。	V26:21
 11	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speed厳密CLOSE。	V26:21#1
