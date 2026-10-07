@@ -470,3 +470,38 @@ Replay:
 4. then strike launch decisions.
 
 No combat result has yet been resolved.
+
+
+---
+
+# 2026-10-08 MI geometry / search / first contact
+
+Latest original sources:
+- V26:45 = MI starting geometry / search / first-contact WORKING handoff
+- V26:46 = matching decision register
+
+Central Jun4 information race:
+- Japanese carrier core ~230-250 nm NW of Midway around 0430;
+- U.S. carrier center ~190-220 nm NE/E of Japanese core;
+- Saratoga group separated ~15-25 nm from TF16;
+- Midway PBY obtains Japanese carrier-force contact ~0530-0545 / center0538;
+- U.S. moving track improves by ~0550-0600;
+- Japanese D4Y finds Enterprise/Hornet ~0615-0630 / center0622;
+- Japanese second search line finds separate Saratoga group ~0640-0700 / center0650;
+- by ~0700 both sides have launch-quality carrier information.
+
+Japanese first tactical search central:
+Tone E13A2 + Chikuma E13A2 + D4Y4 + B5N2 = 10.
+H7Y outer search narrows concern but does not provide exact god-view.
+
+The U.S. retains first useful carrier-position information, but Japan no longer suffers the historical-scale carrier-blind delay.
+The six-deck system can prepare an anti-carrier counterlaunch without waiting for every Midway first-wave aircraft to recover.
+
+## CURRENT NEXT
+
+1. U.S. carrier first-strike package / launch timing;
+2. Japanese anti-carrier counterstrike package by carrier cell;
+3. Midway land-based attack allocation;
+4. radar/CAP/AA interception;
+5. valid releases;
+6. hit/damage only after those gates.
