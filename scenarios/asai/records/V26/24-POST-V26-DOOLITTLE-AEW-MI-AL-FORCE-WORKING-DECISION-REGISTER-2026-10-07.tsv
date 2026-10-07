@@ -1,0 +1,19 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26正本時計1941-12-07T14:30:00-10:30。1942 replay-local workingを正本昇格させない。	V26:01;V26:23
+DOOLITTLE	WORKING-CLOSE	REPLAY-LOCAL	Enterprise+Hornet、Apr21-23級/center Apr22を維持。防空は史実より組織的だが全国精密GCIは未成立。	V26:21;V26:23
+AIR-DEFENSE-LESSON	WORKING-CLOSE	DOCTRINE	十分な迎撃機性能がある条件では律速は最高速よりdetection/track/handoff/vector/readiness。	V26:23
+AEW-ORIGIN	WORKING	REQUIREMENT	Doolittle AAR後に海軍側から空中早期警戒要求が自然発生。浅井側はsystem integrator/support。	V26:23
+AT3W	WORKING-PLAN	TECH-CONCEPT	AT-3は将来AEW母機候補だがX1初飛行Q4時計は前倒ししない。exact装備/性能/量産数はOPEN。	V26:10;V26:23
+MI-AL-SEPARATE	WORKING-CLOSE	STRATEGY	早期MO決着を利用しMIを先行、ALは中止せずMI後へ分離する中央案。	V26:23
+SHOKAKU-WAIT	WORKING-CLOSE	STRATEGY	MIはShokaku returnを待たない。	V26:23
+ZUIKAKU-MI	WORKING-CLOSE	FORCE-STATE	ZuikakuはMI参加YES中央。CarDiv5 survivor poolを一時集中。	V26:23
+ZUIKAKU-AIRGROUP	WORKING	AIRGROUP	MI時serviceable60-64、24h sortie-ready56-62、中央A6M18+D3A22+B5N22級。pristine72ではない。	V26:23
+RYUJO-MI	WORKING-CLOSE	FORCE-STATE	AL分離によりRyujoをMIへ。fighter-heavy CAP/search/torpedo support carrierとして扱う。	V26:23
+MI-CARRIER-COMMAND	WORKING-CLOSE	C2	三戦術cell: Akagi+Kaga、Soryu+Hiryu、provisional Zuikaku+Ryujo under Hara。	V26:23
+MI-ESCORT-LOGISTICS	WORKING-PLAN	LOGISTICS	AL分離により増強DD/oilerをMIへ回せるため、拡大型第一機動部隊は物理的に成立可能。exact route/transfer ledgerはOPEN。	V26:23
+CARRIER-AIR-MASS	CURRENT-CLOSE	WEAPON-INVENTORY	1942春の確実な通常艦載主力はA6M2/D3A1/B5N2。	V26:00;V26:23
+A7M-1942	OPEN	NEXT-WEAPON-GATE	A7M 1942 adoption/production/service/carrier-qualified数量を次回閉じる。	V26:23
+D4Y-1942	OPEN	NEXT-WEAPON-GATE	D4Y艦偵先行を含む1942 service stateを次回閉じる。	V26:23
+B6N-1942	OPEN	NEXT-WEAPON-GATE	B6N carrier-trial/service stateを次回閉じる。	V26:23
+A8N-1942	OPEN	NEXT-WEAPON-GATE	A8N carrier qualification/combat-present gateを次回閉じる。	V26:23
+NEXT-FLEET-WEAPONS	OPEN	CURRENT-NEXT	次チャットは艦隊配備兵器の正本洗い出しを継続。艦載航空→AA/radar/魚雷/FT/水偵/FCS/ASWの順で確認。	V26:23
