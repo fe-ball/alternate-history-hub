@@ -1,10 +1,10 @@
 {
   "revision": "source-audit-2",
-  "status": "PASS",
+  "status": "PENDING_RECHECK",
   "source_files": 39,
   "source_utf8_bytes": 671976,
   "current_files": 39,
-  "corrected_files": 38,
+  "corrected_files": 39,
   "ecn_definitions": 134,
   "checked_ecn_references": 159,
   "relative_links": 246,
@@ -166,7 +166,12 @@
   "limits": [
     "Arithmetic consistency only; OPEN residuals are not revenue or incurred costs.",
     "Not a full audit of historical, technical, legal or commercial feasibility.",
-    "Hashes cover recovered UI text, not original upload bytes."
+    "Hashes cover recovered UI text, not original upload bytes.",
+    "2026-10-07 aviation working layer awaits a full check_consistency.py rerun."
   ],
-  "errors": []
+  "errors": [
+    "Consistency checker not rerun after aviation-integration-2026-10-07; prior source-audit-2 PASS must not be read as validating the new working layer."
+  ],
+  "working_revision": "aviation-integration-2026-10-07",
+  "validation_note": "CURRENT-MANIFEST and COVERAGE SHA-256 values for the six modified fixed-current documents were refreshed after the 2026-10-07 aviation working update. The repository consistency checker was not rerun in this session because the execution environment could not access GitHub and no commit workflow run was available."
 }
