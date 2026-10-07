@@ -4,6 +4,8 @@
 
 本ドキュメントでは、CFRPの史実的起源、主人公のナラティヴ候補の選定、製造プロセスの技術分析、および炭素素材の三層体制を一貫して記述する。
 
+> **2026-10-07 追補（優先）**：航空用高強度長繊維の主経路はPAN系へ変更した。旧本文のレーヨン第一・偶然発見ルートは比較/橋渡し用のREFERENCEとし、現行の主開発順序には使わない。主人公は未来知識からPAN前駆体を意図的に設計し、繊維会社の湿式紡糸技術と自社の安定化・炭素化・表面処理・CFRP化を接続する。詳細は [Aviation_Composite_Integration_1933_1942.md](Aviation_Composite_Integration_1933_1942.md) と [Carbon_Material_Hierarchy.md](Carbon_Material_Hierarchy.md) を優先する。
+
 ---
 
 ## 1. 史実における炭素繊維の起源
