@@ -68,3 +68,10 @@ APR29-SHOKAKU-LOCATION	WORKING-CLOSE	DAMAGE-MODEL	forward-starboard/island-adjac
 SHOKAKU-REPAIR	WORKING-PLAN	REPAIR-CLOCK	frontline carrier-ready fast Jun5-7/center Jun9-11/slow Jun14-18。	V26:33-34
 SHOKAKU-MI	WORKING-CLOSE	FORCE-STATE	MI combat-present=NO central。MIはShokaku return待ちにしない。	V26:23;V26:33-34
 NEXT-AIRLOSS	OPEN	CURRENT-NEXT	Apr29双方のairframe/aircrew loss ledgerをV26:25 defense stateで閉じる。	V26:25;V26:33-34
+APR29-JP-AIRLOSS	WORKING-CLOSE	AIRLOSS	Apr29 Japanese irreversible16: A6M2 4/Gaifu1/D3A5/B5N6; aviation KIA/MIA25 central.	V26:35-36
+APR29-US-AIRLOSS	WORKING-CLOSE	AIRLOSS	Lexington physical air-group writeoff72 central, direct combat20, aviation KIA/MIA~44; majority of surviving aircrew rescued.	V26:35-36
+ZUIKAKU-MI-SERVICEABLE	WORKING-CLOSE	FORCE-STATE	Zuikaku end-May MI serviceable64: Gaifu12/A6M10/D3A20/D4Y2/B5N16/B6N4.	V26:37-38
+ZUIKAKU-MI-READY	WORKING-CLOSE	FORCE-STATE	Zuikaku physical67-69/serviceable64/crewed~62/24h sortie-ready60 central.	V26:37-38
+ZUIKAKU-MI-ORDNANCE	WORKING-CLOSE	FORCE-STATE	Zuikaku Type91=28 / FT=24 carried central.	V26:31-32;V26:37-38
+NEXT-MI-CARRIER-AIR	OPEN	CURRENT-NEXT	Akagi/Kaga/Soryu/Hiryu/Ryujo end-May readiness and remaining D4Y/B6N allocationを統合。	V26:23;V26:25;V26:37-38
+NEXT-US-CARRIER-BALANCE	OPEN	CURRENT-NEXT	Saratoga readiness + Enterprise/Hornet post-Doolittle returnを閉じる。	V26:21;V26:37-38
