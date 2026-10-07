@@ -18,9 +18,9 @@
     "Japan_China": "WAR-CONTINUES"
   },
   "working_history": {
-    "latest_campaign_close": "Replay-local working now carries equipment/ordnance through V26:31-32, Shokaku damage/repair through V26:33-34, Apr29 aircraft/aircrew losses through V26:35-36, and Zuikaku MI regeneration through V26:37-38. Zuikaku central = 64 serviceable / 60 24h sortie-ready with Gaifu12/A6M10/D3A20/D4Y2/B5N16/B6N4. Shokaku remains unavailable for MI. No canon clock promotion occurred.",
+    "latest_campaign_close": "Replay-local working now carries Japanese carrier deployment timing through V26:39-40, U.S. carrier timing through V26:41-42, and the final pre-combat MI OOB through V26:43-44. Japan sorties May27 with six carrier decks, 331 serviceable / 311 24h-ready carrier aircraft; Shokaku is absent. U.S. central MI force is Enterprise/Hornet/Saratoga with 232 serviceable / 221 24h-ready carrier aircraft; Yorktown is unavailable and Lexington is lost. No combat outcome is yet resolved.",
     "status": "WORKING",
-    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38.",
+    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38. Japanese MI carrier deployment timing is carried in V26:39-40; U.S. MI carrier timing in V26:41-42; final pre-combat MI OOB in V26:43-44.",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
@@ -43,7 +43,10 @@
       "MI Type91/FT-family/Type93 stock and allocation V26:31-32",
       "Apr29 Shokaku hit/damage/repair adjudication V26:33-34",
       "Apr29 aircraft/aircrew loss ledger V26:35-36",
-      "Zuikaku MI air-group regeneration V26:37-38"
+      "Zuikaku MI air-group regeneration V26:37-38",
+      "Japanese MI carrier deployment timing and air-group integration V26:39-40",
+      "U.S. carrier deployment timing and MI balance V26:41-42",
+      "Final pre-combat MI OOB V26:43-44"
     ]
   },
   "discussion_frontier": {
@@ -82,11 +85,14 @@
       "Spring-1942 Type91 / FT-family / Type93 force-level stock and MI allocation V26:31-32",
       "Apr29 Shokaku central 1-hit damage/repair adjudication V26:33-34",
       "Apr29 Japanese/U.S. airframe and aircrew loss ledger V26:35-36",
-      "Zuikaku end-May MI serviceable/sortie-ready air-group regeneration V26:37-38"
+      "Zuikaku end-May MI serviceable/sortie-ready air-group regeneration V26:37-38",
+      "Japanese carrier-by-carrier May deployment timing and six-deck air-group closure V26:39-40",
+      "U.S. Saratoga/Enterprise/Hornet branch-specific MI timing V26:41-42",
+      "Final Japanese/U.S./Midway pre-combat MI OOB V26:43-44"
     ],
-    "next_gate": "Integrate Akagi/Kaga/Soryu/Hiryu/Ryujo end-May carrier-air readiness and remaining D4Y/B6N allocation; close Saratoga readiness and Enterprise/Hornet post-Doolittle return; then build final MI one-sheet OOB before combat replay. See V26:23, V26:25, V26:37-38.",
-    "next_gate_source": "V26:23;V26:25;V26:37-38",
-    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 Lexington loss, Shokaku central one-hit repair branch, Apr29 air-loss ledger, and Zuikaku MI regeneration are now closed as WORKING through V26:38. V26 canon remains 1941-12-07 14:30 HST."
+    "next_gate": "Replay Jun3-4 MI starting geometry, Japanese/U.S./Midway search allocation, and first carrier-contact timing/quality before any strike or hit adjudication. See V26:43-44.",
+    "next_gate_source": "V26:43-44",
+    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; pre-combat MI force state is now closed through V26:44. Combat has not yet begun in the working replay. V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
     "current/active/00-SESSION-HANDOFF.md",
@@ -249,6 +255,24 @@
     "V26:38": {
       "path": "records/V26/38-POST-V26-CARDIV5-ZUIKAKU-MI-AIRGROUP-REGEN-WORKING-DECISION-REGISTER-2026-10-08.tsv",
       "blob_sha": "116654fac210042f4513e1784a318f378029630e"
+    },
+    "V26:39": {
+      "path": "records/V26/39-POST-V26-MI-CARRIER-DEPLOYMENT-TIMING-AIRGROUP-WORKING-HANDOFF-2026-10-08.md"
+    },
+    "V26:40": {
+      "path": "records/V26/40-POST-V26-MI-CARRIER-DEPLOYMENT-TIMING-AIRGROUP-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+    },
+    "V26:41": {
+      "path": "records/V26/41-POST-V26-US-CARRIER-DEPLOYMENT-TIMING-MI-BALANCE-WORKING-HANDOFF-2026-10-08.md"
+    },
+    "V26:42": {
+      "path": "records/V26/42-POST-V26-US-CARRIER-DEPLOYMENT-TIMING-MI-BALANCE-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+    },
+    "V26:43": {
+      "path": "records/V26/43-POST-V26-FINAL-MI-OOB-WORKING-HANDOFF-2026-10-08.md"
+    },
+    "V26:44": {
+      "path": "records/V26/44-POST-V26-FINAL-MI-OOB-WORKING-DECISION-REGISTER-2026-10-08.tsv"
     }
   },
   "lineage_sources": [
@@ -284,5 +308,5 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-Zuikaku-regeneration-through-V26-38"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-final-MI-OOB-through-V26-44"
 }
