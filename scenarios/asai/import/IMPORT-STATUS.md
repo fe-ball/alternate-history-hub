@@ -1,4 +1,4 @@
-# Import Status — 完全取り込み確認 2026-09-20 / authority metadata updated 2026-09-22
+# Import Status — 完全取り込み確認 2026-09-20 / authority pointer refreshed 2026-10-07
 
 指定された原本ZIPと、その全ファイルをGit管理対象に取り込み済み。
 
@@ -22,10 +22,17 @@
 
 source mirrorはV22B時点の完全原本復旧層。旧版、監査履歴、バイナリ、入れ子ZIPを含めて保存し、収録自体はCANON昇格を意味しない。
 
-**現行authorityは V25。**
-読み始めは [シナリオREADME](../README.md) および [V25 entrypoint](../current/00-START-HERE-2026-09-22-FULL-V25.md)。
+**このファイルはimport完全性の記録であり、scenario resume authorityではない。**
 
-V24/V25は完全原本ZIPより後の会話authorityであり、元ZIPへ遡及的に含まれるものではない。
+現行シナリオauthority / next gateは次を参照する:
+1. [汎用ガイド](../00-READ-FIRST-GENERIC.md)
+2. [current/ACTIVE-STATE.json](../current/ACTIVE-STATE.json)
+3. [current/active/00-SESSION-HANDOFF.md](../current/active/00-SESSION-HANDOFF.md)
+4. active decision register / continuity / open-items
+
+2026-10-07現在、現行正本anchorは **V26**、正本時計は **1941-12-07 14:30 HST**。その後のV26:05-30は原statusに従うPOST-V26 WORKINGであり、自動的なCANON昇格ではない。
+
+V24/V25/V26およびpost-V26 working recordsは、完全原本ZIPより後の会話authority / continuationであり、元ZIPへ遡及的に含まれるものではない。
 
 ## Source recovery precedence
 
@@ -33,11 +40,11 @@ V24/V25は完全原本ZIPより後の会話authorityであり、元ZIPへ遡及�
 
 従来の `source-v22b-full/` は部分取り込み / 再構成層。同じ資料がexact mirrorに存在する場合、source recoveryの根拠としてpartial側を優先しない。
 
-これはscenario authorityの順位とは別:
-**V25 > V24 > route-compatible V23/V22B/V21 > referenced technical parents.**
+これはscenario authorityの順位とは別。
+現行履歴軸では、**V26 explicit decisions / same-axis post-V26 continuation > V25 > V24** を基本とし、V23/V22B/V21の歴史結果は別枝から自動継承しない。非矛盾のbranch-neutral technical foundationだけを、現行ルールに従って参照できる。
 
 ## Current promoted-file integrity
 
 2026-09-20監査ではV21/V22B/主要technical parentに実質的な本文破損は確認されていない。
 
-完全原本へアクセスできなかった期間の会話推定は別問題であり、V25でも exact mirror / technical parent を優先して再監査する。
+完全原本へアクセスできなかった期間の会話推定は別問題であり、復元用途ではexact mirror / applicable technical parentを優先する。現行の歴史・next gate判定は必ずACTIVE-STATEと同軸の後発recordsを照合する。
