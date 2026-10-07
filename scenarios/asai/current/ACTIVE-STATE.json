@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "navigation_revision": "2026-10-07",
+  "navigation_revision": "2026-10-08",
   "kind": "NAVIGATION-ONLY-NO-CANON-PROMOTION",
   "scenario_id": "asai",
   "repository": "fe-ball/alternate-history-hub",
@@ -18,9 +18,9 @@
     "Japan_China": "WAR-CONTINUES"
   },
   "working_history": {
-    "latest_campaign_close": "Replay-local working now carries fleet equipment and ordnance allocation through V26:31-32 and Apr29 Shokaku central damage/repair adjudication through V26:33-34. Shokaku central = one 1,000-lb-class flight-deck/upper-hangar hit, battle-day aviation mission kill, center frontline return Jun9-11, unavailable for MI. Apr29 Lexington loss remains central; Zuikaku remains hull-combat-effective central. No canon clock promotion occurred.",
+    "latest_campaign_close": "Replay-local working now carries equipment/ordnance through V26:31-32, Shokaku damage/repair through V26:33-34, Apr29 aircraft/aircrew losses through V26:35-36, and Zuikaku MI regeneration through V26:37-38. Zuikaku central = 64 serviceable / 60 24h sortie-ready with Gaifu12/A6M10/D3A20/D4Y2/B5N16/B6N4. Shokaku remains unavailable for MI. No canon clock promotion occurred.",
     "status": "WORKING",
-    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34.",
+    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38.",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
@@ -41,7 +41,9 @@
       "MI escort/radar/ASW exact hull allocation V26:27-28",
       "FT family tactical-doctrine integration V26:29-30",
       "MI Type91/FT-family/Type93 stock and allocation V26:31-32",
-      "Apr29 Shokaku hit/damage/repair adjudication V26:33-34"
+      "Apr29 Shokaku hit/damage/repair adjudication V26:33-34",
+      "Apr29 aircraft/aircrew loss ledger V26:35-36",
+      "Zuikaku MI air-group regeneration V26:37-38"
     ]
   },
   "discussion_frontier": {
@@ -78,11 +80,13 @@
       "FT-first / Type91-first separated-axis doctrine with enemy-adaptation guard",
       "IR selective-use doctrine and no deliberate night-IR mainline",
       "Spring-1942 Type91 / FT-family / Type93 force-level stock and MI allocation V26:31-32",
-      "Apr29 Shokaku central 1-hit damage/repair adjudication V26:33-34"
+      "Apr29 Shokaku central 1-hit damage/repair adjudication V26:33-34",
+      "Apr29 Japanese/U.S. airframe and aircrew loss ledger V26:35-36",
+      "Zuikaku end-May MI serviceable/sortie-ready air-group regeneration V26:37-38"
     ],
-    "next_gate": "Close Apr29 Japanese/U.S. airframe and aircrew loss ledger under the V26:25 defense state, then close Zuikaku / MI carrier-air-group regeneration before final MI OOB. See V26:25 and V26:33-34.",
-    "next_gate_source": "V26:25;V26:33-34",
-    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 Lexington loss remains central. Shokaku central damage/repair is now adjudicated in V26:33-34 as one 1,000-lb-class flight-deck/upper-hangar hit, battle-day aviation mission kill, center frontline return Jun9-11, unavailable for MI. V26 canon remains 1941-12-07 14:30 HST."
+    "next_gate": "Integrate Akagi/Kaga/Soryu/Hiryu/Ryujo end-May carrier-air readiness and remaining D4Y/B6N allocation; close Saratoga readiness and Enterprise/Hornet post-Doolittle return; then build final MI one-sheet OOB before combat replay. See V26:23, V26:25, V26:37-38.",
+    "next_gate_source": "V26:23;V26:25;V26:37-38",
+    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 Lexington loss, Shokaku central one-hit repair branch, Apr29 air-loss ledger, and Zuikaku MI regeneration are now closed as WORKING through V26:38. V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
     "current/active/00-SESSION-HANDOFF.md",
@@ -229,6 +233,22 @@
     "V26:34": {
       "path": "records/V26/34-POST-V26-APR29-SHOKAKU-HIT-DAMAGE-REPAIR-WORKING-DECISION-REGISTER-2026-10-07.tsv",
       "blob_sha": "c44b3a0dab35645fa7d4e7e61e9ed4f06a87f965"
+    },
+    "V26:35": {
+      "path": "records/V26/35-POST-V26-APR29-AIRFRAME-AIRCREW-LOSS-LEDGER-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "3104a376544b7e96f1a2ecf61bb3cf503f227c60"
+    },
+    "V26:36": {
+      "path": "records/V26/36-POST-V26-APR29-AIRFRAME-AIRCREW-LOSS-LEDGER-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "d648ce3da93f64e3c8eab0baa9f7f5a6072cfbb4"
+    },
+    "V26:37": {
+      "path": "records/V26/37-POST-V26-CARDIV5-ZUIKAKU-MI-AIRGROUP-REGEN-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "d0cc1290ffee1b726ee8100dc5640de7e7eaf769"
+    },
+    "V26:38": {
+      "path": "records/V26/38-POST-V26-CARDIV5-ZUIKAKU-MI-AIRGROUP-REGEN-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "116654fac210042f4513e1784a318f378029630e"
     }
   },
   "lineage_sources": [
@@ -264,5 +284,5 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-07-and-Shokaku-adjudication-through-V26-34"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-Zuikaku-regeneration-through-V26-38"
 }
