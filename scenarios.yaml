@@ -8,7 +8,7 @@ scenarios:
     authority_version: "V26"
     canonical_clock: "1941-12-07T14:30:00-10:30"
     clock_state: "canonical-anchor-only; latest-working-continuation-and-local-planning-clocks-are-separate"
-    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. Final MI OOB is integrated through V26:43-44 and Jun4 geometry/search/first contact through V26:45-46. U.S. PBY first useful Japanese carrier datum center0538; Japanese D4Y finds TF16 center0622 and separate Saratoga group center0650; both sides launch-quality by about0700. Current next: U.S. first strike, Japanese counterstrike, and Midway land-air packages, then CAP/AA/valid releases before hit adjudication. V26 canon clock remains 1941-12-07 14:30 HST."
+    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. MI strike packages are integrated through V26:47-48 and interception/CAP-AA/valid releases through V26:49-50. U.S. valid releases: SBD70/TBD17. Japan: D3A34/Type9116/FT22. Japanese anti-carrier reserve launched before full Midway-wave recovery, so historical full rearm/deck-clutter state is not copied. Current next: direct-hit adjudication by carrier/weapon, then damage and recovery. V26 canon clock remains 1941-12-07 14:30 HST."
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/00-READ-FIRST-GENERIC.md"
@@ -19,7 +19,7 @@ scenarios:
     canonical_source: "scenarios/asai/records/V26/00-SESSION-HANDOFF-V26.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-MI-first-contact-through-V26-46-plus-complete-v22b-source-snapshot"
+    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-MI-valid-release-through-V26-50-plus-complete-v22b-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository; source-record-trees-preserved-during-navigation-restructure"
 
   keisanki-ibun:
