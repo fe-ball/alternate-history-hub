@@ -1,0 +1,12 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26正本時計1941-12-07T14:30:00-10:30。Apr29 Shokaku判定はPOST-V26 replay-local WORKING。	V26:00;V26:33
+APR29-SHOKAKU-HITCOUNT	WORKING-CLOSE	REPLAY-LOCAL	V26:25の0-2 direct-hit branchから1x1000lb-class direct hitをcentral continuationとして採用。0/2-hit tailsはsensitivityとして保持。	V26:25-26;V26:33
+APR29-SHOKAKU-LOCATION	WORKING-CLOSE	DAMAGE-MODEL	forward-starboard/island-adjacent flight deckからupper hangar/aviation-support volumeへのhit central。machinery/waterline/magazine/avgas catastrophic hitは採らない。	V26:33
+APR29-SHOKAKU-STATE	WORKING-CLOSE	REPLAY-LOCAL	Apr29はcarrier aviation mission kill for battle / hull mobile / 27-30kt class / self-propelled。normal cyclic flight operations不可、limited emergency recovery conditional。	V26:33
+SHOKAKU-REPAIR-CLOCK	WORKING-PLAN	REPAIR-CLOCK	major-yard structural/aviation-support repair後、frontline carrier-ready fast Jun5-7/center Jun9-11/slow Jun14-18。	V26:33
+SHOKAKU-MI	WORKING-CLOSE	FORCE-STATE	MI sailing/final work-up gateでShokaku combat-present=NO central。MIはreturn待ちにしない。	V26:23;V26:33
+SHOKAKU-0HIT-TAIL	SENSITIVITY	BRANCH	0-hitならMI OOBが大きく変わるためexplicit sensitivity replay時のみ使用。central continuationへ自動混入しない。	V26:25;V26:33
+SHOKAKU-2HIT-TAIL	SENSITIVITY	BRANCH	2-hitならlate-Jun/Jul級return tail。central continuationへ自動混入しない。	V26:25;V26:33
+NEXT-AIRLOSS	OPEN	CURRENT-NEXT	Apr29双方のairframe/aircrew loss ledgerをV26:25 defense stateで閉じる。	V26:25;V26:33
+NEXT-ZUIKAKU-REGEN	OPEN	CURRENT-NEXT	Apr9+Apr29後Zuikaku airframe/aircrew/serviceabilityとMI再生航空隊を閉じる。	V26:23;V26:25;V26:33
+NEXT-MI-OOB	OPEN	AFTER-REGEN	final carrier-air-group countsを艦艇/装備/弾薬と統合してMI one-sheet OOBを作る。	V26:31-33
