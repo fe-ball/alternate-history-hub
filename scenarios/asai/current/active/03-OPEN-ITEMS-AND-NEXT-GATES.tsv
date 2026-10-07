@@ -1,17 +1,17 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:23-24を参照し、艦隊配備装備の正本洗い出しから再開する。	V26:23-24
-1	SHOKAKU-REPAIR	OPEN	CURRENT-NEXT	Apr29 1000lb級2hit後のShokaku応急/本修理/return clockを閉じる。	V26:21#12-15
-2	ZUIKAKU-AIRGROUP	OPEN	CURRENT-NEXT	Apr9 Yorktown+Apr29 Lexington二戦後の機体/搭乗員損耗、serviceable/sortie-ready数を閉じる。	V26:21#12-15
-3	SARATOGA-APR29	OPEN	CURRENT-NEXT	Apr20-May5 return band内のApr29時点でSaratogaがどこまでcombat-readyか閉じる。	V26:21#12-15
-4	DOOLITTLE-RETURN	OPEN	CURRENT-NEXT	Enterprise/HornetのApr21-23級raid後の航海/補給/航空隊再生時計を閉じる。	V26:21#12-15
-5	US-CARRIER-BALANCE	OPEN	AFTER-REGEN	Yorktown/Saratoga/Lexington/Enterprise/Hornetのpost-Apr29 Pacific balanceを再構成。	V26:21#15
-6	JP-NEXT-OP	OPEN	AFTER-REGEN	米日空母state確定後にMI/AL/FS/other次作戦を actor-knowledge込みで再評価。	V26:21#15
-7	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speedを厳密CLOSE。	V26:21#1
-8	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOFを厳密CLOSE。	V26:21#1
-9	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	標準FT fuel type/load/flow/residual fuelとthermal stateを閉じる。	V26:21#1-2
-10	FT-FUSE-PENETRATION	OPEN	PARALLEL-TECH	SAP fuse delay/penetration/structural energy-loss tableを閉じる。	V26:21#2;V26:21#14
-11	APR29-AIRLOSS	OPEN	AFTER-REGEN	Apr29双方の機種別airframe/aircrew loss ledgerを閉じる。	V26:21#14
-12	PM-BASE-GROWTH	WORKING	DEFERRED	Apr18 capture後のairfield/harbor/fuel/service-release growthを再接続。	V26:21#8;V26:21#14
-13	GT-CORE-LIFE	NEXT-DEFERRED	DEFERRED	E5/E6 J・JF scheduled removal/core-life基準をrating別整理。	V26:13#14
-14	GT-FUEL-QUALITY	NEXT-DEFERRED	DEFERRED	Grade A/B/C等のnormal/derated/flight-reject境界を整理。	V26:13#14
-15	GT-RATING-TRADE	NEXT-DEFERRED	DEFERRED	fuel quality×temperature/rating×inspection×core-life debitを閉じる。	V26:13#14
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:25-26を参照し、MI exact escort/equipment distributionから再開する。	V26:25-26
+1	MI-DD-ESCORT	OPEN	CURRENT-NEXT	MI各carrier tactical cellとRyujo/Takao/Maya outer groupのexact DD/escort hullを確定し、radar picket/sonar escortを配る。	V26:25#4/#8
+2	MI-ORDNANCE-STOCK	OPEN	CURRENT-NEXT	Type91/Type93/FTのforce-level stockと各carrier/surface groupへのallocationを閉じる。	V26:25#8
+3	SHOKAKU-APR29-HIT	OPEN	CURRENT-NEXT	Apr29 Shokaku 0-2 direct-hit branchからhit location/damage stateを再判定。1-hit branch centralだが固定しない。	V26:25#7
+4	SHOKAKU-REPAIR	OPEN	CURRENT-NEXT	再判定damage stateから応急/yard/return clockを導出。MIはreturn待ちにしない。	V26:25#7
+5	ZUIKAKU-AIRGROUP	OPEN	CURRENT-NEXT	Apr9+Apr29後のGaifu/A6M/D3A/B5N/D4Y/B6N機体・搭乗員・serviceable/sortie-ready数を閉じる。	V26:23;V26:25
+6	APR29-AIRLOSS	OPEN	CURRENT-NEXT	再監査防空状態を使いApr29双方の機種別airframe/aircrew loss ledgerを閉じる。	V26:25#7
+7	MI-FINAL-OOB	OPEN	AFTER-FORCE-DETAIL	空母・水上艦・DD・航空隊・radar/AA/FCS/ASW・弾薬を一枚のMI開始OOBへ統合。	V26:25-26
+8	MI-COMBAT	OPEN	AFTER-FINAL-OOB	上記force-stateが閉じた後にのみMI combat replayを開始。	V26:25#8
+9	SARATOGA-APR29	OPEN	PARALLEL-REGEN	Apr20-May5 return band内のApr29時点Saratoga readinessを閉じる。	V26:21
+10	DOOLITTLE-RETURN	OPEN	PARALLEL-REGEN	Enterprise/HornetのApr21-23 raid後航海/補給/航空隊再生時計。	V26:21
+11	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speed厳密CLOSE。	V26:21#1
+12	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOF厳密CLOSE。	V26:21#1
+13	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	FT fuel type/load/flow/residual fuel/thermal stateを閉じる。	V26:21#1-2
+14	FT-FUSE-PENETRATION	OPEN	PARALLEL-TECH	SAP fuse delay/penetration/structural energy-loss tableを閉じる。	V26:21#2
+15	PM-BASE-GROWTH	WORKING	DEFERRED	Apr18 capture後のairfield/harbor/fuel/service-release growth。	V26:21#8
