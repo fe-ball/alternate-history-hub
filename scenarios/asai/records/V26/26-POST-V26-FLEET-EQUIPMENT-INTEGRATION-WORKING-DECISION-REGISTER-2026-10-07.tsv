@@ -1,0 +1,26 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26正本時計1941-12-07T14:30:00-10:30。1942艦隊装備統合はWORKINGで正本昇格しない。	V26:00;V26:25
+A7M-GAIFU	WORKING	AIRCRAFT	世界線A7M=Gaifu。end-May factory accepted26-27中心、service21-23、carrier-qualified18-20、MI combat-present12中心。厳密工場台帳は未閉鎖。	V26:25
+D4Y-1942	WORKING	AIRCRAFT	D4Yは艦偵先行。piston MI combat-present8中心、E7-S-T小数2中心。D3Aが主爆撃機のまま。	V26:25
+B6N-1942	WORKING	AIRCRAFT	E7-M-LF主候補。MI combat-present6中心、FT優先。B5NがType91/FT mass lineを維持。	V26:25
+H7Y-LATE-D	WORKING-CLOSE	ISR	H7Y-Dはdiesel維持。May physical約6、mission-capable約4、extreme-range immediate2/surge3。flash contact後H6K/H8K/E13A/D4Yへhandoff。	V26:00;V26:07;V26:21;V26:25
+E13A-F1M	WORKING-CLOSE	ISR	E13Aは長距離艦上索敵/track、F1Mは観測/近距離/汎用。radio flash minutes-scale、写真詳細hours-scale。	V18;V26:17;V26:25
+E15K-MI	WORKING-CLOSE	ISR	E15Kは通常巡洋艦catapult互換を推定しない。MI First Air Fleet main combat-present0中央。	V18;V26:25
+RADAR-AA-1942	WORKING-CLOSE	RADAR	Type21-line前身は1942Q1-Q2少数実戦化。end-May physical9-12/ship-accepted7-9/combat-fitted6-7。MI centralはAkagi/Hiryu/Zuikaku各1。	V14;V9;V26:25
+RADAR-SURFACE-1942	WORKING-CLOSE	RADAR	10cm Type22-line前身はend-May physical18-24/accepted12-16/combat-fitted10-14。Tone/Chikuma/Haruna/Takao/selected DDを優先。blind-fire FCSではない。	V14;V9;V26:25
+GERMAN-RADAR-GUARD	WORKING-CLOSE	TRANSFER	独連絡はpulse radar実用性・receiver/display/servo/interface比較とrisk reductionに効くが、MIにWurzburg級精密gun-layingをbackdateしない。	V9;V22B-reference;V26:25
+AA-HEAVY-FCS	WORKING-CLOSE	AA/FCS	Type89 12.7cmがmodern heavy-AA主力。selected shipsはFCS2/FCS3-like integrationだがMk37/RPC/radar blind-fireではない。	V8:51;V9:04/07;V26:25
+AA-37MM	WORKING-CLOSE	AA	37mm中間AAは国産新規枝。powered twin、0.62-0.68kg projectile、780-820m/s、practical90-110rpm/barrel級。end-May physical32-40 guns、accepted28-34、combat-fitted14-16 twin mounts fleet-wide。	V26:25
+AA-25MM	WORKING-CLOSE	AA	Type96 25mmは多数維持。sight/QC/powered-mount reliabilityは改善するが15-round magazine、mount inertia、vibration/flash、小弾量の制約を残す。	V8:51;V26:25
+VT-FUZE	NOT-COMBAT-PRESENT	AA	MI時の艦隊高角砲にproximity/VT fuzeを付与しない。mechanical time fuzeが中央。	V26:25
+MI-AA-RADAR-ALLOCATION	WORKING	FORCE-EQUIPMENT	Akagi/Hiryu/Zuikakuにair-warning1ずつ。主要空母に37mmをAkagi1x2,Kaga1x2,Soryu1x2,Hiryu1x2,Zuikaku2x2,Ryujo0中央。	V26:25
+MI-SURFACE-RADAR-ALLOCATION	WORKING	FORCE-EQUIPMENT	Tone1,Chikuma1,Haruna1,Takao1 surface-search中央。selected modern DDは各carrier tactical cellにradar picket1隻目標。Kirishima/Mayaはavailability-dependent。	V26:25
+MAIN-GUN-FCS	WORKING-CLOSE	FCS	戦艦/巡洋艦主砲FCSはoptical/mechanical中心FCS1-2。差はcalibration/stable reference/data transmission/target designation/reset friction。generic accuracy multiplier禁止。	V8:51;V9:04/07;V26:25
+NIGHT-FIGHTING	WORKING-CLOSE	FCS/DOCTRINE	夜戦doctrineは史実海軍由来。surface radarはcontact/range-bearing cue、光学識別/測距と通常FCSが中心。	V17:06;V26:25
+TYPE93-FCS	WORKING-CLOSE	TORPEDO	Type93 body性能はほぼ史実。target-motion/gyro-angle/transmission/night optics/comms/formation sync/reload resetが改善。長距離ではtarget-motion uncertaintyが支配。	V17:06;V26:25
+ASW-1942	WORKING-CLOSE	ASW	Type93-line active/passive acoustic suiteが基準。信頼性/校正/own-noise maps/operator workflow改善。Type95爆雷主力、deep mixed-setting見直し開始、Type2はlimited early issue候補。	V14:05/09;V17:03;V26:25
+ASW-NO-MAGIC	WORKING-CLOSE	ASW	MI時にType3独由来sonar、ahead-thrown weapon、airborne MAD、mature hunter-killer、fleet-wide bathythermograph戦術を付与しない。	V14:09;V26:25
+APR29-AA-REAUDIT	WORKING	REPLAY-LOCAL	Apr29 CarDiv5はGaifu8-10、air-warning1、Type89+improved FCS、各carrier37mm twin約2を考慮。旧Shokaku 1000lb x2 fixed resultは非支配化。	V26:21;V26:25
+APR29-HIT-BAND	WORKING	REPLAY-LOCAL	US counterstrike valid SBD release18-22、TBD run5-8級。Shokaku direct1000lb hit0-2 plausible、1-hit branch central。Zuikaku0 central/1 tail。Shokaku immediate mission-kill35-50% working band。	V26:25
+SHOKAKU-MI-PLAN	WORKING-CLOSE	STRATEGY	Apr29再監査でShokaku damage stateをbranch化しても、MIをShokaku return待ちにしないV26:23 planning ruleは維持。	V26:23;V26:25
+NEXT-FLEET-GATE	OPEN	CURRENT-NEXT	次はexact MI destroyer/escort hull assignmentとradar/sonar distribution、Type91/Type93/FT force stock、Apr29 Shokaku hit-location/repair、最終air-group regenerationを閉じてからMI combatへ。	V26:25
