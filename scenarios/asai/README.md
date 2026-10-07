@@ -18,6 +18,10 @@
 - [V26:32 matching decision register](records/V26/32-POST-V26-SPRING-1942-ORDNANCE-STOCK-MI-ALLOCATION-WORKING-DECISION-REGISTER-2026-10-07.tsv)
 - [V26:33 Apr29 Shokaku hit/damage/repair](records/V26/33-POST-V26-APR29-SHOKAKU-HIT-DAMAGE-REPAIR-WORKING-HANDOFF-2026-10-07.md)
 - [V26:34 matching decision register](records/V26/34-POST-V26-APR29-SHOKAKU-HIT-DAMAGE-REPAIR-WORKING-DECISION-REGISTER-2026-10-07.tsv)
+- [V26:35 Apr29 airframe / aircrew loss ledger](records/V26/35-POST-V26-APR29-AIRFRAME-AIRCREW-LOSS-LEDGER-WORKING-HANDOFF-2026-10-08.md)
+- [V26:36 matching decision register](records/V26/36-POST-V26-APR29-AIRFRAME-AIRCREW-LOSS-LEDGER-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:37 CarDiv5 / Zuikaku MI regeneration](records/V26/37-POST-V26-CARDIV5-ZUIKAKU-MI-AIRGROUP-REGEN-WORKING-HANDOFF-2026-10-08.md)
+- [V26:38 matching decision register](records/V26/38-POST-V26-CARDIV5-ZUIKAKU-MI-AIRGROUP-REGEN-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
@@ -33,7 +37,7 @@ V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL p
 - Lexington: Apr11南下、Apr27 H7Y接触、Apr29 CarDiv5戦
 - Lexington lost central
 - **Shokakuの旧1000lb級2発固定mission-kill結果はSUPERSEDED。V26:33-34で1x1000lb級 direct hit centralを採用し、forward-starboard/island-adjacent flight deck→upper hangar hit、battle-day aviation mission kill、frontline return Jun9-11 center、MI不参加中央までWORKING-CLOSE**
-- Zuikaku hull combat-effective central。air-group attrition / regenerationはOPEN
+- Zuikaku hull combat-effective central。V26:37-38でMI serviceable64 / 24h sortie-ready60、Gaifu12/A6M10/D3A20/D4Y2/B5N16/B6N4までWORKING-CLOSE
 - MIはALと分離して先行。Shokaku復帰は待たない
 - Zuikakuは再編航空隊でMI参加中央、Ryujoはfighter-heavy CAP/search/torpedo-support carrier
 - MI carrier-supportはNagara + 16 DD。Arashi / Urakaze / Kazagumoを中央DD surface-radar picketとする
@@ -44,10 +48,10 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:33-34でApr29 Shokaku central damage/repairまでWORKING-CLOSE。Apr29 air-loss ledgerから再開する。**
+**V26:35-38でApr29 air-loss ledgerとZuikaku MI regenerationまでWORKING-CLOSE。残るcarrier-air / U.S. carrier balanceから再開する。**
 
-1. Apr29双方のairframe / aircrew loss ledgerを閉じる
-2. Zuikaku等のcarrier-air-group regenerationを閉じる
+1. Akagi/Kaga/Soryu/Hiryu/Ryujo end-May carrier-air readinessを閉じる
+2. Saratoga readiness + Enterprise/Hornet post-Doolittle returnを閉じる
 3. MI final one-sheet OOBへ統合
 4. 上記が閉じた後にのみMI combat replayへ進む
 
