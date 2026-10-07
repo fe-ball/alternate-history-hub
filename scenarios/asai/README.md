@@ -32,7 +32,7 @@ V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL p
 - Port Moresby: Apr15 Taurama → Apr18 physical capture
 - Lexington: Apr11南下、Apr27 H7Y接触、Apr29 CarDiv5戦
 - Lexington lost central
-- **Shokakuの旧1000lb級2発固定mission-kill結果はSUPERSEDED。V26:25-26で0-2 direct-hit branchへ再OPENし、1-hit branch central、immediate mission-kill約35-50% WORKING。hit location / repairはOPEN**
+- **Shokakuの旧1000lb級2発固定mission-kill結果はSUPERSEDED。V26:33-34で1x1000lb級 direct hit centralを採用し、forward-starboard/island-adjacent flight deck→upper hangar hit、battle-day aviation mission kill、frontline return Jun9-11 center、MI不参加中央までWORKING-CLOSE**
 - Zuikaku hull combat-effective central。air-group attrition / regenerationはOPEN
 - MIはALと分離して先行。Shokaku復帰は待たない
 - Zuikakuは再編航空隊でMI参加中央、Ryujoはfighter-heavy CAP/search/torpedo-support carrier
