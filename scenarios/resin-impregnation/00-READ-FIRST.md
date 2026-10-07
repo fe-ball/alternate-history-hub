@@ -7,7 +7,7 @@
 1. [運用規則](SCENARIO-RULES.md) と [User_Narrative_Constraints.md](current/User_Narrative_Constraints.md)。
 2. [期区分](current/Phase_Analysis.md)、[経済マスタ](current/Master_Parameters.md)、[売上根拠](current/Revenue_Model.md)。
 3. [監査記録](audit/DECISION-REGISTER.md) と [引継ぎ](current/active/00-SESSION-HANDOFF.md)。
-4. 航空材料・推進・機体統合は [Aviation_Composite_Integration_1933_1942.md](current/Aviation_Composite_Integration_1933_1942.md) を読む。PAN主系、短シャンク/広弦プロペラ、水上高速機、零戦期の他社流入、大型機波及の2026-10-07 WORKINGを集約する。
+4. 航空材料・推進・機体統合は [Aviation_Composite_Integration_1933_1942.md](current/active/Aviation_Composite_Integration_1933_1942.md) を読む。PAN主系、短シャンク/広弦プロペラ、水上高速機、零戦期の他社流入、大型機波及の2026-10-07 WORKINGを集約する。
 
 ## 今回の修正と保留
 
@@ -64,7 +64,7 @@ P3/P4の売上内訳未配賦、量産設備と販売量、資金残高、白金
 ### 製品と用途
 
 - [Aviation_Fleet_List.md](current/Aviation_Fleet_List.md)
-- [Aviation_Composite_Integration_1933_1942.md](current/Aviation_Composite_Integration_1933_1942.md)
+- [Aviation_Composite_Integration_1933_1942.md](current/active/Aviation_Composite_Integration_1933_1942.md)
 - [Propeller_Technology_Timeline.md](current/Propeller_Technology_Timeline.md)
 - [Mitsubishi_Diesel_Aircraft_Feasibility.md](current/Mitsubishi_Diesel_Aircraft_Feasibility.md)
 - [Seaplane_Strategy.md](current/Seaplane_Strategy.md)
