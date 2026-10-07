@@ -72,3 +72,9 @@ OPEN：
 4. Enterprise/Hornet post-Doolittle return
 5. U.S. Pacific carrier balance
 6. Japanese next-operation choice
+
+
+## 2026-10-07 continuation
+
+V26:23-24 carry the latest replay-local planning discussion.
+Current next: continue the authoritative inventory of fleet-deployed equipment before any further scenario resolution.
