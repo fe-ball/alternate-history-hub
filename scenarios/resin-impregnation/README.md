@@ -20,3 +20,5 @@ Claudeプロジェクトの全39文書を新規シナリオとして回収し、
 元の [Claudeプロジェクト](https://claude.ai/project/019d16ee-963d-7207-86ee-448111dd18a6) と [2026-05-06の更新確認](https://claude.ai/chat/39562d1e-fc57-42e3-b9c2-d0041cc62a59) を取得元・現行性の根拠として記録した。GitHubの修正はClaude側の文書には反映していない。
 
 追加監査では元設定の工場年代・比弾性率・原価・燃料費/物量・合弁会計を訂正し、完成機40%構想とPAN研究を条件付きで保持した。[原設定監査](audit/SOURCE-AUDIT.md) と [財務収録範囲](audit/FINANCE-COVERAGE.md) から再開できる。
+
+2026-10-07に航空材料・推進・機体統合のWORKINGを [current/active/Aviation_Composite_Integration_1933_1942.md](current/active/Aviation_Composite_Integration_1933_1942.md) へ追加した。PAN長繊維の航空主系化、短シャンク/広弦プロペラ、水上高速機、零戦期の他社導入、大型機波及をまとめる。これはsource-audit-2の39文書監査を置換せず、その上に載る継続検討層である。
