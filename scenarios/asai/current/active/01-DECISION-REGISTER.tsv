@@ -41,4 +41,11 @@ AA-FCS	WORKING-CLOSE	FCS	Type89/Type94系はselected modern shipsでFCS2/FCS3-li
 MAIN-GUN-TORPEDO-FCS	WORKING-CLOSE	FCS	主砲は光学/機械中心でreset/transmission改善。Type93はtarget-motion/gyro/sync改善、body性能はほぼ史実。	V26:25-26
 ASW-1942	WORKING-CLOSE	ASW	Type93 acoustic suite reliability/QC/own-noise map改善。Type95爆雷主力。Type3/ahead-thrown/MADなし。	V26:25-26
 APR29-SHOKAKU-REAUDIT	WORKING	REPLAY-LOCAL	Shokaku direct1000lb hit0-2 plausible、1-hit branch central、immediate mission-kill35-50% working。hit location/repair OPEN。	V26:25-26
-NEXT-MI-FORCE-DETAIL	OPEN	CURRENT-NEXT	exact DD/escort hull+radar/sonar、Type91/Type93/FT stock、Shokaku repair、final air-group regenerationを閉じてMI replayへ。	V26:25-26
+NEXT-MI-FORCE-DETAIL	WORKING-CLOSE	ROLLED-FORWARD	exact DD/escort hull+central radar/ASW roleをV26:27-28で閉じた。次はType91/Type93/FT stock、Shokaku repair、final air-group regeneration。	V26:25-28
+MI-SCREEN-TOTAL	WORKING-CLOSE	FORCE-STATE	Nagara+DD16 carrier-support system。史実MI DD12に、AL分離でShiokaze/Akebono/Ushio/SazanamiをRyujo outerへ移す。	V26:27-28
+MI-CELL1-DD	WORKING-CLOSE	FORCE-STATE	Akagi/Kaga: Arashi radar picket、Nowaki/Hagikaze ASW priority、Maikaze plane-guard/flexible。	V26:27-28
+MI-CELL2-DD	WORKING-CLOSE	FORCE-STATE	Soryu/Hiryu: Urakaze radar picket、Isokaze/Hamakaze ASW priority、Tanikaze plane-guard/flexible。	V26:27-28
+MI-CELL3-DD	WORKING-CLOSE	FORCE-STATE	Zuikaku: Kazagumo radar picket、Yugumo/Makigumo ASW priority、Akigumo plane-guard/flexible。	V26:27-28
+MI-RYUJO-OUTER	WORKING-CLOSE	FORCE-STATE	Ryujo/Takao/Maya + Shiokaze/Akebono/Ushio/Sazanami。Takao surface radar node、Ushio/Akebono/Sazanami ASW priority。	V26:27-28
+MI-SURFACE-RADAR-7	WORKING-CLOSE	RADAR	Haruna/Tone/Chikuma/Takao/Arashi/Urakaze/Kazagumo各1、合計7中央。Kirishima/Mayaはavailability-dependent。	V26:27-28
+NEXT-ORDNANCE	OPEN	CURRENT-NEXT	Type91 aerial torpedo / FT / Type93 ship torpedoのforce-level stockとallocationを閉じる。	V26:27-28
