@@ -389,3 +389,37 @@ Central continuation:
 3. final MI carrier-air-group counts;
 4. final one-sheet MI OOB;
 5. MI combat replay.
+
+
+---
+
+# 2026-10-08 Apr29 air-loss / Zuikaku regeneration
+
+Latest original sources:
+- V26:35 = Apr29 Lexington-CarDiv5 airframe / aircrew loss ledger
+- V26:36 = matching decision register
+- V26:37 = CarDiv5 / Zuikaku MI air-group regeneration
+- V26:38 = matching decision register
+
+Apr29 loss closure:
+- Japanese irreversible aircraft = 16 central: A6M2 4 / Gaifu1 / D3A5 / B5N6;
+- Japanese aviation KIA/MIA = 25 central;
+- Lexington air-group physical loss = 72 central;
+- of those, direct combat loss = 20; the rest are carrier-loss recovery/ditch/fuel/aboard-fire writeoffs;
+- Lexington aviation KIA/MIA ~44 central; most surviving aircrew are rescued.
+
+Zuikaku MI central:
+- physical assigned ~67-69;
+- serviceable 64;
+- crewed ~62;
+- 24h sortie-ready 60;
+- composition serviceable: Gaifu12 / A6M2 10 / D3A1 20 / D4Y 2 / B5N2 16 / B6N 4;
+- Type91 28 / FT 24;
+- Shokaku remains unavailable for MI central.
+
+## CURRENT NEXT
+
+1. integrate Akagi/Kaga/Soryu/Hiryu/Ryujo end-May carrier-air readiness and remaining D4Y/B6N allocation;
+2. close Saratoga readiness and Enterprise/Hornet post-Doolittle return;
+3. build final MI one-sheet OOB;
+4. only then replay MI combat.
