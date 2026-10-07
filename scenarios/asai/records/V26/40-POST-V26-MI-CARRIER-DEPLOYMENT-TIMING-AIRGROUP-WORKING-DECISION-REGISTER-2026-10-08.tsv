@@ -1,0 +1,19 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST. MI deployment timing is post-V26 WORKING.	V26:00;V26:39
+AKAGI-SORYU-HIRYU-RETURN	WORKING-CLOSE	DEPLOYMENT	Apr5 Indian Ocean action後、western three home-water arrival Apr21-23/center Apr22; Doolittle Apr22で魔法interceptは付与しない。	V26:19;V26:39
+KAGA-MAY-TIMING	WORKING-CLOSE	DEPLOYMENT	KagaはIndian Ocean不参加でもearly-May maintenance/work-upを保持。May4-6 release/trials, May7-23 work-up, MI present。	V26:17;V26:39
+RYUJO-MAY-TIMING	WORKING-CLOSE	DEPLOYMENT	Apr28-May6 maintenance retained; AL separationによりMay7以降Ominatoへ行かずMI concentrationへ。May24-26 Cell3 outer integration。	V26:23;V26:39
+ZUIKAKU-MAY-TIMING	WORKING-CLOSE	DEPLOYMENT	Apr29戦後、home-water arrival May10-12 center; May11-25 regeneration/work-up; MI present May27 central。	V26:33-38;V26:39
+SHOKAKU-MI	WORKING-CLOSE	DEPLOYMENT	Shokaku frontline-return Jun9-11 center; May27 MI sortie combat-present NO。	V26:33-34;V26:39
+MI-SORTIE-DATE	WORKING-CLOSE	DEPLOYMENT	May24-26 final load/planning/replenishment, May27 sortie central; one-day slip plausible, multi-day delay not required。	V26:39
+AKAGI-AIRGROUP	WORKING-CLOSE	FORCE-STATE	MI serviceable60/24h-ready57: A6M20,D3A18,D4Y2,B5N18,B6N2。	V26:25;V26:39
+KAGA-AIRGROUP	WORKING-CLOSE	FORCE-STATE	MI serviceable68/24h-ready64: A6M20,D3A20,B5N28。	V26:39
+SORYU-AIRGROUP	WORKING-CLOSE	FORCE-STATE	MI serviceable53/24h-ready50: A6M18,D3A17,B5N18。	V26:17;V26:19;V26:39
+HIRYU-AIRGROUP	WORKING-CLOSE	FORCE-STATE	MI serviceable54/24h-ready51: A6M18,D3A18,D4Y2,B5N16。	V26:19;V26:39
+RYUJO-AIRGROUP	WORKING-CLOSE	FORCE-STATE	MI serviceable32/24h-ready29: A6M18,D4Y2,B5N12; fighter-heavy CAP/search/torpedo-support role。	V26:23;V26:39
+ZUIKAKU-AIRGROUP	WORKING-CLOSE	FORCE-STATE	Carry V26:37 serviceable64/24h-ready60: Gaifu12,A6M10,D3A20,D4Y2,B5N16,B6N4。	V26:37-38;V26:39
+MI-JP-AIR-TOTAL	WORKING-CLOSE	FORCE-STATE	Six-deck system serviceable331/24h-ready311 central. A6M104/Gaifu12/D3A93/D4Y8/B5N108/B6N6。	V26:39
+D4Y-MI-ALLOC	WORKING-CLOSE	AIRCRAFT	D4Y piston8 = Akagi2/Hiryu2/Zuikaku2/Ryujo2. E7-S-T pair remains separate development pool。	V26:25;V26:37;V26:39
+B6N-MI-ALLOC	WORKING-CLOSE	AIRCRAFT	B6N6 = Akagi2/Zuikaku4; mass torpedo/FT line remains B5N2。	V26:25;V26:37;V26:39
+NEXT-US-CARRIER-CLOCK	OPEN	CURRENT-NEXT	Saratoga/Enterprise/Hornetのbranch-specific May deployment timingを閉じ、US MI carrier balanceを確定。	V26:21;V26:39
+NEXT-MI-OOB	OPEN	AFTER-US-CARRIER	日米carrier timing確定後にfinal MI one-sheet OOB。	V26:39
