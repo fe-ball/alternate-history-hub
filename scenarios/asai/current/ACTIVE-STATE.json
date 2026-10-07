@@ -20,7 +20,7 @@
   "working_history": {
     "latest_campaign_close": "Replay-local working now carries the equipment audit through spring/early-summer 1942. The Apr29 Lexington loss remains central, but the prior fixed Shokaku two-direct-hit mission-kill result is reopened by the combined Gaifu/radar/FCS/37-mm defense re-audit: Shokaku damage is now a 0-2 direct-hit branch with 1-hit central and repair consequences OPEN. Zuikaku remains hull-combat-effective central. No canon clock promotion occurred.",
     "status": "WORKING",
-    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration.",
+    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28.",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
@@ -37,7 +37,8 @@
       "Apr27-29 Lexington approach / CarDiv5 replay",
       "Apr29 Lexington loss / Shokaku mission kill / Zuikaku combat-effective state",
       "post-Apr29 carrier repair / air-group regeneration planning",
-      "spring-1942 fleet equipment integration V26:25-26"
+      "spring-1942 fleet equipment integration V26:25-26",
+      "MI escort/radar/ASW exact hull allocation V26:27-28"
     ]
   },
   "discussion_frontier": {
@@ -64,10 +65,14 @@
       "Shipboard AA integration: Type89/Type94 improved chain, limited 37-mm intermediate AA, Type96 constraints, no VT",
       "Surface gunnery / night-fighting / Type93 torpedo-FCS system closure",
       "Spring-1942 ASW baseline: Type93 acoustic suite improved reliability/QC, Type95 depth charge main line, no Type3/ahead-thrown/MAD",
-      "Apr29 Shokaku fixed two-hit result reopened to 0-2 direct-hit branch after defense-system re-audit"
+      "Apr29 Shokaku fixed two-hit result reopened to 0-2 direct-hit branch after defense-system re-audit",
+      "MI exact destroyer/escort hull allocation: Nagara + 16 DD carrier-support system",
+      "Cell radar-picket / ASW reaction / plane-guard role assignment for Arashi/Urakaze/Kazagumo groups",
+      "Ryujo/Takao/Maya outer-support group with Shiokaze/Akebono/Ushio/Sazanami",
+      "MI central surface-radar allocation: Haruna/Tone/Chikuma/Takao/Arashi/Urakaze/Kazagumo"
     ],
-    "next_gate": "Close exact MI destroyer/escort hull assignment and radar/sonar distribution; force-level Type91/Type93/FT stocks; Apr29 Shokaku hit-location/repair branch; and final carrier-air-group regeneration. Only then begin MI combat replay. See V26:25-26.",
-    "next_gate_source": "V26:25-26",
+    "next_gate": "Close force-level Type91 aerial-torpedo, Type93 ship-torpedo and FT stocks/allocation; then Apr29 Shokaku hit-location/repair branch and final carrier-air-group regeneration; then build final MI one-sheet OOB before combat replay. See V26:27-28.",
+    "next_gate_source": "V26:27-28",
     "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 Lexington loss remains central but Shokaku damage/repair is reopened by V26:25-26. V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
@@ -183,6 +188,14 @@
     "V26:26": {
       "path": "records/V26/26-POST-V26-FLEET-EQUIPMENT-INTEGRATION-WORKING-DECISION-REGISTER-2026-10-07.tsv",
       "blob_sha": "49f9f6ce2474df8d3e2d82e8b41e5ef088a538a8"
+    },
+    "V26:27": {
+      "path": "records/V26/27-POST-V26-MI-ESCORT-RADAR-ASW-WORKING-HANDOFF-2026-10-07.md",
+      "blob_sha": "899530771f76437820f573eab79a237892ee2064"
+    },
+    "V26:28": {
+      "path": "records/V26/28-POST-V26-MI-ESCORT-RADAR-ASW-WORKING-DECISION-REGISTER-2026-10-07.tsv",
+      "blob_sha": "61df629271fe1584f38adbcac4fc676300eab75a"
     }
   },
   "lineage_sources": [
@@ -218,5 +231,5 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-07-and-fleet-equipment-integration-through-V26-26"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-07-and-MI-escort-allocation-through-V26-28"
 }
