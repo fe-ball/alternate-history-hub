@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "navigation_revision": "2026-10-06",
+  "navigation_revision": "2026-10-07",
   "kind": "NAVIGATION-ONLY-NO-CANON-PROMOTION",
   "scenario_id": "asai",
   "repository": "fe-ball/alternate-history-hub",
@@ -58,8 +58,8 @@
       "Lexington emergency reinforcement / H7Y-H6K tracking / Apr29 CarDiv5 carrier action",
       "Apr29 Lexington loss / Shokaku mission kill / Zuikaku intact-hull central"
     ],
-    "next_gate": "Resume from the post-Apr29 carrier-force state: close Shokaku repair/return clock, Zuikaku airframe-aircrew-serviceability losses after Yorktown+Lexington, Saratoga exact late-April readiness, and Enterprise/Hornet post-Doolittle return/replenishment; then reconstruct the U.S. Pacific carrier balance before choosing Japan's next major operation (MI/AL/FS/other). Keep rigorous FT numerical speed/range/TOF/fuel closure as a parallel technical follow-up, not a blocker and not an excuse to promote earlier rough numbers.",
-    "next_gate_source": "V26:21#15;V26:22#NEXT-SHOKAKU..NEXT-STRATEGY",
+    "next_gate": "Continue the authoritative inventory of fleet-deployed equipment. Begin with spring/early-summer 1942 carrier aviation service state, then continue the remaining shipboard equipment inventory. See V26:23-24.",
+    "next_gate_source": "V26:23-24",
     "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; latest replay frontier is the Apr29-class Lexington vs CarDiv5 action, while V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
@@ -161,6 +161,12 @@
     "V26:22": {
       "path": "records/V26/22-POST-V26-FT-REPAIR-MO-LEXINGTON-WORKING-DECISION-REGISTER-2026-10-06.tsv",
       "blob_sha": "67193525ce859b082acebbc14410c1a10e05d63a"
+    },
+    "V26:23": {
+      "path": "records/V26/23-POST-V26-DOOLITTLE-AEW-MI-AL-FORCE-WORKING-HANDOFF-2026-10-07.md"
+    },
+    "V26:24": {
+      "path": "records/V26/24-POST-V26-DOOLITTLE-AEW-MI-AL-FORCE-WORKING-DECISION-REGISTER-2026-10-07.tsv"
     }
   },
   "lineage_sources": [
@@ -196,5 +202,5 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-06-ft-repair-mo-lexington-apr29-frontier"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-07-and-fleet-equipment-inventory-frontier"
 }
