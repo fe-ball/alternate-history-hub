@@ -14,6 +14,8 @@
 - [V26:28 matching decision register](records/V26/28-POST-V26-MI-ESCORT-RADAR-ASW-WORKING-DECISION-REGISTER-2026-10-07.tsv)
 - [V26:29 FT tactical-doctrine integration](records/V26/29-POST-V26-FT-TACTICAL-DOCTRINE-INTEGRATION-WORKING-HANDOFF-2026-10-07.md)
 - [V26:30 matching decision register](records/V26/30-POST-V26-FT-TACTICAL-DOCTRINE-WORKING-DECISION-REGISTER-2026-10-07.tsv)
+- [V26:31 spring-1942 ordnance stock / MI allocation](records/V26/31-POST-V26-SPRING-1942-ORDNANCE-STOCK-MI-ALLOCATION-WORKING-HANDOFF-2026-10-07.md)
+- [V26:32 matching decision register](records/V26/32-POST-V26-SPRING-1942-ORDNANCE-STOCK-MI-ALLOCATION-WORKING-DECISION-REGISTER-2026-10-07.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
@@ -40,15 +42,14 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:29-30 target cardを制約として、spring-1942 ordnance stock / allocationから再開する。**
+**V26:31-32でordnance stock / allocationはWORKING-CLOSE。Apr29 Shokaku damage adjudicationから再開する。**
 
-1. Type91 aerial torpedoのnational/service-released/forward/carrier stock
-2. FT-G / FT-GR / standard FT / FT-GR-IR / FT-IRをfamily別、HE/SAP別に実在庫とforward allocationへ落とす
-3. Type93 ship torpedoのcarried / reload stockをDD・cruiser force別に閉じる
-4. Apr29 Shokakuのhit location / damage / repair branchを再判定
-5. Apr29双方のairframe / aircrew loss ledgerとZuikaku等のcarrier-air-group regenerationを閉じる
-6. MI final one-sheet OOBへ統合
-7. 上記が閉じた後にのみMI combat replayへ進む
+1. Apr29 Shokaku 0-2 direct-hit branchのhit count / location / damageを再判定
+2. Shokaku repair / return clockを導出
+3. Apr29双方のairframe / aircrew loss ledgerを閉じる
+4. Zuikaku等のcarrier-air-group regenerationを閉じる
+5. MI final one-sheet OOBへ統合
+6. 上記が閉じた後にのみMI combat replayへ進む
 
 ## 構造
 
