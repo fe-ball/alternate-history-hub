@@ -162,3 +162,21 @@ Type93 force:
 - Tone/Chikuma/Takao/Maya: 88.
 
 Current next is no longer ordnance inventory. Resume with Apr29 Shokaku hit-location/damage adjudication under the V26:25 defense state, then repair clock and carrier-air-group regeneration.
+
+
+## 2026-10-07 Apr29 Shokaku adjudication
+
+V26:33-34 select the 1-hit central branch opened by V26:25-26.
+
+Central:
+- 1 x 1,000-lb-class direct hit;
+- forward-starboard/island-adjacent flight deck into upper hangar / aviation-support volume;
+- battle-day aviation mission kill;
+- propulsion/steering/hull survival retained, 27-30 kt class;
+- frontline carrier-ready center Jun9-11;
+- Shokaku unavailable for MI central.
+
+The 0-hit and 2-hit branches remain explicit sensitivity tails only.
+
+Current next:
+Apr29 aircraft/aircrew losses -> Zuikaku and carrier-air-group regeneration -> final MI OOB.
