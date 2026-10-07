@@ -18,9 +18,9 @@
     "Japan_China": "WAR-CONTINUES"
   },
   "working_history": {
-    "latest_campaign_close": "Replay-local working now carries the equipment audit through spring/early-summer 1942. The Apr29 Lexington loss remains central, but the prior fixed Shokaku two-direct-hit mission-kill result is reopened by the combined Gaifu/radar/FCS/37-mm defense re-audit: Shokaku damage is now a 0-2 direct-hit branch with 1-hit central and repair consequences OPEN. Zuikaku remains hull-combat-effective central. No canon clock promotion occurred.",
+    "latest_campaign_close": "Replay-local working now carries the spring/early-summer 1942 fleet-equipment and ordnance audit through V26:31-32. Type91/FT-family/Type93 force-level stocks and MI allocations are WORKING-CLOSE. Apr29 Lexington loss remains central; Shokaku remains a 0-2 direct-hit branch with 1-hit central and exact hit location/damage/repair OPEN. No canon clock promotion occurred.",
     "status": "WORKING",
-    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30.",
+    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32.",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
@@ -39,7 +39,8 @@
       "post-Apr29 carrier repair / air-group regeneration planning",
       "spring-1942 fleet equipment integration V26:25-26",
       "MI escort/radar/ASW exact hull allocation V26:27-28",
-      "FT family tactical-doctrine integration V26:29-30"
+      "FT family tactical-doctrine integration V26:29-30",
+      "MI Type91/FT-family/Type93 stock and allocation V26:31-32"
     ]
   },
   "discussion_frontier": {
@@ -74,10 +75,11 @@
       "FT family separation: FT-G / FT-GR / standard FT / FT-GR-IR / FT-IR plus independent HE/SAP warhead dimension",
       "Prewar mixed FT+Type91 doctrine and spring-1942 target-class attack cards",
       "FT-first / Type91-first separated-axis doctrine with enemy-adaptation guard",
-      "IR selective-use doctrine and no deliberate night-IR mainline"
+      "IR selective-use doctrine and no deliberate night-IR mainline",
+      "Spring-1942 Type91 / FT-family / Type93 force-level stock and MI allocation V26:31-32"
     ],
-    "next_gate": "Close spring-1942 Type91 / FT-family / Type93 ordnance stocks and force-level allocation using V26:29-30 target cards as constraints; then Shokaku damage/repair and final air-group regeneration. See V26:29-30.",
-    "next_gate_source": "V26:29-30",
+    "next_gate": "Adjudicate Apr29 Shokaku direct-hit count/location/damage from the V26:25 0-2 hit branch, then derive repair clock and close Apr29 air losses / carrier-air-group regeneration before final MI OOB. See V26:25 and V26:31-32.",
+    "next_gate_source": "V26:25;V26:31-32",
     "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 Lexington loss remains central but Shokaku damage/repair is reopened by V26:25-26. V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
@@ -209,6 +211,14 @@
     "V26:30": {
       "path": "records/V26/30-POST-V26-FT-TACTICAL-DOCTRINE-WORKING-DECISION-REGISTER-2026-10-07.tsv",
       "blob_sha": "fdc406d5749cf90c9c51715c4d4281b309a74e36"
+    },
+    "V26:31": {
+      "path": "records/V26/31-POST-V26-SPRING-1942-ORDNANCE-STOCK-MI-ALLOCATION-WORKING-HANDOFF-2026-10-07.md",
+      "blob_sha": "1da5d32d8c987893c6976bfac74433b62e471d06"
+    },
+    "V26:32": {
+      "path": "records/V26/32-POST-V26-SPRING-1942-ORDNANCE-STOCK-MI-ALLOCATION-WORKING-DECISION-REGISTER-2026-10-07.tsv",
+      "blob_sha": "9d1769951eeda114ab3666d3ef0124af4d22e9d5"
     }
   },
   "lineage_sources": [
@@ -244,5 +254,5 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-07-and-FT-doctrine-integration-through-V26-30"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-07-and-ordnance-allocation-through-V26-32"
 }
