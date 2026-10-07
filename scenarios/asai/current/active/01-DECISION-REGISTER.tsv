@@ -28,3 +28,9 @@ NEXT-ZUIKAKU	OPEN	CURRENT-NEXT	Zuikaku airframe/aircrew/serviceability ledgerを
 NEXT-US-CARRIERS	OPEN	CURRENT-NEXT	Saratoga readiness + Enterprise/Hornet return/replenishmentを閉じる。	V26:21#15
 NEXT-STRATEGY	OPEN	AFTER-REGEN	再生後にMI/AL/FS/other次作戦を再評価。	V26:21#15
 GT-CORE-FUEL-RATING	NEXT-DEFERRED	DEFERRED	GT core-life×fuel-quality×rating gateは後続技術課題。	V26:13#14
+DOOLITTLE-SYSTEM	WORKING-CLOSE	REPLAY-LOCAL	Apr22級Doolittle防空は監視/plotting/readiness改善、全国精密GCI未成立。主律速はtrack/handoff/vector。	V26:23-24
+AEW-REQUIREMENT	WORKING	REQUIREMENT	Doolittle AAR後に海軍側から空中早期警戒要求が自然発生。浅井側はsystem integrator/support。	V26:23-24
+MI-AL-SEPARATION	WORKING-CLOSE	STRATEGY	MI先行、ALは中止せずMI後へ分離。Shokaku returnは待たない。	V26:23-24
+ZUIKAKU-MI	WORKING-CLOSE	FORCE-STATE	Zuikakuは再編航空隊でMI参加YES中央。pristine72ではない。	V26:23-24
+RYUJO-MI	WORKING-CLOSE	FORCE-STATE	Ryujoはfighter-heavy CAP/search/torpedo support carrierとしてMIへ。	V26:23-24
+NEXT-FLEET-WEAPONS	OPEN	CURRENT-NEXT	艦隊配備兵器の正本洗い出しを継続。艦載航空からAA/radar/魚雷/FT/水偵/FCS/ASWへ。	V26:23-24
