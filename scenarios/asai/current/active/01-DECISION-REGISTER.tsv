@@ -20,9 +20,9 @@ MO-PM-CLOCK	WORKING	SUPERSEDING-REPLAY	Apr15 Taurama→Apr16 Kila→Apr17 Seven 
 LEX-ORDER	WORKING	REPLAY-LOCAL	Lexington Apr10 emergency order / Apr11 Pearl departure class。	V26:21#9
 LEX-CONTACT	WORKING	REPLAY-LOCAL	Apr27 H7Y CONTACT-1/2、Apr28 H6K/H7Y updateでCONTACT-3-like。	V26:21#10
 APR29-LEX	WORKING	REPLAY-LOCAL	Lexington=D3A bomb2+Type91x2+FTx2(HE1/SAP1級)、mission kill後に放棄・自沈/沈没中央。	V26:21#11.3
-APR29-SHOKAKU	WORKING	REPLAY-LOCAL	Shokaku=1000lb級bomb2、carrier mission kill/afloat/withdraw。	V26:21#11.4
+APR29-SHOKAKU	SUPERSEDED	REPLAY-LOCAL	旧Shokaku=1000lb級bomb2固定結果はV26:25の防空再監査で非支配化。0-2 direct-hit branchへ再OPEN。	V26:21#11.4;V26:25
 APR29-ZUIKAKU	WORKING	REPLAY-LOCAL	Zuikaku direct hit 0、hull combat-effective。air-group attrition別計上。	V26:21#11.4
-MO-LATEST	WORKING-CLOSE	CONTINUITY	Apr29後: Lexington lost / Shokaku MK / Zuikaku effective / Shoho effective / PM Apr18 captured。	V26:21#12
+MO-LATEST	WORKING	CONTINUITY	Apr29後: Lexington lost中央 / Shokaku damage state branched / Zuikaku hull effective中央 / PM Apr18 captured。Shokaku固定MKはsuperseded。	V26:21#12;V26:25-26
 NEXT-SHOKAKU	OPEN	CURRENT-NEXT	Shokaku repair / return clockを閉じる。	V26:21#15
 NEXT-ZUIKAKU	OPEN	CURRENT-NEXT	Zuikaku airframe/aircrew/serviceability ledgerを閉じる。	V26:21#15
 NEXT-US-CARRIERS	OPEN	CURRENT-NEXT	Saratoga readiness + Enterprise/Hornet return/replenishmentを閉じる。	V26:21#15
@@ -33,4 +33,12 @@ AEW-REQUIREMENT	WORKING	REQUIREMENT	Doolittle AAR後に海軍側から空中早�
 MI-AL-SEPARATION	WORKING-CLOSE	STRATEGY	MI先行、ALは中止せずMI後へ分離。Shokaku returnは待たない。	V26:23-24
 ZUIKAKU-MI	WORKING-CLOSE	FORCE-STATE	Zuikakuは再編航空隊でMI参加YES中央。pristine72ではない。	V26:23-24
 RYUJO-MI	WORKING-CLOSE	FORCE-STATE	Ryujoはfighter-heavy CAP/search/torpedo support carrierとしてMIへ。	V26:23-24
-NEXT-FLEET-WEAPONS	OPEN	CURRENT-NEXT	艦隊配備兵器の正本洗い出しを継続。艦載航空からAA/radar/魚雷/FT/水偵/FCS/ASWへ。	V26:23-24
+NEXT-FLEET-WEAPONS	WORKING-CLOSE	ROLLED-FORWARD	艦載航空/水上偵察/radar/AA/FCS/ASWのspring-1942 working inventoryをV26:25-26へ統合。	V26:23-26
+RADAR-AA-1942	WORKING-CLOSE	FORCE-EQUIPMENT	Type21-line前身少数実戦。MI central Akagi/Hiryu/Zuikaku各1。精密GCI/砲射撃入力ではない。	V26:25-26
+RADAR-SURFACE-1942	WORKING-CLOSE	FORCE-EQUIPMENT	Type22-line前身少数実戦。Tone/Chikuma/Haruna/Takao/selected DD優先。blind-fire FCSではない。	V26:25-26
+AA-37MM	WORKING-CLOSE	FORCE-EQUIPMENT	国産37mm中間AAを低率量産。end-May combat-fitted14-16 twin mounts fleet-wide級。	V26:25-26
+AA-FCS	WORKING-CLOSE	FCS	Type89/Type94系はselected modern shipsでFCS2/FCS3-like integration。VT/Mk37/RPCなし。	V26:25-26
+MAIN-GUN-TORPEDO-FCS	WORKING-CLOSE	FCS	主砲は光学/機械中心でreset/transmission改善。Type93はtarget-motion/gyro/sync改善、body性能はほぼ史実。	V26:25-26
+ASW-1942	WORKING-CLOSE	ASW	Type93 acoustic suite reliability/QC/own-noise map改善。Type95爆雷主力。Type3/ahead-thrown/MADなし。	V26:25-26
+APR29-SHOKAKU-REAUDIT	WORKING	REPLAY-LOCAL	Shokaku direct1000lb hit0-2 plausible、1-hit branch central、immediate mission-kill35-50% working。hit location/repair OPEN。	V26:25-26
+NEXT-MI-FORCE-DETAIL	OPEN	CURRENT-NEXT	exact DD/escort hull+radar/sonar、Type91/Type93/FT stock、Shokaku repair、final air-group regenerationを閉じてMI replayへ。	V26:25-26
