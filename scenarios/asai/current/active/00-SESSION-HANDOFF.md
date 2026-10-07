@@ -319,3 +319,45 @@ Enemy adaptation is mandatory by spring 1942: radar/CAP/evasive/screen responses
 ## CURRENT NEXT
 
 Close actual Type91 / FT-family / Type93 stocks and allocation using V26:29-30 target cards. Generic "FT count" is insufficient.
+
+
+---
+
+# 2026-10-07 spring-1942 ordnance stock / MI allocation
+
+Latest original sources:
+- V26:31 = spring-1942 Type91 / FT-family / Type93 stock and MI allocation WORKING handoff
+- V26:32 = matching decision register
+
+The ordnance gate is now WORKING-CLOSE:
+- end-May FT family service-released ~1,635-1,785 / center ~1,705;
+- serviceable national FT ~1,400-1,520; forward ~760-900;
+- MI embarked FT = 116: standard94 / FT-IR18 / FT-GR4, with HE54 / SAP62;
+- MI FT staging reserve ~48;
+- MI embarked Type91 Mod2 = 148, staging reserve center ~80;
+- MI carrier-support Type93 physical carried = 334, ready171 / reload163.
+
+Carrier Type91:
+Akagi28 / Kaga32 / Soryu24 / Hiryu24 / Zuikaku28 / Ryujo12.
+
+Carrier FT:
+Akagi24 / Kaga24 / Soryu18 / Hiryu18 / Zuikaku24 / Ryujo8.
+
+Type93:
+- 12 modern MI DD = 192;
+- Akebono/Ushio/Sazanami = 54;
+- Shiokaze Type93 = 0;
+- Tone/Chikuma/Takao/Maya = 88.
+
+These are physical/working stocks, not one simultaneous salvo and not permission for at-sea magical magazine replenishment.
+
+## CURRENT NEXT
+
+1. Apr29 Shokaku 0-2 direct-hit branch: adjudicate exact hit count/location/damage;
+2. derive Shokaku repair / return clock;
+3. close Apr29 airframe / aircrew losses;
+4. close Zuikaku and other MI carrier-air-group regeneration;
+5. final MI one-sheet OOB;
+6. MI combat replay only after the above.
+
+V26 canon clock remains 1941-12-07 14:30 HST.
