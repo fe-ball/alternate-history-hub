@@ -1,15 +1,15 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:43-44でfinal MI OOBまで閉じた。Jun3-4 starting geometry / search allocation / first contact timing-qualityから再開する。	V26:39-44
-1	MI-CARRIER-TIMING-JP	WORKING-CLOSE	ROLLED-FORWARD	Akagi/Soryu/Hiryu Apr21-23帰投、Kaga early-May maintenance、Ryujo May6 release、Zuikaku May10-12帰投、May27 sortie central。	V26:39-40
-2	MI-CARRIER-TIMING-US	WORKING-CLOSE	ROLLED-FORWARD	Saratoga Pearl May7 center、Enterprise/Hornet Pearl May22 center、MI sortie May28-29。	V26:41-42
-3	MI-JP-AIRGROUPS	WORKING-CLOSE	ROLLED-FORWARD	Six-deck serviceable331/24h-ready311。	V26:39-40
-4	MI-US-AIRGROUPS	WORKING-CLOSE	ROLLED-FORWARD	Enterprise/Hornet/Saratoga serviceable232/24h-ready221。	V26:41-42
-5	MI-FINAL-OOB	WORKING-CLOSE	ROLLED-FORWARD	Carrier/screen/radar/AA/FCS/ASW/Type91/FT/Type93/Midway land air統合済み。	V26:43-44
-6	MI-START-GEOMETRY	OPEN	CURRENT-NEXT	Jun3-4 Japanese/U.S./Midway initial geometryを閉じる。	V26:43
-7	MI-SEARCH-ALLOCATION	OPEN	CURRENT-NEXT	Tone/Chikuma/E13A/D4Y/B5N/H7YとPBY/SBD search allocationを閉じる。	V26:43
-8	MI-FIRST-CONTACT	OPEN	CURRENT-NEXT	first carrier-contact timing/quality/actor knowledgeを閉じる。	V26:43
-9	MI-FIRST-STRIKE	OPEN	AFTER-CONTACT	First contact後にstrike launch package/targetingを決定。	V26:43
-10	MI-COMBAT	OPEN	AFTER-FIRST-STRIKE	Release/hit/damage/loss adjudicationはsearch/contact後のみ。	V26:43
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:45-46でJun4 starting geometry/search/first carrier contactを閉じた。US first strike / JP counterstrike / Midway land-air packageから再開する。	V26:45-46
+1	MI-FINAL-OOB	WORKING-CLOSE	ROLLED-FORWARD	日米carrier/screen/radar/AA/ASW/ordnance/Midway land airはV26:43-44で統合済み。	V26:43-44
+2	MI-START-GEOMETRY	WORKING-CLOSE	ROLLED-FORWARD	JP core~230-250nm NW Midway、US center~190-220nm NE/E、Saratoga group15-25nm separation central。	V26:45-46
+3	MI-SEARCH-ALLOCATION	WORKING-CLOSE	ROLLED-FORWARD	JP E13A4+D4Y4+B5N2 tactical search; US Midway PBY principal outer search。	V26:45-46
+4	MI-FIRST-CONTACT	WORKING-CLOSE	ROLLED-FORWARD	US contact center0538; JP TF16 contact0622; Saratoga group0650; both launch-quality~0700。	V26:45-46
+5	MI-US-FIRST-STRIKE	OPEN	CURRENT-NEXT	US carrier first-strike package/launch timingを決定。	V26:45
+6	MI-JP-COUNTERSTRIKE	OPEN	CURRENT-NEXT	JP anti-carrier packageをcarrier cell/ordnance/target assignment別に決定。	V26:45
+7	MI-MIDWAY-ATTACK	OPEN	CURRENT-NEXT	Midway land-based attack package/launch timingを決定。	V26:45
+8	MI-CAP-AA	OPEN	AFTER-STRIKE-PACKAGES	radar/CAP/AA/intercept geometryを閉じる。	V26:45
+9	MI-VALID-RELEASE	OPEN	AFTER-CAP-AA	valid releasesを機種/兵装別に判定。	V26:45
+10	MI-HIT-DAMAGE	OPEN	AFTER-VALID-RELEASE	hit/damage/loss adjudicationはvalid release後のみ。	V26:45
 11	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speed厳密CLOSE。	V26:21#1
 12	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOF厳密CLOSE。	V26:21#1
 13	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	FT fuel type/load/flow/residual fuel/thermal stateを閉じる。	V26:21#1-2
