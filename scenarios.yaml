@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-10-07"
+updated: "2026-10-08"
 
 scenarios:
   asai:
@@ -8,7 +8,7 @@ scenarios:
     authority_version: "V26"
     canonical_clock: "1941-12-07T14:30:00-10:30"
     clock_state: "canonical-anchor-only; latest-working-continuation-and-local-planning-clocks-are-separate"
-    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. Ordnance allocation is integrated through V26:31-32 and Apr29 Shokaku central damage/repair is adjudicated through V26:33-34: one 1000-lb-class flight-deck/upper-hangar hit, battle-day aviation mission kill, center frontline return Jun9-11, unavailable for MI. Current next: Apr29 airframe/aircrew loss ledger and carrier-air-group regeneration, then final MI OOB and combat replay. V26 canon clock remains 1941-12-07 14:30 HST."
+    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. Apr29 airframe/aircrew losses are integrated through V26:35-36 and Zuikaku MI regeneration through V26:37-38: 64 serviceable / 60 24h sortie-ready central, Shokaku unavailable for MI. Current next: integrate Akagi/Kaga/Soryu/Hiryu/Ryujo carrier-air readiness, close Saratoga and Enterprise/Hornet U.S. carrier balance, then final MI OOB and combat replay. V26 canon clock remains 1941-12-07 14:30 HST."
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/00-READ-FIRST-GENERIC.md"
@@ -19,7 +19,7 @@ scenarios:
     canonical_source: "scenarios/asai/records/V26/00-SESSION-HANDOFF-V26.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-07-and-Shokaku-adjudication-through-V26-34-plus-complete-v22b-source-snapshot"
+    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-Zuikaku-regeneration-through-V26-38-plus-complete-v22b-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository; source-record-trees-preserved-during-navigation-restructure"
 
   keisanki-ibun:
