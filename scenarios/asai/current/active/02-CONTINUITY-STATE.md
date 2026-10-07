@@ -41,7 +41,7 @@ Status: NAVIGATION-ONLY / SOURCE-BOUND ROLLUP / NO CANON PROMOTION
 - Apr28 H6K/H7Y track update
 - Apr29 Lexington vs CarDiv5
   - Lexington lost central
-  - Shokaku mission kill / withdraw
+  - Shokaku old fixed mission-kill result superseded by V26:25; 0-2 hit damage branch, 1-hit central
   - Zuikaku hull combat-effective
   - Shoho combat-effective
 
@@ -77,4 +77,18 @@ OPEN：
 ## 2026-10-07 continuation
 
 V26:23-24 carry the latest replay-local planning discussion.
-Current next: continue the authoritative inventory of fleet-deployed equipment before any further scenario resolution.
+V26:25-26 now carry the integrated spring-1942 fleet-equipment working inventory. The old fixed Apr29 Shokaku two-hit mission-kill state is superseded as a fixed result. Current next is exact MI escort/radar/sonar allocation, force-level Type91/Type93/FT stocks, Shokaku hit/repair adjudication, and final carrier-air-group regeneration before MI combat replay.
+
+
+## 2026-10-07 fleet-equipment integration
+
+V26:25-26 add the current working equipment layer:
+- limited carrier air-warning and surface-search radar;
+- selected-ship FCS2/FCS3-like AA integration;
+- limited 37-mm intermediate AA;
+- no VT / no mature radar gun-laying;
+- main-gun/night/Type93 fire-control system integration;
+- Type93 acoustic ASW with improved reliability/QC but no Type3/ahead-thrown/MAD;
+- H7Y-D late-standard and water-air reconnaissance closure.
+
+The Apr29 carrier-action equipment state must use this layer before any further damage adjudication.
