@@ -1,0 +1,12 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST. Apr29 loss ledger is replay-local WORKING.	V26:00;V26:35
+APR29-JP-STRIKE-LOSS	WORKING-CLOSE	AIRLOSS	Japanese strike combat irreversible central A6M2 1/D3A4/B5N4=9 before recovery.	V26:21;V26:25;V26:35
+APR29-JP-CAP-LOSS	WORKING-CLOSE	AIRLOSS	CarDiv5 defense irreversible central A6M2 2/Gaifu1=3.	V26:25;V26:35
+APR29-JP-RECOVERY-LOSS	WORKING-CLOSE	AIRLOSS	Shokaku deck loss shifts recovery to Zuikaku; additional writeoff A6M2 1/D3A1/B5N2=4 central.	V26:33;V26:35
+APR29-JP-TOTAL-AIRFRAME	WORKING-CLOSE	AIRLOSS	Japanese irreversible Apr29 total=16: A6M2 4/Gaifu1/D3A5/B5N6. band13-20.	V26:35
+APR29-JP-AIRCREW	WORKING-CLOSE	AIRLOSS	Japanese aviation KIA/MIA central25: A6M2 pilots3/Gaifu1/D3A crew8/B5N crew13. band21-31.	V26:35
+LEX-AIRGROUP-PREACTION	WORKING	FORCE-STATE	Lexington physical72/serviceable68 central: F4F20/18,SBD37/36,TBD15/14.	V26:35
+APR29-US-DIRECT-COMBAT	WORKING-CLOSE	AIRLOSS	US direct combat loss central F4F5/SBD9/TBD6=20, combining counterstrike and carrier defense.	V26:25;V26:35
+LEX-RECOVERY-COLLAPSE	WORKING-CLOSE	AIRLOSS	Lexington lost with no second US carrier recovery deck; total physical Lexington air-group airframe writeoff=72 central. Direct combat20, recovery/ditch/fuel~31, aboard/fire~21.	V26:21;V26:35
+APR29-US-AIRCREW	WORKING	AIRLOSS	Lexington aviation aircrew KIA/MIA ~44 central, band38-50; roughly85-95 aviation aircrew rescued/recovered. Ship-company casualties separate.	V26:35
+NEXT-ZUIKAKU-REGEN	OPEN	CURRENT-NEXT	Apr9 carry-in + operational attrition + Apr29 lossesを使いZuikaku MI regeneration/serviceabilityを閉じる。	V26:23;V26:25;V26:35
