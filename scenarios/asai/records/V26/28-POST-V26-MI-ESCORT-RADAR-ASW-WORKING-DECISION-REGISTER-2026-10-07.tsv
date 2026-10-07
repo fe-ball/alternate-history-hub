@@ -1,0 +1,21 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26正本時計1941-12-07T14:30:00-10:30。MI escort/radar/ASW allocationはPOST-V26 WORKING。	V26:00;V26:27
+MI-SCREEN-TOTAL	WORKING-CLOSE	FORCE-STATE	MI carrier-support systemはNagara+DD16中央。史実MI DD12を維持し、AL分離で史実AL carrier-escort DD4をRyujo outer groupへ移す。	V26:23;V26:27
+CELL1-DD	WORKING-CLOSE	FORCE-STATE	Akagi/Kaga cellのDDはArashi/Nowaki/Hagikaze/Maikaze。Arashi radar picket、Nowaki/Hagikaze ASW priority、Maikaze plane-guard/flexible。	V26:27
+CELL2-DD	WORKING-CLOSE	FORCE-STATE	Soryu/Hiryu cellのDDはUrakaze/Isokaze/Hamakaze/Tanikaze。Urakaze radar picket、Isokaze/Hamakaze ASW priority、Tanikaze plane-guard/flexible。	V26:27
+CELL3-INNER-DD	WORKING-CLOSE	FORCE-STATE	Zuikaku inner elementはKazagumo/Yugumo/Makigumo/Akigumo。Kazagumo radar picket、Yugumo/Makigumo ASW priority、Akigumo plane-guard/flexible。	V26:27
+RYUJO-OUTER-DD	WORKING-CLOSE	FORCE-STATE	Ryujo/Takao/Maya outer elementはShiokaze/Akebono/Ushio/Sazanami。Ushio/Akebono/Sazanami ASW priority、Shiokaze plane-guard/visual/liaison/rescue priority。	V26:27
+NAGARA-SCREEN-C2	WORKING-CLOSE	C2	Nagaraは一cell固定でなくDD16 screen coordination node。plane guard/ASW/damaged-ship/replenishmentでDDをcell間転用可能。	V26:27
+MI-AIR-WARNING	WORKING-CLOSE	RADAR	Type21-line air-warning centralはAkagi/Hiryu/Zuikaku各1、合計3。	V26:25;V26:27
+MI-SURFACE-RADAR	WORKING-CLOSE	RADAR	Type22-line surface-search centralはHaruna/Tone/Chikuma/Takao/Arashi/Urakaze/Kazagumo各1、合計7。Kirishima/Mayaはavailability-dependent。	V26:25;V26:27
+CELL1-ASW	WORKING-CLOSE	ASW	Cell1はradar continuityを可能な限りArashiに残し、Nowaki/Hagikazeをdetach/slow/reacquire/Type95 prosecutionへ回す中央。	V26:27
+CELL2-ASW	WORKING-CLOSE	ASW	Cell2はUrakaze picket維持、Isokaze/HamakazeをASW reactionへ。	V26:27
+CELL3-ASW	WORKING-CLOSE	ASW	Cell3 innerはKazagumo picket維持、Yugumo/MakigumoをASW reactionへ。	V26:27
+RYUJO-ASW	WORKING-CLOSE	ASW	Ryujo outerはTakao surface-radar nodeを使い、Ushio/Akebono/Sazanamiをacoustic-ASW priority。Shiokazeを新型DD同等sonar扱いしない。	V26:27
+FAST-CARRIER-ASW-GUARD	WORKING-CLOSE	ASW	carrier-speed screenではsonar最大性能を常用不可。plausible contact後のdetach/slow/reacquireが必要。submarine-proof screenにはしない。	V26:25;V26:27
+TONE-CHIKUMA-RADAR	WORKING-CLOSE	ISR/RADAR	Tone/Chikumaは各surface radar1中央だが、主役はrecon/info node。radar horizon目的だけでcarrier forceから自動分離しない。	V26:27
+MI-DD-HULL-GATE	WORKING-CLOSE	ROLLED-FORWARD	exact MI destroyer/escort hull assignmentとcentral radar/ASW role allocationをV26:27で閉じた。	V26:27
+NEXT-ORDNANCE	OPEN	CURRENT-NEXT	次はType91/Type93/FTのforce-level stockとcarrier/surface group別allocationを閉じる。	V26:27
+NEXT-SHOKAKU	OPEN	CURRENT-NEXT	その後Apr29 Shokaku hit-location/damage/repair branchを閉じる。	V26:25;V26:27
+NEXT-AIRGROUP	OPEN	CURRENT-NEXT	Apr29機種別airframe/aircrew lossと最終MI carrier-air-group regenerationを閉じる。	V26:25;V26:27
+NEXT-MI-OOB	OPEN	AFTER-FORCE-DETAIL	弾薬/修理/航空隊を統合しfinal MI one-sheet OOBを作成後にcombat replayへ。	V26:27
