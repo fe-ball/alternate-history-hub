@@ -46,5 +46,5 @@
   "coverage": "../audit/COVERAGE.json",
   "finance_scope": "../audit/FINANCE-COVERAGE.json",
   "aviation_integration": "active/Aviation_Composite_Integration_1933_1942.md",
-  "discussion_frontier": "Deep-dive large-aircraft airframe material gains: 5-go late 1300hp, G3M late, G4M from clean-sheet material/prop assumptions, then four-engine flying boat; quantify airframe mass, reallocation to protection/fuel/payload, prop/nacelle/feathering, one-engine performance, range and vibration."
+  "discussion_frontier": "First re-audit current/active/Aviation_Composite_Integration_1933_1942.md against the 2026-10-07 conversation and source-audit-2, preserving WORKING/OPEN/QUALIFICATION REQUIRED and PENDING_RECHECK. Only after that, deep-dive large-aircraft material gains: 5-go late 1300hp, G3M late, G4M from clean-sheet material/prop assumptions, then four-engine flying boat; quantify airframe mass, reallocation to protection/fuel/payload, prop/nacelle/feathering, one-engine performance, range and vibration."
 }
