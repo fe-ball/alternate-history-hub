@@ -8,7 +8,7 @@ scenarios:
     authority_version: "V26"
     canonical_clock: "1941-12-07T14:30:00-10:30"
     clock_state: "canonical-anchor-only; latest-working-continuation-and-local-planning-clocks-are-separate"
-    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. Fleet equipment integration is now carried through V26:25-26. Current next: exact MI DD/escort hull and radar/sonar assignment, force-level Type91/Type93/FT stocks, Apr29 Shokaku hit/repair branch, and final carrier-air-group regeneration before MI combat replay. V26 canon clock remains 1941-12-07 14:30 HST."
+    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. MI exact escort/radar/ASW allocation is now carried through V26:27-28. Current next: force-level Type91 aerial-torpedo / FT / Type93 ship-torpedo stocks and allocation, then Apr29 Shokaku hit/repair adjudication and final carrier-air-group regeneration before final MI OOB and combat replay. V26 canon clock remains 1941-12-07 14:30 HST."
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/00-READ-FIRST-GENERIC.md"
@@ -19,7 +19,7 @@ scenarios:
     canonical_source: "scenarios/asai/records/V26/00-SESSION-HANDOFF-V26.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-07-and-fleet-equipment-integration-through-V26-26-plus-complete-v22b-source-snapshot"
+    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-07-and-MI-escort-allocation-through-V26-28-plus-complete-v22b-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository; source-record-trees-preserved-during-navigation-restructure"
 
   keisanki-ibun:
