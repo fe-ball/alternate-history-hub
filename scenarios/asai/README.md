@@ -28,6 +28,8 @@
 - [V26:42 matching decision register](records/V26/42-POST-V26-US-CARRIER-DEPLOYMENT-TIMING-MI-BALANCE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:43 final MI one-sheet OOB](records/V26/43-POST-V26-FINAL-MI-OOB-WORKING-HANDOFF-2026-10-08.md)
 - [V26:44 matching decision register](records/V26/44-POST-V26-FINAL-MI-OOB-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:45 MI starting geometry / search / first contact](records/V26/45-POST-V26-MI-START-GEOMETRY-SEARCH-FIRST-CONTACT-WORKING-HANDOFF-2026-10-08.md)
+- [V26:46 matching decision register](records/V26/46-POST-V26-MI-START-GEOMETRY-SEARCH-FIRST-CONTACT-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
@@ -54,12 +56,12 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:39-44で日米carrier deployment timingとfinal MI OOBまでWORKING-CLOSE。Jun3-4 search/contact replayから再開する。**
+**V26:45-46でJun4 starting geometry / search / first carrier contactまでWORKING-CLOSE。strike packageから再開する。**
 
-1. Jun3-4 starting geometryを閉じる
-2. Japanese/U.S./Midway search allocationを閉じる
-3. first carrier-contact timing / qualityを判定
-4. contact後にのみstrike launch / hit / damageへ進む
+1. U.S. carrier first-strike package / launch timingを決める
+2. Japanese anti-carrier counterstrikeをcell / ordnance / target別に決める
+3. Midway land-based attackを決める
+4. radar/CAP/AA→valid release→hit/damageの順で進む
 
 ## 構造
 
