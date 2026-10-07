@@ -86,3 +86,12 @@ MI-US-FIRST-CONTACT	WORKING-CLOSE	ACTOR-KNOWLEDGE	Midway PBY JP carrier-force si
 MI-JP-FIRST-CONTACT	WORKING-CLOSE	ACTOR-KNOWLEDGE	D4Y finds Enterprise/Hornet0615-0630/center0622; separate Saratoga group0640-0700/center0650。	V26:45-46
 MI-INFO-RACE	WORKING-CLOSE	COMBAT-GEOMETRY	US first useful carrier-position advantage retained; Japanese carrier-blind interval shortened; both launch-quality by~0700。	V26:45-46
 NEXT-MI-STRIKE-PACKAGES	OPEN	CURRENT-NEXT	US first strike + Japanese counterstrike + Midway land-air allocationを閉じる。	V26:45-46
+MI-MIDWAY-FIRST-WAVE	WORKING-CLOSE	STRIKE-PACKAGE	A6M36/D3A36/B5N36=108 fixed-target raid; FT0/Type910 central.	V26:47-48
+MI-US-FIRST-STRIKE	WORKING-CLOSE	STRIKE-PACKAGE	Enterprise56/Hornet55/Saratoga58=169; F4F32/SBD93/TBD44.	V26:47-48
+MI-JP-COUNTERSTRIKE	WORKING-CLOSE	STRIKE-PACKAGE	Three-cell anti-carrier counterstrike132; Type9125/FT25/D3A46.	V26:47-48
+MI-MIDWAY-AIR-COMBAT	WORKING	AIR-COMBAT	Midway fighter irreversible18; Japanese first-wave irreversible7 central.	V26:49-50
+MI-MIDWAY-LAND-ATTACK	WORKING-CLOSE	COMBAT	Land attack irreversible18 and carrier direct hit0 central.	V26:49-50
+MI-US-VALID-RELEASE	WORKING-CLOSE	VALID-RELEASE	US SBD valid70/TBD valid17.	V26:49-50
+MI-JP-VALID-RELEASE	WORKING-CLOSE	VALID-RELEASE	JP D3A valid34/Type91 valid16/FT valid22.	V26:49-50
+MI-DECK-STATE	WORKING-CLOSE	DAMAGE-GUARD	Anti-carrier reserve already launched before full Midway-wave recovery; historical full rearm/deck-clutter state not copied.	V26:49-50
+NEXT-MI-HITS	OPEN	CURRENT-NEXT	Direct-hit outcomesをcarrier/weapon別に判定。	V26:49-50
