@@ -505,3 +505,42 @@ The six-deck system can prepare an anti-carrier counterlaunch without waiting fo
 4. radar/CAP/AA interception;
 5. valid releases;
 6. hit/damage only after those gates.
+
+
+---
+
+# 2026-10-08 MI strike packages / interception / valid release
+
+Latest original sources:
+- V26:47 = MI first-strike packages / launch timing
+- V26:48 = matching decision register
+- V26:49 = interception / CAP-AA / valid-release replay
+- V26:50 = matching decision register
+
+Critical weapon guard:
+- Japanese A6M/D3A/B5N/Gaifu/D4Y/B6N/radar/AA/FT/Type91 use the worldline V26 service state, not historical-stock performance.
+- Midway fixed-target raid uses conventional bombing; FT/Type91 are retained for maneuvering naval targets.
+- no VT, no mature radar gun-laying, no late-war GCI.
+
+Launch closure:
+- Japanese Midway first wave 108 = A6M36/D3A36/B5N36 from Akagi/Kaga/Soryu/Hiryu.
+- U.S. carrier first strike 169 = F4F32/SBD93/TBD44.
+- Japanese anti-carrier counterstrike 132 = fighter36/D3A46/B5N45/B6N5; Type91 25 + FT25.
+
+Combat to valid-release closure:
+- Midway fighter loss 18 irreversible central; Japanese first-wave irreversible 7.
+- Midway base hit but remains active; servicing/refuel throughput degraded for hours.
+- Midway land attacks lose 18 central and score no carrier direct hit central.
+- U.S. carrier strike: SBD valid releases70, TBD valid runs17.
+- Japanese counterstrike: D3A valid34, Type91 valid16, FT valid22.
+- Japanese anti-carrier reserve was already launched before full Midway-wave recovery, so do NOT copy the historical full rearm/deck-ordnance congestion state.
+
+## CURRENT NEXT
+
+Direct-hit adjudication only:
+1. U.S. SBD/TBD hits by Japanese carrier/cell;
+2. Japanese D3A/Type91/FT hits by U.S. carrier;
+3. then hit location/fire/flooding/deck/propulsion/aviation state;
+4. recovery losses after damage.
+
+No main-carrier hit packet has yet been fixed.
