@@ -118,3 +118,19 @@ Central surface-search radar nodes now total seven:
 Haruna / Tone / Chikuma / Takao / Arashi / Urakaze / Kazagumo.
 
 Current next is force-level Type91 / FT / Type93 ordnance inventory and allocation, followed by Shokaku repair adjudication and carrier-air-group regeneration.
+
+
+## 2026-10-07 FT tactical doctrine
+
+V26:29-30 integrate the FT family doctrine into the active working state.
+
+Key closure:
+- FT-G / FT-GR / standard FT / IR branches are distinct;
+- HE and SAP are separate mission warheads;
+- mixed FT+Type91 doctrine is prewar-developed, not improvised at Enterprise;
+- carrier / capital / cruiser / light-screen / transport target cards now constrain ordnance allocation;
+- IR remains scarce selective 1D correction;
+- no deliberate night-IR mainline;
+- enemy radar/CAP/evasive adaptation is active by spring 1942.
+
+Current next remains the actual spring-1942 ordnance stock/allocation ledger, now by FT family/warhead rather than a generic FT total.
