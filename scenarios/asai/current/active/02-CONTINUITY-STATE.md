@@ -197,3 +197,26 @@ V26:37-38 close Zuikaku MI regeneration:
 
 Current next:
 remaining Japanese carrier air groups -> U.S. carrier balance -> final MI OOB.
+
+
+## 2026-10-08 carrier timing and final MI OOB
+
+V26:39-40 close Japanese carrier deployment timing and non-Zuikaku air groups.
+V26:41-42 close the U.S. carrier clock.
+V26:43-44 close the final pre-combat MI OOB.
+
+Central Japanese:
+- sortie May27;
+- six-deck aviation system;
+- 331 serviceable / 311 24h-ready;
+- Shokaku absent.
+
+Central U.S.:
+- Enterprise/Hornet/Saratoga;
+- 232 serviceable / 221 24h-ready;
+- Yorktown absent;
+- Lexington lost.
+
+Midway land-based aviation remains a separate fourth U.S. aviation node.
+
+Current next is Jun3-4 geometry/search/contact, not another force-inventory gate.
