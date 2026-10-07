@@ -92,3 +92,29 @@ V26:25-26 add the current working equipment layer:
 - H7Y-D late-standard and water-air reconnaissance closure.
 
 The Apr29 carrier-action equipment state must use this layer before any further damage adjudication.
+
+
+## 2026-10-07 MI escort allocation
+
+V26:27-28 close the exact MI carrier-support destroyer allocation as WORKING:
+- Nagara as screen coordination node;
+- Cell 1: Arashi / Nowaki / Hagikaze / Maikaze;
+- Cell 2: Urakaze / Isokaze / Hamakaze / Tanikaze;
+- Cell 3 inner: Kazagumo / Yugumo / Makigumo / Akigumo;
+- Ryujo outer: Shiokaze / Akebono / Ushio / Sazanami.
+
+Central DD radar pickets:
+- Arashi;
+- Urakaze;
+- Kazagumo.
+
+Central ASW reaction priorities:
+- Nowaki/Hagikaze;
+- Isokaze/Hamakaze;
+- Yugumo/Makigumo;
+- Ushio/Akebono/Sazanami.
+
+Central surface-search radar nodes now total seven:
+Haruna / Tone / Chikuma / Takao / Arashi / Urakaze / Kazagumo.
+
+Current next is force-level Type91 / FT / Type93 ordnance inventory and allocation, followed by Shokaku repair adjudication and carrier-air-group regeneration.
