@@ -18,7 +18,7 @@
 
 ## 2026-10-07 航空統合会話の編入
 
-今回の会話で [Aviation_Composite_Integration_1933_1942.md](../Aviation_Composite_Integration_1933_1942.md) を新設し、以下をWORKINGとして統合した。
+今回の会話で [Aviation_Composite_Integration_1933_1942.md](Aviation_Composite_Integration_1933_1942.md) を新設し、以下をWORKINGとして統合した。
 
 - 航空高強度長繊維をPAN系主経路へ変更。レーヨンは橋渡し/保険、ピッチは高弾性研究、竹系は短繊維/電極/導電用途。
 - 繊維会社との前駆体協業：主人公社が化学仕様・購入保証・下流炭素化/CFRP、繊維会社が湿式紡糸・延伸・巻取り・連続操業。
