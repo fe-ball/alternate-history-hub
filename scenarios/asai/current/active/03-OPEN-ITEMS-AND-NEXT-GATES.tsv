@@ -1,17 +1,16 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:45-46でJun4 starting geometry/search/first carrier contactを閉じた。US first strike / JP counterstrike / Midway land-air packageから再開する。	V26:45-46
-1	MI-FINAL-OOB	WORKING-CLOSE	ROLLED-FORWARD	日米carrier/screen/radar/AA/ASW/ordnance/Midway land airはV26:43-44で統合済み。	V26:43-44
-2	MI-START-GEOMETRY	WORKING-CLOSE	ROLLED-FORWARD	JP core~230-250nm NW Midway、US center~190-220nm NE/E、Saratoga group15-25nm separation central。	V26:45-46
-3	MI-SEARCH-ALLOCATION	WORKING-CLOSE	ROLLED-FORWARD	JP E13A4+D4Y4+B5N2 tactical search; US Midway PBY principal outer search。	V26:45-46
-4	MI-FIRST-CONTACT	WORKING-CLOSE	ROLLED-FORWARD	US contact center0538; JP TF16 contact0622; Saratoga group0650; both launch-quality~0700。	V26:45-46
-5	MI-US-FIRST-STRIKE	OPEN	CURRENT-NEXT	US carrier first-strike package/launch timingを決定。	V26:45
-6	MI-JP-COUNTERSTRIKE	OPEN	CURRENT-NEXT	JP anti-carrier packageをcarrier cell/ordnance/target assignment別に決定。	V26:45
-7	MI-MIDWAY-ATTACK	OPEN	CURRENT-NEXT	Midway land-based attack package/launch timingを決定。	V26:45
-8	MI-CAP-AA	OPEN	AFTER-STRIKE-PACKAGES	radar/CAP/AA/intercept geometryを閉じる。	V26:45
-9	MI-VALID-RELEASE	OPEN	AFTER-CAP-AA	valid releasesを機種/兵装別に判定。	V26:45
-10	MI-HIT-DAMAGE	OPEN	AFTER-VALID-RELEASE	hit/damage/loss adjudicationはvalid release後のみ。	V26:45
-11	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speed厳密CLOSE。	V26:21#1
-12	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOF厳密CLOSE。	V26:21#1
-13	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	FT fuel type/load/flow/residual fuel/thermal stateを閉じる。	V26:21#1-2
-14	FT-FUSE-PENETRATION	OPEN	PARALLEL-TECH	SAP fuse delay/penetration/structural energy-loss tableを閉じる。	V26:21#2
-15	PM-BASE-GROWTH	WORKING	DEFERRED	Apr18 capture後のairfield/harbor/fuel/service-release growth。	V26:21#8
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:47-50でstrike package/CAP-AA/valid releaseまで閉じた。Main carrier direct-hit adjudicationから再開する。	V26:47-50
+1	MI-FINAL-OOB	WORKING-CLOSE	ROLLED-FORWARD	Final pre-combat OOBはV26:43-44で閉鎖済み。	V26:43-44
+2	MI-FIRST-CONTACT	WORKING-CLOSE	ROLLED-FORWARD	US center0538、JP TF16 center0622、separate Saratoga group center0650。	V26:45-46
+3	MI-STRIKE-PACKAGES	WORKING-CLOSE	ROLLED-FORWARD	US carrier strike169、JP anti-carrier counterstrike132、Midway first wave108。	V26:47-48
+4	MI-CAP-AA-VALID	WORKING-CLOSE	ROLLED-FORWARD	US valid SBD70/TBD17、JP valid D3A34/Type9116/FT22。	V26:49-50
+5	MI-US-HITS	OPEN	CURRENT-NEXT	US SBD/TBD direct-hit outcomesをAkagi/Kaga/Soryu/Hiryu/Zuikaku/Ryujo別に判定。	V26:49-50
+6	MI-JP-HITS	OPEN	CURRENT-NEXT	JP D3A/Type91/FT direct-hit outcomesをEnterprise/Hornet/Saratoga別に判定。	V26:49-50
+7	MI-DAMAGE-STATE	OPEN	AFTER-HITS	Hit location/fire/flooding/deck/propulsion/aviation mission stateを判定。	V26:49-50
+8	MI-RECOVERY-LOSS	OPEN	AFTER-DAMAGE	Damaged-deck recovery/ditching/aircrew rescueを閉じる。	V26:49-50
+9	MI-NEXT-CYCLE	OPEN	AFTER-RECOVERY	First-cycle result後にsecond-cycle search/strikeを判定。	V26:49-50
+10	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speed厳密CLOSE。	V26:21#1
+11	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOF厳密CLOSE。	V26:21#1
+12	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	FT fuel type/load/flow/residual fuel/thermal stateを閉じる。	V26:21#1-2
+13	FT-FUSE-PENETRATION	OPEN	PARALLEL-TECH	SAP fuse delay/penetration/structural energy-loss tableを閉じる。	V26:21#2
+14	PM-BASE-GROWTH	WORKING	DEFERRED	Apr18 capture後のairfield/harbor/fuel/service-release growth。	V26:21#8
