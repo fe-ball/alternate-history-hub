@@ -18,9 +18,9 @@
     "Japan_China": "WAR-CONTINUES"
   },
   "working_history": {
-    "latest_campaign_close": "Replay-local working now carries Japanese carrier deployment timing through V26:39-40, U.S. carrier timing through V26:41-42, and the final pre-combat MI OOB through V26:43-44. Japan sorties May27 with six carrier decks, 331 serviceable / 311 24h-ready carrier aircraft; Shokaku is absent. U.S. central MI force is Enterprise/Hornet/Saratoga with 232 serviceable / 221 24h-ready carrier aircraft; Yorktown is unavailable and Lexington is lost. No combat outcome is yet resolved.",
+    "latest_campaign_close": "Replay-local working now carries final pre-combat MI OOB through V26:43-44 and the Jun4 starting geometry/search/first-contact race through V26:45-46. U.S. PBY obtains the first useful Japanese carrier datum around 0538 central; Japanese D4Y finds TF16 around 0622 and the separate Saratoga group around 0650. Both sides have launch-quality carrier information by about 0700. No strike hit/damage result has yet been resolved.",
     "status": "WORKING",
-    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38. Japanese MI carrier deployment timing is carried in V26:39-40; U.S. MI carrier timing in V26:41-42; final pre-combat MI OOB in V26:43-44.",
+    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38. Japanese MI carrier deployment timing is carried in V26:39-40; U.S. MI carrier timing in V26:41-42; final pre-combat MI OOB in V26:43-44. MI Jun4 starting geometry, search allocation and first carrier contacts are carried in V26:45-46.",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
@@ -46,7 +46,8 @@
       "Zuikaku MI air-group regeneration V26:37-38",
       "Japanese MI carrier deployment timing and air-group integration V26:39-40",
       "U.S. carrier deployment timing and MI balance V26:41-42",
-      "Final pre-combat MI OOB V26:43-44"
+      "Final pre-combat MI OOB V26:43-44",
+      "MI Jun4 starting geometry/search/first-contact replay V26:45-46"
     ]
   },
   "discussion_frontier": {
@@ -88,11 +89,12 @@
       "Zuikaku end-May MI serviceable/sortie-ready air-group regeneration V26:37-38",
       "Japanese carrier-by-carrier May deployment timing and six-deck air-group closure V26:39-40",
       "U.S. Saratoga/Enterprise/Hornet branch-specific MI timing V26:41-42",
-      "Final Japanese/U.S./Midway pre-combat MI OOB V26:43-44"
+      "Final Japanese/U.S./Midway pre-combat MI OOB V26:43-44",
+      "MI Jun4 starting geometry, search allocation and first carrier-contact timing V26:45-46"
     ],
-    "next_gate": "Replay Jun3-4 MI starting geometry, Japanese/U.S./Midway search allocation, and first carrier-contact timing/quality before any strike or hit adjudication. See V26:43-44.",
-    "next_gate_source": "V26:43-44",
-    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; pre-combat MI force state is now closed through V26:44. Combat has not yet begun in the working replay. V26 canon remains 1941-12-07 14:30 HST."
+    "next_gate": "Close U.S. carrier first-strike package/timing, Japanese anti-carrier counterstrike package by cell/ordnance/targeting, and Midway land-based attack allocation; then resolve radar/CAP/AA and valid releases before hits. See V26:45-46.",
+    "next_gate_source": "V26:45-46",
+    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; MI combat replay has begun at the geometry/search/contact layer through V26:46, but no strike hit/damage outcome is resolved. V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
     "current/active/00-SESSION-HANDOFF.md",
@@ -273,6 +275,12 @@
     },
     "V26:44": {
       "path": "records/V26/44-POST-V26-FINAL-MI-OOB-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+    },
+    "V26:45": {
+      "path": "records/V26/45-POST-V26-MI-START-GEOMETRY-SEARCH-FIRST-CONTACT-WORKING-HANDOFF-2026-10-08.md"
+    },
+    "V26:46": {
+      "path": "records/V26/46-POST-V26-MI-START-GEOMETRY-SEARCH-FIRST-CONTACT-WORKING-DECISION-REGISTER-2026-10-08.tsv"
     }
   },
   "lineage_sources": [
@@ -308,5 +316,5 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-final-MI-OOB-through-V26-44"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-MI-first-contact-through-V26-46"
 }
