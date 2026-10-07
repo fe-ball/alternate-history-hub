@@ -44,8 +44,8 @@ scenarios:
     status: active
     authority_version: "Relaunch R3"
     canonical_clock: "1942-06-26T18:00:00-10:30"
-    clock_state: "relaunch-r3; canonical clock remains 1942-06-26 18:00; Enterprise Kwajalein sheltered salvage and Midway radar-assisted base remain current historical state; Five-Go/FS/Arakan/base-development, 1943 aircraft-force tables, Zuiryu recommissioning, summer convergence, Yanagi/seaplane/Hyuga ledgers are conditional forward-analysis only, not future fact; active support frontier is relaunch/20 with strategic convergence retained in relaunch/19"
-    frontier: "canonical 1942-06-26 18:00据置。19は1943夏strategic convergence、20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.mdはYanagi exchange / post-raid seaplane resilience / Hyuga aviation-reconnaissance battleship support layer。Yanagiは便数増より一便の情報密度、Enterprise Package A=I-29/U-180、Package B=I-8をPROVISIONAL。Hyuga only conversion、Ise OPEN、1943Q4 initial completion central、Zuiun/Kasei Kyofu shipboard-compatible、O5 Kyofuはhandling gate後。次はpreserved aircrew/training/cross-deck/partial air-ground separation、1943 destroyer/escort ledgerとMatsu/Kaibokan、Aleutians/Midway-Wake/South Pacific-New Guinea/Bengal actual landed cargoとfortification、base-network reconnaissance/search-handoffを閉じ、その後US allocation/fast-carrier raidとFive-Go X-day reaction thresholdへ戻る。canonical operational gatesは未解決のまま維持"
+    clock_state: "relaunch-r3; canonical clock remains 1942-06-26 18:00; Enterprise Kwajalein sheltered salvage and Midway radar-assisted base remain current historical state; Five-Go/FS/Arakan/base-development, 1943 aircraft-force tables, Zuiryu recommissioning, summer convergence, Yanagi/seaplane/Hyuga, O6/Ki-45 and 1944 India discussions are conditional forward-analysis only, not future fact; active discussion frontier is relaunch/21; 1943 Arakan/Chittagong campaign outcome is reopened for audit"
+    frontier: "canonical 1942-06-26 18:00据置。次回は21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.mdを入口に1943構成を再評価する。最優先は17のArakan/Chittagong conditional lineと19のstrong Bengal-side strategic wedgeの間にあるcampaign-result gapで、First Arakan→日本反撃→Cox's Bazar→Chittagongを英軍包囲企図/撤退、38師団、港湾・飛行場、monsoon、Feni/Comilla線、Bose/Azad Hindまで再監査する。Chittagong入城は現時点で再OPENでありuser-memory reconstructionをCLOSEDへ自動昇格しない。O6、Ki-45昴型、late Ki-63/A7M growth、Five-Go後China/Hump/shipping、1944 India二正面・航空集中・British reliefは21にstatus付きで保持し、1943結果が閉じるまでdownstream workingとする。canonical operational gatesは未解決のまま維持"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/hatsudoki-tenseisha"
     entrypoint: "scenarios/hatsudoki-tenseisha/README.md"
@@ -53,7 +53,7 @@ scenarios:
     authority_entrypoint: "scenarios/hatsudoki-tenseisha/relaunch/00-START-HERE.md"
     import_status: "scenarios/hatsudoki-tenseisha/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-automotive-engine-engineer"
-    source_import: "relaunch-r3-continuity-through-1942-06-26-1800-plus-20-Yanagi-seaplane-Hyuga-support-ledger-19-summer-convergence-18-aircraft-force-ledger-17-strategy-handoff"
+    source_import: "relaunch-r3-continuity-through-1942-06-26-1800-plus-21-1943-reassessment-India-aircraft-O6-handoff-20-Yanagi-seaplane-Hyuga-support-ledger-19-summer-convergence-18-aircraft-force-ledger-17-strategy-handoff"
     source_archive_status: "original-documents-preserved-byte-for-byte; pre-relaunch retained as reference"
 
   toyokuni-if:
