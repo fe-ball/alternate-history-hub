@@ -1,0 +1,20 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26正本時計1941-12-07T14:30:00-10:30。弾薬在庫/MI配分はPOST-V26 WORKINGで正本昇格しない。	V26:00;V26:31
+FT-ENDMAY-RELEASE	WORKING	ORDNANCE-STOCK	end-May cumulative service-released FT family約1635-1785、center約1705。serviceable national約1400-1520、forward約760-900。	V26:16-17;V26:31
+FT-ENDMAY-MIX	WORKING	ORDNANCE-STOCK	serviceable center約1485をFT-G115/FT-GR615/standard600/FT-GR-IR90/FT-IR65級で管理。RF/proximity ordinary issue=0。	V26:17;V26:29-31
+MI-FT-EMBARKED	WORKING-CLOSE	ORDNANCE-ALLOCATION	MI embarked FT=116 central: standard94/FT-IR18/FT-GR4。HE54/SAP62。FT-G/GR-IRはcarrier embarked0 central。	V26:29-31
+MI-FT-BY-CARRIER	WORKING-CLOSE	ORDNANCE-ALLOCATION	Akagi24,Kaga24,Soryu18,Hiryu18,Zuikaku24,Ryujo8。Ryujoはfull fleet-carrier magazine化しない。	V26:29-31
+MI-FT-RESERVE	WORKING	ORDNANCE-ALLOCATION	MI staging FT reserve約48: standard32/GR12/IR4。running engagement中の魔法reloadには使わない。	V26:31
+MI-TYPE91-EMBARKED	WORKING-CLOSE	ORDNANCE-ALLOCATION	Type91 Mod2 embarked=148 central: Akagi28/Kaga32/Soryu24/Hiryu24/Zuikaku28/Ryujo12。	V26:29;V26:31
+MI-TYPE91-RESERVE	WORKING	ORDNANCE-ALLOCATION	MI staging Type91 Mod2約70-90/center80。at-sea instant reload poolではない。	V26:31
+TYPE91-NATIONAL	WORKING	ORDNANCE-STOCK	late-May serviceable Navy aerial-torpedo stock約1350-1700、forward Pacific/South約750-950 planning band。exact fiscal ledgerではない。	V26:31
+MI-TYPE93-MODERN-DD	WORKING-CLOSE	ORDNANCE-ALLOCATION	12 modern MI DDは8 ready+8 reload each、Type93計192。	V26:27;V26:31
+MI-TYPE93-OUTER-DD	WORKING-CLOSE	ORDNANCE-ALLOCATION	Akebono/Ushio/Sazanamiは9 ready+9 reload各18、計54。Shiokazeは53cm系でType93=0。	V26:27;V26:31
+MI-TYPE93-CRUISER	WORKING-CLOSE	ORDNANCE-ALLOCATION	Tone24/Chikuma24/Takao24/Maya16 central、Type93計88。	V26:27;V26:31
+MI-TYPE93-TOTAL	WORKING-CLOSE	ORDNANCE-ALLOCATION	MI carrier-support shipborne Type93 physical carried=334 central、ready171/reload163。334を一斉斉射扱いしない。	V26:31
+ORDNANCE-GATE	WORKING-CLOSE	ROLLED-FORWARD	V26:29-30 target-card制約下のType91/FT-family/Type93 force-level stock/allocationを閉じた。	V26:29-32
+NEXT-SHOKAKU-HIT	OPEN	CURRENT-NEXT	V26:25防空状態を使いApr29 Shokaku 0-2 direct-hit branchからhit location/damageを判定する。	V26:25;V26:31
+NEXT-SHOKAKU-REPAIR	OPEN	CURRENT-NEXT	Shokaku damage stateから応急/yard/return clockを導出。MIはreturn待ちにしない。	V26:23;V26:25;V26:31
+NEXT-AIRLOSS-REGEN	OPEN	CURRENT-NEXT	Apr29双方のairframe/aircrew loss ledgerとZuikaku等MI carrier-air-group regenerationを閉じる。	V26:25;V26:31
+NEXT-MI-OOB	OPEN	AFTER-REGEN	艦艇/航空隊/radar/AA/FCS/ASW/Type91/FT/Type93をfinal MI one-sheet OOBへ統合。	V26:27-31
+NEXT-MI-COMBAT	OPEN	AFTER-FINAL-OOB	final force-state閉鎖後のみMI combat replay開始。	V26:31
