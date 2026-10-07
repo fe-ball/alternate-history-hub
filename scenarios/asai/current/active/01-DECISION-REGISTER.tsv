@@ -48,4 +48,11 @@ MI-CELL2-DD	WORKING-CLOSE	FORCE-STATE	Soryu/Hiryu: Urakaze radar picket、Isokaz
 MI-CELL3-DD	WORKING-CLOSE	FORCE-STATE	Zuikaku: Kazagumo radar picket、Yugumo/Makigumo ASW priority、Akigumo plane-guard/flexible。	V26:27-28
 MI-RYUJO-OUTER	WORKING-CLOSE	FORCE-STATE	Ryujo/Takao/Maya + Shiokaze/Akebono/Ushio/Sazanami。Takao surface radar node、Ushio/Akebono/Sazanami ASW priority。	V26:27-28
 MI-SURFACE-RADAR-7	WORKING-CLOSE	RADAR	Haruna/Tone/Chikuma/Takao/Arashi/Urakaze/Kazagumo各1、合計7中央。Kirishima/Mayaはavailability-dependent。	V26:27-28
-NEXT-ORDNANCE	OPEN	CURRENT-NEXT	Type91 aerial torpedo / FT / Type93 ship torpedoのforce-level stockとallocationを閉じる。	V26:27-28
+NEXT-ORDNANCE	OPEN	CURRENT-NEXT	V26:29-30 target cardを制約に、Type91 aerial torpedo / FT family / Type93 ship torpedoのforce-level stockとallocationを閉じる。generic FT count禁止。	V26:27-30
+FT-FAMILY-SEPARATION	WORKING-CLOSE	DOCTRINE	FT-G/FT-GR/standard FT/FT-GR-IR/FT-IRを別familyとして扱い、HE/SAP等warheadを別軸管理。	V26:29-30
+FT-PREWAR-MIXED-DOCTRINE	WORKING-CLOSE	DOCTRINE	mixed FT+Type91は1939-40演習開始、1940-41成熟。Enterpriseで概念発見ではない。	V26:17-18;V26:29-30
+FT-MULTIAXIS	WORKING-CLOSE	DOCTRINE	FT/Type91をseparated bearing/phaseで相互利用。FT-first/Type91-first双方をtarget classで使い分ける。	V26:29-30
+FT-IR-SELECTIVE	WORKING-CLOSE	DOCTRINE	IRは1D yaw correctionのpremium選択枝。fast carrier等へ優先。night identification/all-aspect/retargetなし。	V26:29-30
+FT-TARGET-CARDS	WORKING-CLOSE	DOCTRINE	carrier=standard+selectiveIR+Type91、capital=HE suppression+Type91+SAP、light/screen=GR/HE選択、transport=G/GR HE。	V26:29-30
+FT-NIGHT-GUARD	WORKING-CLOSE	DOCTRINE	IR目的で夜を意図的に待たない。deck recovery/navigation/identification burdenが優越。	V26:17-18;V26:29-30
+FT-ENEMY-ADAPTATION	WORKING-CLOSE	DOCTRINE	春1942には敵もFT存在を認識しradar/CAP/evasive/screen adaptationを行う。permanent surprise禁止。	V26:29-30
