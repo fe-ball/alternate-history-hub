@@ -1,0 +1,13 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST. Strike packages are replay-local WORKING.	V26:00;V26:47
+MIDWAY-FIRST-WAVE	WORKING-CLOSE	STRIKE-PACKAGE	0430-0445 four-carrier fixed-target strike A6M36/D3A36/B5N36=108; FT0/Type910 central。	V26:47
+MIDWAY-WEAPON-GUARD	WORKING-CLOSE	WEAPONS	Fixed target uses conventional bombing; do not waste FT-IR/Type91 or import historical Japanese performance by default。	V26:29;V26:47
+US-CARRIER-FIRST-STRIKE	WORKING-CLOSE	STRIKE-PACKAGE	Enterprise56/Hornet55/Saratoga58=169: F4F32/SBD93/TBD44, launched0608-0647 central。	V26:45;V26:47
+JP-CELL1-STRIKE	WORKING-CLOSE	STRIKE-PACKAGE	Akagi/Kaga 48=A6M12+D3A18+B5N16+B6N2; Type919+FT9, launch0642-0655。	V26:31;V26:47
+JP-CELL2-STRIKE	WORKING-CLOSE	STRIKE-PACKAGE	Soryu/Hiryu 38=A6M10+D3A14+B5N14; Type917+FT7, launch0650-0702。	V26:31;V26:47
+JP-CELL3-STRIKE	WORKING-CLOSE	STRIKE-PACKAGE	Zuikaku/Ryujo 46=Gaifu8+A6M6+D3A14+B5N15+B6N3; Type919+FT9, launch0702-0715。	V26:31;V26:47
+JP-ANTI-CARRIER-TOTAL	WORKING-CLOSE	STRIKE-PACKAGE	132 total: fighter36/D3A46/B5N45/B6N5; Type9125/FT25, including FT-IR7 central。	V26:47
+JP-DECK-CYCLE	WORKING-CLOSE	COMBAT-GEOMETRY	Anti-carrier reserve launches before full Midway-wave recovery; six-deck architecture changes timing conflict but does not erase deck friction。	V26:45;V26:47
+MIDWAY-LAND-ATTACK	WORKING-CLOSE	STRIKE-PACKAGE	TBF6/B264/SBD16/SB2U11/B17~15 outbound in separated packets。	V26:43;V26:47
+NEXT-INTERCEPT	OPEN	CURRENT-NEXT	Midway raid + land attacks + reciprocal carrier CAP/AA/intercept and valid releasesを閉じる。	V26:47
+NEXT-HITS	OPEN	AFTER-VALID-RELEASE	Carrier hit/damage adjudicationはvalid release closure後のみ。	V26:47
