@@ -194,3 +194,39 @@ A6M2 / D3A1 / B5N2 current operational state, then A7M / D4Y / B6N / A8N service
 Then continue shipboard AA, naval radar/warning, Type91/Type93/FT allocation, cruiser/seaplane reconnaissance, gunnery/FCS and ASW/escort equipment.
 
 Do not resolve MI combat before this inventory is sufficiently closed.
+
+
+---
+
+# 2026-10-07 fleet-equipment integration continuation
+
+Latest original sources:
+- V26:25 = spring-1942 carrier/water-air + radar + AA + FCS + ASW integrated WORKING handoff
+- V26:26 = matching decision register
+
+The fleet-equipment inventory has now advanced through:
+- Gaifu/D4Y/B6N provisional spring-1942 carrier service bands;
+- H7Y-D late-standard and E13A/F1M/E15K water-air closure;
+- limited Type21-line air-warning and Type22-line surface-search radar;
+- Type89/Type94 improved heavy-AA chain, limited 37-mm intermediate AA and Type96 constraints;
+- main-gun/night/Type93 torpedo fire-control integration;
+- Type93-line acoustic ASW with improved reliability/QC but no Type3/ahead-thrown/MAD;
+- major-ship MI equipment allocation.
+
+Apr29 correction:
+- Lexington loss remains the central replay-local result.
+- The old fixed Shokaku 1000-lb x2 / mission-kill result is no longer controlling.
+- V26:25 reopens Shokaku to a 0-2 direct-hit branch, 1-hit branch central, immediate mission-kill probability roughly 35-50% WORKING.
+- Zuikaku direct hit 0 remains central with a 1-hit tail.
+- Exact Shokaku hit location and repair/return clock are OPEN.
+- MI planning still does not wait for Shokaku.
+
+## CURRENT NEXT
+
+1. exact MI destroyer/escort hull assignment and radar/sonar distribution;
+2. force-level Type91 / Type93 / FT stocks and allocation;
+3. Apr29 Shokaku hit-location / damage / repair branch;
+4. final Zuikaku / carrier-air-group regeneration and combat-ready counts;
+5. then MI combat replay.
+
+V26 canon remains 1941-12-07 14:30 HST.
