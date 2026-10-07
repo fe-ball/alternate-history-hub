@@ -30,6 +30,10 @@
 - [V26:44 matching decision register](records/V26/44-POST-V26-FINAL-MI-OOB-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:45 MI starting geometry / search / first contact](records/V26/45-POST-V26-MI-START-GEOMETRY-SEARCH-FIRST-CONTACT-WORKING-HANDOFF-2026-10-08.md)
 - [V26:46 matching decision register](records/V26/46-POST-V26-MI-START-GEOMETRY-SEARCH-FIRST-CONTACT-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:47 MI first-strike packages / launch timing](records/V26/47-POST-V26-MI-FIRST-STRIKE-PACKAGES-LAUNCH-TIMING-WORKING-HANDOFF-2026-10-08.md)
+- [V26:48 matching decision register](records/V26/48-POST-V26-MI-FIRST-STRIKE-PACKAGES-LAUNCH-TIMING-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:49 MI interception / CAP-AA / valid release](records/V26/49-POST-V26-MI-INTERCEPTION-CAP-AA-VALID-RELEASE-WORKING-HANDOFF-2026-10-08.md)
+- [V26:50 matching decision register](records/V26/50-POST-V26-MI-INTERCEPTION-CAP-AA-VALID-RELEASE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
@@ -56,12 +60,12 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:45-46でJun4 starting geometry / search / first carrier contactまでWORKING-CLOSE。strike packageから再開する。**
+**V26:47-50でstrike package / CAP-AA / valid releaseまでWORKING-CLOSE。main-carrier direct-hit adjudicationから再開する。**
 
-1. U.S. carrier first-strike package / launch timingを決める
-2. Japanese anti-carrier counterstrikeをcell / ordnance / target別に決める
-3. Midway land-based attackを決める
-4. radar/CAP/AA→valid release→hit/damageの順で進む
+1. U.S. SBD/TBD hit packetを日本空母別に判定
+2. Japanese D3A/Type91/FT hit packetをEnterprise/Hornet/Saratoga別に判定
+3. hit location / fire / flooding / deck / propulsion / aviation stateを閉じる
+4. damaged-deck recovery / ditching / rescueを閉じる
 
 ## 構造
 
