@@ -1,4 +1,5 @@
 priority	id	source_status	navigation_role	position	sources
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:23-24を参照し、艦隊配備装備の正本洗い出しから再開する。	V26:23-24
 1	SHOKAKU-REPAIR	OPEN	CURRENT-NEXT	Apr29 1000lb級2hit後のShokaku応急/本修理/return clockを閉じる。	V26:21#12-15
 2	ZUIKAKU-AIRGROUP	OPEN	CURRENT-NEXT	Apr9 Yorktown+Apr29 Lexington二戦後の機体/搭乗員損耗、serviceable/sortie-ready数を閉じる。	V26:21#12-15
 3	SARATOGA-APR29	OPEN	CURRENT-NEXT	Apr20-May5 return band内のApr29時点でSaratogaがどこまでcombat-readyか閉じる。	V26:21#12-15
