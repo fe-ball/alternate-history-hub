@@ -333,7 +333,7 @@ DR記録の設計を発展させた実用販売機。師団間連絡、前線偵
 
 ## ■ 2026-10-07 航空複合材・推進統合WORKING
 
-> 本節は会話で詰めた航空設計候補を既存機種表へ接続するための入口。単一の作中時計を進めず、軍採用・量産数・戦果を確定しない。詳細な諸元、PAN-CF、短シャンク/広弦プロペラ、零戦系への技術流入、大型機効果は [Aviation_Composite_Integration_1933_1942.md](Aviation_Composite_Integration_1933_1942.md) を優先する。
+> 本節は会話で詰めた航空設計候補を既存機種表へ接続するための入口。単一の作中時計を進めず、軍採用・量産数・戦果を確定しない。詳細な諸元、PAN-CF、短シャンク/広弦プロペラ、零戦系への技術流入、大型機効果は [active/Aviation_Composite_Integration_1933_1942.md](active/Aviation_Composite_Integration_1933_1942.md) を優先する。
 
 ### 自社試作系列の役割
 
