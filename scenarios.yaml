@@ -76,10 +76,10 @@ scenarios:
   resin-impregnation:
     title: "樹脂含浸シナリオ"
     status: active
-    authority_version: "source-audit-2 (39-document source assumptions and scope audited; corrections and OPEN gates; 2026-10-06)"
+    authority_version: "source-audit-2 + aviation-integration-working-2026-10-07"
     canonical_clock: null
     clock_state: "no-single-clock-designated; technology-business-timeline-through-circa-1942-is-not-a-confirmed-simulation-clock"
-    frontier: "全39資料の原設定も監査。完成機40%案とPAN研究を復元、王子工場年代・比弾性率・原価・燃料費/物量・合弁会計を修正。全機種/未収録商品の財務、工場再選定、実能力・用途認定はOPEN。SOURCE-AUDITとFINANCE-COVERAGEから再開"
+    frontier: "2026-10-07航空統合WORKINGを編入。PAN長繊維を航空高強度主系、短シャンク/広弦PAN-CFプロペラ、十四試高速水偵・十五試水戦・火星陸戦甲、零戦期の他社導入、大型機への推進/材料波及を統合。次は5号後期1,300hp級→G3M後期→G4M相当→四発飛行艇の順に機体本体の材料利得を部位別重量で積算し、防御/燃料/搭載量への再配分、片発、航続、冷却、フェザリング、ねじり振動、メーカー別採用速度を詰める。財務ECN、軍採用、量産、戦果は未確定。SOURCE-AUDIT/FINANCE-COVERAGEのOPENも維持"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/resin-impregnation"
     entrypoint: "scenarios/resin-impregnation/README.md"
@@ -87,5 +87,5 @@ scenarios:
     authority_entrypoint: "scenarios/resin-impregnation/00-READ-FIRST.md"
     import_status: "scenarios/resin-impregnation/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual-history-and-chemistry-materials-business-simulation"
-    source_import: "all-39-current-claude-project-context-markdown-documents"
+    source_import: "all-39-current-claude-project-context-markdown-documents-plus-2026-10-07-aviation-integration-working-discussion"
     source_archive_status: "ui-code-view-text-recovered; sha256-and-git-blob-verified; original-upload-bytes-and-original-zip-not-verified; complete-chat-archive-not-imported"
