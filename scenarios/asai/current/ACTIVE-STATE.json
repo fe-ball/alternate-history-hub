@@ -35,7 +35,7 @@
       "Apr12 Crace G4M/FT interdiction with two FT hits central",
       "Port Moresby physical capture Apr18 replay-local",
       "Apr27-29 Lexington approach / CarDiv5 replay",
-      "Apr29 Lexington loss / Shokaku mission kill / Zuikaku combat-effective state",
+      "Apr29 Lexington loss / Shokaku central one-hit aviation mission-kill / Zuikaku combat-effective state",
       "post-Apr29 carrier repair / air-group regeneration planning",
       "spring-1942 fleet equipment integration V26:25-26",
       "MI escort/radar/ASW exact hull allocation V26:27-28",
@@ -61,7 +61,7 @@
       "Doolittle-type Enterprise+Hornet allocation, Apr21-23 class",
       "Revised early-MO: Apr15 Taurama / Apr18 Port Moresby physical capture",
       "Lexington emergency reinforcement / H7Y-H6K tracking / Apr29 CarDiv5 carrier action",
-      "Apr29 Lexington loss / Shokaku mission kill / Zuikaku intact-hull central",
+      "Apr29 Lexington loss / Shokaku fixed two-hit result later superseded and re-adjudicated / Zuikaku intact-hull central",
       "Spring-1942 carrier-air working inventory: Gaifu/D4Y/B6N provisional service-state bands",
       "H7Y-D late-standard and E13A/F1M/E15K water-air working closure",
       "Limited Type21-line air-warning and Type22-line surface-search radar working allocation",
@@ -82,7 +82,7 @@
     ],
     "next_gate": "Close Apr29 Japanese/U.S. airframe and aircrew loss ledger under the V26:25 defense state, then close Zuikaku / MI carrier-air-group regeneration before final MI OOB. See V26:25 and V26:33-34.",
     "next_gate_source": "V26:25;V26:33-34",
-    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 Lexington loss remains central but Shokaku damage/repair is reopened by V26:25-26. V26 canon remains 1941-12-07 14:30 HST."
+    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 Lexington loss remains central. Shokaku central damage/repair is now adjudicated in V26:33-34 as one 1,000-lb-class flight-deck/upper-hangar hit, battle-day aviation mission kill, center frontline return Jun9-11, unavailable for MI. V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
     "current/active/00-SESSION-HANDOFF.md",
