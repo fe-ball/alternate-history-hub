@@ -361,3 +361,31 @@ These are physical/working stocks, not one simultaneous salvo and not permission
 6. MI combat replay only after the above.
 
 V26 canon clock remains 1941-12-07 14:30 HST.
+
+
+---
+
+# 2026-10-07 Apr29 Shokaku damage / repair adjudication
+
+Latest original sources:
+- V26:33 = Apr29 Shokaku hit/damage/repair WORKING handoff
+- V26:34 = matching decision register
+
+Central continuation:
+- select the 1-direct-hit branch from the V26:25 0-2 band;
+- hit = 1 x 1,000-lb-class bomb, forward-starboard / island-adjacent flight deck into upper hangar / aviation-support volume;
+- no machinery / waterline / magazine / catastrophic avgas hit;
+- Apr29 state = carrier aviation mission kill for the battle, hull mobile/self-propelled, 27-30 kt class;
+- full cyclic flight operations unavailable; limited emergency recovery conditional;
+- frontline carrier-ready band Jun5-18, center Jun9-11;
+- Shokaku combat-present for MI = NO central.
+
+0-hit and 2-hit branches remain sensitivity tails and do not contaminate the central OOB.
+
+## CURRENT NEXT
+
+1. Apr29 Japanese/U.S. airframe and aircrew loss ledger;
+2. Zuikaku Apr9+Apr29 regeneration / serviceability;
+3. final MI carrier-air-group counts;
+4. final one-sheet MI OOB;
+5. MI combat replay.
