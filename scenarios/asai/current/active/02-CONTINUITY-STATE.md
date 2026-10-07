@@ -220,3 +220,20 @@ Central U.S.:
 Midway land-based aviation remains a separate fourth U.S. aviation node.
 
 Current next is Jun3-4 geometry/search/contact, not another force-inventory gate.
+
+
+## 2026-10-08 MI search / first-contact replay
+
+V26:45-46 begin combat replay without resolving hits.
+
+Central information sequence:
+- US PBY finds Japanese carrier force center 0538;
+- usable U.S. moving track by 0550-0600;
+- Japanese D4Y finds TF16 center 0622;
+- Japanese separate third-carrier/Saratoga evidence center 0650;
+- both sides have launch-quality carrier information by ~0700.
+
+Japan uses a broader ten-aircraft tactical search layer based on E13A/D4Y/B5N plus non-omniscient H7Y outer datum support.
+
+Current next:
+carrier and Midway strike packages -> radar/CAP/AA -> valid releases -> hits.
