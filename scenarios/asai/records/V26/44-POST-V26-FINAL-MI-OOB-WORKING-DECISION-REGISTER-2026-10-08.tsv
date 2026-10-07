@@ -1,0 +1,16 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST. Final MI OOB is post-V26 WORKING.	V26:00;V26:43
+MI-JP-CARRIERS	WORKING-CLOSE	FINAL-OOB	Akagi/Kaga/Soryu/Hiryu/Zuikaku/Ryujo six-deck system; Shokaku and Junyo absent central。	V26:39;V26:43
+MI-JP-AIR	WORKING-CLOSE	FINAL-OOB	Japanese carrier serviceable331/24h-ready311 central。	V26:39-40;V26:43
+MI-JP-SCREEN	WORKING-CLOSE	FINAL-OOB	Haruna/Kirishima/Tone/Chikuma/Nagara + inner DD12; Ryujo outer Takao/Maya+DD4。	V26:27-28;V26:43
+MI-JP-RADAR	WORKING-CLOSE	FINAL-OOB	Type21 carrier sets Akagi/Hiryu/Zuikaku; Type22 central Haruna/Tone/Chikuma/Takao/Arashi/Urakaze/Kazagumo。	V26:25;V26:27-28;V26:43
+MI-JP-ORDNANCE	WORKING-CLOSE	FINAL-OOB	Embarked Type91=148/FT=116; surface Type93 physical carried=334 central。	V26:31-32;V26:43
+MI-US-CARRIERS	WORKING-CLOSE	FINAL-OOB	Enterprise/Hornet/Saratoga three-carrier system; Yorktown unavailable, Lexington lost。	V26:41-42;V26:43
+MI-US-AIR	WORKING-CLOSE	FINAL-OOB	US carrier serviceable232/24h-ready221: F4F81/SBD107/TBD44。	V26:41-42;V26:43
+MI-TF16-SCREEN	WORKING-CLOSE	FINAL-OOB	Enterprise/Hornet + New Orleans/Minneapolis/Vincennes/Northampton/Pensacola/Atlanta + DD9 + Cimarron/Platte central。	V26:43
+MI-TF17-SCREEN	WORKING-CLOSE	FINAL-OOB	Saratoga + Astoria/Portland + Hammann/Hughes/Morris/Anderson/Russell/Gwin central。	V26:43
+MIDWAY-LAND-AIR	WORKING-CLOSE	FINAL-OOB	Midway central: PBY~32 assigned, F2A20/F4F7, SBD16/SB2U11, TBF6, B26 4, B17 19 class。	V26:43
+MI-SUB-LAYER	WORKING-CLOSE	FINAL-OOB	Historical-like 12-boat primary Midway patrol architecture retained; no automatic attack-quality carrier contact。	V26:43
+MI-FINAL-OOB	WORKING-CLOSE	ROLLED-FORWARD	Pre-combat force state closed through V26:43-44. No combat outcome implied。	V26:43-44
+NEXT-MI-GEOMETRY	OPEN	CURRENT-NEXT	Jun3-4 starting geometry/search allocation/first contact timing-qualityを再演する。	V26:43
+NEXT-MI-COMBAT	OPEN	AFTER-CONTACT	First contact後にstrike launch decisionsへ進む。	V26:43
