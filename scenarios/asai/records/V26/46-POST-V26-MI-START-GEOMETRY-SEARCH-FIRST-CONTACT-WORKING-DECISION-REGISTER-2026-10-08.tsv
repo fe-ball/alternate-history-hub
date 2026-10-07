@@ -1,0 +1,14 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST. MI geometry/search is replay-local WORKING.	V26:00;V26:45
+MI-START-GEOMETRY	WORKING-CLOSE	COMBAT-GEOMETRY	Jun4 0430 Japanese carrier core ~230-250nm NW Midway; US carrier center ~190-220nm NE/E of Japanese core; Saratoga group 15-25nm separated from TF16 central。	V26:43;V26:45
+JP-SEARCH-ALLOCATION	WORKING-CLOSE	SEARCH	First tactical search Tone E13A2/Chikuma E13A2/D4Y4/B5N2=10 central; H7Y strategic outer datum does not give exact pre-contact track。	V26:25;V26:45
+US-SEARCH-ALLOCATION	WORKING-CLOSE	SEARCH	Midway PBY remains principal long-range discovery layer; low-20s airborne first broad system, carrier SBD search limited。	V26:43;V26:45
+US-FIRST-CONTACT	WORKING-CLOSE	ACTOR-KNOWLEDGE	PBY Japanese carrier-force sighting 0530-0545/center0538; CONTACT-3-like moving track by0550-0600。	V26:45
+JP-FIRST-CONTACT-TF16	WORKING-CLOSE	ACTOR-KNOWLEDGE	D4Y finds Enterprise/Hornet group 0615-0630/center0622; CONTACT-3-like by0630-0640。	V26:45
+JP-SARATOGA-CONTACT	WORKING-CLOSE	ACTOR-KNOWLEDGE	Second search line sees separate third-carrier group 0640-0700/center0650; exact identity remains uncertain。	V26:45
+MI-INFO-RACE	WORKING-CLOSE	COMBAT-GEOMETRY	US retains first useful carrier-position advantage, but Japan's carrier-blind interval is materially shortened; both have launch-quality knowledge by~0700 central。	V26:45
+MI-DECK-CYCLE-DIVERGENCE	WORKING-CLOSE	COMBAT-GEOMETRY	Six-deck Japanese system + early US carrier contact permits anti-carrier counterlaunch without waiting for every Midway-strike recovery; historical exact deck-cycle trap not copied。	V26:45
+NEXT-US-FIRST-STRIKE	OPEN	CURRENT-NEXT	US carrier strike package/launch timingを決定。	V26:45
+NEXT-JP-COUNTERSTRIKE	OPEN	CURRENT-NEXT	Japanese anti-carrier package by cell/ordnance/targetingを決定。	V26:45
+NEXT-MIDWAY-ATTACK	OPEN	CURRENT-NEXT	Midway land-air attack allocationを閉じる。	V26:45
+NEXT-VALID-RELEASE	OPEN	AFTER-STRIKES	radar/CAP/AA/intercept後にvalid releasesを判定。	V26:45
