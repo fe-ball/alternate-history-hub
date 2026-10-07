@@ -158,6 +158,17 @@ PROVISIONAL discussion results:
 - Hyuga 1943Q4 initial completion central、Zuiun / Kasei Kyofuはshipboard-compatible、O5 Kyofuはhandling gate後
 - later island-relief role = small manpower + dense aviation / engineering / spares / fuel support
 
+### 21 — 1943構成再評価 handoff / India・航空機・O6
+`21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md`
+
+2026-10-07までのforward discussionを保存する再開handoff。canonical clockは進めない。
+
+最重要:
+- 17のArakan / Chittagong conditional lineと19の `strong Bengal-side strategic wedge` の間にcampaign-result continuity gapがある。
+- **1943 Chittagong入城 / 非入城を再OPEN**し、Cox's Bazar、英軍包囲失敗 / 撤退、38師団投入、Chittagong港湾・飛行場、Feni / Comilla線、Bose / Azad Hindを順に監査する。
+- 1944 India二正面案、航空集中、British relief、Hump、Five-Go後の船腹余力は、この1943結果が閉じるまでdownstream workingに留める。
+- O6、Ki-45昴型再評価、後期昴Ki-63、峰Ki-63 / 新規峰戦、後期峰A7M / O6試験型のdiscussionをstatus付きで保持する。
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
@@ -179,8 +190,12 @@ PROVISIONAL discussion results:
 17. **[Enterprise再建・工廠負荷・空母建造forward plan](15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md)**
 18. **[1942H2 世界戦略波及](16-WORLD-STRATEGY-RIPPLE-1942H2.md)**
 19. **[1942H2 日本側戦略・Five-Go/FS/Arakan・航空機次回handoff](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)**
-20. [旧再開プロンプト（真珠湾時点・REFERENCE）](../SESSION-START-PROMPT-1941-12-07.md)
-21. [pre-relaunch参考](../pre-relaunch/README.md)
+20. **[航空機枝・1943戦力forward ledger](18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md)**
+21. **[1943夏 strategic convergence](19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md)**
+22. **[柳船・水上航空・日向 support ledger](20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md)**
+23. **[1943構成再評価 / India・航空機・O6 handoff](21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md)**
+24. [旧再開プロンプト（真珠湾時点・REFERENCE）](../SESSION-START-PROMPT-1941-12-07.md)
+25. [pre-relaunch参考](../pre-relaunch/README.md)
 
 後続正本が旧planningと競合する場合は、後続正本の明示的なsupersessionを優先する。
 
@@ -237,12 +252,12 @@ CLOSED central:
   - foreign physical inspection still deferred; Kwajalein is not opened to outside observers
 
 次の論点:
-0. **次回分析frontier: 1943夏auditで未閉鎖の日本側support layer**
-   - preserved aircrew pool / training / cross-deck / partial air-ground separation / tactical research
-   - 1943 destroyer / escort ledger、瑞龍用52,000shp plant×2の実コスト、夕雲/秋月/松/海防艦
-   - Aleutians / Midway-Wake / South Pacific-New Guinea / Bengalのactual landed cargo / monthly sustainment / fortification
-   - base-network reconnaissance: search sectors / detour coverage / confirmation / shadowing / handoff capacity
-   - technical support assumptionsは [20](20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md)、strategic convergenceは [19](19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md)
+0. **次回分析frontier: 1943構成の再評価**
+   - 最初に [21](21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md) を読み、17→19間のArakan / Chittagong campaign-result gapを監査する
+   - First Arakan → 日本反撃 → Cox's Bazar → Chittagongの順で、包囲企図・英軍撤退・38師団・港湾/飛行場・monsoon・保持線を閉じる
+   - **Chittagong入城は現時点で再OPEN**。user-memory reconstructionをCLOSEDへ自動昇格しない
+   - Bose / Azad Hind、1944 India二正面案、British relief、Hump、Five-Go後船腹余力は1943結果に従属
+   - O6 / Ki-45昴型 / late Ki-63 / A7M growthのdiscussion continuityも [21] に保持
 1. **6/27–7/3 Enterprise Kwajalein sheltered repair**
    - temporary underwater patches / shoring
    - 48–72h tow certification
