@@ -423,3 +423,50 @@ Zuikaku MI central:
 2. close Saratoga readiness and Enterprise/Hornet post-Doolittle return;
 3. build final MI one-sheet OOB;
 4. only then replay MI combat.
+
+
+---
+
+# 2026-10-08 carrier timing / final MI OOB
+
+Latest original sources:
+- V26:39-40 = Japanese carrier deployment timing + remaining carrier-air readiness
+- V26:41-42 = U.S. carrier deployment timing + MI balance
+- V26:43-44 = final MI one-sheet OOB
+
+Timing closure:
+- Akagi/Soryu/Hiryu home-water return Apr21-23 / center Apr22 after Indian Ocean;
+- Kaga early-May maintenance/work-up retained;
+- Ryujo Apr28-May6 maintenance retained, then redirected to MI instead of Ominato/AL;
+- Zuikaku home-water arrival May10-12 center after Apr29 action, regenerates for MI;
+- Shokaku remains under repair and misses MI;
+- Japanese enlarged carrier force still sorties May27 central.
+
+Japanese MI carrier-air:
+- six decks;
+- serviceable 331 / 24h-ready 311;
+- Akagi60/Kaga68/Soryu53/Hiryu54/Zuikaku64/Ryujo32.
+
+U.S. timing:
+- Saratoga Apr27 = west-coast frontline/work-up release, not Apr27 Pearl combat presence;
+- Pearl arrival May6-8 / center May7;
+- Enterprise/Hornet Apr22 raid -> Pearl Apr29-30 -> shortened southward response -> Pearl return May21-23 / center May22;
+- Enterprise/Hornet sortie May28; Saratoga May28-29.
+
+U.S. MI carrier-air:
+- Enterprise/Hornet/Saratoga;
+- serviceable 232 / 24h-ready 221;
+- Yorktown unavailable;
+- Lexington lost.
+
+Final MI OOB is WORKING-CLOSE through V26:43-44.
+
+## CURRENT NEXT
+
+Replay:
+1. Jun3-4 starting geometry;
+2. Japanese/U.S./Midway search allocation;
+3. first carrier-contact timing and quality;
+4. then strike launch decisions.
+
+No combat result has yet been resolved.
