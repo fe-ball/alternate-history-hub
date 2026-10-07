@@ -75,3 +75,9 @@ ZUIKAKU-MI-READY	WORKING-CLOSE	FORCE-STATE	Zuikaku physical67-69/serviceable64/c
 ZUIKAKU-MI-ORDNANCE	WORKING-CLOSE	FORCE-STATE	Zuikaku Type91=28 / FT=24 carried central.	V26:31-32;V26:37-38
 NEXT-MI-CARRIER-AIR	OPEN	CURRENT-NEXT	Akagi/Kaga/Soryu/Hiryu/Ryujo end-May readiness and remaining D4Y/B6N allocationを統合。	V26:23;V26:25;V26:37-38
 NEXT-US-CARRIER-BALANCE	OPEN	CURRENT-NEXT	Saratoga readiness + Enterprise/Hornet post-Doolittle returnを閉じる。	V26:21;V26:37-38
+MI-CARRIER-TIMING-JP	WORKING-CLOSE	DEPLOYMENT	Akagi/Soryu/Hiryu Apr21-23 home return; Kaga early-May maintenance; Ryujo May6 release->MI; Zuikaku May10-12 home return; May27 MI sortie central。	V26:39-40
+MI-JP-AIR-TOTAL	WORKING-CLOSE	FINAL-OOB	Six decks serviceable331/24h-ready311: Akagi60/Kaga68/Soryu53/Hiryu54/Zuikaku64/Ryujo32。	V26:39-40;V26:43-44
+MI-US-CARRIER-TIMING	WORKING-CLOSE	DEPLOYMENT	Saratoga Pearl May7 center; Enterprise/Hornet Pearl return May22 center; MI sortie May28-29。	V26:41-42
+MI-US-AIR-TOTAL	WORKING-CLOSE	FINAL-OOB	Enterprise/Hornet/Saratoga serviceable232/24h-ready221; Yorktown absent, Lexington lost。	V26:41-44
+MI-FINAL-OOB	WORKING-CLOSE	ROLLED-FORWARD	日米carrier/screen/radar/AA/ASW/ordnance/Midway land airをV26:43-44で統合済み。	V26:43-44
+NEXT-MI-GEOMETRY	OPEN	CURRENT-NEXT	Jun3-4 starting geometry/search allocation/first contact timing-qualityを再演。	V26:43-44
