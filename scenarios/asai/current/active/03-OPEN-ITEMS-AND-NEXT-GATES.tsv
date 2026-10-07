@@ -1,15 +1,15 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:33-34でShokaku central hit/damage/repairを閉じた。Apr29双方のairframe/aircrew loss ledgerから再開する。	V26:25;V26:33-34
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:35-38でApr29 air-loss ledgerとZuikaku MI regenerationを閉じた。Akagi/Kaga/Soryu/Hiryu/Ryujo end-May carrier-air readiness統合から再開する。	V26:35-38
 1	MI-DD-ESCORT	WORKING-CLOSE	ROLLED-FORWARD	Nagara+DD16、cell別radar picket/ASW/plane-guard役割を閉じた。	V26:27-28
 2	MI-ORDNANCE-STOCK	WORKING-CLOSE	ROLLED-FORWARD	Type91/FT-family/Type93 force-level stockとallocationをV26:31-32で閉じた。	V26:29-32
 3	SHOKAKU-APR29-HIT	WORKING-CLOSE	ROLLED-FORWARD	1x1000lb-class direct hit central。forward-starboard/island-adjacent flight deck→upper hangar hit。	V26:25;V26:33-34
 4	SHOKAKU-REPAIR	WORKING-CLOSE	ROLLED-FORWARD	frontline carrier-ready center Jun9-11。MI combat-present=NO central。	V26:33-34
-5	APR29-AIRLOSS	OPEN	CURRENT-NEXT	再監査防空状態を使いApr29双方の機種別airframe/aircrew loss ledgerを閉じる。	V26:25#7;V26:33
-6	ZUIKAKU-AIRGROUP	OPEN	CURRENT-NEXT	Apr9+Apr29後のGaifu/A6M/D3A/B5N/D4Y/B6N機体・搭乗員・serviceable/sortie-ready数を閉じる。	V26:23;V26:25;V26:33
-7	MI-FINAL-OOB	OPEN	AFTER-FORCE-DETAIL	空母・水上艦・DD・航空隊・radar/AA/FCS/ASW・Type91/FT/Type93を一枚のMI開始OOBへ統合。	V26:27-34
-8	MI-COMBAT	OPEN	AFTER-FINAL-OOB	上記force-stateが閉じた後にのみMI combat replayを開始。	V26:31;V26:33
-9	SARATOGA-APR29	OPEN	PARALLEL-REGEN	Apr20-May5 return band内のApr29時点Saratoga readinessを閉じる。	V26:21
-10	DOOLITTLE-RETURN	OPEN	PARALLEL-REGEN	Enterprise/HornetのApr21-23 raid後航海/補給/航空隊再生時計。	V26:21
+5	APR29-AIRLOSS	WORKING-CLOSE	ROLLED-FORWARD	Japan irreversible16/KIA-MIA25 central。Lexington physical airframes72 lost, direct combat20, aviation KIA-MIA~44 central。	V26:35-36
+6	ZUIKAKU-AIRGROUP	WORKING-CLOSE	ROLLED-FORWARD	MI serviceable64/24h sortie-ready60: Gaifu12/A6M10/D3A20/D4Y2/B5N16/B6N4 serviceable。	V26:37-38
+7	MI-OTHER-CARRIER-AIR	OPEN	CURRENT-NEXT	Akagi/Kaga/Soryu/Hiryu/Ryujo end-May air readinessとremaining D4Y/B6N allocationを閉じる。	V26:23;V26:25;V26:37
+8	US-CARRIER-BALANCE	OPEN	CURRENT-NEXT	Saratoga late-Apr/May readiness、Enterprise/Hornet post-Doolittle return/replenishmentを閉じる。	V26:21;V26:37
+9	MI-FINAL-OOB	OPEN	AFTER-CARRIER-BALANCE	日米air group・艦艇・radar/AA/FCS/ASW・Type91/FT/Type93を一枚のMI開始OOBへ統合。	V26:27-38
+10	MI-COMBAT	OPEN	AFTER-FINAL-OOB	final force-stateが閉じた後にのみMI combat replayを開始。	V26:38
 11	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speed厳密CLOSE。	V26:21#1
 12	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOF厳密CLOSE。	V26:21#1
 13	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	FT fuel type/load/flow/residual fuel/thermal stateを閉じる。	V26:21#1-2
