@@ -1,0 +1,9 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:73
+GAIFU-MARGINAL-VALUE	WORKING-CLOSE	MODEL	Worldline A6M already improves speed/prop/exhaust/QC/radio/boresight/reacceleration, narrowing the marginal combat value of a small immature Gaifu detachment while Gaifu adds fuel/maintenance/C2 burden.	V26:23;V26:69-73
+HOMOGENEOUS-CAP	WORKING-CLOSE	MODEL	A6M-only CAP retains system gains via common fuel/spares/performance/deck procedures and lower controller/handoff friction; differentiate by altitude/fuel/task rather than type.	V26:67;V26:73
+APR29-A6M-POOL	WORKING	FORCE-STATE	Apr29 A6M serviceable re-audit band30-34, planning center32; old30 is floor, no one-for-one Gaifu replacement.	V26:37;V26:71;V26:73
+APR29-ESCORT-DEFENSE	WORKING	TACTICS	A6M escort14-18, center16; defense remainder14-18, center16 at pool32. D3A27/B5N27 retained.	V26:21;V26:73
+APR29-STRIKE-SCALE	PROVISIONAL	STRIKE-PACKAGE	Japanese Apr29 strike becomes68-72, center70, depending A6M escort allocation; no hit result changed yet.	V26:21;V26:73
+APR29-CAP-POSTURE	WORKING-CLOSE	MODEL	Use A6M-H/M/L/R state roles; intended homogeneous layers remain imperfect under Type21/radio actor-knowledge limits.	V26:67;V26:73
+APR29-COMBAT-OUTPUTS	OPEN	CURRENT-NEXT	Close exact A6M pool/pilots and escort card, then replay Lexington counterstrike to valid-release bands before hits.	V26:73
