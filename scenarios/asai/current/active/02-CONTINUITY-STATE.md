@@ -415,3 +415,14 @@ Spring-1942 carrier central:
 Four-aircraft2+2 is plausible as an earlier worldline experiment, not yet universal carrier doctrine.
 
 Apr29 A15 therefore has a natural 6+6+3 internal structure.
+
+
+## 2026-10-08 aviation command architecture
+
+V26:87-88 separate below-side operational/deck/control authority from airborne tactical authority.
+
+The worldline's communications maturity does not imply centralized micromanagement. It produces clearer mission intent, status reporting, reserve/relief control and deliberate authority handoff to airborne leaders.
+
+CAP remains shared-control longer; long-range strikes become more airborne-led after contact.
+
+Apr29 combat outcomes remain OPEN.
