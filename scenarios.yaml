@@ -8,7 +8,7 @@ scenarios:
     authority_version: "V26"
     canonical_clock: "1941-12-07T14:30:00-10:30"
     clock_state: "canonical-anchor-only; latest-working-continuation-and-local-planning-clocks-are-separate"
-    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. V26:83-84 reconcile the communications/doctrine and Apr29 CAP records: reliable radio plus 1937-42 combat experience produces leader-level split/reform, cover/reserve, attack sequencing, sector/altitude/relief procedures and group-level carrier retasking while the three-plane shotai remains. Apr29 CarDiv5 is A6M-only, serviceable30-34 center32; escort cards are shotai-compatible A12/A15/A18 with A15 reference. No Apr29 combat outcome is closed. Current next: run those cards through both strike directions to loss/abort/valid-release bands only, stopping before hits. V26 canon clock remains 1941-12-07 14:30 HST."
+    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. V26:83-84 reconcile communications/doctrine and Apr29 CAP; V26:85-86 separate formal 3-aircraft shotai from a larger controlled tactical package. Spring-1942 carrier central uses routine6-aircraft/two-shotai control and can employ nine as6+3; four-aircraft2+2 remains selected-unit experiment/sensitivity until an explicit pair-mutual-support training gate closes. Apr29 cards are A12/A15/A18 with A15 reference and map to6+6 /6+6+3 /6+6+6-class structures. No Apr29 combat outcome is closed. Current next: run those cards through both strike directions to loss/abort/valid-release bands only, stopping before hits. V26 canon clock remains 1941-12-07 14:30 HST."
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/00-READ-FIRST-GENERIC.md"
@@ -19,7 +19,7 @@ scenarios:
     canonical_source: "scenarios/asai/records/V26/00-SESSION-HANDOFF-V26.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-comms-doctrine-Apr29-CAP-reconciliation-through-V26-84-plus-complete-v22b-source-snapshot"
+    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-fighter-cell-size-evolution-through-V26-86-plus-complete-v22b-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository; source-record-trees-preserved-during-navigation-restructure"
 
   keisanki-ibun:
