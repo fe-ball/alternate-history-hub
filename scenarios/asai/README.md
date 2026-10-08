@@ -60,6 +60,8 @@
 - [V26:74 matching A6M CAP register](records/V26/74-POST-V26-APR29-A6M-HOMOGENEOUS-CAP-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:75 Apr29 A6M-only fighter force / escort-defense cards](records/V26/75-POST-V26-APR29-CARDIV5-A6M-ONLY-FIGHTER-FORCE-ESCORT-DEFENSE-CARDS-2026-10-08.md)
 - [V26:76 matching fighter-force register](records/V26/76-POST-V26-APR29-A6M-ONLY-FIGHTER-FORCE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:77 A6M radio / EMI / fighter-doctrine audit](records/V26/77-POST-V26-A6M-RADIO-EMI-FORMATION-DOCTRINE-FIGHTER-DIRECTION-AUDIT-2026-10-08.md)
+- [V26:78 matching radio/doctrine register](records/V26/78-POST-V26-A6M-RADIO-FIGHTER-DIRECTION-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
