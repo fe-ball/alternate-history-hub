@@ -688,3 +688,30 @@ OPEN before CAP replay:
 - Gaifu ammunition-duration details.
 
 G-E/G-B/G-D cards remain sensitivity cases; G-B is no longer implicitly preferred.
+
+
+---
+
+# 2026-10-08 Gaifu carrier-release correction
+
+V26:71-72 supersede the prior assumption that Gaifu is a normal combat-present carrier fighter in Apr-May 1942.
+
+Central:
+- Apr29 CarDiv5 Gaifu combat-present = 0.
+- MI Gaifu combat-present = 0.
+
+Reason:
+- national Grade-A aviation GT fuel and E6 service culture exist;
+- but current authority only supports Gaifu prototype/service evaluation and does not pre-record mass service;
+- no closed unit-scale carrier package for Grade-A fuel segregation/transfer/filtration, GT core/reducer/prop maintenance, deck-cycle proof and squadron service release exists by Apr-May 1942.
+
+Consequences:
+- V26:25 Gaifu accepted/service/carrier-qualified counts reopened;
+- V26:35-38 Apr29 Gaifu losses / Zuikaku Gaifu regeneration reopened;
+- V26:33-34 Shokaku one-hit central becomes a branch requiring re-audit, not an automatic rollback to historical damage;
+- V26:39-48 Japanese MI air-group totals and Cell3 fighter mix reopened;
+- V26:59-70 Gaifu combat models retained only as future/sensitivity technical work, not current MI central.
+
+## CURRENT NEXT
+
+Re-run Apr29 CarDiv5 defense without Gaifu, retaining radar/AA/FCS/37mm improvements. Then rebuild the loss ledger, Shokaku damage, Zuikaku A6M fighter group and MI OOB before returning to combat.
