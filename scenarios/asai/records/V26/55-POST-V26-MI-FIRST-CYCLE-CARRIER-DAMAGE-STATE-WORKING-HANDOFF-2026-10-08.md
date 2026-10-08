@@ -1,6 +1,10 @@
 # POST-V26 MI first-cycle carrier damage-state WORKING handoff — 2026-10-08
 
-Status: POST-V26 WORKING / COMBAT REPLAY / NO CANON PROMOTION
+Status: DISCUSSION-SAMPLE / NON-AUTHORITATIVE / SUPERSEDED-FOR-CURRENT-REPLAY / NO CANON PROMOTION
+
+## Current-use warning
+
+This record is retained as an exploratory model/sample only. Its carrier damage states are NOT current replay state and MUST NOT be rolled forward. Current replay resumes from V26:49-50 valid-release closure, with multi-stage attack sequencing reopened before direct-hit and damage adjudication.
 
 ## Authority guard
 
