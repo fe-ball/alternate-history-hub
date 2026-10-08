@@ -446,3 +446,15 @@ V26:93-94 restart Enterprise from the 1941-12-07 precombat state using the matur
 
 Old Japanese loss, valid-release and hit outputs are not current.
 The replay resumes at the ~13:52 Enterprise radar cue and ~14:04-14:10 first outer F4F interception.
+
+
+## 2026-10-08 session close — Enterprise restart
+
+V26:93-94 close this work session.
+
+Current next is not an inherited Enterprise combat package.
+Reconstruct post-Pearl Kido Butai aircraft/recovery state first and choose strike commitment under Enterprise-known / Lexington-unlocated conditions.
+
+Old72-aircraft and later54-aircraft Enterprise strike packages are comparison branches only.
+
+After strike-size closure, replay to fighter attrition / delay / displacement / synchronization / valid-release bands and stop before hits.
