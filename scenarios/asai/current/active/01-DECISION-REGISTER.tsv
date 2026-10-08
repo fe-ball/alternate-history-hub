@@ -164,3 +164,5 @@ ENTERPRISE-F4F	WORKING	FORCE-STATE	F4F active~19 anchor; serviceable15-18 center
 ENTERPRISE-JP54	WORKING-CLOSE	FORCE-STATE	54 center=18A6M+18D3A+18B5N, chosen for one-carrier attack under Lexington uncertainty/reserve, not hindsight kill guarantee.	V26:16-17;V26:93-94
 ENTERPRISE-A6M-6X3	WORKING-CLOSE	TACTICS	JF1 high/free6 + JF2 D3A-cover6 + JF3 B5N-cover6.	V26:85-94
 ENTERPRISE-SYNC-START	WORKING-CLOSE	MODEL	Precontact COM2, A-CMD2-3, S1/S2 SYNC2 central; F4F intercept is first major synchronization shock.	V26:91-94
+SESSION-CLOSE-V26-94	WORKING-CLOSE	HANDOFF	Session closes with Enterprise restart as next gate; no new combat outcome fixed.	V26:93-94
+ENTERPRISE-STRIKE-SIZE-REOPEN	OPEN	CURRENT-NEXT	Old72 and later54 anti-Enterprise packages are comparison branches only; reconstruct post-Pearl Kido Butai state before choosing commitment.	V26:02-03;V26:16-17;V26:93-94
