@@ -1,5 +1,5 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:93-94でEnterprise戦をprecombatから再起動。次は13:52 radar cue後の10-12 F4F outer intercept -> A6M package contact -> D3A/B5N delay/displacement -> COM/A-CMD/SYNC degradation。旧loss/valid/hitsは継承しない。
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:93-94でsession close。次回はEnterprise戦を一から再監査。まずPearl二波後Kido Butaiのphysical/serviceable/ready/recoveryを再構築し、旧72機案/後54機案を固定せずstrike commitmentを再決定。
 1	ENTERPRISE-DEC7	OPEN	CURRENT-NEXT	A6M18 package、US radar/CAP、A-CMD/B-CMD/D、D3A/B5N cohesion/valid-releaseを再導出。hits前で停止。	V26:16-17;V26:89-90
 2	FORCEZ-COMMAND	WORKING	AFTER-ENTERPRISE	Peer fighter battleではない。Attack-airborne command / FT-Type91 sequencingの説明を再監査。	V26:16-17;V26:89
 3	WAKE-SARATOGA	OPEN	HIGH	Enterpriseで観測されたlessonのみ反映し、Dec22双方carrier-air C2/valid releaseを再演。	V26:07;V26:17;V26:89
