@@ -819,3 +819,43 @@ V26:77-78 remain useful for EMI hardware and anti-GCI guards, but their historic
 ## CURRENT NEXT
 
 Run Apr29 A14/A16/A18 sensitivity through this command system to loss/abort/valid-release bands only. Stop before direct hits.
+
+
+---
+
+# 2026-10-08 communications-to-doctrine timeline
+
+V26:79-82 supersede the static reading of V26:77-78.
+
+Radio/EMI improvement diffuses through four clocks:
+1. hardware usability;
+2. procedures;
+3. tactical employment;
+4. command architecture.
+
+Working timeline:
+- 1932-34: EMI/shielding/filtering acceptance;
+- 1935-36: check/ack/lost-comms and route/report procedure;
+- 1937 China: join-up/contact/recall/rejoin/diversion calls become combat-normal in experienced units;
+- 1938: shotai detach/rejoin, altitude/task split, escort reassignment and attack sequencing develop;
+- 1939 China/Nomonhan: alert, patrol sector/altitude, reserve and warning-to-launch procedure spread;
+- 1940 A6M China: long-range escort/multi-chutai assembly, cover/reserve/rejoin procedure mature further;
+- 1941: first-line Navy syllabus standardizes contact/bearing/altitude, engage/hold/cover/rejoin/return, escort handoff and CAP relief;
+- Dec1941-Apr1942: carrier air plot/CAP-leader procedures absorb Pacific combat lessons; Type21 plugs into this existing chain.
+
+Still retained:
+- three-plane shotai;
+- aggressive pilot autonomy after merge;
+- imperfect radio/C2;
+- strategic radio silence;
+- no finger-four / modern precision GCI.
+
+Apr29 card correction:
+- old A14/A16/A18 superseded;
+- use A12/A15/A18 (four/five/six shotai);
+- A15 is the reference card;
+- no valid-release or hit result closed yet.
+
+## CURRENT NEXT
+
+Run A12/A15/A18 in both directions of the Apr29 carrier action to loss/abort/valid-release bands only.
