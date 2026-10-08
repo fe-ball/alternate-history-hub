@@ -168,6 +168,49 @@ Only the following **conditional** track makes two December airframes defensible
 - https://www.combinedfleet.com/Ise.htm — 23 June 1944 first E16A catapult exercises on the Ise-class in Hiroshima Bay.
 
 
+## 8. Hyūga vs non-embarked floatplanes: limited support, NO routine fighter ferry — CLOSED doctrine
+
+> **Decision:** Hyūga **does not routinely carry, ferry, recover, refuel, repair or cycle external A6M2-N/N1K1 float-fighter detachments** during a Bengal combat sortie. She **can** provide carefully bounded logistic/technical/C2 support to coastal seaplane units while at an already secure anchorage. Do not convert her into a general seaplane depot merely because she possesses an elevator, crane, limited stores and aviation-maintenance party.
+
+### 8.1 Separation of operational accounts
+
+| Mission | Owner | Hyūga's permissible role |
+|---|---|---|
+| Catapult-borne E13A/F1M and certified limited E16A | Hyūga's organic aviation detachment | **Primary**; these are debited from her embarked 14-aircraft candidate |
+| Non-catapult-launched A6M2-N / N1K1 sortie generation | Coastal sheltered inlet / special seaplane tender | **Not Hyūga's responsibility**; no automatic onboard stowage, turnaround, combat CAP, or squadron maintenance |
+| Forward seaplane-base sustaining stocks | Coastal base command and support tenders | At safe anchorage, one-time delivery of dense radio/engine/repair items, aviation fuel, ammunition, specialist personnel, or urgent casualty evacuation if actual allocation and transfer craft exist |
+| Combat mission control, reconnaissance reporting, contact handoff | IJN joint naval-air command / Hyūga when in contact | **Yes**; radio/flag/plot function without physically receiving the aircraft |
+| Rescue of ditched friendly aircraft | Local rescue boats/base, supplemented by present ship if safe | **Exception only**; recovery in exposed seas under enemy attack is NOT assumed |
+| Aviation ferrying/major repair | Dedicated aircraft transports, converted seaplane tenders, qualified ferry carriers for aircraft their hangars/decks actually fit | **No default Hyūga allocation**; aircraft dimensions, loading gear and airworthiness remain per-carrier gates |
+| Large flying boats H6K/H8K | Their proper flying-boat bases/tenders, not Hyūga | Communications and information relay only unless a separate exceptional recovery resource is demonstrated |
+
+The historical **KIMIKAWA MARU** carried A6M2-N and E13A aircraft to the Aleutians in 1942–43 and was a specialized way to move/reconstitute floatplane detachments. This is a *role precedent*, **not** a ruling that KIMIKAWA MARU is automatically available for Bengal in R3. Other dedicated auxiliaries require explicit ship allocation, towing/handling equipment, crew and repair inventory.
+
+### 8.2 Physical boundary
+
+- Hyūga's 4-ton-class derrick and finite hangar/deck movement routes are already committed to organic E13A/F1M/E16A and combat handling. Even if an external aircraft's mass is below the nominal crane rating, lift points, crane outreach, sea motion, available cradles, stowage, refuel fittings and damage-control safety still need checks.
+- External floatfighters can take off from calm sheltered water without ship catapult, but **that does not make Hyūga their routine mother ship**. Raising outside aircraft aboard would block her own aviation and artillery-support workflow.
+- Keep major aviation fuel transfer, repair, and engine exchanges at **Akyab / an approved rear seaplane base** with suitable tender/shore tools, fire precautions and rescue craft. Hyūga may deliver supplies or temporarily lend technicians there. The dedicated tender or base actually controls floats, refueling and daily sorties.
+- Once Hyūga sails toward the Bengal landing coast, **no planned non-organic seaplane handling**. Her own launched aircraft may recover to shore; that is a normal planned *outbound transfer* with an accounting debit, not a reason to accept unrelated inbound aircraft during combat.
+- For the **December mission**, physical complement remains conditional **E13A 8 + F1M 4 + E16A 2 = 14** with **zero water fighters embarked as ferry cargo**. Future emergency transfer of an aircraft is separately priced in cargo space, crew, crane/weather and the receiving field's capability; it never appears as an unpriced aviation addition.
+- Cargo accounting: ammunition/fuel for Hyūga aircraft, high-priority shore-base spare parts, army communications/engineers, and Daihatsu are **competing deck/stores resources**. The presence of a large hull is not permission to fill each separate theoretical capacity to maximum.
+
+### 8.3 Bengal time/phases
+
+1. **Before H-hour (Akyab or another secured anchorage):** Hyūga may land selected stores/technicians for the existing ~24 coastal seaplanes, help inspect radios and coordinate search-sector handoffs. Specific supplies/tonnage are OPEN. Do not assume Cox/Naf sheltered base facilities are completed.
+2. **H−24 to H+24/36 (open combat area):** Hyūga works as naval gunfire / embarked reconnaissance and fire-control node. Non-embarked seaplanes sortie from and return to sheltered bases/tenders. Rescue is opportunistic, not routine repair.
+3. **After the main fleet withdraws:** Coastal seaplane sorties and maintenance continue under dedicated base/tender support. Hyūga is not required to remain on station to sustain them.
+
+**Status:**
+- **CLOSED doctrine:** No routine external floatplane ferry or afloat turnaround by Hyūga; primary support via information + limited secure-anchorage transfer; dedicated tender/base owns day-to-day coastal water-fighter flying.
+- **PROVISIONAL:** Which stores, radio technicians or spares Hyūga delivers before Bengal H-hour, versus giving all of them to rear supply transports.
+- **OPEN:** Exact shore tender names/locations, depot stockpile, weather/swell and craft transfer/capacity, specific sortie clock.
+
+**Historical comparison:**
+- https://www.combinedfleet.com/Hyuga.htm — 9 aircraft hangar, combined exposed-deck capacity, two catapults and 4t crane.
+- https://www.combinedfleet.com/Kimikawa_t.htm — purpose-built/converted seaplane tender carrying and delivering float fighters and scouts to northern island bases.
+- https://www.combinedfleet.com/Kiyokawa_t.htm — auxiliary seaplane tender aircraft handling and replacement to other tenders.
+
 ## Sources and continuity
 
 - [15] §18–23: Enterprise recovery of manuals/SBD remains, F4F folding, maintenance and engineering reproduction gates.
