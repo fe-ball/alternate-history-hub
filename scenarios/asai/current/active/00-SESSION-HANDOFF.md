@@ -591,3 +591,32 @@ Recovery is now decisive:
 3. onboard aircraft losses from carrier hits;
 4. aircrew rescue;
 5. only then determine whether a second carrier strike is physically available on Jun4.
+
+
+---
+
+# 2026-10-08 MI combat-model rollback
+
+V26:51-56 went beyond the available model and fixed exploratory allocations/hits/damage too early.
+
+They are now non-authoritative discussion samples.
+
+Current combat authority returns to V26:49-50:
+- launch packages and first interception remain carried;
+- U.S. SBD70 / TBD17 valid releases remain the working baseline;
+- Japanese D3A34 / Type9116 / FT22 are provisional pre-multistage baselines only.
+
+Qualitative point retained:
+- FT may target selected screen/AA nodes rather than carriers;
+- such attacks can change later AA, maneuver and approach conditions.
+
+Not retained:
+- fixed 8/14 FT split;
+- fixed Atlanta/Portland hits;
+- revised D3A37/Type9119;
+- any V26:53-56 carrier hit/damage result.
+
+## CURRENT NEXT
+
+Build the multi-stage state-transition model first.
+Only after phase ordering, target allocation, CAP/AA/maneuver updates and revised valid-release counts are derived should direct hits be adjudicated.
