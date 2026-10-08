@@ -1,0 +1,10 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:65
+GAIFU-IDENTITY	WORKING-CLOSE	TECH	A7M=Gaifu; do not confuse with A8N Sakufu.	V26:25;V26:65
+GAIFU-SPEED	WORKING-CLOSE	TECH	Gaifu ~575-600km/h normal,595-615 short; ~670-710 belongs Sakufu, not Gaifu.	V11 technical source;V26:65
+GAIFU-CLIMB	WORKING-CLOSE	TECH	6km ~6.0-6.8min normal/~5.5-6.2 short class.	V11 technical source;V26:65
+GAIFU-RANGE	WORKING-CLOSE	TECH	Internal1600-2000km, practical fighter/escort radius500-650km, approach118-125km/h class.	V11 technical source;V26:65
+GAIFU-ARMAMENT	WORKING-CLOSE	TECH	MI early/service central 20mmx2+7.7mmx2; 20mmx4 is growth target, not automatic MI fit.	V11 technical source;V26:65
+GAIFU-CAP-INTERPRET	WORKING-CLOSE	MODEL	Mixed-type gain is moderate performance separation + handling/armament/powerplant difference + role specialization, not a 700km/h interceptor bonus.	V26:59;V26:61;V26:65
+GAIFU-DEFENSE-GUARD	WORKING-CLOSE	TECH	No blanket Gaifu armor/self-sealing improvement is granted without specific evidence.	V26:65
+NEXT-GAIFU-REPLAY	OPEN	CURRENT-NEXT	Run G-E/G-B/G-D cards against actual US wave timing using corrected Gaifu envelope; stop before weapon hits.	V26:61;V26:65
