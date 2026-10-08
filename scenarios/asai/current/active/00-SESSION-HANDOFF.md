@@ -990,3 +990,46 @@ Enterprise -> Wake/Saratoga -> Feb20 check -> Apr5 Force A -> Apr9 Yorktown -> A
 
 At each battle:
 preserve robust search/contact/force-state inputs and reopen only fighter-command-dependent loss/abort/valid-release and dependent hit packets.
+
+
+---
+
+# 2026-10-08 Enterprise battle restart
+
+V26:93-94 restart the first clear carrier-fighter peer contest from precombat state.
+
+Retain:
+- Enterprise contact08:17-08:20;
+- usable moving track;
+- Lexington unlocated;
+- launch12:22-12:35;
+- Enterprise radar cue~13:52 at~60nmi.
+
+Reopen:
+- all fighter losses;
+- D3A/B5N delay/abort;
+- valid releases;
+- hit packet;
+- carrier damage.
+
+Enterprise fighter planning:
+- ~19 active F4F historical anchor;
+- serviceable15-18 center17;
+- 10-12 main outer intercept;
+- 2-4 local/late possible.
+
+Japanese central strike:
+- 54 = A6M18 / D3A18 / B5N18;
+- A6M = three6-aircraft packages;
+- D3A = two9-aircraft groups;
+- B5N = Type919 + FT6 + FT-IR3;
+- working roles HE3 / Type919 / SAP3 / IR-SAP3.
+
+Precontact:
+- COM2;
+- A-CMD2-3;
+- S1/S2 SYNC2 central.
+
+## CURRENT NEXT
+
+Resolve the first outer F4F interception around14:04-14:10 and its effect on A6M package commitment, D3A/B5N delay/displacement, and synchronization. No old loss/hit numbers are inherited.
