@@ -1,0 +1,14 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:69
+A6M2-WORLDLINE	WORKING-CLOSE	TECH	A6M2 retains Zero airframe/mission but has prop/exhaust/cooling/test/QC/radio/boresight deltas; speed543-550 class; exact worldline climb OPEN.	V8 technical;V26:47;V26:69
+A6M2-WING-LOAD	WORKING	TECH	Normal combat wing loading roughly106-112kg/m2 class depending fuel/fit; much lower than Gaifu.	Historical H-anchor+V8 material delta;V26:69
+GAIFU-WING-LOAD	WORKING-CLOSE	TECH	Gaifu3500-3700kg/25m2 ->140-148kg/m2.	V11 technical;V26:65;V26:69
+POWER-LOAD-COMP	WORKING	TECH	A6M2 roughly2.5-2.7kg/hp takeoff class; Gaifu2.69-2.85 normal /2.50-2.64 short. No overwhelming Gaifu low-speed power-loading advantage.	V26:69
+TURN-COMP	WORKING-CLOSE	MODEL	A6M likely stronger sustained low/medium-speed turn; Gaifu slats/Fowler mitigate stall/instantaneous handling but carry drag/energy cost.	V26:69
+ROLL-DIVE-OPEN	OPEN	TECH	A6M historical high-speed control weakness remains plausible; Gaifu high-speed roll/dive/overspeed envelope not closed and must not be assumed superior.	V26:69
+ARMAMENT-COMP	WORKING-CLOSE	TECH	MI central both A6M2 and Gaifu carry20mmx2+7.7mmx2; Gaifu20mmx4 growth fit not imported.	V11 technical;V26:69
+PROTECTION-COMP	WORKING-CLOSE	TECH	No blanket armor/self-sealing upgrade is closed for either type; no generic Gaifu survivability bonus.	V26:65;V26:69
+ENDURANCE-COMP	WORKING	MODEL	A6M likely retains CAP persistence/long-escort advantage; Gaifu internal1600-2000km/radius500-650km is not an endurance replacement.	V26:69
+CARRIER-OPS-COMP	WORKING-CLOSE	MODEL	Gaifu high-lift keeps carrier-compatible approach, but A6M retains maturity/spares/deck-cycle/support advantage.	V26:69
+GAIFU-CARD-STATUS	OPEN	TACTICS	G-E/G-B/G-D retained as equal sensitivity cases; G-B no longer implicit preferred answer pending remaining performance bounds.	V26:61;V26:69
+NEXT-FIGHTER-BOUNDS	OPEN	CURRENT-NEXT	Bound Gaifu roll/dive/transient and worldline A6M climb/acceleration/CAP endurance before CAP combat replay.	V26:69
