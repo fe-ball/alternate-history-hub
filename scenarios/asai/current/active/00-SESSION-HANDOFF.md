@@ -893,3 +893,26 @@ No Apr29 loss, valid-release, hit or damage result is closed.
 ## CURRENT NEXT
 
 Run A12/A15/A18 through both Apr29 strike directions to loss/abort/valid-release bands only, using COM/CMD/D discipline transitions. Stop before hits.
+
+
+---
+
+# 2026-10-08 fighter cell-size re-audit
+
+V26:85-86 reconsider the tactical-cell size after the communications/doctrine re-audit.
+
+Current spring-1942 carrier center:
+- formal/immediate combat element remains the 3-aircraft shotai;
+- the normal **controlled tactical package** is now 6 aircraft / two shotai;
+- a 9-aircraft chutai can be used flexibly as6+3 rather than one rigid block;
+- 4-aircraft2+2 formations are plausible selected-unit experiments from1940H2-41, but are not fleet-carrier central without a separate mutual-support/training adoption gate.
+
+This reflects the most direct effect of reliable radio:
+the leader can control separated subelements, so the command span grows before the formal shotai structure necessarily changes.
+
+Apr29 mapping:
+- A12 = 6+6;
+- A15 reference = 6+6+3;
+- A18 = 6+6+6 or6+6+3+3.
+
+No Apr29 combat result is closed.
