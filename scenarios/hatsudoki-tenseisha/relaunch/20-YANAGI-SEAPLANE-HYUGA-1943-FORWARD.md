@@ -6,6 +6,10 @@
 > 本稿は日独潜水艦連絡、水上航空の被raid後即応性、日向航空偵察戦艦化を1943 summer convergenceへ接続する。
 > 未来の航海成功・試作成功・配備完了をcanonical factへ自動昇格させない。
 
+> **2026-10-09 Bengal/Hyūga forward audit:** [22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md](22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md) supersedes the **conditional December 1943 mission payload** assumed here in §12: early Hyūga 14 physical / ~11 serviceable E13A/F1M/E16A; its A6M2-N/N1K1 catapult fighter complement is **not** treated as combat-qualified on weight/fit alone. The 18–22 / 14–18 figure below is retained as a longer-horizon design/acceptance envelope, **not** the December mission's ready count. Enterprise effects on E16A are also audited in 22. Canonical clock unchanged.
+
+---
+
 ## 0. 今回の重要な読み替え
 
 ### 「raid後の水上航空」
