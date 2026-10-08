@@ -438,3 +438,11 @@ Apr5 Force A and Apr9 Yorktown are also Tier-1 re-audit cases.
 Feb20 Lexington is a lower-priority bomber-interception command case.
 
 Do not reset robust search/contact/force-state inputs; reopen the fighter-command-dependent attrition -> valid-release -> hit chain only.
+
+
+## 2026-10-08 Enterprise battle restart
+
+V26:93-94 restart Enterprise from the 1941-12-07 precombat state using the mature-radio / layered-command model.
+
+Old Japanese loss, valid-release and hit outputs are not current.
+The replay resumes at the ~13:52 Enterprise radar cue and ~14:04-14:10 first outer F4F interception.
