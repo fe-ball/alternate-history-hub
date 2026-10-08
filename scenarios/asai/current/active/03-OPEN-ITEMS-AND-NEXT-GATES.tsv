@@ -1,13 +1,13 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:51-56でmulti-stage FT suppression、first-cycle direct hits、carrier damage stateまで閉じた。Returning-aircraft recovery/diversion/ditchingから再開する。	V26:51-56
-1	MI-FT-MULTISTAGE	WORKING-CLOSE	ROLLED-FORWARD	FT valid22のうち8をscreen/AA suppression、14をcarrier exploitationへ。Atlanta/Portland suppression成立。	V26:51-52
-2	MI-HITS	WORKING-CLOSE	ROLLED-FORWARD	US hits: Akagi2/Kaga1+Mk13/Soryu1/Hiryu1/Zuikaku1/Ryujo0。JP hits: Enterprise4/Hornet3/Saratoga4。	V26:53-54
-3	MI-DAMAGE-STATE	WORKING-CLOSE	ROLLED-FORWARD	JP Akagi/Kaga/Soryu aviation MK、Hiryu/Zuikaku temporary stop、Ryujo intact。US three carriers battle-day aviation MK central。	V26:55-56
-4	MI-JP-RECOVERY	OPEN	CURRENT-NEXT	JP counterstrike survivorsをRyujo/Zuikaku/Hiryuへ回収。overload/ditch/damageを閉じる。	V26:55-56
-5	MI-US-RECOVERY	OPEN	CURRENT-NEXT	US returning strikeをMidway/emergency deck/ditchへ配分しairframe/aircrew lossを閉じる。	V26:55-56
-6	MI-ONBOARD-AIRLOSS	OPEN	CURRENT-NEXT	Carrier hitsでdeck/hangar aircraft destroyed/damagedを閉じる。	V26:55-56
-7	MI-SECOND-CYCLE	OPEN	AFTER-RECOVERY	Preserved aircraft/crew/decksからJun4 second-cycle strike feasibilityを判定。	V26:55-56
-8	MI-SHIP-SURVIVAL	OPEN	AFTER-STABILIZATION	Afternoon fire/flooding progression, tow/scuttle/sink outcomesを判定。	V26:55-56
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:57-58でV26:51-56の戦果固定を撤回。現行combat frontierはV26:49-50 valid-release closure。multi-stage attack state-transition model構築から再開。	V26:49-50;V26:57-58
+1	MI-STRIKE-PACKAGES	WORKING-CLOSE	ROLLED-FORWARD	US carrier strike169、JP anti-carrier counterstrike132、Midway first wave108。	V26:47-48
+2	MI-CAP-AA-VALID	PROVISIONAL	BASELINE	US SBD70/TBD17、JP D3A34/Type9116/FT22はpre-multistage baseline。JP後段値は再監査で変動しうる。	V26:49-50;V26:57-58
+3	MI-MULTISTAGE-MODEL	OPEN	CURRENT-NEXT	Phase ordering、carrier/screen target choice、AA/CAP/maneuver state更新、later-stage exposureをモデル化。	V26:29;V26:57-58
+4	MI-TARGET-ALLOCATION	OPEN	AFTER-MODEL	FTをcarrier/director/cruiser/screenへ何発配るかを状況依存で決定。固定8/14は採用しない。	V26:57
+5	MI-REVISED-VALID	OPEN	AFTER-TARGET-ALLOCATION	多段状態更新後にD3A/Type91/FTのvalid releaseを再導出。	V26:57
+6	MI-DIRECT-HITS	OPEN	AFTER-REVISED-VALID	Direct hit packetはrevised valid release後のみ。	V26:57
+7	MI-DAMAGE-STATE	OPEN	AFTER-HITS	Hit location/fire/flooding/deck/propulsion/aviation stateはhit packet後のみ。	V26:57
+8	V26-51-56	DISCUSSION-SAMPLE	DO-NOT-ROLL-FORWARD	旧multi-stage allocation/hit/damage数値は探索例。現行結果として使用禁止。	V26:51-58
 9	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speed厳密CLOSE。	V26:21#1
 10	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOF厳密CLOSE。	V26:21#1
 11	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	FT fuel type/load/flow/residual fuel/thermal stateを閉じる。	V26:21#1-2
