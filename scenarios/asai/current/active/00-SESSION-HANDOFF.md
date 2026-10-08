@@ -660,3 +660,31 @@ FT:
 3. run FT-D/FT-B/FT-S cards against actual U.S. defense sequence;
 4. derive Japanese D3A/Type91/FT release bands;
 5. stop before direct-hit adjudication.
+
+
+---
+
+# 2026-10-08 V26:69-70 A6M2/Gaifu performance audit
+
+Combat replay remains stopped before CAP-loss / valid-release adjudication.
+
+A6M2 vs Gaifu:
+- Gaifu speed/climb advantage is real but not universal.
+- A6M2 normal-combat wing loading ~106-112 kg/m2 class; Gaifu ~140-148 kg/m2.
+- Takeoff/short power loading overlaps broadly; Gaifu has no automatic all-speed acceleration advantage.
+- A6M likely retains stronger sustained low/medium-speed turn.
+- Gaifu high-lift devices mitigate stall/instantaneous handling but cost energy.
+- MI central armament is the same class on both: 20mmx2 + 7.7mmx2.
+- no blanket Gaifu armor/self-sealing advantage is closed.
+- A6M retains endurance/maturity/deck-support advantage.
+- Gaifu likely improves time-critical/high interception through speed/climb.
+
+OPEN before CAP replay:
+- Gaifu high-speed roll/control;
+- Gaifu dive / prop-overspeed / recovery;
+- Gaifu transient acceleration;
+- worldline A6M2 climb/acceleration rebaseline;
+- actual MI CAP endurance/fuel state;
+- Gaifu ammunition-duration details.
+
+G-E/G-B/G-D cards remain sensitivity cases; G-B is no longer implicitly preferred.
