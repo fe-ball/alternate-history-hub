@@ -101,3 +101,6 @@ MI-US-HIT-PACKET	WORKING-CLOSE	HIT-PACKET	Akagi2 bombs; Kaga1 bomb+imperfect Mk1
 MI-JP-HIT-PACKET	WORKING-CLOSE	HIT-PACKET	Enterprise4 direct/Hornet3/Saratoga4 including D3A+Type91+FT mixes.	V26:53-54
 MI-FIRST-CYCLE-DAMAGE	WORKING-CLOSE	DAMAGE	JP: Akagi/Kaga/Soryu aviation MK, Hiryu/Zuikaku temporary stop, Ryujo intact. US: all three carriers battle-day aviation MK but afloat central.	V26:55-56
 NEXT-MI-RECOVERY	OPEN	CURRENT-NEXT	Returning-aircraft recovery/diversion/ditching/onboard aircraft loss/aircrew rescueを閉じる。	V26:55-56
+MI-MODEL-ROLLBACK	WORKING-CLOSE	NAVIGATION	V26:51-56 are exploratory only; current combat frontier returns to V26:49-50.	V26:57-58
+MI-PREMULTISTAGE-BASELINE	PROVISIONAL	BASELINE	US SBD70/TBD17 and JP D3A34/Type9116/FT22 are pre-multistage baselines.	V26:49-50;V26:57
+NEXT-MI-MODEL	OPEN	CURRENT-NEXT	Define phase-by-phase state transitions before revised valid releases and hits.	V26:57-58
