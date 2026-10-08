@@ -34,6 +34,12 @@
 - [V26:48 matching decision register](records/V26/48-POST-V26-MI-FIRST-STRIKE-PACKAGES-LAUNCH-TIMING-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:49 MI interception / CAP-AA / valid release](records/V26/49-POST-V26-MI-INTERCEPTION-CAP-AA-VALID-RELEASE-WORKING-HANDOFF-2026-10-08.md)
 - [V26:50 matching decision register](records/V26/50-POST-V26-MI-INTERCEPTION-CAP-AA-VALID-RELEASE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:51 MI multi-stage FT / screen suppression](records/V26/51-POST-V26-MI-MULTISTAGE-FT-SCREEN-SUPPRESSION-REAUDIT-WORKING-HANDOFF-2026-10-08.md)
+- [V26:52 matching decision register](records/V26/52-POST-V26-MI-MULTISTAGE-FT-SCREEN-SUPPRESSION-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:53 MI first-cycle direct hits](records/V26/53-POST-V26-MI-FIRST-CYCLE-DIRECT-HIT-ADJUDICATION-WORKING-HANDOFF-2026-10-08.md)
+- [V26:54 matching decision register](records/V26/54-POST-V26-MI-FIRST-CYCLE-DIRECT-HIT-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:55 MI first-cycle carrier damage state](records/V26/55-POST-V26-MI-FIRST-CYCLE-CARRIER-DAMAGE-STATE-WORKING-HANDOFF-2026-10-08.md)
+- [V26:56 matching decision register](records/V26/56-POST-V26-MI-FIRST-CYCLE-CARRIER-DAMAGE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
@@ -60,12 +66,12 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:47-50でstrike package / CAP-AA / valid releaseまでWORKING-CLOSE。main-carrier direct-hit adjudicationから再開する。**
+**V26:51-56でmulti-stage FT suppression / first-cycle hits / carrier damageまでWORKING-CLOSE。aircraft recoveryから再開する。**
 
-1. U.S. SBD/TBD hit packetを日本空母別に判定
-2. Japanese D3A/Type91/FT hit packetをEnterprise/Hornet/Saratoga別に判定
-3. hit location / fire / flooding / deck / propulsion / aviation stateを閉じる
-4. damaged-deck recovery / ditching / rescueを閉じる
+1. Japanese returning strikeをRyujo/Zuikaku/Hiryuへ回収
+2. U.S. returning strikeをMidway / emergency deck / ditchingへ配分
+3. onboard aircraft loss / aircrew rescueを閉じる
+4. preserved forceからJun4 second-cycle strike feasibilityを判定
 
 ## 構造
 
