@@ -62,6 +62,12 @@
 - [V26:76 matching fighter-force register](records/V26/76-POST-V26-APR29-A6M-ONLY-FIGHTER-FORCE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:77 A6M radio / EMI / fighter-doctrine audit](records/V26/77-POST-V26-A6M-RADIO-EMI-FORMATION-DOCTRINE-FIGHTER-DIRECTION-AUDIT-2026-10-08.md)
 - [V26:78 matching radio/doctrine register](records/V26/78-POST-V26-A6M-RADIO-FIGHTER-DIRECTION-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:79 communications-to-fighter doctrine diffusion re-audit](records/V26/79-POST-V26-COMMUNICATIONS-TO-FIGHTER-DOCTRINE-DIFFUSION-REAUDIT-1932-1942-2026-10-08.md)
+- [V26:80 matching communications/doctrine timeline register](records/V26/80-POST-V26-COMMS-FIGHTER-DOCTRINE-TIMELINE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:81 Apr29 CarDiv5 CAP command/communications state](records/V26/81-POST-V26-APR29-CARDIV5-CAP-COMMAND-COMMUNICATIONS-STATE-CARD-2026-10-08.md)
+- [V26:82 matching Apr29 CAP C2 register](records/V26/82-POST-V26-APR29-CAP-C2-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:83 communications/doctrine + Apr29 CAP reconciliation](records/V26/83-POST-V26-COMMS-DOCTRINE-APR29-CAP-RECONCILIATION-HANDOFF-2026-10-08.md)
+- [V26:84 matching reconciliation register](records/V26/84-POST-V26-COMMS-DOCTRINE-APR29-CAP-RECONCILIATION-REGISTER-2026-10-08.tsv)
 - [V26:79 communications-to-fighter-doctrine diffusion 1932-42](records/V26/79-POST-V26-JAPANESE-AVIATION-COMMS-FIGHTER-DOCTRINE-DIFFUSION-1932-1942-REAUDIT-2026-10-08.md)
 - [V26:80 matching doctrine-timeline register](records/V26/80-POST-V26-JAPANESE-AVIATION-COMMS-DOCTRINE-TIMELINE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:81 Apr29 radio-enabled A6M control / escort-card correction](records/V26/81-POST-V26-APR29-CARDIV5-RADIO-ENABLED-A6M-CONTROL-ESCORT-CARD-CORRECTION-2026-10-08.md)
@@ -92,12 +98,13 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:79-82で1932-42通信技術→fighter doctrine/controlの拡散を再構築。Apr29はA12/A15/A18 cards。戦果は未固定。**
+**V26:83-84で通信/doctrine/CAP状態を統合。Apr29戦果は未固定。**
 
-1. A12 / A15 / A18をJapanese strike vs Lexingtonへ通す
-2. 同cardsをLexington counterstrike vs CarDiv5へ通す
-3. loss / abort / valid-release bandsだけ再導出
-4. direct-hit adjudication前で止める
+1. A12 / A15 / A18 escort-defense cardsをJapanese strikeへ通す
+2. Type21/visual warning → CAP launch → COM/CMD/D discipline stateを更新
+3. 同じcardsをLexington counterstrike defenseへ通す
+4. F4F engagement、SBD/TBD cohesion/loss、AA interactionを順に処理
+5. 双方のvalid-release bandsまで閉じ、direct-hit adjudication前で止める
 
 ## 構造
 
