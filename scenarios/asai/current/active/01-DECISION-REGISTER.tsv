@@ -114,3 +114,7 @@ MI-FIGHTER-PERF-AUDIT	WORKING-CLOSE	TECH	A6M2/Gaifu comparison extended to wing/
 GAIFU-NOT-UPGRADE	WORKING-CLOSE	MODEL	Gaifu is not a universal A6M upgrade: faster/better-climbing, but much higher wing loading, overlapping power loading, same MI gun count, no closed protection bonus.	V26:69-70
 A6M-ROLE-STRENGTH	WORKING-CLOSE	MODEL	A6M likely retains sustained-turn, endurance, maturity and deck-support advantages.	V26:69-70
 FIGHTER-OPEN-BOUNDS	OPEN	CURRENT-NEXT	Close/bound Gaifu high-speed roll/dive/transient plus worldline A6M climb/accel and both CAP endurance states before replay.	V26:69-70
+GAIFU-CARRIER-RELEASE	WORKING-CLOSE	FORCE-STATE	Apr29/MI Gaifu combat-present0 central; prototype/service evaluation retained, mass carrier service not established.	V26:71-72
+GAIFU-FUEL-LOGISTICS	WORKING-CLOSE	LOGISTICS	Grade-A fuel exists nationally; blocker is shipboard segregated handling + GT maintenance/deck-cycle/unit service release, not national fuel supply.	V16;V26:71
+APR29-REOPEN-GAIFU	OPEN	CURRENT-NEXT	Apr29 CarDiv5 defense/losses/Shokaku damageをGaifu抜きで再監査。	V26:33-38;V26:71
+MI-OOB-REOPEN-GAIFU	OPEN	AFTER-APR29	Zuikaku fighters and Japanese MI carrier-air totals/Cell3 escortを再構築。	V26:37-48;V26:71
