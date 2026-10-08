@@ -1,0 +1,12 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:85
+CELL-SEMANTICS	WORKING-CLOSE	MODEL	Separate administrative shotai, immediate combat element and controlled tactical package; radio most directly enlarges the controlled package.	V26:85
+THREE-STICKINESS	WORKING-CLOSE	DOCTRINE	Three-plane shotai survives because of hierarchy/training/visual support/carrier organization, not radio alone.	Historical anchor;V26:85
+SIX-PLANE-PACKAGE	WORKING-CLOSE	DOCTRINE	Worldline likely first change is 3-plane immediate element retained but 6-plane/two-shotai controlled package becomes routine by A6M era.	V26:79-85
+NINE-AS-6PLUS3	WORKING	DOCTRINE	Nine-plane chutai can be employed as6+3 main/reserve rather than rigid nine-plane tactical mass.	V26:85
+FOUR-PLANE-EXPERIMENT	WORKING	SENSITIVITY	2+2 four-plane trials plausible 1940H2-1941 selected units, but require pair mutual-support doctrine beyond radio hardware.	Historical 204Ku anchor;V26:85
+FOUR-PLANE-CARRIER	OPEN	DOCTRINE	Universal carrier four-plane cell not central by Apr29 without explicit adoption/training gate; Apr29/MI combat may accelerate it.	V26:85
+APR29-A12-STRUCTURE	WORKING	MODEL	A12 naturally maps to two6-aircraft packages.	V26:83-85
+APR29-A15-STRUCTURE	WORKING	REFERENCE	A15 naturally maps to6+6+3: two task packages plus one free/high/reserve shotai.	V26:83-85
+APR29-A18-STRUCTURE	WORKING	MODEL	A18 maps to6+6+6 or6+6+3+3 depending escort intent.	V26:83-85
+NEXT-APR29-CELL	OPEN	CURRENT-NEXT	Use 6-plane package model in A12/A15/A18 valid-release replay; later decide whether Apr29/MI lessons trigger formal 4-plane adoption.	V26:85
