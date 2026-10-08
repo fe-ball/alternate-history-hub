@@ -544,3 +544,50 @@ Direct-hit adjudication only:
 4. recovery losses after damage.
 
 No main-carrier hit packet has yet been fixed.
+
+
+---
+
+# 2026-10-08 MI multi-stage suppression / first-cycle hits and damage
+
+Latest original sources:
+- V26:51-52 = multi-stage FT / screen-suppression re-audit
+- V26:53-54 = first-cycle direct-hit adjudication
+- V26:55-56 = first-cycle carrier damage state
+
+Key correction:
+- 22 valid FT are NOT all carrier shots.
+- 8 are screen/AA-suppression shots; 14 are carrier-directed exploitation shots.
+- Atlanta takes one FT/HE direct hit and is first-window AA/command mission-killed.
+- Portland takes a useful FT-GR/HE topside effect and loses local AA efficiency.
+- This raises later Japanese valid releases to D3A37 / Type9119 while FT remains22 total.
+
+First-cycle carrier hits:
+Japanese:
+- Akagi bomb2;
+- Kaga bomb1 + imperfect Mk13;
+- Soryu bomb1;
+- Hiryu bomb1;
+- Zuikaku bomb1;
+- Ryujo direct0.
+
+U.S.:
+- Enterprise D3A1 + Type911 + FT/HE1 + FT-IR/SAP1;
+- Hornet D3A2 + FT/SAP1;
+- Saratoga D3A1 + Type911 + FT/HE1 + FT-IR/SAP1.
+
+Damage-state central:
+- Akagi/Kaga/Soryu = first-cycle/battle-day aviation mission kills of varying severity;
+- Hiryu limited recovery expected ~11:15-11:45;
+- Zuikaku recovery expected ~10:15-10:45;
+- Ryujo operational;
+- Enterprise/Hornet/Saratoga all battle-day aviation mission-killed but afloat/self-propelled central.
+
+## CURRENT NEXT
+
+Recovery is now decisive:
+1. Japanese anti-carrier strike recovery onto Ryujo/Zuikaku/Hiryu;
+2. U.S. first-strike diversion to Midway / emergency decks / ditching;
+3. onboard aircraft losses from carrier hits;
+4. aircrew rescue;
+5. only then determine whether a second carrier strike is physically available on Jun4.
