@@ -1,0 +1,10 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:63
+FT-PRELOAD-SEPARATION	WORKING-CLOSE	MODEL	Separate pre-launch family/warhead loading from contact-time target allocation; no hindsight weapon swap.	V26:29;V26:63
+FT-LAUNCH-CENTER	WORKING	PLANNING	25 FT launch slots retained as reference, plausible22-28; exact first-strike quantity not yet combat outcome.	V26:47;V26:63
+FT-LOAD-CARDS	WORKING	TACTICS	Candidate 25-round cards: FT-D suppression5/SAP13/IR7; FT-B8/10/7; FT-S11/7/7. FT-B is reference planning center only.	V26:63
+FT-CELL-LOAD	PROVISIONAL	PLANNING	FT-B reference: Cell1 3HE/4SAP/2IR; Cell2 2/3/2; Cell3 3/3/3 with 0-2 GR/HE possible from Ryujo.	V26:31;V26:63
+FT-TARGET-CHOICE	WORKING-CLOSE	MODEL	Suppression-capable FT may still attack carrier; screen attack requires identifiable high-value node, useful timing/corridor, and positive downstream value.	V26:63
+FT-SUPPRESSION-STATES	WORKING-CLOSE	MODEL	Use SUP-0..SUP-3 from no effect through node mission kill; no automatic one-hit AA knockout.	V26:63
+FT-DOWNSTREAM	WORKING-CLOSE	MODEL	Update AA/director/screen/maneuver/CAP/smoke effects per bearing and timing; no universal percentage bonus.	V26:63
+NEXT-COMBINED-CARDS	OPEN	CURRENT-NEXT	Combine Gaifu allocation cards with FT load cards against actual attack arrival order before any valid-release recalculation.	V26:61;V26:63
