@@ -355,3 +355,21 @@ It does not by itself create new fighter formation doctrine, coordinated formati
 Air-control improvement is retained at warning/reporting/plotting/readiness/local handoff/coarse vector level. Precision carrier GCI remains absent.
 
 Apr29 replay must use this narrower interpretation.
+
+
+## 2026-10-08 communications-to-doctrine re-audit
+
+V26:79-82 revise the communications interpretation again.
+
+The earlier hardware-only correction was too restrictive.
+The worldline does not jump from better radios to modern doctrine, but five-plus years of usable communications, China combat and training feedback plausibly alter fighter procedures by spring 1942.
+
+Current fighter-control state:
+- formal three-plane shotai remains;
+- leader-level voice is normally usable when serviceable;
+- split/reform/high-cover/attack-sequence/regroup procedures are more mature;
+- chutai/shotai task allocation and carrier group-level sector/relief control are routine working concepts;
+- Type21 feeds this existing control loop;
+- no precision altitude, continuous individual tracking, IFF, modern CIC or mature GCI.
+
+Apr29 combat results remain OPEN.
