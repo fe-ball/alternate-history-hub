@@ -42,6 +42,14 @@
 - [V26:56 matching decision register](records/V26/56-POST-V26-MI-FIRST-CYCLE-CARRIER-DAMAGE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:57 rollback](records/V26/57-POST-V26-MI-COMBAT-MODEL-ROLLBACK-REOPEN-HANDOFF-2026-10-08.md)
 - [V26:58 rollback register](records/V26/58-POST-V26-MI-COMBAT-MODEL-ROLLBACK-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:59 heterogeneous CAP / multistage attack model](records/V26/59-POST-V26-MI-MULTISTAGE-CAP-ATTACK-STATE-MODEL-WORKING-HANDOFF-2026-10-08.md)
+- [V26:60 matching model register](records/V26/60-POST-V26-MI-MULTISTAGE-CAP-ATTACK-MODEL-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:61 Gaifu role allocation](records/V26/61-POST-V26-MI-GAIFU-ROLE-ALLOCATION-HETEROGENEOUS-CAP-WORKING-HANDOFF-2026-10-08.md)
+- [V26:62 matching role register](records/V26/62-POST-V26-MI-GAIFU-ROLE-ALLOCATION-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:63 FT preload / target allocation](records/V26/63-POST-V26-MI-FT-PRELOAD-TARGET-ALLOCATION-MODEL-WORKING-HANDOFF-2026-10-08.md)
+- [V26:64 matching FT model register](records/V26/64-POST-V26-MI-FT-PRELOAD-TARGET-ALLOCATION-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:65 Gaifu technical grounding / CAP correction](records/V26/65-POST-V26-MI-GAIFU-TECHNICAL-GROUNDING-CAP-CORRECTION-WORKING-HANDOFF-2026-10-08.md)
+- [V26:66 matching technical register](records/V26/66-POST-V26-MI-GAIFU-TECHNICAL-GROUNDING-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
@@ -68,12 +76,13 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:57-58でV26:51-56を探索例へ降格。現行frontierはV26:49-50。**
+**V26:59-66でheterogeneous CAP / FT multistage modelとGaifu technical groundingまでWORKING-CLOSE。戦果は未固定。**
 
-1. multi-stage state modelを定義
-2. target allocationを再評価
-3. valid releaseを再導出
-4. その後にresult adjudication
+1. Gaifu G-E / G-B / G-D role cardsを実際のU.S. arrival sequenceへ通す
+2. Japanese CAP state更新後にSBD/TBD release bandsを再導出
+3. FT-D / FT-B / FT-S preload-target cardsをupdated U.S. defenseへ通す
+4. D3A / Type91 / FT release bandsを再導出
+5. その後にのみdirect hit adjudication
 
 ## 構造
 
