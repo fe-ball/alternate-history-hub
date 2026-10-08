@@ -8,7 +8,7 @@ scenarios:
     authority_version: "V26"
     canonical_clock: "1941-12-07T14:30:00-10:30"
     clock_state: "canonical-anchor-only; latest-working-continuation-and-local-planning-clocks-are-separate"
-    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. V26:93-94 restart the Enterprise carrier-air battle from precombat state under the mature-radio/layered-command model. Retain contact/track/launch/radar geometry but reopen all fighter losses, attack-aircraft delay/abort, valid releases, hits and damage. Japanese center is54 aircraft =18A6M/18D3A/18B5N; Enterprise F4F serviceable15-18 center17 with10-12 main outer intercept. Current next: resolve the ~14:04-14:10 outer F4F interception and resulting COM/A-CMD/SYNC degradation. V26 canon clock remains 1941-12-07 14:30 HST."
+    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. V26:93-94 close the session at the Enterprise restart gate. Neither the old72-aircraft nor later54-aircraft anti-Enterprise package is fixed. Current next: reconstruct post-Pearl Kido Butai physical/serviceable/ready/recovery state, re-decide strike commitment while Enterprise is tracked and Lexington remains unlocated, then replay mature late-1941 radio-assisted fighter/strike command and SYNC S1-S4 to valid-release bands only, stopping before hits. V26 canon clock remains 1941-12-07 14:30 HST."
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/00-READ-FIRST-GENERIC.md"
@@ -19,7 +19,7 @@ scenarios:
     canonical_source: "scenarios/asai/records/V26/00-SESSION-HANDOFF-V26.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-Enterprise-restart-through-V26-94-plus-complete-v22b-source-snapshot"
+    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-session-close-enterprise-restart-through-V26-94-plus-complete-v22b-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository; source-record-trees-preserved-during-navigation-restructure"
 
   keisanki-ibun:
