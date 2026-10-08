@@ -70,6 +70,8 @@
 - [V26:84 matching reconciliation register](records/V26/84-POST-V26-COMMS-DOCTRINE-APR29-CAP-RECONCILIATION-REGISTER-2026-10-08.tsv)
 - [V26:85 fighter cell-size / shotai-chutai evolution re-audit](records/V26/85-POST-V26-FIGHTER-CELL-SIZE-SHOTAI-CHUTAI-EVOLUTION-REAUDIT-1935-1942-2026-10-08.md)
 - [V26:86 matching fighter cell-size register](records/V26/86-POST-V26-FIGHTER-CELL-SIZE-EVOLUTION-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:87 aviation command architecture / airborne-groundside authority](records/V26/87-POST-V26-AVIATION-COMMAND-ARCHITECTURE-AIRBORNE-GROUNDSIDE-AUTHORITY-REAUDIT-1935-1942-2026-10-08.md)
+- [V26:88 matching command architecture register](records/V26/88-POST-V26-AVIATION-COMMAND-ARCHITECTURE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:79 communications-to-fighter-doctrine diffusion 1932-42](records/V26/79-POST-V26-JAPANESE-AVIATION-COMMS-FIGHTER-DOCTRINE-DIFFUSION-1932-1942-REAUDIT-2026-10-08.md)
 - [V26:80 matching doctrine-timeline register](records/V26/80-POST-V26-JAPANESE-AVIATION-COMMS-DOCTRINE-TIMELINE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:81 Apr29 radio-enabled A6M control / escort-card correction](records/V26/81-POST-V26-APR29-CARDIV5-RADIO-ENABLED-A6M-CONTROL-ESCORT-CARD-CORRECTION-2026-10-08.md)
@@ -100,13 +102,13 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:83-86で通信/doctrine/CAPとfighter cell-sizeを統合。Apr29戦果は未固定。**
+**V26:83-88で通信/doctrine/cell-size/airborne-vs-below command architectureまで統合。Apr29戦果は未固定。**
 
 1. A12 / A15 / A18を6機controlled package前提でJapanese strikeへ通す
-2. Type21/visual warning → CAP launch → COM/CMD/D discipline stateを更新
-3. 同じcardsをLexington counterstrike defenseへ通す
-4. F4F engagement、SBD/TBD cohesion/loss、AA interactionを順に処理
-5. 双方のvalid-release bandsまで閉じ、direct-hit adjudication前で止める
+2. Below-side B-CMD / airborne A-CMD / COM-CMD-D / handoff latencyを状態更新
+3. Type21/visual warning → CAP launch → F4F engagement → SBD/TBD cohesion/loss → AA interaction
+4. 双方のvalid-release bandsまで閉じる
+5. direct-hit adjudication前で止める
 
 ## 構造
 
