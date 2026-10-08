@@ -73,6 +73,7 @@ Why this becomes the first major re-audit:
 - U.S. shipboard warning / fighter-direction capability matters;
 - Japanese escort must support multiple D3A / Type91 / FT axes;
 - the old replay largely treated improved Zero properties and aggregate fighter losses, not the mature 1937-41 radio-enabled command hierarchy now reconstructed.
+- FT+Type91 mixed doctrine itself is **not** reopened as an Enterprise-era discovery: V26:17/V26:29 already place FT-first, Type91-first, multi-axis and suppression/exploitation study in the prewar exercise period. What is reopened is how well that pre-existing doctrine is executed under live F4F/CAP/AA pressure.
 
 New questions:
 1. How are the three 6-aircraft A6M packages assigned?
