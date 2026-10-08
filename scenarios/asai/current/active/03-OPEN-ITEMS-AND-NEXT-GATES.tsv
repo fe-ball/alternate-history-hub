@@ -1,5 +1,5 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:79-82で1932-42 communications->fighter doctrine diffusionとApr29 CarDiv5 group-level CAP C2を再定義。A14/A16/A18をwarning->CAP->COM/CMD/D->F4F/SBD/TBD->AAへ通しvalid-release bandsまで再演する。
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:83-84で通信/doctrine/CAP重複を統合。Apr29はA12/A15/A18（A15 reference）をCOM/CMD/D + Type21/visual warning + F4F/SBD/TBD + AAへ通し、valid-release bandsまで再演する。
 1	GAIFU-CARRIER-SERVICE	WORKING-CLOSE	ROLLED-FORWARD	Gaifu Apr29/MI combat-present0 central。Worldline A6Mが成熟主力。	V26:71-76
 2	RADIO-HARDWARE	WORKING-CLOSE	ROLLED-FORWARD	1932-37 EMI/shielding/bonding/filtering/acceptanceで既存無線の可用性・可聴性改善。	V7;V26:79
 3	RADIO-PROCEDURE	WORKING-CLOSE	ROLLED-FORWARD	1935-41 check-in/contact/rejoin/abort/escort/CAP relief等のprocedureが継続戦闘で制度化。	V26:79-80
@@ -17,3 +17,5 @@ priority	id	source_status	navigation_role	position	sources
 15	V26-49-56	PROVISIONAL/SAMPLE	DO-NOT-ROLL-FORWARD	旧MI combat numerical outputs/hits/damageは現行結果として使用禁止。	V26:49-58;V26:71
 4	COMMS-DOCTRINE-TIMELINE	WORKING-CLOSE	MODEL	1932-42 radio/EMI->procedure->training->combat feedbackでshotai/chutai leader control、sector/altitude/relief、split/reform/high-coverが漸進成熟。二機編隊全面化やprecision GCIはなし。	V26:79-80
 5	APR29-CAP-C2	WORKING-CLOSE	MODEL	COM2/CMD2 normal、CMD3 pre/early-contact possible、D3->D0 discipline transition。Controllerはgroup statusをleader reportsで更新。	V26:81-82
+4	COMMS-CAP-RECONCILIATION	WORKING-CLOSE	AUTHORITY	V26:83-84がduplicate V26:79-82を統合し、three-plane shotai + radio-enabled procedural evolution + group-level CAP C2を現行化。	V26:83-84
+5	APR29-A12-A15-A18	WORKING	CURRENT-NEXT	Escort cardsはA12/A15/A18、A15 reference。旧A14/A16 tactical cardsはsuperseded。	V26:81;V26:83-84
