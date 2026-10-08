@@ -916,3 +916,29 @@ Apr29 mapping:
 - A18 = 6+6+6 or6+6+3+3.
 
 No Apr29 combat result is closed.
+
+
+---
+
+# 2026-10-08 aviation command architecture
+
+V26:87-88 add the command layer above the communications/cell model.
+
+Four functions:
+1. operational mission command below;
+2. ship/base air-operations control below;
+3. airborne tactical command;
+4. shared fighter-direction control.
+
+Central rule:
+- below side sets objective, priority, reserve, broad route/vector and launch/recovery constraints;
+- airborne strike/CAP leaders own local geometry and execution after visual contact;
+- CAP remains under below-side influence longer than a distant strike because it operates near the defended force;
+- exact-geometry micromanagement from the ship is rejected as latency-prone.
+
+State model:
+- B-CMD0-3 for below-side picture/control;
+- A-CMD0-3 for airborne command coherence;
+- explicit handoff failures/latency between mission->air leader, plot->leader, leader->package, package->shotai and air status/BDA->below.
+
+No combat outcome is closed.
