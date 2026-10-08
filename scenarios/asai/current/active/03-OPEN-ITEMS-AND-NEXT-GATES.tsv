@@ -1,5 +1,5 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:73-76でworldline A6M homogeneous CAPとApr29 A6M-only fighter cardsを閉じた。A14/A16/A18を双方のstrikeへ通してvalid-release bandsまで再導出し、hits前で止める。	V26:73-76
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:77-78でA6M通信利得をEMI/可聴性改善へ限定し、編隊戦術改革とprecision GCIを否定。A14/A16/A18をこの補正込みでvalid-release bandsまで再演する。
 1	GAIFU-CARRIER-SERVICE	WORKING-CLOSE	ROLLED-FORWARD	Gaifu Apr29/MI combat-present0 central。National Grade-A fuelは存在するがcarrier unit integration未閉鎖。	V26:71-72
 2	APR29-A6M-POOL	WORKING	ROLLED-FORWARD	A6M serviceable30-34 center32、ready29-32。Pilot shortageよりairframe/serviceabilityがcentral limiter。	V26:75-76
 3	APR29-A16	WORKING	REFERENCE	A16 balanced reference: escort16 / defensive remainder16 at pool32; D3A27/B5N27 retained; strike total70。	V26:75-76
@@ -15,3 +15,4 @@ priority	id	source_status	navigation_role	position	sources
 13	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOF厳密CLOSE。	V26:21#1
 14	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	FT fuel type/load/flow/residual fuel/thermal stateを閉じる。	V26:21#1-2
 15	FT-FUSE-PENETRATION	OPEN	PARALLEL-TECH	SAP fuse delay/penetration/structural energy-loss tableを閉じる。	V26:21#2
+4	A6M-RADIO-DOCTRINE-AUDIT	WORKING-CLOSE	MODEL	GT由来のspark/EMI対策は既存無線の可聴性/信頼性を改善するが、fighter formation/coordinated firing doctrineは未改変。Air-controlはwarning/plot/readiness/coarse vectorまで。	V26:77-78
