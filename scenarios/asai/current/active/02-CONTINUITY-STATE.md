@@ -389,3 +389,17 @@ The worldline does not import a foreign fighter doctrine wholesale, but reliable
 Type21 improves an existing fighter-control chain rather than creating it.
 
 Apr29 escort sensitivity is now12/15/18 fighters, not14/16/18.
+
+
+## 2026-10-08 V26:83-84 communications/CAP reconciliation
+
+Current authority for the communications/doctrine line is V26:83-84.
+
+It reconciles the duplicate V26:79-82 pairs and selects:
+- three-plane shotai retained;
+- real 1937-42 radio-enabled procedural/tactical evolution;
+- group-level carrier CAP control without precision GCI;
+- Apr29 A6M-only pool30-34 center32;
+- shotai-compatible escort cards A12/A15/A18, with A15 reference.
+
+No Apr29 combat outcome is closed.
