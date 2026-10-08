@@ -115,6 +115,59 @@ The former conversation-only **42 physical / 32 serviceable**, which counted 18 
 6. Actual result of 1943 Arakan/Chittagong campaign: [21] explicitly leaves Chittagong fall/hold OPEN; the coastal forward network depends on a successful Cox branch.
 7. Quantified Enterprise-to-E16A development delay reduction or operational ready-rate gain (not free).
 
+## 7. Follow-up qualification: can two E16A launch from Hyūga by December 1943?
+
+> **Status:** CLOSED feasibility and safety rules / PROVISIONAL accelerated production-work-up path / OPEN actual signoff. This supersedes any reading of §2 in which two physically embarked Zuiun automatically equal two ship-catapult-qualified aircraft.
+>
+> **Historical crosscheck:** E16A first flew in May 1942 and was accepted in August 1943, but **historical Aichi series production began January 1944**; documented shipboard E16A catapult training on HYŪGA occurred **23 June 1944**, with 634th Air Group reaching operational organization in 1944. Consequently December 1943 R3 requires specifically accelerated *pilot/pre-series airframes and training*, NOT simply using historical deliveries early.
+
+### 7.1 Hardware verdict — physically capable, not automatically safe at any load
+
+- Hyūga has 2 × ~25 m Type 1 No. 2 Model 11 aircraft catapults (~5-ton aircraft class), 6-ton elevator, approx. 4-ton recovery derrick, aircraft trolleys / rails and hangar. This class was engineered for E16A deployment; unlike standard Rufe/Kyōfū water fighters, E16A catapult compatibility is part of its design premise.
+- Historical E16A approximate empty mass **2.94–2.95t**, maximum all-up mass **4.55t**. The latter fits within the nominal ~5t catapult ceiling but **does not fit nominal 4t crane capacity**. A qualified launch is **not** automatically a qualified full-fuel return/recovery.
+- December first mission should use **reconnaissance configuration without 250kg bomb** and restricted fuel/load determined by tested ship catapult performance, provisionally **3.8–4.1t all-up**. This is an R3 test target, NOT a historically documented certified weight. Do not assert that particular departure weights automatically meet takeoff speed, float-attachment forces, or weather limits.
+- Acceptance must prove float strut / trolley-saddle attachment strength, acceleration load, ignition and float clearance, fueled/armed aircraft securing, launch after ship rolling, aircraft spotting and fault handling. Two installed catapults are not proof of high simultaneous sortie throughput.
+- **Default operational recovery:** after Hyūga launches an E16A off Bengal, land at an accepted shore-water base (Akyab or equivalent proven sheltered recovery). Onboard derrick pickup is an exceptional calm/sheltered-water act, especially after fuel expenditure reduces gross weight; **never assume crane recovery under fire, rough seas or during evasive sailing**.
+- The initial mission is spotting / fast contact relay, **not** a guaranteed dive-bombing strike. Dive-brake/floats qualification and bombing release get separate flight-test acceptance.
+
+### 7.2 Production/crew calendar — the paid R3 divergence
+
+Only the following **conditional** track makes two December airframes defensible. It uses prior [20] §8's 1943 summer evaluation and autumn limited-operational issue, but now explicitly spends manufacturing and training capacity:
+
+| Date band (R3 forward candidate) | Physical program deliverable | Gate |
+|---|---|---|
+| 1942H2–1943H1 | E16A airframe/brake/float test plus limited SBD comparison and Japanese bench testing | **CLOSED method**, actual completion OPEN |
+| By 1943 Aug–Sep | restricted type acceptance for light reconnaissance; production engineering freezes qualified changes | PROVISIONAL |
+| By 1943 Sep | IJN orders a **small 4-airframe pre-series/advanced pilot batch** instead of waiting for full 1944 serial run; recorded Aichi tooling, Kinsei engines, float sets, instruments, trained mechanics | PROVISIONAL; **must debit** Aichi/other IJN aviation work |
+| 1943 Oct–Nov | 1 test/standby aircraft retained at domestic center, 1 domestic/tender backup, **2 committed to Hyūga mission** only if physically completed; pilots first work up from shore and with established E13A/F1M shipboard crews | PROVISIONAL |
+| By late Nov/early Dec | ship-specific launch trial at restrained mass; flight crew and deck/radio/medical/rescue support qualified; onward passage to Singapore/Andaman/Bengal logged | **HARD GO / NO-GO** |
+| 1943 Dec H-hour | 2 physical E16A on Hyūga only if delivered; **0–1 catapult-qualified/mission-ready in central early-work-up state**; second aircraft held as maintenance/replacement or follows when individually certified | CONDITIONAL operational central |
+
+**Important:** Four pre-series aircraft are NOT automatically produced by this appendix. They are a specific minimum industrial *commitment proposal*. If the R3 manufacturing commitment is not established, historical deliveries cannot support the December wing and both E16A entries must be deleted from Hyūga's actual physical manifest.
+
+### 7.3 Clear decision, contingency, and counting
+
+**CLOSED physical feasibility:** A correctly outfitted E16A can be catapulted from Ise-class hardware. There is historical shipboard precedent in June 1944, and no need to invent an aircraft type.
+
+**CLOSED present limits:** No certified 4.55t launch *and* full-load shipboard crane recovery; no automatic two-aircraft combat launch cycle; no catapult fighter CAP; no extra 1943 serial E16A without factory/trial budget.
+
+**PROVISIONAL December working central:** Given the explicit pilot batch and early trials, Hyūga carries **two physical E16A with one first-mission launch-qualified**, reconnaissance priority, recovery at Akyab/proven seaplane base. A second launch is an upside case after an independent certification and serviceable check, **not built into required H-hour ISR coverage**.
+
+**If tests, airframes, crew, or convoy-timing gate fail:** Hyūga sorties without combat-qualified E16A. The ship's total may drop from 14 to **12 physical**, unless replacement E13A/F1M have named national allocations and embarked physically. It still operates its older shipboard E13A/F1M scouts and survives as an aviation-reconnaissance battleship. Do not erase the canceled E16A hulls: leave them in factory / trial / base accounts as applicable.
+
+**Ledger movement:** If an E16A launched from Hyūga lands and stays at Akyab, move its individual inventory record from *Hyūga embarked* to *Akyab / maintenance*; do not then count the same hull in both dedicated coastal 24 and ship's 14. Serviceability and launch-qualification flags are distinct.
+
+**Remaining OPEN:** precise R3 airframe acceptance tests, exact date of Aichi pre-series order/completion, catapult strain and float support records, shipboard drill, crew/ship transport timeline, Bengal weather/tidal acceptance, and whether the Japanese command spends this resource on Bengal versus Pacific testing.
+
+### 7.4 External historical audit references
+
+- John Rickard, *Aichi E16A Zuiun*, https://www.historyofwar.org/articles/weapons_aichi_E16A.html — adopted August 1943, series deliveries Aichi Jan 1944 onward, max weight ~10,052 lb.
+- Pacific Wrecks, *E16A technical*, https://pacificwrecks.com/aircraft/e16/tech.html — early stability/dive-brake buffet and 15-month test chronology.
+- Tully et al., *CombinedFleet Hyuga TROM*, https://www.combinedfleet.com/Hyuga.htm — battleship type 1 catapults, 6t elevator, 4t derrick and 1944 air operations.
+- Japanese photo captions translated from Bunrindō FAOW 47, https://arawasi-wildeagles.blogspot.com/2012/12/aichi-e16a-zuiun-paul-pt-1-translations.html — image of E16A departing Hyūga catapult 23 June 1944 and 634th flight-trial context.
+- https://www.combinedfleet.com/Ise.htm — 23 June 1944 first E16A catapult exercises on the Ise-class in Hiroshima Bay.
+
+
 ## Sources and continuity
 
 - [15] §18–23: Enterprise recovery of manuals/SBD remains, F4F folding, maintenance and engineering reproduction gates.
