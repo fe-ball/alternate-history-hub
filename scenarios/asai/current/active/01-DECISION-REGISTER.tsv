@@ -110,3 +110,7 @@ FT-LOAD-CARDS	WORKING	TACTICS	FT-D/FT-B/FT-S preload cards separate physical loa
 GAIFU-TECH-CORRECTION	WORKING-CLOSE	TECH	Gaifu ~575-600 normal/~595-615 short, 6km6.0-6.8min normal, not Sakufu670-710; mixed-CAP gain reinterpreted accordingly.	V26:65-66
 NEXT-CAP-REPLAY	OPEN	CURRENT-NEXT	Run Gaifu allocation cards against actual US arrival sequence and derive revised SBD/TBD release bands.	V26:59-66
 NEXT-FT-REPLAY	OPEN	AFTER-CAP	Run FT load/target cards against updated US defense state and derive revised D3A/Type91/FT release bands.	V26:59-66
+MI-FIGHTER-PERF-AUDIT	WORKING-CLOSE	TECH	A6M2/Gaifu comparison extended to wing/power loading, climb, turn, roll/dive, armament, protection, endurance, carrier ops.	V26:69-70
+GAIFU-NOT-UPGRADE	WORKING-CLOSE	MODEL	Gaifu is not a universal A6M upgrade: faster/better-climbing, but much higher wing loading, overlapping power loading, same MI gun count, no closed protection bonus.	V26:69-70
+A6M-ROLE-STRENGTH	WORKING-CLOSE	MODEL	A6M likely retains sustained-turn, endurance, maturity and deck-support advantages.	V26:69-70
+FIGHTER-OPEN-BOUNDS	OPEN	CURRENT-NEXT	Close/bound Gaifu high-speed roll/dive/transient plus worldline A6M climb/accel and both CAP endurance states before replay.	V26:69-70
