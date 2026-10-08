@@ -969,3 +969,24 @@ Pearl main waves are mostly an explanation correction; Force Z is mainly an atta
 ## CURRENT NEXT
 
 Re-run Dec7 Enterprise to valid-release bands only. No new hit packet until fighter/C2 closure.
+
+
+---
+
+# 2026-10-08 pre-MO combat re-audit map
+
+V26:89-90 identify which earlier battles must be revisited after the communications / command / cell-size re-audit.
+
+Current interpretation:
+- Enterprise: first clear carrier-fighter peer contest.
+- Wake/Saratoga: first true two-way carrier exchange.
+- Feb20 Lexington: radar/F4F vs land-based bomber interception; not an A6M-vs-F4F peer case.
+- Apr5 Force A: high-priority carrier-CAP/escort re-audit.
+- Apr9 Yorktown: very high-priority direct MO upstream re-audit.
+- Apr29: already open.
+
+Preferred repair sequence:
+Enterprise -> Wake/Saratoga -> Feb20 check -> Apr5 Force A -> Apr9 Yorktown -> Apr29.
+
+At each battle:
+preserve robust search/contact/force-state inputs and reopen only fighter-command-dependent loss/abort/valid-release and dependent hit packets.
