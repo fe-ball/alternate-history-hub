@@ -1,0 +1,11 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:83
+COMMS-DOCTRINE-RECONCILE	WORKING-CLOSE	AUTHORITY	Use V26:83 to reconcile duplicate V26:79-82 pairs; reliable radio + continuous war causes procedural/tactical evolution without modern GCI.	V26:77-83
+TIMELINE-1932-42	WORKING-CLOSE	TIMELINE	Hardware1932-34 -> procedure1935-37 -> tactical adaptation1938-40 -> training/carrier control1940-41 -> radar-assisted coarse C2 spring1942.	V26:79-83
+SHOTAI-STRUCTURE	WORKING-CLOSE	DOCTRINE	Three-plane shotai/nine-plane chutai retained; leader-level split/reform/cover/reserve/attack sequencing mature.	V26:79-83
+COM-CMD-D	WORKING-CLOSE	MODEL	COM2 normal when serviceable; CMD2 normal/CMD3 pre-early contact possible; D3-D0 discipline states track combat fragmentation.	V26:79-83
+APR29-A6M-POOL	WORKING	FORCE-STATE	A6M serviceable30-34 center32, ready29-32 class; Gaifu0 central.	V26:71-83
+ESCORT-CARDS	WORKING-CLOSE	TACTICS	Use shotai-compatible A12/A15/A18; A15 reference. V26:75-76 A14/A16 tactical cards superseded.	V26:81;V26:83
+A15-CARD	WORKING	REFERENCE	A6M15 escort + D3A27 + B5N27 =69; ~17 A6M serviceable remain at pool32 for CAP/relief/turnaround.	V26:83
+CAP-WARNING-BAND	WORKING	MODEL	A15 defense planning: 6-9 airborne +3-6 deck-ready possible; exact state depends on warning timing and is replayed, not averaged.	V26:81;V26:83
+NEXT-APR29-VALID	OPEN	CURRENT-NEXT	Run A12/A15/A18 both directions through C2/air combat/AA to valid-release bands only; stop before hits.	V26:83
