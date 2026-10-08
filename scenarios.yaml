@@ -8,7 +8,7 @@ scenarios:
     authority_version: "V26"
     canonical_clock: "1941-12-07T14:30:00-10:30"
     clock_state: "canonical-anchor-only; latest-working-continuation-and-local-planning-clocks-are-separate"
-    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. V26:51-56 were exploratory combat samples and are not current outcomes. V26:57-58 roll the MI combat frontier back to V26:49-50 valid-release closure. Current next: define the multi-stage attack state-transition model, including screen/AA targeting, maneuver, CAP reaction and later-stage exposure; only then revise valid releases and adjudicate hits. V26 canon clock remains 1941-12-07 14:30 HST."
+    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. V26:59-66 define the heterogeneous-CAP and multistage-attack model, reopen Gaifu escort/CAP allocation, define FT preload/target cards, and technically ground Gaifu at ~575-600km/h normal / ~595-615 short rather than Sakufu-class speeds. Robust combat state stops at V26:47-48 launch/approach; V26:49-50 numerical outcomes are provisional baselines and V26:51-56 exploratory only. Current next: run Gaifu role cards against U.S. arrival waves, then FT cards against updated defense, stopping before hits. V26 canon clock remains 1941-12-07 14:30 HST."
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/00-READ-FIRST-GENERIC.md"
@@ -19,7 +19,7 @@ scenarios:
     canonical_source: "scenarios/asai/records/V26/00-SESSION-HANDOFF-V26.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-MI-model-rollback-through-V26-58-plus-complete-v22b-source-snapshot"
+    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-MI-combat-model-through-V26-66-plus-complete-v22b-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository; source-record-trees-preserved-during-navigation-restructure"
 
   keisanki-ibun:
