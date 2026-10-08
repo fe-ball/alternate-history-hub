@@ -1,0 +1,10 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST. First-cycle direct hits are replay-local WORKING.	V26:00;V26:53
+US-SBD-HITS	WORKING-CLOSE	HIT-PACKET	70 valid SBD releases -> 6 direct carrier bomb hits central: Akagi2/Kaga1/Soryu1/Hiryu1/Zuikaku1/Ryujo0.	V26:49;V26:53
+US-TBD-HITS	WORKING	HIT-PACKET	17 valid TBD runs -> Kaga one imperfect but real Mk13 damaging hit central; one additional dud/non-effective contact tail.	V26:49;V26:53
+ENTERPRISE-HITS	WORKING-CLOSE	HIT-PACKET	Enterprise: D3A1 + Type911 + FT/HE1 + FT-IR/SAP1 direct central.	V26:51;V26:53
+HORNET-HITS	WORKING-CLOSE	HIT-PACKET	Hornet: D3A2 + standard FT/SAP1 direct central; Type91 hit0 central.	V26:51;V26:53
+SARATOGA-HITS	WORKING-CLOSE	HIT-PACKET	Saratoga: D3A1 + Type911 + FT/HE1 + FT-IR/SAP1 direct central.	V26:51;V26:53
+US-SCREEN-HITS	WORKING	HIT-PACKET	Atlanta FT/HE1; Portland FT-GR/HE useful direct/very-close topside effect. These are corridor-suppression effects, not carrier hits.	V26:51;V26:53
+FT-CARRIER-HITS	WORKING-CLOSE	HIT-PACKET	14 carrier-directed valid FT -> 5 direct carrier hits central. 8 other valid FT were screen-suppression shots.	V26:51;V26:53
+NEXT-DAMAGE	OPEN	CURRENT-NEXT	Each hit packetをlocation/fire/flooding/deck/propulsion/aviation stateへ展開。	V26:53
