@@ -18,9 +18,9 @@
     "Japan_China": "WAR-CONTINUES"
   },
   "working_history": {
-    "latest_campaign_close": "Replay-local MI combat model is defined through V26:59-66. Robust combat state stops at V26:47-48 launch/approach. V26:49-50 numerical air-loss/valid-release outputs are provisional comparison baselines, and V26:51-56 remain exploratory samples only. Gaifu is technically grounded at ~575-600 km/h normal / ~595-615 short-rating class, not the A8N Sakufu 670-710 km/h regime. Exact Gaifu escort/CAP split and FT screen/carrier allocation are model variables, not outcomes.",
+    "latest_campaign_close": "Replay-local MI combat model is defined through V26:68. Robust combat state stops at V26:47-48 launch/approach. V26:49-50 numerical air-loss/valid-release outputs remain provisional baselines; V26:51-56 remain exploratory only. V26:67-68 add a mandatory actor-knowledge split: true A6M/Gaifu position/energy/fuel is not continuously known to Japanese controllers. Type21+improved radios permit coarse to temporarily useful group vectoring, not mature GCI.",
     "status": "WORKING",
-    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38. Japanese MI carrier deployment timing is carried in V26:39-40; U.S. MI carrier timing in V26:41-42; final pre-combat MI OOB in V26:43-44. MI Jun4 starting geometry, search allocation and first carrier contacts are carried in V26:45-46. MI strike-package and launch timing are carried in V26:47-48; interception/CAP-AA and valid-release closure in V26:49-50. MI multi-stage FT screen suppression is carried in V26:51-52; first-cycle direct hits in V26:53-54; immediate carrier damage states in V26:55-56. V26:57-58 roll the MI replay back to V26:49-50 and demote V26:51-56 to exploratory samples. Heterogeneous CAP / multistage attack model is carried in V26:59-60; Gaifu role cards V26:61-62; FT preload/target model V26:63-64; Gaifu technical grounding V26:65-66.",
+    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38. Japanese MI carrier deployment timing is carried in V26:39-40; U.S. MI carrier timing in V26:41-42; final pre-combat MI OOB in V26:43-44. MI Jun4 starting geometry, search allocation and first carrier contacts are carried in V26:45-46. MI strike-package and launch timing are carried in V26:47-48; interception/CAP-AA and valid-release closure in V26:49-50. MI multi-stage FT screen suppression is carried in V26:51-52; first-cycle direct hits in V26:53-54; immediate carrier damage states in V26:55-56. V26:57-58 roll the MI replay back to V26:49-50 and demote V26:51-56 to exploratory samples. Heterogeneous CAP / multistage attack model is carried in V26:59-60; Gaifu role cards V26:61-62; FT preload/target model V26:63-64; Gaifu technical grounding V26:65-66. CAP observability/control friction and TRUE_STATE versus CONTROLLER_ESTIMATE are carried in V26:67-68.",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
@@ -107,10 +107,11 @@
       "MI combat state-transition model defined V26:59-60",
       "Gaifu heterogeneous-CAP role allocation reopened V26:61-62",
       "FT preload versus contact-target choice model V26:63-64",
-      "Gaifu technical performance grounded/corrected V26:65-66"
+      "Gaifu technical performance grounded/corrected V26:65-66",
+      "CAP true-state vs controller-estimate / observability correction V26:67-68"
     ],
-    "next_gate": "Run Gaifu G-E/G-B/G-D role cards against the actual U.S. carrier-strike arrival sequence to derive Japanese CAP state changes and revised U.S. SBD/TBD release bands; then run FT-D/FT-B/FT-S against the updated U.S. defense state. Stop before direct hits. See V26:59-66.",
-    "next_gate_source": "V26:59-66",
+    "next_gate": "Run Gaifu G-E/G-B/G-D role cards against the actual U.S. carrier-strike arrival sequence using separate TRUE_STATE and CONTROLLER_ESTIMATE with C0-C3 confidence/stale-track friction; then derive revised U.S. SBD/TBD release bands. See V26:59-68.",
+    "next_gate_source": "V26:59-68",
     "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; combat outcomes beyond launch/approach remain reopened. V26:49-50 numerical outcomes are provisional baselines; V26:51-56 are exploratory only. V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
@@ -362,6 +363,12 @@
     },
     "V26:66": {
       "path": "records/V26/66-POST-V26-MI-GAIFU-TECHNICAL-GROUNDING-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+    },
+    "V26:67": {
+      "path": "records/V26/67-POST-V26-MI-CAP-OBSERVABILITY-CONTROL-FRICTION-WORKING-HANDOFF-2026-10-08.md"
+    },
+    "V26:68": {
+      "path": "records/V26/68-POST-V26-MI-CAP-OBSERVABILITY-WORKING-DECISION-REGISTER-2026-10-08.tsv"
     }
   },
   "lineage_sources": [
@@ -397,5 +404,5 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-MI-combat-model-through-V26-66"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-MI-cap-control-model-through-V26-68"
 }
