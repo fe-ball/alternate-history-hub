@@ -1,0 +1,11 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:81
+APR29-CAP-CONTROL	WORKING-CLOSE	MODEL	CarDiv5 uses distributed radar/lookout->plot/air-control->shotai/chutai-leader voice control; no modern FDO/GCI claim.	V26:25;V26:79;V26:81
+A6M-RADIO-FIT	WORKING-CLOSE	FORCE-STATE	First-line CarDiv5 A6M radio fit treated as standard operational equipment; COM2 normal when serviceable, but faults/congestion remain.	V7;V26:79;V26:81
+CAP-ROLES	WORKING-CLOSE	MODEL	A6M defense differentiated into HIGH/MID/LOW/READY-RELIEF by task/fuel/readiness; roles are not permanent clean layers.	V26:81
+CAP-CONTROLLER-EST	WORKING-CLOSE	MODEL	Controller can maintain recent shotai/chutai sector/task/status estimates via leader reports, not individual aircraft coordinates/energy/ammo.	V26:67;V26:79;V26:81
+CAP-CMD	WORKING-CLOSE	MODEL	CMD2 normal; CMD3 group-level sector/task control achievable pre/early contact, degrades under dense merge; no precision GCI.	V26:79;V26:81
+CAP-DISCIPLINE	WORKING-CLOSE	MODEL	Use D3 group discipline -> D2 shotai -> D1 local -> D0 fragmented transitions; better comms slow collapse but do not prevent pursuit/dogpile.	V26:81
+CAP-COMMITMENT	WORKING-CLOSE	DOCTRINE	Do not commit all fighters to first sighted group; retain unresolved-threat/high/local reserve when possible.	V26:79;V26:81
+APR29-C2-EFFECT	WORKING-CLOSE	MODEL	Radio gain acts through task preservation/relief/less duplicate chase, not generic kill multiplier; fighter-count sensitivity is nonlinear.	V26:81
+NEXT-APR29-VALID	OPEN	CURRENT-NEXT	Run A14/A16/A18 through warning->CAP->COM/CMD/D transitions->F4F/SBD/TBD->AA to valid-release bands only; stop before hits.	V26:81
