@@ -40,6 +40,8 @@
 - [V26:54 matching decision register](records/V26/54-POST-V26-MI-FIRST-CYCLE-DIRECT-HIT-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:55 MI first-cycle carrier damage state](records/V26/55-POST-V26-MI-FIRST-CYCLE-CARRIER-DAMAGE-STATE-WORKING-HANDOFF-2026-10-08.md)
 - [V26:56 matching decision register](records/V26/56-POST-V26-MI-FIRST-CYCLE-CARRIER-DAMAGE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:57 rollback](records/V26/57-POST-V26-MI-COMBAT-MODEL-ROLLBACK-REOPEN-HANDOFF-2026-10-08.md)
+- [V26:58 rollback register](records/V26/58-POST-V26-MI-COMBAT-MODEL-ROLLBACK-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
@@ -66,12 +68,12 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:51-56でmulti-stage FT suppression / first-cycle hits / carrier damageまでWORKING-CLOSE。aircraft recoveryから再開する。**
+**V26:57-58でV26:51-56を探索例へ降格。現行frontierはV26:49-50。**
 
-1. Japanese returning strikeをRyujo/Zuikaku/Hiryuへ回収
-2. U.S. returning strikeをMidway / emergency deck / ditchingへ配分
-3. onboard aircraft loss / aircrew rescueを閉じる
-4. preserved forceからJun4 second-cycle strike feasibilityを判定
+1. multi-stage state modelを定義
+2. target allocationを再評価
+3. valid releaseを再導出
+4. その後にresult adjudication
 
 ## 構造
 
