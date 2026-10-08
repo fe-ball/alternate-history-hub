@@ -1,0 +1,8 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:67
+CAP-TRUE-VS-KNOWN	WORKING-CLOSE	MODEL	Separate true A6M/Gaifu state from Japanese controller estimate; analyst knowledge must not become actor knowledge.	V26:25;V26:59;V26:67
+JP-CAP-CONTROL	WORKING-CLOSE	MODEL	Type21+improved radios give coarse/usable vectoring but not continuous altitude/energy/fuel/fighter tracking or mature GCI.	V26:25;V26:67
+CAP-CONFIDENCE	WORKING-CLOSE	MODEL	Use C0-C3 controller-confidence states from lost picture through temporary good group picture; C3 is local/temporary.	V26:67
+GAIFU-LAYER-GUARD	WORKING-CLOSE	MODEL	Gaifu outer/A6M inner is doctrinal intent, not guaranteed persistent layering; mixed-type control friction can cause stale/misdirected handoffs.	V26:59;V26:61;V26:67
+US-IDENTIFICATION	WORKING-CLOSE	ACTOR-KNOWLEDGE	US pilots may recognize a different/faster Japanese fighter behavior but do not immediately know Gaifu identity/spec/count.	V26:65;V26:67
+NEXT-CAP-REPLAY	OPEN	CURRENT-NEXT	Run Gaifu role cards against actual US waves using TRUE_STATE vs CONTROLLER_ESTIMATE and C0-C3 friction.	V26:67
