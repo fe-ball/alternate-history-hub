@@ -745,3 +745,35 @@ No Apr29 valid releases or hits are closed yet.
 ## CURRENT NEXT
 
 Run A14/A16/A18 through both directions of the Apr29 carrier action and derive only loss/abort/valid-release bands. Stop before hits.
+
+
+---
+
+# 2026-10-08 A6M radio / doctrine correction
+
+V26:77-78 separate communications hardware gain from fighter doctrine.
+
+Supported:
+- GT aircraft create a clear control experiment for piston ignition-noise EMI;
+- earlier shielding/bonding/filtering/connectors/acceptance testing;
+- better weak-signal intelligibility and installation reliability;
+- simple formation/air-ground calls are more likely to be usable;
+- observer/report/plot/readiness/local handoff improve;
+- Type21 gives coarse carrier warning/bearing/vector support.
+
+Not supported:
+- generic fighter-formation reform;
+- leader-wingman/mutual-support redesign;
+- coordinated formation fire;
+- standardized modern fighter radio tactics;
+- precision altitude/vectoring;
+- continuous fighter tracking;
+- mature carrier CIC/GCI.
+
+FCS1 boresight/re-zero/QC improvement remains separate and technical.
+
+Any earlier broad "formation handling/section integrity" combat multiplier is downgraded to fewer radio-caused communication/regroup failures only.
+
+## CURRENT NEXT
+
+Run Apr29 A14/A16/A18 sensitivity with these narrower supported A6M gains, and stop at valid-release bands before hits.
