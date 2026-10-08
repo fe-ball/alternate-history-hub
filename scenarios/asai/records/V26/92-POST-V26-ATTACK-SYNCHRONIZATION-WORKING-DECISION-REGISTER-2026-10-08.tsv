@@ -1,0 +1,10 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains1941-12-07T14:30 HST.	V26:00;V26:91
+SYNC-SEPARATION	WORKING-CLOSE	MODEL	Separate planned synchronization from achieved synchronization; doctrine can be mature while execution degrades under CAP/AA/radio/maneuver.	V26:17;V26:29;V26:91
+SYNC-METHODS	WORKING-CLOSE	MODEL	Use time-based, radio-cued, visual-cued and event-cued synchronization; robust plans combine them.	V26:91
+SYNC-STATES	WORKING-CLOSE	MODEL	SYNC0 fragmented, SYNC1 phase-order only, SYNC2 leader-coordinated, SYNC3 locally well-synchronized; no missile-era precision timing.	V26:91
+SYNC-PHASES	WORKING-CLOSE	MODEL	Track synchronization separately at assembly/route, target acquisition, attack commitment and final release.	V26:91
+SYNC-COM-CMD	WORKING-CLOSE	MODEL	COM2/A-CMD2 supports SYNC1-2 normally; A-CMD3/COM3 can produce local SYNC3; leader loss/congestion degrades state.	V26:87;V26:91
+SYNC-SUPPRESSION-GUARD	WORKING-CLOSE	MODEL	Suppression/manuever effects only help later exposures/releases if physically earlier; no retroactive benefit.	V26:63;V26:91
+SYNC-DEFENSIVE-EFFECT	WORKING-CLOSE	MODEL	CAP/AA can defeat a mixed strike by delay/displacement/desynchronization without high kill count; track delayed/displaced/wrong-phase separately.	V26:91
+ENTERPRISE-SYNC	OPEN	CURRENT-NEXT	Enterprise is first major live synchronization stress test of prewar FT/Type91 doctrine. Resolve SYNC S1-S4 before valid-release bands.	V26:17;V26:29;V26:89-91
