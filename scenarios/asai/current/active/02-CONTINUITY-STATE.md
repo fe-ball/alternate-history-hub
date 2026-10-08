@@ -330,3 +330,15 @@ The missing state is unit-scale carrier combat integration:
 service release, segregated shipboard fuel handling, maintenance/core/reducer/prop support and repeated deck-cycle proof.
 
 Current replay therefore returns to Apr29 CarDiv5 defense re-audit.
+
+
+## 2026-10-08 Apr29 A6M-only force planning
+
+V26:73-76 show why the improved worldline A6M reduces the urgency of fielding Gaifu early.
+
+Apr29 fighter planning now uses A6M-only:
+- serviceable30-34, center32;
+- homogeneous CAP roles by altitude/fuel/readiness rather than aircraft type;
+- escort cards14/16/18, with16 as the reference.
+
+No Apr29 loss, valid-release, hit or damage result has yet been re-closed.
