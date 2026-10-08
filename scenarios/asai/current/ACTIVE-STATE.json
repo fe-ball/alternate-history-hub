@@ -18,9 +18,9 @@
     "Japan_China": "WAR-CONTINUES"
   },
   "working_history": {
-    "latest_campaign_close": "Replay-local MI combat now carries launch packages through V26:47-48 and initial interception/CAP-AA/valid-release closure through V26:49-50. U.S. carrier strike reaches 70 valid SBD releases and 17 valid TBD runs; Japanese counterstrike reaches 34 valid D3A releases, 16 Type91 runs and 22 FT releases. Midway remains active but degraded. No main-carrier direct-hit packet or damage state is yet fixed.",
+    "latest_campaign_close": "Replay-local MI combat now carries the multi-stage FT screen/AA-suppression re-audit through V26:51-52, first-cycle direct-hit packets through V26:53-54, and immediate carrier damage states through V26:55-56. Eight of 22 valid FT are screen/AA suppression and 14 are carrier-directed. Atlanta is first-window AA/command mission-killed and Portland locally degraded. Japan has Akagi/Kaga/Soryu aviation mission-killed, Hiryu/Zuikaku temporarily stopped and Ryujo intact. Enterprise/Hornet/Saratoga are all battle-day aviation mission-killed but afloat/self-propelled central.",
     "status": "WORKING",
-    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38. Japanese MI carrier deployment timing is carried in V26:39-40; U.S. MI carrier timing in V26:41-42; final pre-combat MI OOB in V26:43-44. MI Jun4 starting geometry, search allocation and first carrier contacts are carried in V26:45-46. MI strike-package and launch timing are carried in V26:47-48; interception/CAP-AA and valid-release closure in V26:49-50.",
+    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38. Japanese MI carrier deployment timing is carried in V26:39-40; U.S. MI carrier timing in V26:41-42; final pre-combat MI OOB in V26:43-44. MI Jun4 starting geometry, search allocation and first carrier contacts are carried in V26:45-46. MI strike-package and launch timing are carried in V26:47-48; interception/CAP-AA and valid-release closure in V26:49-50. MI multi-stage FT screen suppression is carried in V26:51-52; first-cycle direct hits in V26:53-54; immediate carrier damage states in V26:55-56.",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
@@ -49,7 +49,10 @@
       "Final pre-combat MI OOB V26:43-44",
       "MI Jun4 starting geometry/search/first-contact replay V26:45-46",
       "MI first-strike package/launch timing V26:47-48",
-      "MI initial interception/CAP-AA/valid-release replay V26:49-50"
+      "MI initial interception/CAP-AA/valid-release replay V26:49-50",
+      "MI multistage FT screen/AA suppression re-audit V26:51-52",
+      "MI first-cycle direct-hit adjudication V26:53-54",
+      "MI first-cycle carrier damage-state closure V26:55-56"
     ]
   },
   "discussion_frontier": {
@@ -94,11 +97,14 @@
       "Final Japanese/U.S./Midway pre-combat MI OOB V26:43-44",
       "MI Jun4 starting geometry, search allocation and first carrier-contact timing V26:45-46",
       "MI first-strike packages and launch timing V26:47-48",
-      "MI initial air combat, CAP/AA and valid-release closure V26:49-50"
+      "MI initial air combat, CAP/AA and valid-release closure V26:49-50",
+      "MI multi-stage FT screen/AA suppression and revised valid releases V26:51-52",
+      "MI first-cycle direct-hit packets V26:53-54",
+      "MI first-cycle carrier damage states V26:55-56"
     ],
-    "next_gate": "Adjudicate direct hits separately by weapon and carrier: U.S. SBD/TBD against Japanese carriers, then Japanese D3A/Type91/FT against Enterprise/Hornet/Saratoga; only afterward close hit location, fire/flooding, deck/propulsion/aviation state and recovery losses. See V26:49-50.",
-    "next_gate_source": "V26:49-50",
-    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; MI combat replay has reached valid weapon release through V26:50. Main-carrier hit/damage outcomes remain OPEN. V26 canon remains 1941-12-07 14:30 HST."
+    "next_gate": "Close returning-aircraft recovery/diversion/ditching, onboard-aircraft destruction and aircrew rescue for both sides; then determine whether a Jun4 second-cycle carrier strike is physically available. See V26:55-56.",
+    "next_gate_source": "V26:55-56",
+    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; first-cycle carrier hits and immediate damage states are closed through V26:56. Recovery and later ship-survival outcomes remain OPEN. V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
     "current/active/00-SESSION-HANDOFF.md",
@@ -301,6 +307,24 @@
     "V26:50": {
       "path": "records/V26/50-POST-V26-MI-INTERCEPTION-CAP-AA-VALID-RELEASE-WORKING-DECISION-REGISTER-2026-10-08.tsv",
       "blob_sha": "fcf466ee42965328441d34be2567ec0070ecdc61"
+    },
+    "V26:51": {
+      "path": "records/V26/51-POST-V26-MI-MULTISTAGE-FT-SCREEN-SUPPRESSION-REAUDIT-WORKING-HANDOFF-2026-10-08.md"
+    },
+    "V26:52": {
+      "path": "records/V26/52-POST-V26-MI-MULTISTAGE-FT-SCREEN-SUPPRESSION-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+    },
+    "V26:53": {
+      "path": "records/V26/53-POST-V26-MI-FIRST-CYCLE-DIRECT-HIT-ADJUDICATION-WORKING-HANDOFF-2026-10-08.md"
+    },
+    "V26:54": {
+      "path": "records/V26/54-POST-V26-MI-FIRST-CYCLE-DIRECT-HIT-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+    },
+    "V26:55": {
+      "path": "records/V26/55-POST-V26-MI-FIRST-CYCLE-CARRIER-DAMAGE-STATE-WORKING-HANDOFF-2026-10-08.md"
+    },
+    "V26:56": {
+      "path": "records/V26/56-POST-V26-MI-FIRST-CYCLE-CARRIER-DAMAGE-WORKING-DECISION-REGISTER-2026-10-08.tsv"
     }
   },
   "lineage_sources": [
@@ -336,5 +360,5 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-MI-valid-release-through-V26-50"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-MI-first-cycle-damage-through-V26-56"
 }
