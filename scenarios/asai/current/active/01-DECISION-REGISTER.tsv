@@ -154,3 +154,5 @@ NEXT-APR29-COMMAND	OPEN	CURRENT-NEXT	Instantiate command/handoff states inside A
 PREMO-COMBAT-REAUDIT	WORKING-CLOSE	AUTHORITY	Tier1 re-audit Enterprise/Wake-Saratoga/Apr5 ForceA/Apr9 Yorktown/Apr29; preserve robust search/contact/force-state inputs.	V26:89-90
 ENTERPRISE-FIRST-PEER	WORKING-CLOSE	INTERPRETATION	Enterprise is first clear carrier-fighter peer contest under revised doctrine; 54-aircraft strike anchor retained but losses/valid releases/hits reopen.	V26:16-17;V26:89-90
 WAKE-FIRST-TWOWAY	WORKING-CLOSE	INTERPRETATION	Wake/Saratoga Dec22 is first true two-way carrier exchange; both strike penetration chains reopen.	V26:07;V26:17;V26:89-90
+ENTERPRISE-FT-DOCTRINE-PROVENANCE	WORKING-CLOSE	SUPERSESSION	Enterprise does not discover FT+Type91 mixed doctrine. Prewar1939-40 exercises already compare FT-first/Type91-first/multi-axis/suppression; Enterprise is first major live-carrier validation/stress test.	V26:17;V26:29;V26:89
+FORCEZ-FT-DOCTRINE-PROVENANCE	WORKING-CLOSE	SUPERSESSION	Force Z is early combat refinement using Enterprise AAR, not first deliberate separated FT/Type91 attack.	V26:17;V26:29
