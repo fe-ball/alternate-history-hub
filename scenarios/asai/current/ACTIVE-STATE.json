@@ -18,9 +18,9 @@
     "Japan_China": "WAR-CONTINUES"
   },
   "working_history": {
-    "latest_campaign_close": "V26:79-82 re-audit communications-to-fighter-doctrine diffusion from 1932 through spring 1942 and define Apr29 CarDiv5 CAP command state. The earlier V26:77-78 restriction is superseded in part: radio hardware alone does not create doctrine, but years of usable communications plus China combat and training produce leader-level shotai/chutai procedures, prebriefed sector/altitude/relief control, and group-level carrier retasking. No mature precision GCI, CIC, IFF or individual fighter tracking is granted. No Apr29 losses, valid releases, hits or damage have been re-closed.",
+    "latest_campaign_close": "V26:79-82 reconstruct the 1932-42 diffusion from radio/EMI hardware to procedures, fighter employment and command architecture, superseding the overly static reading in V26:77-78. Three-plane shotai / nine-plane chutai organizational skeleton remains, but radio-enabled detach/rejoin, cover/reserve, escort handoff, CAP relief and coarse ship/airfield vectoring evolve through continuous China/Nomonhan/Pacific combat. Apr29 escort cards are corrected to A12/A15/A18, with A15 reference. No valid-release or hit result has yet been re-closed.",
     "status": "WORKING",
-    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38. Japanese MI carrier deployment timing is carried in V26:39-40; U.S. MI carrier timing in V26:41-42; final pre-combat MI OOB in V26:43-44. MI Jun4 starting geometry, search allocation and first carrier contacts are carried in V26:45-46. MI strike-package and launch timing are carried in V26:47-48; interception/CAP-AA and valid-release closure in V26:49-50. MI multi-stage FT screen suppression is carried in V26:51-52; first-cycle direct hits in V26:53-54; immediate carrier damage states in V26:55-56. V26:57-58 roll the MI replay back to V26:49-50 and demote V26:51-56 to exploratory samples. Heterogeneous CAP / multistage attack model is carried in V26:59-60; Gaifu role cards V26:61-62; FT preload/target model V26:63-64; Gaifu technical grounding V26:65-66. CAP observability/control friction and TRUE_STATE versus CONTROLLER_ESTIMATE are carried in V26:67-68. A6M2/Gaifu full-performance comparative audit is carried in V26:69-70. Gaifu carrier combat-release/fuel-logistics correction V26:71-72 reopens Apr29 CarDiv5 and MI OOB. Worldline A6M homogeneous-CAP / Gaifu marginal-value re-audit V26:73-74 and Apr29 A6M-only fighter allocation cards V26:75-76. A6M radio/EMI and fighter-doctrine/fighter-direction correction V26:77-78. Communications-to-fighter-doctrine diffusion timeline V26:79-80 and Apr29 CarDiv5 CAP command/communications state V26:81-82.",
+    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38. Japanese MI carrier deployment timing is carried in V26:39-40; U.S. MI carrier timing in V26:41-42; final pre-combat MI OOB in V26:43-44. MI Jun4 starting geometry, search allocation and first carrier contacts are carried in V26:45-46. MI strike-package and launch timing are carried in V26:47-48; interception/CAP-AA and valid-release closure in V26:49-50. MI multi-stage FT screen suppression is carried in V26:51-52; first-cycle direct hits in V26:53-54; immediate carrier damage states in V26:55-56. V26:57-58 roll the MI replay back to V26:49-50 and demote V26:51-56 to exploratory samples. Heterogeneous CAP / multistage attack model is carried in V26:59-60; Gaifu role cards V26:61-62; FT preload/target model V26:63-64; Gaifu technical grounding V26:65-66. CAP observability/control friction and TRUE_STATE versus CONTROLLER_ESTIMATE are carried in V26:67-68. A6M2/Gaifu full-performance comparative audit is carried in V26:69-70. Gaifu carrier combat-release/fuel-logistics correction V26:71-72 reopens Apr29 CarDiv5 and MI OOB. Worldline A6M homogeneous-CAP / Gaifu marginal-value re-audit V26:73-74 and Apr29 A6M-only fighter allocation cards V26:75-76. A6M radio/EMI and fighter-doctrine/fighter-direction correction V26:77-78. Communications-to-fighter-doctrine diffusion timeline V26:79-80 and Apr29 CarDiv5 CAP command/communications state V26:81-82. Communications-to-fighter-doctrine diffusion timeline V26:79-80 and Apr29 radio-enabled A6M control / escort-card correction V26:81-82.",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
@@ -62,7 +62,9 @@
       "Worldline A6M homogeneous-CAP / Gaifu marginal-value re-audit V26:73-74",
       "Apr29 A6M-only fighter allocation cards V26:75-76",
       "Communications-to-fighter-doctrine diffusion re-audit V26:79-80",
-      "Apr29 CarDiv5 CAP command/communications state V26:81-82"
+      "Apr29 CarDiv5 CAP command/communications state V26:81-82",
+      "1932-42 communications-to-fighter-doctrine diffusion re-audit V26:79-80",
+      "Apr29 radio-enabled A6M control / escort-card correction V26:81-82"
     ]
   },
   "discussion_frontier": {
@@ -119,11 +121,12 @@
       "Worldline A6M-only CarDiv5 fighter doctrine and Apr29 escort-defense cards V26:73-76",
       "A6M radio/EMI versus fighter doctrine and fighter-direction audit V26:77-78",
       "1932-42 communications-to-fighter-doctrine diffusion timeline V26:79-80",
-      "Apr29 group-level carrier CAP C2 state card V26:81-82"
+      "Apr29 group-level carrier CAP C2 state card V26:81-82",
+      "1932-42 radio-enabled fighter doctrine/control timeline and Apr29 A12/A15/A18 cards V26:79-82"
     ],
-    "next_gate": "Apply the V26:79-82 radio/doctrine/CAP-control state to Apr29 A14/A16/A18 sensitivity. Resolve warning quality, CAP launch state, COM/CMD/discipline transitions, F4F engagement, SBD/TBD cohesion/losses and AA interaction to valid-release bands only; stop before direct hits. See V26:75-82.",
-    "next_gate_source": "V26:75-82",
-    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 command/doctrine inputs are redefined, but no Apr29 loss/valid-release/hit/damage outcome is closed after Gaifu removal and communications-doctrine re-audit. V26 canon remains 1941-12-07 14:30 HST."
+    "next_gate": "Run Apr29 A12/A15/A18 through both Japanese strike vs Lexington and Lexington counterstrike vs CarDiv5 using the reconstructed radio-enabled doctrine/control chain, deriving loss/abort/valid-release bands only and stopping before hits. See V26:79-82.",
+    "next_gate_source": "V26:79-82",
+    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; doctrine/control state is re-audited through V26:82. Apr29 combat outcomes remain open. V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
     "current/active/00-SESSION-HANDOFF.md",
@@ -412,16 +415,16 @@
       "path": "records/V26/78-POST-V26-A6M-RADIO-FIGHTER-DIRECTION-WORKING-DECISION-REGISTER-2026-10-08.tsv"
     },
     "V26:79": {
-      "path": "records/V26/79-POST-V26-COMMUNICATIONS-TO-FIGHTER-DOCTRINE-DIFFUSION-REAUDIT-1932-1942-2026-10-08.md"
+      "path": "records/V26/79-POST-V26-JAPANESE-AVIATION-COMMS-FIGHTER-DOCTRINE-DIFFUSION-1932-1942-REAUDIT-2026-10-08.md"
     },
     "V26:80": {
-      "path": "records/V26/80-POST-V26-COMMS-FIGHTER-DOCTRINE-TIMELINE-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/80-POST-V26-JAPANESE-AVIATION-COMMS-DOCTRINE-TIMELINE-WORKING-DECISION-REGISTER-2026-10-08.tsv"
     },
     "V26:81": {
-      "path": "records/V26/81-POST-V26-APR29-CARDIV5-CAP-COMMAND-COMMUNICATIONS-STATE-CARD-2026-10-08.md"
+      "path": "records/V26/81-POST-V26-APR29-CARDIV5-RADIO-ENABLED-A6M-CONTROL-ESCORT-CARD-CORRECTION-2026-10-08.md"
     },
     "V26:82": {
-      "path": "records/V26/82-POST-V26-APR29-CAP-C2-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/82-POST-V26-APR29-CARDIV5-COMMS-CONTROL-WORKING-DECISION-REGISTER-2026-10-08.tsv"
     }
   },
   "lineage_sources": [
@@ -457,5 +460,5 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-communications-doctrine-CAP-C2-through-V26-82"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-radio-doctrine-timeline-through-V26-82"
 }
