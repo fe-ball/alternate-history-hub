@@ -72,6 +72,8 @@
 - [V26:86 matching fighter cell-size register](records/V26/86-POST-V26-FIGHTER-CELL-SIZE-EVOLUTION-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:87 aviation command architecture / airborne-groundside authority](records/V26/87-POST-V26-AVIATION-COMMAND-ARCHITECTURE-AIRBORNE-GROUNDSIDE-AUTHORITY-REAUDIT-1935-1942-2026-10-08.md)
 - [V26:88 matching command architecture register](records/V26/88-POST-V26-AVIATION-COMMAND-ARCHITECTURE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:89 pre-MO combat re-audit map](records/V26/89-POST-V26-PRE-MO-COMBAT-REAUDIT-MAP-COMMS-COMMAND-DOCTRINE-2026-10-08.md)
+- [V26:90 matching pre-MO re-audit register](records/V26/90-POST-V26-PRE-MO-COMBAT-REAUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:89 pre-MO fighter-combat retrospective audit](records/V26/89-POST-V26-PRE-MO-FIGHTER-COMBAT-RETROSPECTIVE-AUDIT-FIRST-PEER-CARRIER-GATE-2026-10-08.md)
 - [V26:90 matching retrospective register](records/V26/90-POST-V26-PRE-MO-FIGHTER-COMBAT-RETROSPECTIVE-REGISTER-2026-10-08.tsv)
 - [V26:79 communications-to-fighter-doctrine diffusion 1932-42](records/V26/79-POST-V26-JAPANESE-AVIATION-COMMS-FIGHTER-DOCTRINE-DIFFUSION-1932-1942-REAUDIT-2026-10-08.md)
@@ -104,13 +106,15 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:83-88で通信/doctrine/cell-size/airborne-vs-below command architectureまで統合。Apr29戦果は未固定。**
+**V26:89-90でpre-MOの戦闘再監査順を確定。次はEnterprise。**
 
-1. A12 / A15 / A18を6機controlled package前提でJapanese strikeへ通す
-2. Below-side B-CMD / airborne A-CMD / COM-CMD-D / handoff latencyを状態更新
-3. Type21/visual warning → CAP launch → F4F engagement → SBD/TBD cohesion/loss → AA interaction
-4. 双方のvalid-release bandsまで閉じる
-5. direct-hit adjudication前で止める
+1. Enterpriseの54機strike / search-contact skeletonは保持
+2. A6M18を3個6機packageとしてescort/CAP戦を再演
+3. U.S. F4F CAP / warning / fighter directionと交戦
+4. Japanese loss / abort / D3A-B5N valid-releaseを再導出
+5. hit packetはその後にのみ再判定
+
+その後 Wake/Saratoga -> Feb20 check -> Apr5 Force A -> Apr9 Yorktown -> Apr29。
 
 ## 構造
 
