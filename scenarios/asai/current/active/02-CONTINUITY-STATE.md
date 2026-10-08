@@ -317,3 +317,16 @@ Its speed/climb advantage coexists with substantially higher wing loading, simil
 A6M remains important for sustained turning, persistent CAP and mature carrier support.
 
 CAP combat replay remains paused until the remaining high-speed control / acceleration / endurance bands are bounded.
+
+
+## 2026-10-08 Gaifu carrier-release correction
+
+V26:71-72 remove Gaifu from Apr29 and MI central combat OOB.
+
+This does not mean the GT/fuel technology is absent.
+Grade-A aviation GT fuel, GT training and E6-family service culture exist.
+
+The missing state is unit-scale carrier combat integration:
+service release, segregated shipboard fuel handling, maintenance/core/reducer/prop support and repeated deck-cycle proof.
+
+Current replay therefore returns to Apr29 CarDiv5 defense re-audit.
