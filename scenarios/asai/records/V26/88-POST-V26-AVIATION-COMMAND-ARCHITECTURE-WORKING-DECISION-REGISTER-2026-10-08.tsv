@@ -1,0 +1,14 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:87
+COMMAND-FOUR-FUNCTIONS	WORKING-CLOSE	MODEL	Separate operational mission command, ship/base air-ops control, airborne tactical command, and fighter-direction control.	V26:87
+COMMAND-BOUNDARY	WORKING-CLOSE	DOCTRINE	Communication maturity makes authority boundary explicit: below sets objective/priority/reserve/broad vector; airborne leader owns local geometry/attack execution after contact.	V26:79-87
+AIRBORNE-STRIKE-CMD	WORKING-CLOSE	DOCTRINE	Layered strike command: overall airborne leader -> type/mission leaders -> tactical-package leaders -> shotai leaders.	Historical anchor;V26:85;V26:87
+CAP-CMD	WORKING-CLOSE	DOCTRINE	CAP remains shared-control longer: below sector/vector/reinforcement/relief; airborne leader intercept geometry/engagement/cover/reform.	V26:83;V26:87
+BELOW-SIDE-CMD	WORKING-CLOSE	MODEL	Force air staff, carrier captain, air-group staff, deck/hangar ops and plot/fighter-control functions are distinct even if personnel overlap; no invented modern CIC.	V26:87
+INFO-OWNERSHIP	WORKING-CLOSE	MODEL	Force staff best operational picture; ship plot best local warning; airborne leader best tactical picture; package/shotai leader best immediate maneuver picture.	V26:87
+COMMAND-LATENCY	WORKING-CLOSE	MODEL	Operational command minutes-hours; ship-air retask tens sec-minutes; airborne package command seconds-tens sec. Ship exact-geometry orders can be stale.	V26:87
+B-CMD	WORKING-CLOSE	MODEL	Below-side states B0-B3; B2 normal pre-contact/B3 temporary with coherent warning; no precision B4.	V26:87
+A-CMD	WORKING-CLOSE	MODEL	Airborne states A0-A3; A2 normal prepared unit/A3 possible early coordinated phase; dense combat degrades.	V26:87
+HANDOFF-STATES	WORKING-CLOSE	MODEL	Track mission->air leader, plot->leader, leader->package, package->shotai, air status/BDA->below; failure is often latency/ambiguity/stale info rather than generic incompetence.	V26:87
+FT-COMMAND	WORKING-CLOSE	MODEL	Below prebriefs FT/Type91/D3A roles; airborne leaders choose actual screen-vs-carrier suppression target from current geometry.	V26:63;V26:87
+NEXT-APR29-CMD	OPEN	CURRENT-NEXT	Instantiate B-CMD/A-CMD/handoffs inside A12/A15/A18 Apr29 replay before recalculating valid releases.	V26:87
