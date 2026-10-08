@@ -373,3 +373,19 @@ Current fighter-control state:
 - no precision altitude, continuous individual tracking, IFF, modern CIC or mature GCI.
 
 Apr29 combat results remain OPEN.
+
+
+## 2026-10-08 communications-to-doctrine timeline
+
+V26:79-82 correct the over-static assumption in V26:77-78.
+
+The worldline does not import a foreign fighter doctrine wholesale, but reliable radio has been exposed to continuous combat since 1937. By spring 1942 the historical IJN organizational skeleton has evolved operationally:
+- mission check-in / contact / recall / rejoin;
+- shotai task split and cover/reserve;
+- escort reassignment;
+- CAP sector/altitude/relief procedure;
+- ship/field plot -> leader coarse vector.
+
+Type21 improves an existing fighter-control chain rather than creating it.
+
+Apr29 escort sensitivity is now12/15/18 fighters, not14/16/18.
