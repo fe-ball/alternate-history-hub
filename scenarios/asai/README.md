@@ -74,6 +74,10 @@
 - [V26:88 matching command architecture register](records/V26/88-POST-V26-AVIATION-COMMAND-ARCHITECTURE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:89 pre-MO combat re-audit map](records/V26/89-POST-V26-PRE-MO-COMBAT-REAUDIT-MAP-COMMS-COMMAND-DOCTRINE-2026-10-08.md)
 - [V26:90 matching pre-MO re-audit register](records/V26/90-POST-V26-PRE-MO-COMBAT-REAUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:91 multi-axis attack synchronization / communications-confidence model](records/V26/91-POST-V26-MULTIAXIS-ATTACK-SYNCHRONIZATION-COMMS-CONFIDENCE-MODEL-2026-10-08.md)
+- [V26:92 matching synchronization register](records/V26/92-POST-V26-ATTACK-SYNCHRONIZATION-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:93 session-close Enterprise restart handoff](records/V26/93-POST-V26-SESSION-CLOSE-ENTERPRISE-REAUDIT-RESTART-HANDOFF-2026-10-08.md)
+- [V26:94 matching Enterprise restart register](records/V26/94-POST-V26-ENTERPRISE-RESTART-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:89 pre-MO fighter-combat retrospective audit](records/V26/89-POST-V26-PRE-MO-FIGHTER-COMBAT-RETROSPECTIVE-AUDIT-FIRST-PEER-CARRIER-GATE-2026-10-08.md)
 - [V26:90 matching retrospective register](records/V26/90-POST-V26-PRE-MO-FIGHTER-COMBAT-RETROSPECTIVE-REGISTER-2026-10-08.tsv)
 - [V26:79 communications-to-fighter-doctrine diffusion 1932-42](records/V26/79-POST-V26-JAPANESE-AVIATION-COMMS-FIGHTER-DOCTRINE-DIFFUSION-1932-1942-REAUDIT-2026-10-08.md)
@@ -106,15 +110,14 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:89-90でpre-MOの戦闘再監査順を確定。次はEnterprise。**
+**V26:93-94でsession close。次回はEnterprise戦の再監査から再開。**
 
-1. Enterpriseの54機strike / search-contact skeletonは保持
-2. A6M18を3個6機packageとしてescort/CAP戦を再演
-3. U.S. F4F CAP / warning / fighter directionと交戦
-4. Japanese loss / abort / D3A-B5N valid-releaseを再導出
-5. hit packetはその後にのみ再判定
-
-その後 Wake/Saratoga -> Feb20 check -> Apr5 Force A -> Apr9 Yorktown -> Apr29。
+1. Pearl二波後のKido Butai physical / serviceable / ready / recovery stateを再構築
+2. Enterprise contact維持・Lexington未発見を前提に、旧72機案/後54機案を固定せずstrike commitmentを再決定
+3. A6M escortを3機shotai / 6機controlled packageで編成
+4. Enterprise radar / F4F fighter directionと交戦
+5. COM / A-CMD / SYNC S1-S4、delay/displacement/abortを追跡
+6. D3A / Type91 / FT valid-release bandsまで閉じ、direct hits前で停止
 
 ## 構造
 
