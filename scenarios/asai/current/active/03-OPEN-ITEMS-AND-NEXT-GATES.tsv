@@ -1,18 +1,15 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:69-70でA6M2/Gaifuを速度以外も比較監査。Gaifu roll/dive/transient、worldline A6M climb/accel、双方CAP enduranceのbandを閉じてからCAP replayへ。
-1	MI-LAUNCH-STATE	WORKING-CLOSE	ROLLED-FORWARD	Robust combat inputはV26:47-48 launch/approachまで。	V26:47-48;V26:59
-2	MI-V49-50-BASELINE	PROVISIONAL	BASELINE	V26:49-50 air-loss/valid-release数値は比較baselineであり現行結果ではない。	V26:49-50;V26:59
-3	GAIFU-TECH	WORKING-CLOSE	MODEL	Gaifu575-600 normal/595-615 short、6km6.0-6.8min normal。Sakufu670-710と混同禁止。	V26:65-66
-4	GAIFU-ROLE-ALLOC	WORKING	CURRENT-NEXT	G-E8/3/0、G-B5/5/1、G-D3/7/1 escort/CAP/reserveをUS wave timingへ通す。	V26:61-62
-5	US-REVISED-VALID	OPEN	AFTER-GAIFU	Mixed CAP state更新後にSBD/TBD losses/abort/valid release bandsを再導出。	V26:59-66
-6	FT-PRELOAD-TARGET	WORKING	AFTER-GAIFU	FT-D/FT-B/FT-S preload + contact target choice + SUP-0..3をupdated US defense stateへ通す。	V26:63-64
-7	JP-REVISED-VALID	OPEN	AFTER-FT	D3A/Type91/FT release bandsを多段状態更新後に再導出。	V26:59-64
-8	MI-DIRECT-HITS	OPEN	AFTER-REVISED-VALID	Direct hit adjudicationは双方のrevised valid release closure後のみ。	V26:59-66
-9	V26-51-56	DISCUSSION-SAMPLE	DO-NOT-ROLL-FORWARD	旧allocation/hit/damage数値は探索例。現行結果として使用禁止。	V26:51-58
-10	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speed厳密CLOSE。	V26:21#1
-11	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOF厳密CLOSE。	V26:21#1
-12	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	FT fuel type/load/flow/residual fuel/thermal stateを閉じる。	V26:21#1-2
-13	FT-FUSE-PENETRATION	OPEN	PARALLEL-TECH	SAP fuse delay/penetration/structural energy-loss tableを閉じる。	V26:21#2
-14	PM-BASE-GROWTH	WORKING	DEFERRED	Apr18 capture後のairfield/harbor/fuel/service-release growth。	V26:21#8
-4	MI-CAP-OBSERVABILITY	WORKING-CLOSE	MODEL	Type21+improved radioでもA6M/Gaifuの位置/高度/energy/fuelをcontinuous把握しない。outer/innerは意図であり保証された実配置ではない。	V26:67-68
-4	MI-FIGHTER-PERFORMANCE-AUDIT	WORKING-CLOSE	MODEL	Gaifuはspeed/climb優位だがwing loading高、power loading overlap、MI armament同等、protection優位未閉鎖、A6Mはturn/endurance/maturity優位。	V26:69-70
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:71-72でGaifuのApr29/MI combat-presentを0 centralへ修正。Apr29 CarDiv5 defenseをGaifu抜きで再監査するところから再開。	V26:71-72
+1	GAIFU-NATIONAL-FUEL	WORKING-CLOSE	ROLLED-FORWARD	Grade-A aviation GT fuel / E6 service cultureは存在。国家燃料不足がblockerではない。	V16;V26:71
+2	GAIFU-CARRIER-SERVICE	WORKING-CLOSE	ROLLED-FORWARD	Prototype/service evaluationは妥当だがmass service未記録。Carrier fuel/maintenance/deck-cycle unit gate未閉鎖。	V11;V26:71
+3	APR29-CARDIV5-DEFENSE	OPEN	CURRENT-NEXT	Gaifu0でLexington counterstrike対CarDiv5防空を再監査。Type21/AA-FCS/37mmは維持。	V26:25;V26:33-36;V26:71
+4	APR29-LOSS-LEDGER	OPEN	AFTER-APR29-DEFENSE	A6M/D3A/B5N airframe/aircrew lossesとShokaku hit branchを再閉鎖。	V26:35-36;V26:71
+5	ZUIKAKU-MI-FIGHTERS	OPEN	AFTER-APR29	End-May Zuikaku fighter groupをA6M中心で再構築。Gaifu12の一対一置換は禁止。	V26:37-38;V26:71
+6	MI-JP-AIR-OOB	OPEN	AFTER-ZUIKAKU	Japanese MI331/311 total、Cell3 escort、carrier-air mixを再構築。	V26:39-48;V26:71
+7	MI-COMBAT-MODEL	WORKING	AFTER-OOB	FT multistage / CAP observability modelは保持。ただしGaifu mixed-CAPはcurrent MI centralに使用しない。	V26:59-70;V26:71
+8	V26-49-56	PROVISIONAL/SAMPLE	DO-NOT-ROLL-FORWARD	旧MI combat numerical outputs/hits/damageは現行結果として使用禁止。	V26:49-58;V26:71
+9	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speed厳密CLOSE。	V26:21#1
+10	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOF厳密CLOSE。	V26:21#1
+11	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	FT fuel type/load/flow/residual fuel/thermal stateを閉じる。	V26:21#1-2
+12	FT-FUSE-PENETRATION	OPEN	PARALLEL-TECH	SAP fuse delay/penetration/structural energy-loss tableを閉じる。	V26:21#2
+13	PM-BASE-GROWTH	WORKING	DEFERRED	Apr18 capture後のairfield/harbor/fuel/service-release growth。	V26:21#8
