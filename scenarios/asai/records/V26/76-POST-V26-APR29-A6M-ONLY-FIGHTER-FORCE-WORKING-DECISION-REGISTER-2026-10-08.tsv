@@ -1,0 +1,10 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:75
+A6M-ONLY-CARDIV5	WORKING-CLOSE	FORCE-STATE	Apr29 CarDiv5 central fighter force is A6M-only; Gaifu remains evaluation/home-water asset.	V26:71-75
+APR29-A6M-SERVICEABLE	WORKING	FORCE-STATE	A6M serviceable30-34, center32; ready29-32 class. No one-for-one Gaifu substitution.	V26:37;V26:75
+APR29-PILOT-LIMITER	WORKING-CLOSE	FORCE-STATE	A6M-qualified fighter cadre remains strong; airframe/serviceability rather than acute pilot shortage is central limiter. Exact headcount OPEN.	V26:37;V26:75
+A14-CARD	WORKING	TACTICS	Defense-heavy: A6M14 escort, center18 defensive remainder at pool32; total strike68.	V26:75
+A16-CARD	WORKING	TACTICS	Balanced planning center: A6M16 escort, center16 defensive remainder at pool32; total strike70.	V26:75
+A18-CARD	WORKING	TACTICS	Offense-heavy: A6M18 escort, center14 defensive remainder at pool32; total strike72.	V26:21;V26:75
+HOMOGENEOUS-C2	WORKING-CLOSE	MODEL	Same-type A6M CAP reduces controller/deck/fuel/maintenance friction relative to mixed Gaifu/A6M; aerodynamic Gaifu advantage is not fully replaced.	V26:67;V26:73-75
+NEXT-APR29-VALID	OPEN	CURRENT-NEXT	Run A14/A16/A18 through Japanese strike and Lexington counterstrike to valid-release bands; stop before direct hits.	V26:75
