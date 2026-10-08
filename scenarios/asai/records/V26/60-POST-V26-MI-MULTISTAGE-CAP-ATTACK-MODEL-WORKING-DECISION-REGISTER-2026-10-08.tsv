@@ -1,0 +1,12 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:59
+COMBAT-FRONTIER	WORKING-CLOSE	NAVIGATION	Robust combat input now ends at V26:47-48 launch/approach state; V26:49-50 numerical combat outputs are provisional comparison baselines.	V26:47-50;V26:59
+GAIFU-HETEROGENEOUS-CAP	WORKING-CLOSE	MODEL	Gaifu benefit is a second fighter-performance envelope: reach, specialization, re-engagement, uncertainty and force-preservation gains, offset by command/formation/maintenance/qualification friction.	V26:25;V26:37;V26:59
+CAP-STATE-VECTOR	WORKING-CLOSE	MODEL	Track A6M/Gaifu separately by layer, altitude, energy, fuel, sector, assignment, re-engagement delay, vector confidence and pilot qualification.	V26:59
+WARNING-STATE	WORKING-CLOSE	MODEL	Japanese warning W0-W3; Gaifu system benefit depends strongly on cue quality and is not a generic fighter multiplier.	V26:25;V26:59
+US-WAVE-SEQUENCING	WORKING-CLOSE	MODEL	Enterprise/Saratoga/Hornet/SBD/TBD/escort elements update Japanese CAP state sequentially rather than one aggregate raid roll.	V26:47;V26:59
+FT-TARGET-RULE	WORKING-CLOSE	MODEL	FT screen/AA attack only when expected downstream corridor gain exceeds direct-carrier opportunity cost and adaptation risk; no fixed suppression count.	V26:29;V26:59
+MULTISTAGE-PHASES	WORKING-CLOSE	MODEL	Use state-dependent S/T/D/F/X phase types; no mandatory single order.	V26:29;V26:59
+DEFENDER-STATE	WORKING-CLOSE	MODEL	Track CAP, AA director/mount state, screen geometry, carrier maneuver, smoke, command, prior damage and bearing-specific masking by phase.	V26:59
+V49-50-NUMBERS	PROVISIONAL	BASELINE	SBD70/TBD17/D3A34/Type9116/FT22 and associated air losses are comparison baselines only pending model instantiation.	V26:49-50;V26:59
+NEXT-INSTANTIATE	OPEN	CURRENT-NEXT	Instantiate Japanese heterogeneous CAP vs US waves and US defense vs Japanese Cells 1-3, derive revised valid releases, stop before hits.	V26:59
