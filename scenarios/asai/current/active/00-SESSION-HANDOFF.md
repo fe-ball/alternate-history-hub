@@ -942,3 +942,30 @@ State model:
 - explicit handoff failures/latency between mission->air leader, plot->leader, leader->package, package->shotai and air status/BDA->below.
 
 No combat outcome is closed.
+
+
+---
+
+# 2026-10-08 pre-MO fighter-combat retrospective
+
+V26:89-90 audit all fighter-relevant Pacific combat through MO against the new communications/cell/command model.
+
+Key conclusion:
+- local fighter combat existed earlier, but Dec7 Enterprise is the first clear peer carrier-air-system battle in the branch.
+- Apr29 should not be repaired in isolation; combat learning must be replayed from Enterprise forward.
+
+Priority reopens:
+1. Enterprise Dec7 — full fighter/C2/valid-release re-open.
+2. Wake/Saratoga Dec22 — full carrier-air re-open after Enterprise lessons.
+3. Feb20 Lexington — moderate asymmetric radar-CAP vs G4M command/valid-release audit.
+4. Mar10 Lae — low/moderate small-CAP audit.
+5. Apr5 Force A — high fighter/C2 re-open.
+6. Apr9 Yorktown — high fighter/C2 re-open.
+7. Doolittle — moderate local air-defense C2 audit.
+8. Apr29 Lexington/CarDiv5 — full re-open after upstream lessons.
+
+Pearl main waves are mostly an explanation correction; Force Z is mainly an attack-command rather than fighter-command audit.
+
+## CURRENT NEXT
+
+Re-run Dec7 Enterprise to valid-release bands only. No new hit packet until fighter/C2 closure.
