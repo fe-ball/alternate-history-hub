@@ -8,7 +8,7 @@ scenarios:
     authority_version: "V26"
     canonical_clock: "1941-12-07T14:30:00-10:30"
     clock_state: "canonical-anchor-only; latest-working-continuation-and-local-planning-clocks-are-separate"
-    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. V26:59-68 define the heterogeneous-CAP/multistage model and controller-observability guard. V26:69-70 audit A6M2 and Gaifu beyond speed: Gaifu is faster/better-climbing but has much higher wing loading, overlapping power loading, no closed MI gun-count/protection advantage, while A6M retains turn/endurance/maturity strengths. Robust combat state remains at V26:47-48 launch/approach. Current next: bound Gaifu roll/dive/transient and worldline A6M climb/acceleration/CAP endurance before replay. V26 canon clock remains 1941-12-07 14:30 HST."
+    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. V26:71-72 re-audit A7M Gaifu carrier combat release and set Gaifu combat-present=0 central for Apr29 and MI. National Grade-A aviation GT fuel exists, but unit-scale carrier fuel/maintenance/deck-cycle/service-release gates are not closed. Current next: re-audit Apr29 CarDiv5 defense without Gaifu while retaining Type21 warning, improved AA/FCS and 37mm; then rebuild losses, Shokaku damage, Zuikaku A6M group and MI OOB. V26 canon clock remains 1941-12-07 14:30 HST."
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/00-READ-FIRST-GENERIC.md"
@@ -19,7 +19,7 @@ scenarios:
     canonical_source: "scenarios/asai/records/V26/00-SESSION-HANDOFF-V26.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-MI-fighter-performance-audit-through-V26-70-plus-complete-v22b-source-snapshot"
+    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-Gaifu-carrier-release-reaudit-through-V26-72-plus-complete-v22b-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository; source-record-trees-preserved-during-navigation-restructure"
 
   keisanki-ibun:
