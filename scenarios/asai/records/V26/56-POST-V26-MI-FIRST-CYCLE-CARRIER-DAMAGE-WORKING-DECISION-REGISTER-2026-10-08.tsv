@@ -1,0 +1,14 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST. First-cycle damage states are replay-local WORKING.	V26:00;V26:55
+AKAGI-DAMAGE	WORKING-CLOSE	DAMAGE	Bomb2 -> battle-day aviation mission kill; propulsion/steering intact,26-28kt class, no central magazine/avgas chain detonation.	V26:53;V26:55
+KAGA-DAMAGE	WORKING-CLOSE	DAMAGE	Bomb1+imperfect Mk13 -> battle-day aviation mission kill, local flooding/list2-4deg,23-26kt, propulsion retained.	V26:53;V26:55
+SORYU-DAMAGE	WORKING-CLOSE	DAMAGE	Bomb1 -> first-cycle aviation mission kill; mobile; emergency landing possible after4-6h central.	V26:53;V26:55
+HIRYU-DAMAGE	WORKING-CLOSE	DAMAGE	Bomb1 aft/edge -> flight stop1.5-2.5h; limited recovery expected11:15-11:45 central.	V26:53;V26:55
+ZUIKAKU-DAMAGE	WORKING-CLOSE	DAMAGE	Bomb1 deck-edge/AA-gallery -> flight stop45-90min; recovery expected10:15-10:45; propulsion normal.	V26:53;V26:55
+RYUJO-DAMAGE	WORKING-CLOSE	DAMAGE	No direct hit; operational; immediate clean JP recovery deck but capacity-limited.	V26:53;V26:55
+ENTERPRISE-DAMAGE	WORKING-CLOSE	DAMAGE	D3A1+Type911+FT/HE1+FT-IR/SAP1 -> battle-day aviation MK, serious fire/flooding,22-25kt, afloat/self-propelled central.	V26:53;V26:55
+HORNET-DAMAGE	WORKING-CLOSE	DAMAGE	D3A2+FT/SAP1 -> battle-day aviation MK, propulsion intact27-29kt, serious aviation-space fires, little underwater damage.	V26:53;V26:55
+SARATOGA-DAMAGE	WORKING-CLOSE	DAMAGE	D3A1+Type911+FT/HE1+FT-IR/SAP1 -> battle-day aviation MK,20-24kt, serious fire/flooding, afloat central.	V26:53;V26:55
+US-CARRIER-DECKS	WORKING-CLOSE	RECOVERY-GATE	All three US carrier decks unavailable for immediate first-strike return; Midway diversion/ditching/emergency recovery becomes decisive.	V26:55
+JP-RECOVERY-DECKS	WORKING-CLOSE	RECOVERY-GATE	Ryujo immediate; Zuikaku ~10:15-10:45; Hiryu ~11:15-11:45; Akagi/Kaga unavailable and Soryu delayed4-6h.	V26:55
+NEXT-RECOVERY	OPEN	CURRENT-NEXT	Returning-aircraft diversion/recovery/ditching/onboard losses/aircrew rescueを閉じる。	V26:55
