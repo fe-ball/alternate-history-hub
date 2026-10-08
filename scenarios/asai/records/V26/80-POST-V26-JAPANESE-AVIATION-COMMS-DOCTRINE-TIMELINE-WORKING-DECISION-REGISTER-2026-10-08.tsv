@@ -1,0 +1,14 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:79
+RADIO-DIFFUSION-LAYERS	WORKING-CLOSE	DOCTRINE	Separate hardware usability -> procedures -> tactical employment -> command architecture; years of combat turn reliable radio into doctrine incrementally.	V7 radio;V9;V24-26;V26:79
+1932-34-RADIO	WORKING-CLOSE	TIMELINE	GT clean-radio comparison drives EMI/shielding/filtering acceptance; no fighter-doctrine change yet.	V7;V26:79
+1935-36-PROCEDURE	WORKING-CLOSE	TIMELINE	Priority aircraft radio becomes reliable enough for check/ack/lost-comms/route-report procedure; fighter impact still uneven.	V7;V26:79
+1937-COMBAT-FEEDBACK	WORKING-CLOSE	TIMELINE	China war normalizes mission check-in, join-up, contact, recall, rejoin and diversion calls in experienced aviation units.	V7;V26:79
+1938-TACTICAL-ADAPT	WORKING	TIMELINE	Three-plane shotai retained but radio permits looser task separation, altitude split, detach/rejoin and escort reassignment; dogfight remains pilot-centric.	V26:79
+1939-CONTROL	WORKING	TIMELINE	China/Nomonhan lessons spread alert, patrol sector/altitude, reserve and warning-to-launch procedures inside each service.	V9;V26:79
+1940-A6M	WORKING	TIMELINE	A6M China escort/sweeps exploit radio for multi-chutai assembly, cover/reserve and rejoin; organizational skeleton remains historical.	V24;V26:79
+1941-SYLLABUS	WORKING	TIMELINE	First-line Navy training standardizes contact/bearing/altitude, engage-hold-cover-rejoin-return, escort handoff and CAP relief procedures.	V26:79
+1942-CARRIER-CONTROL	WORKING-CLOSE	MODEL	Ship/cell plot -> CAP leader -> shotai leader chain; Type21 plugs into existing procedure. Coarse vectoring only, no continuous precision GCI.	V26:25;V26:67;V26:79
+FORMATION-FIRE	WORKING-CLOSE	DOCTRINE	No synchronized volley/finger-four; radio changes attack sequencing, cover/reserve assignment, disengage/rejoin and duplicate-pursuit control.	V8 FCS;V26:79
+V77-SUPERSESSION	WORKING-CLOSE	NAVIGATION	Retain EMI/no-precision-GCI guards from V26:77-78 but supersede any reading that fighter tactics remained static through 1937-42.	V26:77-79
+NEXT-CARDIV5-C2	OPEN	CURRENT-NEXT	Instantiate Apr29 CarDiv5 fighter-control package from the 1932-42 timeline, then run A14/A16/A18 to valid-release bands.	V26:75;V26:79
