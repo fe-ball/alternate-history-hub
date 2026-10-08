@@ -342,3 +342,16 @@ Apr29 fighter planning now uses A6M-only:
 - escort cards14/16/18, with16 as the reference.
 
 No Apr29 loss, valid-release, hit or damage result has yet been re-closed.
+
+
+## 2026-10-08 A6M radio / doctrine correction
+
+V26:77-78 narrow the worldline communications gain.
+
+The GT-aircraft spark/EMI comparison accelerates shielding, bonding, filtering, connector and radio-noise acceptance standards. This improves intelligibility/reliability of existing radios.
+
+It does not by itself create new fighter formation doctrine, coordinated formation fire, mutual-support tactics, or mature fighter direction.
+
+Air-control improvement is retained at warning/reporting/plotting/readiness/local handoff/coarse vector level. Precision carrier GCI remains absent.
+
+Apr29 replay must use this narrower interpretation.
