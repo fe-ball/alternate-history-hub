@@ -18,9 +18,9 @@
     "Japan_China": "WAR-CONTINUES"
   },
   "working_history": {
-    "latest_campaign_close": "Replay-local MI combat model is technically audited through V26:70. Robust combat state still stops at V26:47-48 launch/approach. V26:49-50 numerical combat outputs remain provisional baselines; V26:51-56 exploratory only. V26:69-70 compare worldline A6M2 and A7M Gaifu beyond speed: Gaifu has higher speed/climb but much higher wing loading, overlapping power loading, no closed MI gun-count or protection advantage, and less mature/endurance-oriented carrier service. High-speed roll/dive/transient response remain open.",
+    "latest_campaign_close": "V26:71-72 re-audit A7M Gaifu carrier combat release. Central Apr29 and MI combat-present Gaifu = 0. National Grade-A aviation GT fuel and E6 service culture exist, but unit-scale carrier fuel/maintenance/deck-cycle/service-release gates are not closed. Prior V26:25 Gaifu production/service quantities and all Gaifu-dependent Apr29/MI force-state outputs are reopened. Current replay frontier moves back to Apr29 CarDiv5 defense re-audit.",
     "status": "WORKING",
-    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38. Japanese MI carrier deployment timing is carried in V26:39-40; U.S. MI carrier timing in V26:41-42; final pre-combat MI OOB in V26:43-44. MI Jun4 starting geometry, search allocation and first carrier contacts are carried in V26:45-46. MI strike-package and launch timing are carried in V26:47-48; interception/CAP-AA and valid-release closure in V26:49-50. MI multi-stage FT screen suppression is carried in V26:51-52; first-cycle direct hits in V26:53-54; immediate carrier damage states in V26:55-56. V26:57-58 roll the MI replay back to V26:49-50 and demote V26:51-56 to exploratory samples. Heterogeneous CAP / multistage attack model is carried in V26:59-60; Gaifu role cards V26:61-62; FT preload/target model V26:63-64; Gaifu technical grounding V26:65-66. CAP observability/control friction and TRUE_STATE versus CONTROLLER_ESTIMATE are carried in V26:67-68. A6M2/Gaifu full-performance comparative audit is carried in V26:69-70.",
+    "coverage": "Pearl/Enterprise; Southern samples; Wake/Saratoga repair rebase; FT technical/doctrine/damage audit; 1942Q1 Makassar/Timor/Lexington/Lae; Indian Ocean Force A; Yorktown Apr9; Crace Apr12; Doolittle-type Enterprise/Hornet allocation; revised Port Moresby Apr15-18; Lexington reinforcement and Apr29 CarDiv5 action; MI/AL force planning; spring-1942 carrier aircraft, H7Y/water-air, radar, AA, FCS, surface-gunnery/torpedo-FCS and ASW equipment integration. Exact MI destroyer/escort hull and radar/ASW-role allocation is now carried in V26:27-28. FT family tactical doctrine by variant/warhead/target class is integrated in V26:29-30. Spring-1942 Type91/FT-family/Type93 stock and MI force allocation is now carried in V26:31-32. Apr29 Shokaku central hit/damage/repair adjudication is carried in V26:33-34. Apr29 aircraft/aircrew loss ledger is carried in V26:35-36; Zuikaku MI regeneration is carried in V26:37-38. Japanese MI carrier deployment timing is carried in V26:39-40; U.S. MI carrier timing in V26:41-42; final pre-combat MI OOB in V26:43-44. MI Jun4 starting geometry, search allocation and first carrier contacts are carried in V26:45-46. MI strike-package and launch timing are carried in V26:47-48; interception/CAP-AA and valid-release closure in V26:49-50. MI multi-stage FT screen suppression is carried in V26:51-52; first-cycle direct hits in V26:53-54; immediate carrier damage states in V26:55-56. V26:57-58 roll the MI replay back to V26:49-50 and demote V26:51-56 to exploratory samples. Heterogeneous CAP / multistage attack model is carried in V26:59-60; Gaifu role cards V26:61-62; FT preload/target model V26:63-64; Gaifu technical grounding V26:65-66. CAP observability/control friction and TRUE_STATE versus CONTROLLER_ESTIMATE are carried in V26:67-68. A6M2/Gaifu full-performance comparative audit is carried in V26:69-70. Gaifu carrier combat-release/fuel-logistics correction V26:71-72 reopens Apr29 CarDiv5 and MI OOB.",
     "not_global_advancement": [
       "Malaya replay-local case studies",
       "Jan reconnaissance / repair / regeneration projections",
@@ -57,7 +57,8 @@
       "MI heterogeneous CAP / multistage attack state model V26:59-60",
       "Gaifu role-allocation cards V26:61-62",
       "FT preload/target-allocation model V26:63-64",
-      "Gaifu technical grounding/correction V26:65-66"
+      "Gaifu technical grounding/correction V26:65-66",
+      "Gaifu carrier combat-release/fuel-logistics re-audit V26:71-72"
     ]
   },
   "discussion_frontier": {
@@ -109,11 +110,12 @@
       "FT preload versus contact-target choice model V26:63-64",
       "Gaifu technical performance grounded/corrected V26:65-66",
       "CAP true-state vs controller-estimate / observability correction V26:67-68",
-      "A6M2/Gaifu full-performance comparative audit V26:69-70"
+      "A6M2/Gaifu full-performance comparative audit V26:69-70",
+      "Gaifu removed from Apr29/MI central combat OOB; dependent force state reopened V26:71-72"
     ],
-    "next_gate": "Bound Gaifu high-speed roll/control, dive/prop-overspeed/recovery and transient acceleration, plus worldline A6M2 climb/acceleration and both types' MI CAP endurance. Then run Gaifu role cards through the U.S. arrival sequence. See V26:69-70.",
-    "next_gate_source": "V26:69-70",
-    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; combat outcomes beyond launch/approach remain reopened. V26:49-50 numerical outcomes are provisional baselines; V26:51-56 are exploratory only. V26 canon remains 1941-12-07 14:30 HST."
+    "next_gate": "Re-audit Apr29 CarDiv5 defense without Gaifu while retaining Type21 warning, improved Type89/Type94 AA/FCS and 37-mm layer; then re-close Apr29 fighter/aircrew losses and Shokaku damage, rebuild Zuikaku end-May A6M fighter group, and rebuild the Japanese MI carrier-air OOB before returning to MI combat. See V26:71-72.",
+    "next_gate_source": "V26:71-72",
+    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; MI combat replay is rolled back because the Gaifu combat-presence assumption was not supported by a closed carrier-service/logistics gate. Current next event to re-adjudicate is Apr29 CarDiv5 defense. V26 canon remains 1941-12-07 14:30 HST."
   },
   "default_read_order": [
     "current/active/00-SESSION-HANDOFF.md",
@@ -376,6 +378,12 @@
     },
     "V26:70": {
       "path": "records/V26/70-POST-V26-MI-A6M2-GAIFU-PERFORMANCE-AUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+    },
+    "V26:71": {
+      "path": "records/V26/71-POST-V26-GAIFU-CARRIER-COMBAT-RELEASE-FUEL-LOGISTICS-REAUDIT-2026-10-08.md"
+    },
+    "V26:72": {
+      "path": "records/V26/72-POST-V26-GAIFU-CARRIER-RELEASE-REAUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv"
     }
   },
   "lineage_sources": [
@@ -411,5 +419,5 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-MI-fighter-performance-audit-through-V26-70"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-Gaifu-carrier-release-reaudit-through-V26-72"
 }
