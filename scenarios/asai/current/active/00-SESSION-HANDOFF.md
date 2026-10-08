@@ -859,3 +859,37 @@ Apr29 card correction:
 ## CURRENT NEXT
 
 Run A12/A15/A18 in both directions of the Apr29 carrier action to loss/abort/valid-release bands only.
+
+
+---
+
+# 2026-10-08 V26:83-84 communications/CAP reconciliation
+
+V26:83-84 are the current navigation authority for the communication/doctrine re-audit.
+
+Reconciled spring-1942 state:
+- three-plane shotai / nine-plane chutai retained;
+- reliable leader-level tactical voice is normal when equipment is serviceable;
+- years of China combat produce split/reform, cover/reserve, attack-sequencing, regroup and fuel/relief procedures;
+- carrier/base control can maintain a group-level sector/task picture and issue broad retask;
+- Type21 feeds this existing control loop;
+- no precision altitude, individual fighter tracking, IFF, modern CIC or mature GCI.
+
+Apr29 CarDiv5:
+- A6M-only;
+- serviceable30-34, center32;
+- Gaifu0 central;
+- old A14/A16 tactical cards are superseded by shotai-compatible A12/A15/A18;
+- A15 is the reference: A6M15 escort + D3A27 + B5N27 =69 aircraft; ~17 serviceable A6M remain for defense/relief at pool32.
+
+A15 defensive warning-state planning band:
+- 6-9 airborne;
+- 3-6 deck-ready reinforcement;
+- remainder cycling;
+with exact timing replayed.
+
+No Apr29 loss, valid-release, hit or damage result is closed.
+
+## CURRENT NEXT
+
+Run A12/A15/A18 through both Apr29 strike directions to loss/abort/valid-release bands only, using COM/CMD/D discipline transitions. Stop before hits.
