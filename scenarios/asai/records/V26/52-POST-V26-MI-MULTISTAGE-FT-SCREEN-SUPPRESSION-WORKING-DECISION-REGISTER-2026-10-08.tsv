@@ -1,0 +1,11 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST. Multi-stage attack re-audit is replay-local WORKING.	V26:00;V26:51
+FT-TARGET-ALLOCATION	WORKING-CLOSE	TACTICS	22 valid FT split: 8 screen/AA suppression +14 carrier-directed exploitation; do not treat all FT as carrier shots.	V26:29;V26:31;V26:51
+FT-FAMILY-REVISION	WORKING-CLOSE	WEAPONS	25 launched central = standard16/IR7/GR2; valid standard13/IR7/GR2. Supersedes V26:47 GR0 simplification.	V26:31;V26:51
+TF16-SCREEN-SUPPRESSION	WORKING	DAMAGE	Atlanta takes 1 FT/HE direct hit central -> first-window AA/command mission kill; adjacent corridor AA effectiveness falls20-30% temporarily.	V26:51
+SARATOGA-SCREEN-SUPPRESSION	WORKING	DAMAGE	Portland takes useful FT-GR/HE direct/very-close topside effect central -> local AA degradation10-20%; propulsion intact.	V26:51
+JP-STRIKE-LOSS-REVISED	WORKING	AIR-COMBAT	JP counterstrike irreversible revised18->16 central because later AA attrition falls after suppression; CAP remains dominant.	V26:49;V26:51
+JP-VALID-D3A-REVISED	WORKING-CLOSE	VALID-RELEASE	D3A valid revised34->37/46 central after dynamic local AA suppression.	V26:49;V26:51
+JP-VALID-T91-REVISED	WORKING-CLOSE	VALID-RELEASE	Type91 valid revised16->19/25 central; low-altitude inner approach benefits most from opened AA corridors.	V26:49;V26:51
+JP-VALID-FT	WORKING-CLOSE	VALID-RELEASE	FT valid remains22/25, but only14 are carrier-directed; 8 are screen/AA suppression.	V26:49;V26:51
+NEXT-HITS	OPEN	CURRENT-NEXT	Revised dynamic geometryでUS SBD/TBD and JP D3A/Type91/carrier-FT direct hitsを判定。	V26:51
