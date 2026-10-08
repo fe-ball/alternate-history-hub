@@ -56,6 +56,10 @@
 - [V26:70 matching performance register](records/V26/70-POST-V26-MI-A6M2-GAIFU-PERFORMANCE-AUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:71 Gaifu carrier combat-release / fuel-logistics re-audit](records/V26/71-POST-V26-GAIFU-CARRIER-COMBAT-RELEASE-FUEL-LOGISTICS-REAUDIT-2026-10-08.md)
 - [V26:72 matching Gaifu release register](records/V26/72-POST-V26-GAIFU-CARRIER-RELEASE-REAUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:73 worldline A6M homogeneous CAP / Gaifu marginal-value re-audit](records/V26/73-POST-V26-WORLDLINE-A6M-HOMOGENEOUS-CAP-GAIFU-MARGINAL-VALUE-REAUDIT-2026-10-08.md)
+- [V26:74 matching A6M CAP register](records/V26/74-POST-V26-APR29-A6M-HOMOGENEOUS-CAP-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:75 Apr29 A6M-only fighter force / escort-defense cards](records/V26/75-POST-V26-APR29-CARDIV5-A6M-ONLY-FIGHTER-FORCE-ESCORT-DEFENSE-CARDS-2026-10-08.md)
+- [V26:76 matching fighter-force register](records/V26/76-POST-V26-APR29-A6M-ONLY-FIGHTER-FORCE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
@@ -82,13 +86,12 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:71-72でGaifuのApr29/MI combat-presentを0 centralへ修正。現行frontierはApr29 CarDiv5 defense再監査。**
+**V26:73-76でApr29 CarDiv5をA6M-only forceとして再構築。戦果は未固定。**
 
-1. Gaifu抜きでApr29 CarDiv5防空を再監査
-2. fighter/aircrew lossとShokaku damage branchを再閉鎖
-3. Zuikaku end-May A6M fighter groupを再構築
-4. Japanese MI carrier-air OOB / Cell3 escortを再構築
-5. その後にMI combat modelへ復帰
+1. A14 / A16 / A18 escort-defense cardsをJapanese strikeへ通す
+2. 同じcardsをLexington counterstrike defenseへ通す
+3. 双方のloss / abort / valid-release bandsを再導出
+4. direct-hit adjudication前で止める
 
 ## 構造
 
