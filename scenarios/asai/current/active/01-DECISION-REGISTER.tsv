@@ -127,3 +127,9 @@ A6M-RADIO-EMI	WORKING-CLOSE	TECH	GT control experiment accelerates ignition shie
 A6M-FORMATION-DOCTRINE	WORKING-CLOSE	DOCTRINE	No general IJN fighter formation/coordinated-firing doctrine reform is closed; retain historical-type tactical baseline.	V7;V26:77-78
 A6M-FIGHTER-DIRECTION	WORKING-CLOSE	DOCTRINE	Air-control gain is detect/report/plot/alert/launch/coarse vector; no precision altitude/continuous tracking/mature carrier GCI.	V26:23;V26:25;V26:77-78
 APR29-RADIO-CORRECTION	OPEN	CURRENT-NEXT	A14/A16/A18 replay must remove unsupported formation-handling multiplier and retain only supported comms/FCS/warning gains.	V26:75-78
+COMMS-DOCTRINE-DIFFUSION	WORKING-CLOSE	DOCTRINE	1932-42 usable radio + continuous war creates procedural/tactical evolution; V26:77 historical-static reading superseded in part.	V26:79-80
+SHOTAI-1942	WORKING-CLOSE	DOCTRINE	Three-plane shotai/nine-plane chutai retained, but leader-level split/reform, high-cover, attack sequencing and regroup are radio-assisted by spring1942.	V26:79-80
+CARRIER-CAP-C2	WORKING-CLOSE	MODEL	Carrier division can prebrief sectors/altitude/relief, maintain group-level status via CAP-leader reports and issue broad retask; no individual tracking/precision GCI.	V26:79-82
+COM-CMD-STATES	WORKING-CLOSE	MODEL	First-line A6M uses COM2 normally when serviceable; CMD2 normal and CMD3 pre/early-contact possible, degrading in dense merge.	V26:79-82
+CAP-DISCIPLINE-STATES	WORKING-CLOSE	MODEL	Use D3 group discipline -> D2 shotai -> D1 local -> D0 fragmented; improved comms slows collapse but does not eliminate aggressive pursuit/dogpile.	V26:81-82
+NEXT-APR29-C2-VALID	OPEN	CURRENT-NEXT	Run A14/A16/A18 through warning/CAP/COM-CMD-D/F4F/SBD-TBD/AA to valid-release bands only; no hits.	V26:75-82
