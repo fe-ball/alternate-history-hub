@@ -1,0 +1,11 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains1941-12-07T14:30 HST.	V26:00;V26:89
+ENTERPRISE-REAUDIT	OPEN	TIER1	First clear carrier-fighter peer contest; retain54-aircraft strike anchor but reopen fighter losses, valid releases and dependent hit packet.	V26:16-17;V26:79-89
+WAKE-SARATOGA-REAUDIT	OPEN	TIER1	First true two-way carrier exchange; A6M12=two6-aircraft packages. Reopen both strike penetration chains and hit packets.	V26:07;V26:17;V26:89
+FEB20-LEXINGTON	OPEN	TIER2	Not A6M-vs-F4F peer fight; re-audit bomber command/radar-CAP/valid release only if needed. Damage conclusion may survive.	V26:17;V26:21;V26:89
+INDIAN-OCEAN-REAUDIT	OPEN	TIER1	A6M18=three6-aircraft packages vs radar-cued British mixed CAP; reopen losses, valid releases and dependent carrier hits.	V26:19;V26:89
+APR9-YORKTOWN-REAUDIT	OPEN	TIER1	Direct MO upstream; A6M12 two6-aircraft packages vs US carrier CAP. Reopen15/7/8 valid release and dependent hit/damage result.	V26:19;V26:21;V26:89
+APR12-CRACE	WORKING	TIER3-FIGHTER	No peer CAP central; fighter cell model does not force reset, though multistage strike command may later be re-audited.	V26:21;V26:63;V26:87;V26:89
+APR29	OPEN	CURRENT-DOWNSTREAM	Already reopened under Gaifu removal/A6M-only/C2 model.	V26:71-88
+PEER-FIGHTER-START	WORKING-CLOSE	INTERPRETATION	Enterprise is first clear carrier-fighter peer contest; Wake/Saratoga is first true two-way carrier exchange.	V26:16-17;V26:07;V26:89
+REPAIR-WORKFLOW	OPEN	CURRENT-NEXT	Preferred doctrine-consistent repair: Enterprise -> Wake/Saratoga -> Feb20 check -> Indian Ocean -> Apr9 -> Apr29, preserving robust search/force-state inputs and reopening only command/valid-release-dependent outputs.	V26:89
