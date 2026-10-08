@@ -123,3 +123,7 @@ APR29-A6M-POOL	WORKING	FORCE-STATE	Serviceable30-34 center32; ready29-32; no one
 APR29-A16	WORKING	REFERENCE	Balanced reference escort16/defense16 at pool32; total strike70 with D3A27/B5N27.	V26:75-76
 APR29-CARDS	WORKING	SENSITIVITY	A14 defense-heavy and A18 offense-heavy retained for valid-release sensitivity.	V26:75-76
 NEXT-APR29-VALID	OPEN	CURRENT-NEXT	Recompute both directions to valid-release bands only; no hits yet.	V26:75-76
+A6M-RADIO-EMI	WORKING-CLOSE	TECH	GT control experiment accelerates ignition shielding/bonding/filtering; existing fighter radio becomes more intelligible/reliable, not fundamentally longer-range/networked.	V7;V26:77-78
+A6M-FORMATION-DOCTRINE	WORKING-CLOSE	DOCTRINE	No general IJN fighter formation/coordinated-firing doctrine reform is closed; retain historical-type tactical baseline.	V7;V26:77-78
+A6M-FIGHTER-DIRECTION	WORKING-CLOSE	DOCTRINE	Air-control gain is detect/report/plot/alert/launch/coarse vector; no precision altitude/continuous tracking/mature carrier GCI.	V26:23;V26:25;V26:77-78
+APR29-RADIO-CORRECTION	OPEN	CURRENT-NEXT	A14/A16/A18 replay must remove unsupported formation-handling multiplier and retain only supported comms/FCS/warning gains.	V26:75-78
