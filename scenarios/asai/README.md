@@ -54,6 +54,8 @@
 - [V26:68 matching observability register](records/V26/68-POST-V26-MI-CAP-OBSERVABILITY-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:69 A6M2/Gaifu full-performance audit](records/V26/69-POST-V26-MI-A6M2-GAIFU-FULL-PERFORMANCE-COMPARATIVE-AUDIT-WORKING-HANDOFF-2026-10-08.md)
 - [V26:70 matching performance register](records/V26/70-POST-V26-MI-A6M2-GAIFU-PERFORMANCE-AUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:71 Gaifu carrier combat-release / fuel-logistics re-audit](records/V26/71-POST-V26-GAIFU-CARRIER-COMBAT-RELEASE-FUEL-LOGISTICS-REAUDIT-2026-10-08.md)
+- [V26:72 matching Gaifu release register](records/V26/72-POST-V26-GAIFU-CARRIER-RELEASE-REAUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
@@ -80,13 +82,13 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:59-66でheterogeneous CAP / FT multistage modelとGaifu technical groundingまでWORKING-CLOSE。戦果は未固定。**
+**V26:71-72でGaifuのApr29/MI combat-presentを0 centralへ修正。現行frontierはApr29 CarDiv5 defense再監査。**
 
-1. Gaifu G-E / G-B / G-D role cardsを実際のU.S. arrival sequenceへ通す
-2. Japanese CAP state更新後にSBD/TBD release bandsを再導出
-3. FT-D / FT-B / FT-S preload-target cardsをupdated U.S. defenseへ通す
-4. D3A / Type91 / FT release bandsを再導出
-5. その後にのみdirect hit adjudication
+1. Gaifu抜きでApr29 CarDiv5防空を再監査
+2. fighter/aircrew lossとShokaku damage branchを再閉鎖
+3. Zuikaku end-May A6M fighter groupを再構築
+4. Japanese MI carrier-air OOB / Cell3 escortを再構築
+5. その後にMI combat modelへ復帰
 
 ## 構造
 
