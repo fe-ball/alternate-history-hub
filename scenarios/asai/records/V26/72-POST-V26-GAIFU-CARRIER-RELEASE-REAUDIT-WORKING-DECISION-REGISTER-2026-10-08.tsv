@@ -1,0 +1,12 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:71
+GAIFU-FUEL-STATE	WORKING-CLOSE	TECH	National Grade-A aviation GT fuel and E6 service culture exist; fuel supply itself is not the blocker.	V16 fuel/sustainment;V26:71
+GAIFU-SERVICE-GATE	WORKING-CLOSE	FORCE-STATE	Inherited authority says 1941 prototype/service evaluation plausible and mass service not pre-recorded; V26:25 accepted/service/carrier-qualified quantities are reopened.	V11 aircraft-development;V26:25;V26:71
+GAIFU-SHIPBOARD-GATE	OPEN	LOGISTICS	No current closure for segregated Grade-A carrier storage/transfer/filtration + GT core/reducer/prop support + unit-scale deck-cycle proof by Apr-May1942.	V16 sustainment;V26:71
+GAIFU-APR29	WORKING-CLOSE	FORCE-STATE	Apr29 CarDiv5 Gaifu combat-present0 central; home-water 2-4 evaluation tail only.	V26:71
+GAIFU-MI	WORKING-CLOSE	FORCE-STATE	MI May27 Gaifu combat-present0 central; do not count 12 in Zuikaku OOB.	V26:71
+GAIFU-FIELDING	WORKING	OUTLOOK	Post-MI 1942H2 is natural sustained-fleet-detachment window if procurement/carrier/fuel/maintenance/unit-exercise gates close; exact date OPEN.	V26:71
+APR29-REOPEN	OPEN	CURRENT-NEXT	Re-audit Apr29 CarDiv5 defense, fighter losses and Shokaku damage without Gaifu; radar/AA/37mm remain.	V26:25;V26:33-38;V26:71
+ZUIKAKU-REOPEN	OPEN	AFTER-APR29	Rebuild end-May Zuikaku A6M fighter group; do not silently replace Gaifu12 one-for-one.	V26:37;V26:71
+MI-OOB-REOPEN	OPEN	AFTER-ZUIKAKU	Rebuild Japanese MI331/311 totals and Cell3 fighter mix before combat replay.	V26:39-48;V26:71
+GAIFU-MODEL-STATUS	SENSITIVITY/FUTURE	DO-NOT-ROLL-MI	V26:59-70 Gaifu combat models retained for technical/future use but not current MI central.	V26:59-71
