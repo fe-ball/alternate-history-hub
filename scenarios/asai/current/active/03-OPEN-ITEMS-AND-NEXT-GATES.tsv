@@ -1,15 +1,16 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:57-58でV26:51-56の戦果固定を撤回。現行combat frontierはV26:49-50 valid-release closure。multi-stage attack state-transition model構築から再開。	V26:49-50;V26:57-58
-1	MI-STRIKE-PACKAGES	WORKING-CLOSE	ROLLED-FORWARD	US carrier strike169、JP anti-carrier counterstrike132、Midway first wave108。	V26:47-48
-2	MI-CAP-AA-VALID	PROVISIONAL	BASELINE	US SBD70/TBD17、JP D3A34/Type9116/FT22はpre-multistage baseline。JP後段値は再監査で変動しうる。	V26:49-50;V26:57-58
-3	MI-MULTISTAGE-MODEL	OPEN	CURRENT-NEXT	Phase ordering、carrier/screen target choice、AA/CAP/maneuver state更新、later-stage exposureをモデル化。	V26:29;V26:57-58
-4	MI-TARGET-ALLOCATION	OPEN	AFTER-MODEL	FTをcarrier/director/cruiser/screenへ何発配るかを状況依存で決定。固定8/14は採用しない。	V26:57
-5	MI-REVISED-VALID	OPEN	AFTER-TARGET-ALLOCATION	多段状態更新後にD3A/Type91/FTのvalid releaseを再導出。	V26:57
-6	MI-DIRECT-HITS	OPEN	AFTER-REVISED-VALID	Direct hit packetはrevised valid release後のみ。	V26:57
-7	MI-DAMAGE-STATE	OPEN	AFTER-HITS	Hit location/fire/flooding/deck/propulsion/aviation stateはhit packet後のみ。	V26:57
-8	V26-51-56	DISCUSSION-SAMPLE	DO-NOT-ROLL-FORWARD	旧multi-stage allocation/hit/damage数値は探索例。現行結果として使用禁止。	V26:51-58
-9	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speed厳密CLOSE。	V26:21#1
-10	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOF厳密CLOSE。	V26:21#1
-11	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	FT fuel type/load/flow/residual fuel/thermal stateを閉じる。	V26:21#1-2
-12	FT-FUSE-PENETRATION	OPEN	PARALLEL-TECH	SAP fuse delay/penetration/structural energy-loss tableを閉じる。	V26:21#2
-13	PM-BASE-GROWTH	WORKING	DEFERRED	Apr18 capture後のairfield/harbor/fuel/service-release growth。	V26:21#8
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:59-66でheterogeneous CAP / FT multistage modelとGaifu technical groundingを閉じた。Gaifu role cardsをactual US wave timingへ通すところから再開。	V26:59-66
+1	MI-LAUNCH-STATE	WORKING-CLOSE	ROLLED-FORWARD	Robust combat inputはV26:47-48 launch/approachまで。	V26:47-48;V26:59
+2	MI-V49-50-BASELINE	PROVISIONAL	BASELINE	V26:49-50 air-loss/valid-release数値は比較baselineであり現行結果ではない。	V26:49-50;V26:59
+3	GAIFU-TECH	WORKING-CLOSE	MODEL	Gaifu575-600 normal/595-615 short、6km6.0-6.8min normal。Sakufu670-710と混同禁止。	V26:65-66
+4	GAIFU-ROLE-ALLOC	WORKING	CURRENT-NEXT	G-E8/3/0、G-B5/5/1、G-D3/7/1 escort/CAP/reserveをUS wave timingへ通す。	V26:61-62
+5	US-REVISED-VALID	OPEN	AFTER-GAIFU	Mixed CAP state更新後にSBD/TBD losses/abort/valid release bandsを再導出。	V26:59-66
+6	FT-PRELOAD-TARGET	WORKING	AFTER-GAIFU	FT-D/FT-B/FT-S preload + contact target choice + SUP-0..3をupdated US defense stateへ通す。	V26:63-64
+7	JP-REVISED-VALID	OPEN	AFTER-FT	D3A/Type91/FT release bandsを多段状態更新後に再導出。	V26:59-64
+8	MI-DIRECT-HITS	OPEN	AFTER-REVISED-VALID	Direct hit adjudicationは双方のrevised valid release closure後のみ。	V26:59-66
+9	V26-51-56	DISCUSSION-SAMPLE	DO-NOT-ROLL-FORWARD	旧allocation/hit/damage数値は探索例。現行結果として使用禁止。	V26:51-58
+10	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speed厳密CLOSE。	V26:21#1
+11	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOF厳密CLOSE。	V26:21#1
+12	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	FT fuel type/load/flow/residual fuel/thermal stateを閉じる。	V26:21#1-2
+13	FT-FUSE-PENETRATION	OPEN	PARALLEL-TECH	SAP fuse delay/penetration/structural energy-loss tableを閉じる。	V26:21#2
+14	PM-BASE-GROWTH	WORKING	DEFERRED	Apr18 capture後のairfield/harbor/fuel/service-release growth。	V26:21#8
