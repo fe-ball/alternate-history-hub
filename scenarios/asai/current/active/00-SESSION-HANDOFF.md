@@ -715,3 +715,33 @@ Consequences:
 ## CURRENT NEXT
 
 Re-run Apr29 CarDiv5 defense without Gaifu, retaining radar/AA/FCS/37mm improvements. Then rebuild the loss ledger, Shokaku damage, Zuikaku A6M fighter group and MI OOB before returning to combat.
+
+
+---
+
+# 2026-10-08 Apr29 A6M-only force planning
+
+V26:73-76 close the doctrine/force-state re-audit after Gaifu is removed from combat OOB.
+
+Key point:
+worldline A6M2 is materially improved over historical-stock A6M in prop/exhaust/QC/radio/boresight/reacceleration, so the marginal value of an immature different-fuel Gaifu detachment is narrower than a historical comparison suggests.
+
+Apr29 central planning:
+- CarDiv5 fighter type = A6M only;
+- serviceable A6M = 30-34, center32;
+- ready ~29-32;
+- pilot cadre is not the acute limiter central;
+- A14 / A16 / A18 escort cards retained;
+- A16 reference = A6M16 escort + ~16 defensive remainder at pool32;
+- D3A27 / B5N27 retained;
+- central Japanese strike scale ~70 under A16.
+
+Homogeneous CAP differentiates by altitude/fuel/readiness:
+A6M-H / A6M-M / A6M-L / A6M-R.
+This reduces mixed-type C2/deck/fuel friction but does not recreate Gaifu's climb/speed envelope.
+
+No Apr29 valid releases or hits are closed yet.
+
+## CURRENT NEXT
+
+Run A14/A16/A18 through both directions of the Apr29 carrier action and derive only loss/abort/valid-release bands. Stop before hits.
