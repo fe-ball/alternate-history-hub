@@ -426,3 +426,15 @@ The worldline's communications maturity does not imply centralized micromanageme
 CAP remains shared-control longer; long-range strikes become more airborne-led after contact.
 
 Apr29 combat outcomes remain OPEN.
+
+
+## 2026-10-08 pre-MO combat re-audit map
+
+V26:89-90 classify prior battles by sensitivity to the revised communications/command model.
+
+Enterprise is the first clear carrier-fighter peer contest.
+Wake/Saratoga is the first true two-way carrier exchange.
+Apr5 Force A and Apr9 Yorktown are also Tier-1 re-audit cases.
+Feb20 Lexington is a lower-priority bomber-interception command case.
+
+Do not reset robust search/contact/force-state inputs; reopen the fighter-command-dependent attrition -> valid-release -> hit chain only.
