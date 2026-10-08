@@ -182,6 +182,28 @@ FT's major divergence begins after Enterprise contact.
 
 ## 9. Enterprise strike — revised WORKING overlay
 
+### 9.0 Supersession note — FT/Type91 doctrine provenance
+
+The original V26:16 wording below that treats Enterprise as the discovery point of FT/Type91 synergy is preserved only as provenance.
+
+**Current authority: V26:17, V26:29, V26:83-88.**
+
+Use instead:
+- mixed FT + Type91 tactical study begins prewar;
+- 1939-40 exercises compare FT-first, Type91-first, simultaneous/multi-axis and screen-suppression forms;
+- 1940-41 target-class allocation / mixed attack cards mature before combat;
+- late-1941 doctrine is imperfect but institutional, not improvised.
+
+Therefore Enterprise is:
+**the first major combat validation / stress test of an already-developed mixed-weapon doctrine against a live maneuvering carrier under fighter/AA opposition, not the point at which the Navy discovers the concept.**
+
+The prewar doctrine already includes the option:
+FT/HE suppression of AA / command / aviation-support -> D3A/continued pressure -> Type91 underwater attack -> SAP exploitation.
+
+It also includes Type91-first when inducing a combing turn is more valuable.
+
+Any contrary "first discovery / accidental synergy" language below is SUPERSEDED.
+
 V26 contact/search skeleton retained:
 - Enterprise found ~08:17–08:20 HST;
 - Lexington unlocated;
@@ -368,6 +390,15 @@ Rationale:
 - daylight large targets do not justify spending scarce IR;
 - standard FT is now sufficiently mature on G3M/G4M-compatible adapters;
 - Type 91 remains the primary sinking / underwater-mobility weapon.
+
+### 15.0 Supersession note — Force Z
+
+The original wording that Force Z is the first deliberate separated FT/Type91 attack is SUPERSEDED by V26:17 and V26:29.
+
+Force Z should instead be read as:
+- an early combat application of a prewar separated/mixed-attack doctrine;
+- informed by Enterprise combat data on real CAP/AA/target maneuver;
+- a refinement of timing, signaling, target allocation and damage expectations, not discovery of the basic concept.
 
 ### 15.1 Tactical evolution
 
