@@ -1,0 +1,8 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:61
+GAIFU-POOL	WORKING-CLOSE	FORCE-STATE	Zuikaku Gaifu12 serviceable/11 24h-ready central; exact role split is tactical allocation.	V26:37;V26:61
+GAIFU-ESCORT-SPLIT	WORKING	TACTICS	V26:47 Gaifu8 escort is reopened. Candidate cards: escort-heavy8/3/0, balanced5/5/1, defense-heavy3/7/1 (escort/CAP/reserve).	V26:47;V26:61
+GAIFU-BALANCED-CENTER	WORKING	TACTICS	At ~0700 with three US carriers identified and inbound strike expected, balanced Gaifu5 escort/5 CAP/1 reserve is planning center, not combat result.	V26:45;V26:61
+CELL3-ESCORT-REVISED	PROVISIONAL	STRIKE-PACKAGE	Cell3 attack aircraft D3A14/B5N15/B6N3 retained; fighter mix reopened, balanced center Gaifu5+A6M9=14.	V26:47;V26:61
+HETERO-CAP-LAYERS	WORKING-CLOSE	MODEL	Gaifu outer/high, A6M middle/inner, mixed re-engagement; value is layer preservation/reach, not generic kill multiplier.	V26:59;V26:61
+NEXT-US-WAVES	OPEN	CURRENT-NEXT	Run G-B center plus G-E/G-D sensitivity against Enterprise/Saratoga/Hornet arrival elements; derive CAP state changes before valid release.	V26:61
