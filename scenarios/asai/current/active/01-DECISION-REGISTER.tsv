@@ -146,3 +146,8 @@ NEXT-APR29-VALID-RECONCILED	OPEN	CURRENT-NEXT	Run A12/A15/A18 both directions to
 FIGHTER-CELL-SIZE	WORKING-CLOSE	DOCTRINE	Spring1942 carrier central retains3-aircraft shotai but uses6-aircraft/two-shotai controlled tactical package; nine-aircraft chutai can act as6+3.	V26:85-86
 FOUR-PLANE-TRIAL	WORKING	SENSITIVITY	Four-aircraft2+2 trials plausible from1940H2-41 selected units, but full benefit requires pair-mutual-support doctrine/training beyond radio reliability.	V26:85-86
 APR29-CELL-MAP	WORKING-CLOSE	MODEL	A12=6+6; A15=6+6+3 reference; A18=6+6+6 or6+6+3+3.	V26:85-86
+AVIATION-COMMAND-ARCH	WORKING-CLOSE	MODEL	Separate operational mission command, ship/base air-ops, airborne tactical command and fighter-direction control.	V26:87-88
+AIRBORNE-AUTHORITY	WORKING-CLOSE	DOCTRINE	After contact, overall strike/type/package/shotai leaders own local attack geometry within prebriefed intent; below-side exact-geometry micromanagement is rejected.	V26:87-88
+BELOW-SIDE-AUTHORITY	WORKING-CLOSE	DOCTRINE	Force/air staff owns objective/priority/reserve; carrier/base owns deck/readiness; plot/controller owns warning/group cueing.	V26:87-88
+B-A-CMD	WORKING-CLOSE	MODEL	Use B-CMD0-3 and A-CMD0-3 plus explicit handoff latency/failure; B2/A2 normal prepared state, B3/A3 temporary high-function state.	V26:87-88
+NEXT-APR29-COMMAND	OPEN	CURRENT-NEXT	Instantiate command/handoff states inside A12/A15/A18 before valid-release recalculation.	V26:87-88
