@@ -271,3 +271,19 @@ Central:
 - Enterprise/Hornet/Saratoga all lose immediate carrier-flight capability but remain afloat/self-propelled.
 
 Current next is the recovery/ditching/rescue ledger, not another hit roll.
+
+
+## 2026-10-08 MI combat-model rollback
+
+V26:51-56 are exploratory samples only and do not define current combat outcomes.
+
+Current MI combat frontier is V26:49-50 valid-release closure.
+
+Before any hit result, reopen:
+- multi-stage phase ordering;
+- carrier versus screen/AA target allocation;
+- local defense degradation;
+- maneuver and CAP reaction;
+- revised later-stage valid releases.
+
+The qualitative screen-suppression mechanism remains available; its numerical realization is OPEN.
