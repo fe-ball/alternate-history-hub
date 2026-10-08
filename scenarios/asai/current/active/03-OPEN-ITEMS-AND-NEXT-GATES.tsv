@@ -1,5 +1,5 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:83-84で通信/doctrine/CAP重複を統合。Apr29はA12/A15/A18（A15 reference）をCOM/CMD/D + Type21/visual warning + F4F/SBD/TBD + AAへ通し、valid-release bandsまで再演する。
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:85-86で3機shotai維持＋6機two-shotai controlled packageをspring1942 centralに採用。A12/A15/A18を6+6 / 6+6+3 / 6+6+6系でvalid-release bandsまで再演。
 1	GAIFU-CARRIER-SERVICE	WORKING-CLOSE	ROLLED-FORWARD	Gaifu Apr29/MI combat-present0 central。Worldline A6Mが成熟主力。	V26:71-76
 2	RADIO-HARDWARE	WORKING-CLOSE	ROLLED-FORWARD	1932-37 EMI/shielding/bonding/filtering/acceptanceで既存無線の可用性・可聴性改善。	V7;V26:79
 3	RADIO-PROCEDURE	WORKING-CLOSE	ROLLED-FORWARD	1935-41 check-in/contact/rejoin/abort/escort/CAP relief等のprocedureが継続戦闘で制度化。	V26:79-80
@@ -19,3 +19,4 @@ priority	id	source_status	navigation_role	position	sources
 5	APR29-CAP-C2	WORKING-CLOSE	MODEL	COM2/CMD2 normal、CMD3 pre/early-contact possible、D3->D0 discipline transition。Controllerはgroup statusをleader reportsで更新。	V26:81-82
 4	COMMS-CAP-RECONCILIATION	WORKING-CLOSE	AUTHORITY	V26:83-84がduplicate V26:79-82を統合し、three-plane shotai + radio-enabled procedural evolution + group-level CAP C2を現行化。	V26:83-84
 5	APR29-A12-A15-A18	WORKING	CURRENT-NEXT	Escort cardsはA12/A15/A18、A15 reference。旧A14/A16 tactical cardsはsuperseded。	V26:81;V26:83-84
+6	FIGHTER-CELL-SIZE	WORKING-CLOSE	MODEL	Formal/immediate3機shotai、controlled package6機。9機chutaiは6+3運用可。4機2+2はselected experiment/sensitivityでfleet central未閉鎖。	V26:85-86
