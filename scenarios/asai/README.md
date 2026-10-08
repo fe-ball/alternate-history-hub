@@ -62,6 +62,10 @@
 - [V26:76 matching fighter-force register](records/V26/76-POST-V26-APR29-A6M-ONLY-FIGHTER-FORCE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:77 A6M radio / EMI / fighter-doctrine audit](records/V26/77-POST-V26-A6M-RADIO-EMI-FORMATION-DOCTRINE-FIGHTER-DIRECTION-AUDIT-2026-10-08.md)
 - [V26:78 matching radio/doctrine register](records/V26/78-POST-V26-A6M-RADIO-FIGHTER-DIRECTION-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:79 communications-to-fighter-doctrine diffusion 1932-42](records/V26/79-POST-V26-JAPANESE-AVIATION-COMMS-FIGHTER-DOCTRINE-DIFFUSION-1932-1942-REAUDIT-2026-10-08.md)
+- [V26:80 matching doctrine-timeline register](records/V26/80-POST-V26-JAPANESE-AVIATION-COMMS-DOCTRINE-TIMELINE-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:81 Apr29 radio-enabled A6M control / escort-card correction](records/V26/81-POST-V26-APR29-CARDIV5-RADIO-ENABLED-A6M-CONTROL-ESCORT-CARD-CORRECTION-2026-10-08.md)
+- [V26:82 matching Apr29 control register](records/V26/82-POST-V26-APR29-CARDIV5-COMMS-CONTROL-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
@@ -88,11 +92,11 @@ FTの厳密speed / acceleration / release range / TOF / fuel / fuse / penetratio
 
 ## 現在のnext gate
 
-**V26:73-76でApr29 CarDiv5をA6M-only forceとして再構築。戦果は未固定。**
+**V26:79-82で1932-42通信技術→fighter doctrine/controlの拡散を再構築。Apr29はA12/A15/A18 cards。戦果は未固定。**
 
-1. A14 / A16 / A18 escort-defense cardsをJapanese strikeへ通す
-2. 同じcardsをLexington counterstrike defenseへ通す
-3. 双方のloss / abort / valid-release bandsを再導出
+1. A12 / A15 / A18をJapanese strike vs Lexingtonへ通す
+2. 同cardsをLexington counterstrike vs CarDiv5へ通す
+3. loss / abort / valid-release bandsだけ再導出
 4. direct-hit adjudication前で止める
 
 ## 構造
