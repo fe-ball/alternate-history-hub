@@ -104,3 +104,9 @@ NEXT-MI-RECOVERY	OPEN	CURRENT-NEXT	Returning-aircraft recovery/diversion/ditchin
 MI-MODEL-ROLLBACK	WORKING-CLOSE	NAVIGATION	V26:51-56 are exploratory only; current combat frontier returns to V26:49-50.	V26:57-58
 MI-PREMULTISTAGE-BASELINE	PROVISIONAL	BASELINE	US SBD70/TBD17 and JP D3A34/Type9116/FT22 are pre-multistage baselines.	V26:49-50;V26:57
 NEXT-MI-MODEL	OPEN	CURRENT-NEXT	Define phase-by-phase state transitions before revised valid releases and hits.	V26:57-58
+MI-COMBAT-MODEL	WORKING-CLOSE	MODEL	Robust combat input stops at V26:47-48; V26:49-50 numerical outputs are provisional baselines pending state-model replay.	V26:59-60
+GAIFU-ROLE-CARDS	WORKING	TACTICS	Gaifu11 ready split cards: G-E8/3/0, G-B5/5/1, G-D3/7/1 escort/CAP/reserve; G-B planning center only.	V26:61-62
+FT-LOAD-CARDS	WORKING	TACTICS	FT-D/FT-B/FT-S preload cards separate physical load from contact-time target allocation; no fixed screen count.	V26:63-64
+GAIFU-TECH-CORRECTION	WORKING-CLOSE	TECH	Gaifu ~575-600 normal/~595-615 short, 6km6.0-6.8min normal, not Sakufu670-710; mixed-CAP gain reinterpreted accordingly.	V26:65-66
+NEXT-CAP-REPLAY	OPEN	CURRENT-NEXT	Run Gaifu allocation cards against actual US arrival sequence and derive revised SBD/TBD release bands.	V26:59-66
+NEXT-FT-REPLAY	OPEN	AFTER-CAP	Run FT load/target cards against updated US defense state and derive revised D3A/Type91/FT release bands.	V26:59-66
