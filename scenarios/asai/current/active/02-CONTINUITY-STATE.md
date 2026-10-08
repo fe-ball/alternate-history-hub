@@ -403,3 +403,15 @@ It reconciles the duplicate V26:79-82 pairs and selects:
 - shotai-compatible escort cards A12/A15/A18, with A15 reference.
 
 No Apr29 combat outcome is closed.
+
+
+## 2026-10-08 fighter cell-size re-audit
+
+V26:85-86 separate formal shotai size from the size of the tactically controlled package.
+
+Spring-1942 carrier central:
+3-aircraft shotai remains, but 6-aircraft/two-shotai control is routine and nine can be handled as6+3.
+
+Four-aircraft2+2 is plausible as an earlier worldline experiment, not yet universal carrier doctrine.
+
+Apr29 A15 therefore has a natural 6+6+3 internal structure.
