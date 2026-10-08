@@ -8,7 +8,7 @@ scenarios:
     authority_version: "V26"
     canonical_clock: "1941-12-07T14:30:00-10:30"
     clock_state: "canonical-anchor-only; latest-working-continuation-and-local-planning-clocks-are-separate"
-    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. V26:83-86 define radio-enabled shotai/chutai and6-aircraft controlled packages; V26:87-88 add aviation command architecture separating operational mission command, local ship/base air-ops, airborne tactical command and fighter-direction control. Below side owns objective/priority/reserve/broad vector; airborne leaders own local geometry after contact, with B-CMD/A-CMD and explicit handoff latency. Apr29 results remain open. Current next: run A12/A15/A18 through both strike directions to loss/abort/valid-release bands only, stopping before hits. V26 canon clock remains 1941-12-07 14:30 HST."
+    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. V26:89-90 audit fighter-relevant combat through MO and identify Dec7 Enterprise as the first peer carrier-air-system battle in the branch. Later Wake/Saratoga, Force A, Yorktown and Apr29 results depend on fighter/C2 learning and are reopened downstream. Current next: replay Enterprise A6M18 vs U.S. radar/CAP through package command and valid-release bands only, stopping before hits. V26 canon clock remains 1941-12-07 14:30 HST."
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/00-READ-FIRST-GENERIC.md"
@@ -19,7 +19,7 @@ scenarios:
     canonical_source: "scenarios/asai/records/V26/00-SESSION-HANDOFF-V26.md"
     import_status: "scenarios/asai/import/IMPORT-STATUS.md"
     epistemic_rule: "future-knowledge-individual"
-    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-aviation-command-architecture-through-V26-88-plus-complete-v22b-source-snapshot"
+    source_import: "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-pre-MO-fighter-combat-audit-through-V26-90-plus-complete-v22b-source-snapshot"
     source_archive_status: "original-zip-and-all-files-sha256-verified-in-repository; source-record-trees-preserved-during-navigation-restructure"
 
   keisanki-ibun:
