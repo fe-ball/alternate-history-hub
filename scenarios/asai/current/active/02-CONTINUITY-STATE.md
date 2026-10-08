@@ -304,3 +304,16 @@ Current provisional comparison baseline:
 
 Current next:
 run the heterogeneous CAP cards first, then the FT multistage cards, and stop again before hits.
+
+
+## 2026-10-08 A6M2/Gaifu full-performance audit
+
+V26:69-70 prevent speed-only fighter modeling.
+
+Key finding:
+Gaifu is a distinct fighter, not a simple superior Zero.
+Its speed/climb advantage coexists with substantially higher wing loading, similar short-rating power loading, no closed MI armament/protection advantage, and lower service maturity/endurance emphasis.
+
+A6M remains important for sustained turning, persistent CAP and mature carrier support.
+
+CAP combat replay remains paused until the remaining high-speed control / acceleration / endurance bands are bounded.
