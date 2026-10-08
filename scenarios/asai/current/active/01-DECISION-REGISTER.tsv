@@ -95,3 +95,9 @@ MI-US-VALID-RELEASE	WORKING-CLOSE	VALID-RELEASE	US SBD valid70/TBD valid17.	V26:
 MI-JP-VALID-RELEASE	WORKING-CLOSE	VALID-RELEASE	JP D3A valid34/Type91 valid16/FT valid22.	V26:49-50
 MI-DECK-STATE	WORKING-CLOSE	DAMAGE-GUARD	Anti-carrier reserve already launched before full Midway-wave recovery; historical full rearm/deck-clutter state not copied.	V26:49-50
 NEXT-MI-HITS	OPEN	CURRENT-NEXT	Direct-hit outcomesをcarrier/weapon別に判定。	V26:49-50
+MI-FT-MULTISTAGE	WORKING-CLOSE	TACTICS	Valid FT22 split8 screen/AA suppression +14 carrier-directed; Atlanta/Portland suppression changes later release geometry.	V26:51-52
+MI-JP-VALID-REVISED	WORKING-CLOSE	VALID-RELEASE	After suppression JP valid D3A37/Type9119/FT22 total, with14 FT carrier-directed.	V26:51-52
+MI-US-HIT-PACKET	WORKING-CLOSE	HIT-PACKET	Akagi2 bombs; Kaga1 bomb+imperfect Mk13; Soryu1; Hiryu1; Zuikaku1; Ryujo0.	V26:53-54
+MI-JP-HIT-PACKET	WORKING-CLOSE	HIT-PACKET	Enterprise4 direct/Hornet3/Saratoga4 including D3A+Type91+FT mixes.	V26:53-54
+MI-FIRST-CYCLE-DAMAGE	WORKING-CLOSE	DAMAGE	JP: Akagi/Kaga/Soryu aviation MK, Hiryu/Zuikaku temporary stop, Ryujo intact. US: all three carriers battle-day aviation MK but afloat central.	V26:55-56
+NEXT-MI-RECOVERY	OPEN	CURRENT-NEXT	Returning-aircraft recovery/diversion/ditching/onboard aircraft loss/aircrew rescueを閉じる。	V26:55-56
