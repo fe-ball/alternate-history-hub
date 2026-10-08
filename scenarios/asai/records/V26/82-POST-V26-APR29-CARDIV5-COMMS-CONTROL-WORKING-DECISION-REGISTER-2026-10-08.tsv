@@ -1,0 +1,10 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:81
+ESCORT-CARD-CORRECTION	WORKING-CLOSE	TACTICS	Three-plane shotai skeleton makes12/15/18 escort cards natural; V26:75-76 14/16 figures superseded as tactical cards.	V26:75;V26:79;V26:81
+A12-CARD	WORKING	SENSITIVITY	Defense-heavy: A6M12 escort=four shotai, total strike66, ~20 A6M serviceable remain at pool32.	V26:81
+A15-CARD	WORKING	REFERENCE	Balanced: A6M15 escort=five shotai, total strike69, ~17 serviceable remain at pool32; current reference.	V26:81
+A18-CARD	WORKING	SENSITIVITY	Offense-heavy: A6M18 escort=six shotai, total strike72, ~14 serviceable remain at pool32.	V26:81
+CARDIV5-C2	WORKING-CLOSE	MODEL	Ship/cell plot -> CAP leader -> shotai leader; Type21 supplies coarse bearing/range/timing, radio supports tasking/rejoin/relief, close combat remains pilot-centric.	V26:79;V26:81
+CAP-WARNING-STATE	WORKING	MODEL	A15 defensive17 serviceable does not equal17 airborne; plausible warning state6-9 airborne +3-6 deck-ready reinforcement, remainder cycling; exact timing replayed.	V26:81
+ESCORT-RADIO	WORKING-CLOSE	MODEL	Five-shotai A15 can split high/free cover and D3A/B5N support with radio reassignment; gain is attack-chain coordination, not gunnery multiplier.	V26:81
+NEXT-APR29-VALID	OPEN	CURRENT-NEXT	Run A12/A15/A18 both directions to loss/abort/valid-release bands; stop before direct hits.	V26:81
