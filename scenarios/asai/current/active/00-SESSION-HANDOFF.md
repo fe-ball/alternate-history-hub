@@ -1033,3 +1033,27 @@ Precontact:
 ## CURRENT NEXT
 
 Resolve the first outer F4F interception around14:04-14:10 and its effect on A6M package commitment, D3A/B5N delay/displacement, and synchronization. No old loss/hit numbers are inherited.
+
+
+---
+
+# 2026-10-08 session close — Enterprise restart
+
+V26:93-94 are the closing handoff for this chat.
+
+Next session starts before Enterprise combat adjudication.
+
+First task:
+- reconstruct Kido Butai post-Pearl physical/serviceable/ready aircraft state, recovery/turnaround and fatigue;
+- retain Enterprise contact ~08:17-08:20 and Lexington unlocated;
+- re-decide the rational anti-Enterprise strike size rather than inheriting old72 or later54.
+
+Then:
+- apply mature late-1941 radio-assisted 3-plane shotai / 6-plane package command;
+- reconstruct Enterprise radar/F4F fighter direction;
+- track COM/A-CMD/SYNC S1-S4;
+- resolve loss/abort/delay/displacement and valid-release bands only;
+- stop before hits.
+
+Downstream repair remains:
+Enterprise -> Wake/Saratoga -> Feb20 check -> Apr5 Force A -> Apr9 Yorktown -> Apr29 -> Zuikaku/MI OOB -> MI replay.
