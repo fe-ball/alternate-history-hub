@@ -50,6 +50,10 @@
 - [V26:64 matching FT model register](records/V26/64-POST-V26-MI-FT-PRELOAD-TARGET-ALLOCATION-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 - [V26:65 Gaifu technical grounding / CAP correction](records/V26/65-POST-V26-MI-GAIFU-TECHNICAL-GROUNDING-CAP-CORRECTION-WORKING-HANDOFF-2026-10-08.md)
 - [V26:66 matching technical register](records/V26/66-POST-V26-MI-GAIFU-TECHNICAL-GROUNDING-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:67 CAP observability / control friction](records/V26/67-POST-V26-MI-CAP-OBSERVABILITY-CONTROL-FRICTION-WORKING-HANDOFF-2026-10-08.md)
+- [V26:68 matching observability register](records/V26/68-POST-V26-MI-CAP-OBSERVABILITY-WORKING-DECISION-REGISTER-2026-10-08.tsv)
+- [V26:69 A6M2/Gaifu full-performance audit](records/V26/69-POST-V26-MI-A6M2-GAIFU-FULL-PERFORMANCE-COMPARATIVE-AUDIT-WORKING-HANDOFF-2026-10-08.md)
+- [V26:70 matching performance register](records/V26/70-POST-V26-MI-A6M2-GAIFU-PERFORMANCE-AUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv)
 
 V26:21-24 remain required predecessors for repair/MO/Lexington/Doolittle/MI-AL planning, but they no longer define the latest next gate by themselves.
 
