@@ -254,3 +254,20 @@ Midway remains active but servicing throughput is degraded.
 Japanese anti-carrier strike is already away before the U.S. main carrier attack reaches release.
 
 Current next is direct-hit adjudication, then damage state.
+
+
+## 2026-10-08 MI multistage hit and damage
+
+V26:51-52 revise FT use from carrier-only aggregation to multistage screen/AA suppression.
+V26:53-54 close first-cycle direct hits.
+V26:55-56 close immediate carrier damage states.
+
+Central:
+- Atlanta first-window AA/command mission-killed by FT/HE;
+- Portland locally AA-degraded;
+- JP later valid D3A37/Type9119/FT22 total;
+- Akagi/Kaga/Soryu lose first-cycle aviation capability;
+- Hiryu/Zuikaku can reopen on staggered clocks; Ryujo remains operational;
+- Enterprise/Hornet/Saratoga all lose immediate carrier-flight capability but remain afloat/self-propelled.
+
+Current next is the recovery/ditching/rescue ledger, not another hit roll.
