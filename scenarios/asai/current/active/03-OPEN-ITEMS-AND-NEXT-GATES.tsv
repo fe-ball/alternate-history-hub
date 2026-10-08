@@ -1,5 +1,5 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:67-68でCAPのTRUE_STATEとCONTROLLER_ESTIMATEを分離。Gaifu role cardsをC0-C3 control-friction込みでactual US wave timingへ通すところから再開。
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:69-70でA6M2/Gaifuを速度以外も比較監査。Gaifu roll/dive/transient、worldline A6M climb/accel、双方CAP enduranceのbandを閉じてからCAP replayへ。
 1	MI-LAUNCH-STATE	WORKING-CLOSE	ROLLED-FORWARD	Robust combat inputはV26:47-48 launch/approachまで。	V26:47-48;V26:59
 2	MI-V49-50-BASELINE	PROVISIONAL	BASELINE	V26:49-50 air-loss/valid-release数値は比較baselineであり現行結果ではない。	V26:49-50;V26:59
 3	GAIFU-TECH	WORKING-CLOSE	MODEL	Gaifu575-600 normal/595-615 short、6km6.0-6.8min normal。Sakufu670-710と混同禁止。	V26:65-66
@@ -15,3 +15,4 @@ priority	id	source_status	navigation_role	position	sources
 13	FT-FUSE-PENETRATION	OPEN	PARALLEL-TECH	SAP fuse delay/penetration/structural energy-loss tableを閉じる。	V26:21#2
 14	PM-BASE-GROWTH	WORKING	DEFERRED	Apr18 capture後のairfield/harbor/fuel/service-release growth。	V26:21#8
 4	MI-CAP-OBSERVABILITY	WORKING-CLOSE	MODEL	Type21+improved radioでもA6M/Gaifuの位置/高度/energy/fuelをcontinuous把握しない。outer/innerは意図であり保証された実配置ではない。	V26:67-68
+4	MI-FIGHTER-PERFORMANCE-AUDIT	WORKING-CLOSE	MODEL	Gaifuはspeed/climb優位だがwing loading高、power loading overlap、MI armament同等、protection優位未閉鎖、A6Mはturn/endurance/maturity優位。	V26:69-70
