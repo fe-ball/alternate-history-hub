@@ -143,3 +143,6 @@ APR29-ESCORT-CARDS-REVISED	WORKING-CLOSE	TACTICS	Use shotai-compatible A12/A15/A
 APR29-A15	WORKING	REFERENCE	A6M15 escort + D3A27 + B5N27 =69; ~17 A6M serviceable remain for CAP/relief at pool32.	V26:83-84
 APR29-CAP-C2-RECONCILED	WORKING-CLOSE	MODEL	COM2 normal, CMD2 normal/CMD3 pre-early contact possible; D3-D0 discipline states; controller tracks shotai/chutai status, not individuals.	V26:83-84
 NEXT-APR29-VALID-RECONCILED	OPEN	CURRENT-NEXT	Run A12/A15/A18 both directions to loss/abort/valid-release bands only; stop before hits.	V26:83-84
+FIGHTER-CELL-SIZE	WORKING-CLOSE	DOCTRINE	Spring1942 carrier central retains3-aircraft shotai but uses6-aircraft/two-shotai controlled tactical package; nine-aircraft chutai can act as6+3.	V26:85-86
+FOUR-PLANE-TRIAL	WORKING	SENSITIVITY	Four-aircraft2+2 trials plausible from1940H2-41 selected units, but full benefit requires pair-mutual-support doctrine/training beyond radio reliability.	V26:85-86
+APR29-CELL-MAP	WORKING-CLOSE	MODEL	A12=6+6; A15=6+6+3 reference; A18=6+6+6 or6+6+3+3.	V26:85-86
