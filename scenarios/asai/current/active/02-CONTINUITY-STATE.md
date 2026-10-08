@@ -287,3 +287,20 @@ Before any hit result, reopen:
 - revised later-stage valid releases.
 
 The qualitative screen-suppression mechanism remains available; its numerical realization is OPEN.
+
+
+## 2026-10-08 MI combat-model definition
+
+V26:59-60 define a state-transition model rather than homogeneous CAP / one-pass attack rolls.
+V26:61-62 reopen Gaifu escort/CAP allocation.
+V26:63-64 separate FT preload from contact-time target allocation.
+V26:65-66 ground Gaifu performance and correct the earlier overstatement of its speed gap.
+
+Current robust combat state:
+- launch / approach through V26:47-48.
+
+Current provisional comparison baseline:
+- V26:49-50 numerical air losses and valid releases.
+
+Current next:
+run the heterogeneous CAP cards first, then the FT multistage cards, and stop again before hits.
