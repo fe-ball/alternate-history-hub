@@ -1,18 +1,17 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:77-78でA6M通信利得をEMI/可聴性改善へ限定し、編隊戦術改革とprecision GCIを否定。A14/A16/A18をこの補正込みでvalid-release bandsまで再演する。
-1	GAIFU-CARRIER-SERVICE	WORKING-CLOSE	ROLLED-FORWARD	Gaifu Apr29/MI combat-present0 central。National Grade-A fuelは存在するがcarrier unit integration未閉鎖。	V26:71-72
-2	APR29-A6M-POOL	WORKING	ROLLED-FORWARD	A6M serviceable30-34 center32、ready29-32。Pilot shortageよりairframe/serviceabilityがcentral limiter。	V26:75-76
-3	APR29-A16	WORKING	REFERENCE	A16 balanced reference: escort16 / defensive remainder16 at pool32; D3A27/B5N27 retained; strike total70。	V26:75-76
-4	APR29-A14-A18	WORKING	SENSITIVITY	A14 defense-heavy / A18 offense-heavy remain sensitivity cards。	V26:75-76
-5	APR29-JP-VALID	OPEN	CURRENT-NEXT	Japanese strike vs Lexingtonのloss/abort/D3A-Type91-FT valid-release bandsをA14/A16/A18別に再導出。	V26:75
-6	APR29-US-VALID	OPEN	CURRENT-NEXT	Lexington counterstrike vs CarDiv5のloss/abort/SBD-TBD valid-release bandsをA14/A16/A18 defense state別に再導出。	V26:75
-7	APR29-HITS	OPEN	AFTER-VALID	Direct hitsは双方valid-release closure後のみ。	V26:75
-8	ZUIKAKU-MI-FIGHTERS	OPEN	AFTER-APR29	Apr29 loss ledger後にend-May Zuikaku A6M fighter groupを再構築。	V26:71-76
-9	MI-JP-AIR-OOB	OPEN	AFTER-ZUIKAKU	Japanese MI carrier-air OOB / Cell3 escort再構築。	V26:71-76
-10	MI-COMBAT-MODEL	WORKING	AFTER-OOB	FT multistage / CAP observability modelは保持。Gaifu mixed-CAPはcurrent MI centralに不使用。	V26:59-70;V26:71
-11	V26-49-56	PROVISIONAL/SAMPLE	DO-NOT-ROLL-FORWARD	旧MI combat numerical outputs/hits/damageは現行結果として使用禁止。	V26:49-58;V26:71
-12	FT-NUMERIC-SPEED	OPEN	PARALLEL-TECH	標準FT acceleration/ramjet capture/cruise-terminal speed厳密CLOSE。	V26:21#1
-13	FT-RELEASE-RANGE-TOF	OPEN	PARALLEL-TECH	母機別practical release range/TOF厳密CLOSE。	V26:21#1
-14	FT-FUEL-THERMAL	OPEN	PARALLEL-TECH	FT fuel type/load/flow/residual fuel/thermal stateを閉じる。	V26:21#1-2
-15	FT-FUSE-PENETRATION	OPEN	PARALLEL-TECH	SAP fuse delay/penetration/structural energy-loss tableを閉じる。	V26:21#2
-4	A6M-RADIO-DOCTRINE-AUDIT	WORKING-CLOSE	MODEL	GT由来のspark/EMI対策は既存無線の可聴性/信頼性を改善するが、fighter formation/coordinated firing doctrineは未改変。Air-controlはwarning/plot/readiness/coarse vectorまで。	V26:77-78
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:79-82で1932-42 radio->procedure->fighter employment->command architectureの拡散を再構築。Apr29 A12/A15/A18を新C2で双方strikeへ通しvalid-release bandsまで再演。	V26:79-82
+1	GAIFU-CARRIER-SERVICE	WORKING-CLOSE	ROLLED-FORWARD	Gaifu Apr29/MI combat-present0 central。Worldline A6Mが成熟主力。	V26:71-76
+2	RADIO-HARDWARE	WORKING-CLOSE	ROLLED-FORWARD	1932-37 EMI/shielding/bonding/filtering/acceptanceで既存無線の可用性・可聴性改善。	V7;V26:79
+3	RADIO-PROCEDURE	WORKING-CLOSE	ROLLED-FORWARD	1935-41 check-in/contact/rejoin/abort/escort/CAP relief等のprocedureが継続戦闘で制度化。	V26:79-80
+4	FIGHTER-DOCTRINE	WORKING-CLOSE	ROLLED-FORWARD	三機shotai骨格維持だがtask split/cover/reserve/staggered attack/rejoinがradio利用で発達。finger-four等は不採用。	V26:79-80
+5	CARRIER-FIGHTER-CONTROL	WORKING-CLOSE	ROLLED-FORWARD	Ship/cell plot->CAP leader->shotai leader。Type21は既存手順へcoarse cueを追加、precision GCIなし。	V26:79-82
+6	APR29-A6M-POOL	WORKING	ROLLED-FORWARD	A6M serviceable30-34 center32、ready29-32。	V26:75-82
+7	APR29-A15	WORKING	REFERENCE	A15 balanced: escort15=five shotai、total strike69、pool32ならdefense側serviceable約17。	V26:81-82
+8	APR29-A12-A18	WORKING	SENSITIVITY	A12 defense-heavy / A18 offense-heavy sensitivity。	V26:81-82
+9	APR29-JP-VALID	OPEN	CURRENT-NEXT	Japanese strike vs Lexingtonのloss/abort/D3A-Type91-FT valid-release bandsをA12/A15/A18別に再導出。	V26:81
+10	APR29-US-VALID	OPEN	CURRENT-NEXT	Lexington counterstrike vs CarDiv5のloss/abort/SBD-TBD valid-release bandsを新radio/CAP control込みで再導出。	V26:81
+11	APR29-HITS	OPEN	AFTER-VALID	Direct hitsは双方valid-release closure後のみ。	V26:81
+12	ZUIKAKU-MI-FIGHTERS	OPEN	AFTER-APR29	Apr29 loss ledger後にend-May Zuikaku A6M fighter group再構築。	V26:71-82
+13	MI-JP-AIR-OOB	OPEN	AFTER-ZUIKAKU	Japanese MI carrier-air OOB / Cell3 escort再構築。	V26:71-82
+14	MI-COMBAT-MODEL	WORKING	AFTER-OOB	FT multistage / actor-knowledge model保持。Gaifu mixed-CAPはMI central不使用。	V26:59-82
+15	V26-49-56	PROVISIONAL/SAMPLE	DO-NOT-ROLL-FORWARD	旧MI combat numerical outputs/hits/damageは現行結果として使用禁止。	V26:49-58;V26:71
