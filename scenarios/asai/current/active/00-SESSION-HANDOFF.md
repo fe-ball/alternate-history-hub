@@ -620,3 +620,43 @@ Not retained:
 
 Build the multi-stage state-transition model first.
 Only after phase ordering, target allocation, CAP/AA/maneuver updates and revised valid-release counts are derived should direct hits be adjudicated.
+
+
+---
+
+# 2026-10-08 MI combat-model definition
+
+Latest model sources:
+- V26:59-60 = heterogeneous CAP / multistage attack state model
+- V26:61-62 = Gaifu role-allocation cards
+- V26:63-64 = FT preload / target-allocation model
+- V26:65-66 = Gaifu technical grounding / correction
+
+Current robust combat inputs stop at V26:47-48 launch/approach state.
+V26:49-50 numerical air-loss / valid-release outputs are now provisional comparison baselines, not closed combat results.
+V26:51-56 remain exploratory samples only.
+
+Gaifu:
+- A7M=Gaifu, not A8N Sakufu.
+- ~575-600 km/h normal / ~595-615 short-rating class.
+- 6 km climb ~6.0-6.8 min normal / ~5.5-6.2 short.
+- early/service armament 20mmx2 + 7.7mmx2; 20mmx4 is growth target.
+- gain = moderate performance separation + different handling/armament/powerplant envelope + CAP role specialization.
+- do not model as a 700-km/h interceptor.
+- Gaifu role split reopened: escort-heavy / balanced / defense-heavy cards. Balanced 5 escort / 5 CAP / 1 reserve is planning center only.
+
+FT:
+- separate pre-launch family/warhead loading from contact-time target choice.
+- 25 FT slots remain a reference card, not closed outcome.
+- FT-D / FT-B / FT-S load cards defined.
+- suppression-capable rounds are not automatically fired at screens.
+- screen suppression uses SUP-0..SUP-3 states and updates only affected bearing/time/AA/CAP/maneuver states.
+- no fixed 8/14 split and no fixed Atlanta/Portland result.
+
+## CURRENT NEXT
+
+1. run Gaifu G-E/G-B/G-D cards against actual U.S. arrival sequence;
+2. derive Japanese CAP state changes and revised U.S. SBD/TBD release bands;
+3. run FT-D/FT-B/FT-S cards against actual U.S. defense sequence;
+4. derive Japanese D3A/Type91/FT release bands;
+5. stop before direct-hit adjudication.
