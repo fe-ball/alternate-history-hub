@@ -1,0 +1,10 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:77
+EMI-ORIGIN	WORKING-CLOSE	TECH	GT aircraft act as a control experiment that accelerates piston-aircraft ignition shielding/bonding/filtering and radio-noise acceptance standards; no discovery claim.	V7 radio;V26:77
+A6M-RADIO-GAIN	WORKING-CLOSE	TECH	A6M benefit is lower ignition-noise / better intelligibility / installation reliability for existing radio functions, not fixed range/power or modern networking.	V7 radio;V26:77
+FORMATION-DOCTRINE	WORKING-CLOSE	DOCTRINE	No current authority closes a general IJN fighter formation/leader-wingman/coordinated-firing reform. Historical-type tactical baseline remains.	V7 radio;V26:77
+FORMATION-HANDLING-DOWNGRADE	WORKING-CLOSE	MODEL	Prior broad 'formation handling/section integrity' bonus is narrowed to fewer radio-caused communication/regroup failures; no generic combat multiplier.	V26:69-77
+GUNNERY-GAIN	WORKING-CLOSE	TECH	FCS1 gives boresight/QC/re-zero/ammo-lot repeatability, not new fighter firing doctrine or coordinated formation fire.	V8 FCS;V26:77
+AIR-CONTROL-GAIN	WORKING-CLOSE	DOCTRINE	Real gain is observer/report/plot/readiness/local handoff: detect->report->plot->alert->launch->coarse vector. No mature GCI/common air picture.	V26:23;V26:77
+CARRIER-FIGHTER-DIRECTION	WORKING-CLOSE	MODEL	Type21 permits coarse warning/bearing/plotting/CAP vector only; no precision altitude/continuous fighter tracking/CIC.	V26:25;V26:67;V26:77
+APR29-MODEL-CORRECTION	OPEN	CURRENT-NEXT	Apr29 A14/A16/A18 replay must remove unsupported formation-doctrine bonus while retaining EMI/radio intelligibility, FCS1 and warning/readiness gains.	V26:75-77
