@@ -1,0 +1,8 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains1941-12-07T14:30 HST.	V26:00;V26:93
+SESSION-CLOSE	WORKING-CLOSE	HANDOFF	Chat closes before Enterprise combat adjudication; all recent communications/command/cell/synchronization work is incorporated.	V26:71-93
+ENTERPRISE-FIRST-GATE	OPEN	CURRENT-NEXT	Reconstruct post-Pearl Kido Butai aircraft/serviceability/recovery state and re-decide 72-vs54-class Enterprise commitment before fighter combat.	V26:02-03;V26:16-17;V26:89-93
+ENTERPRISE-72	COMPARISON	DO-NOT-INHERIT	Old72-aircraft anti-Enterprise package is not fixed current input.	V26:02;V26:05;V26:93
+ENTERPRISE-54	COMPARISON	DO-NOT-INHERIT	Later54-aircraft FT-centered package is not fixed current input; must be re-derived from force state/reserve logic.	V26:16-17;V26:93
+ENTERPRISE-DOCTRINE	WORKING-CLOSE	MODEL	Enterprise is first live-carrier stress test of prewar mixed FT/Type91 doctrine and mature radio-assisted Kido Butai command, not doctrine discovery.	V26:17;V26:29;V26:79-92
+NEXT-STOP	OPEN	STOP-LINE	After strike-size closure, replay to fighter attrition/delay/displacement/SYNC/valid-release bands only; no direct hits.	V26:91-93
