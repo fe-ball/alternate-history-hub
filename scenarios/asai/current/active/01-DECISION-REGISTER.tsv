@@ -156,3 +156,6 @@ ENTERPRISE-FIRST-PEER	WORKING-CLOSE	INTERPRETATION	Enterprise is first clear car
 WAKE-FIRST-TWOWAY	WORKING-CLOSE	INTERPRETATION	Wake/Saratoga Dec22 is first true two-way carrier exchange; both strike penetration chains reopen.	V26:07;V26:17;V26:89-90
 ENTERPRISE-FT-DOCTRINE-PROVENANCE	WORKING-CLOSE	SUPERSESSION	Enterprise does not discover FT+Type91 mixed doctrine. Prewar1939-40 exercises already compare FT-first/Type91-first/multi-axis/suppression; Enterprise is first major live-carrier validation/stress test.	V26:17;V26:29;V26:89
 FORCEZ-FT-DOCTRINE-PROVENANCE	WORKING-CLOSE	SUPERSESSION	Force Z is early combat refinement using Enterprise AAR, not first deliberate separated FT/Type91 attack.	V26:17;V26:29
+ATTACK-SYNC	WORKING-CLOSE	MODEL	Separate planned from achieved multi-axis synchronization; use T/R/V/E cues and SYNC0-3 across S1-S4 phases.	V26:91-92
+SYNC-COMMAND	WORKING-CLOSE	MODEL	COM/A-CMD affects ability to report delay, hold/advance an axis, change phase order and cancel stale plans; no generic hit-rate bonus.	V26:87;V26:91-92
+ENTERPRISE-SYNC-STRESS	OPEN	CURRENT-NEXT	Enterprise is first major live stress test of prewar FT/Type91 mixed doctrine; resolve synchronization before valid release/hits.	V26:17;V26:29;V26:89-92
