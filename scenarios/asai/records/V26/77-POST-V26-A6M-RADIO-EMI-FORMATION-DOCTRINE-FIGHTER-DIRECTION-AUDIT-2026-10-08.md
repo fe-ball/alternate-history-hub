@@ -2,6 +2,10 @@
 
 Status: WORKING-CLOSE / DOCTRINE-CORRECTION / NO COMBAT OUTCOME PROMOTION
 
+## Supersession note
+
+V26:79-80 supersede the restrictive conclusion that fighter doctrine remains effectively historical-static. Retain the EMI/radio hardware distinctions and the guard against mature GCI, but use V26:79-82 for the 1937-42 wartime doctrinal diffusion and Apr29 carrier-CAP command state.
+
 ## Authority guard
 
 V26 canon remains 1941-12-07T14:30:00-10:30 HST.
