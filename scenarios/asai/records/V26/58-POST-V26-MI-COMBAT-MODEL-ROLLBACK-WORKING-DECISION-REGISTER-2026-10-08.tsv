@@ -1,0 +1,6 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:57
+MI-ROLLBACK	WORKING-CLOSE	NAVIGATION	Current MI replay frontier returns to V26:49-50; V26:51-56 are exploratory only.	V26:49-57
+MULTISTAGE-QUALITATIVE	WORKING	MODEL	FT may target selected screen/AA nodes and change later attack conditions; exact allocation/effects remain OPEN.	V26:29;V26:57
+PREMULTISTAGE-VALID	PROVISIONAL	BASELINE	V26:49-50 valid-release counts are provisional pre-multistage baselines pending sequence-model re-audit.	V26:49-50;V26:57
+NEXT-MODEL	OPEN	CURRENT-NEXT	Define multistage state transitions before revising valid releases or adjudicating hits.	V26:57
