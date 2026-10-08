@@ -118,3 +118,8 @@ GAIFU-CARRIER-RELEASE	WORKING-CLOSE	FORCE-STATE	Apr29/MI Gaifu combat-present0 c
 GAIFU-FUEL-LOGISTICS	WORKING-CLOSE	LOGISTICS	Grade-A fuel exists nationally; blocker is shipboard segregated handling + GT maintenance/deck-cycle/unit service release, not national fuel supply.	V16;V26:71
 APR29-REOPEN-GAIFU	OPEN	CURRENT-NEXT	Apr29 CarDiv5 defense/losses/Shokaku damageをGaifu抜きで再監査。	V26:33-38;V26:71
 MI-OOB-REOPEN-GAIFU	OPEN	AFTER-APR29	Zuikaku fighters and Japanese MI carrier-air totals/Cell3 escortを再構築。	V26:37-48;V26:71
+A6M-HOMOGENEOUS-CAP	WORKING-CLOSE	MODEL	Worldline A6M improvements narrow Gaifu marginal value; A6M-only CAP gains common fuel/spares/performance/deck/C2 simplicity.	V26:73-74
+APR29-A6M-POOL	WORKING	FORCE-STATE	Serviceable30-34 center32; ready29-32; no one-for-one Gaifu replacement.	V26:75-76
+APR29-A16	WORKING	REFERENCE	Balanced reference escort16/defense16 at pool32; total strike70 with D3A27/B5N27.	V26:75-76
+APR29-CARDS	WORKING	SENSITIVITY	A14 defense-heavy and A18 offense-heavy retained for valid-release sensitivity.	V26:75-76
+NEXT-APR29-VALID	OPEN	CURRENT-NEXT	Recompute both directions to valid-release bands only; no hits yet.	V26:75-76
