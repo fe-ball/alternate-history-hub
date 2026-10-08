@@ -1,0 +1,14 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:89
+PEER-CARRIER-FIRST	WORKING-CLOSE	MODEL	Enterprise Dec7 is the first clear peer carrier-air-system battle in the Pacific branch, though local fighter combat existed earlier.	V26:02-03;V26:16-17;V26:89
+PEARL-AUDIT	WORKING	LOW-PRIORITY	Pearl outcomes broadly stable; replace generic formation bonus with leader/task/reform effects. Numerical losses low-priority re-audit.	V26:02-03;V26:89
+ENTERPRISE-REOPEN	OPEN	CURRENT-NEXT	Reopen Dec7 A6M18 vs Enterprise radar/CAP through6-aircraft packages, A-CMD/B-CMD/discipline and valid-release chain before hits.	V26:16-17;V26:79-89
+FORCEZ-AUDIT	WORKING	COMMAND-ONLY	Force Z mainly needs attack-command/multistage explanation audit, not peer fighter replay.	V26:16-17;V26:89
+WAKE-SARATOGA-REOPEN	OPEN	AFTER-ENTERPRISE	Reopen Dec22 A6M12=6+6 escort, Saratoga CAP, Japanese CAP vs counterstrike and downstream hit packets.	V26:07;V26:17;V26:89
+FEB20-LEXINGTON	OPEN	MODERATE	Re-audit US radar/F4F vs G4M strike command and FT valid release; asymmetric, not peer fighter battle.	V26:17;V26:21;V26:89
+LAE-MAR10	OPEN	LOW-MODERATE	Small A6M CAP control may shift local air losses, but physical scarcity limits campaign impact.	V26:17;V26:89
+FORCEA-REOPEN	OPEN	HIGH	Reopen Apr5 A6M18=6+6+6 vs mixed British radar/CAP before valid release and hits.	V26:19;V26:89
+YORKTOWN-REOPEN	OPEN	HIGH	Reopen Apr9 A6M12=6+6 vs Yorktown radar/CAP; current15/7/8 valid-release packet is provisional.	V26:19;V26:21;V26:89
+DOOLITTLE-C2	OPEN	MODERATE	Re-audit local Japanese observer/plot/readiness/group-vector performance; no nationwide precision GCI.	V26:23;V26:79-89
+APR29-REOPEN	OPEN	AFTER-UPSTREAM	Apr29 remains fully open but should be replayed after Enterprise->Wake->Q1->ForceA->Yorktown learning chain.	V26:71-88;V26:89
+REPLAY-ORDER	WORKING-CLOSE	NAVIGATION	Enterprise -> ForceZ command lesson -> Wake/Saratoga -> Feb20 -> Mar10 -> ForceA -> Yorktown -> Doolittle -> Apr29; roll only actor-observed lessons forward.	V26:89
