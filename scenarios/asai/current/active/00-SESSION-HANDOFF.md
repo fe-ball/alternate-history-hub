@@ -777,3 +777,45 @@ Any earlier broad "formation handling/section integrity" combat multiplier is do
 ## CURRENT NEXT
 
 Run Apr29 A14/A16/A18 sensitivity with these narrower supported A6M gains, and stop at valid-release bands before hits.
+
+
+---
+
+# 2026-10-08 communications-to-doctrine re-audit
+
+V26:79-82 supersede the overly restrictive reading in V26:77-78.
+
+Core correction:
+- radio alone does not create doctrine;
+- but usable radio from the mid-1930s + continuous China combat + repeated training/after-action cycles DOES change procedure and tactical execution by spring 1942.
+
+Timeline:
+- 1932-34: GT quiet-radio comparison exposes EMI source and drives shielding/bonding/filtering/noise-acceptance engineering.
+- 1935-36: important-aircraft acceptance standards spread; radio becomes reliable enough that procedures can assume it may work.
+- 1937-38: war shifts the bottleneck from hardware to reporting/procedure/organization; contact/status/reform/RTB/task-ownership practice develops.
+- 1939: leader-centered radio discipline, short standard reports, prebriefed sector/altitude/reform procedures and attack/support/lookout roles mature inside the three-plane shotai.
+- 1940: A6M enters combat into this radio-assisted culture; split/reform/high-cover/sequential-pass coordination becomes more robust.
+- late1940-41: carrier concentration plus plotting/readiness procedures produces preplanned CAP sectors/altitude bands, CAP leaders and group-level ship-to-fighter vector/retask.
+- Dec1941-Apr1942: combat feedback tightens target priority, reserve/high-cover retention, fuel/relief reporting and chase-limit procedure.
+
+Spring 1942 state:
+- three-plane shotai / nine-plane chutai retained;
+- no universal two-plane/finger-four conversion;
+- COM2 leader-level tactical voice is normal when serviceable;
+- CMD2 shotai/chutai task allocation is normal;
+- CMD3 group-level carrier control is achievable pre/early contact;
+- dense combat can degrade CMD3 -> CMD2/CMD1 and discipline D3 -> D0;
+- no precision altitude radar, continuous individual tracking, IFF, modern CIC or mature U.S./RAF-style GCI.
+
+Apr29 CarDiv5:
+- distributed Type21/lookout -> plot/air-control -> shotai/chutai-leader command loop;
+- controller can maintain recent group sector/task/status estimates via leader reports;
+- HIGH/MID/LOW/READY-RELIEF roles are prebriefed functional states;
+- not every fighter is committed automatically to the first sighted group;
+- better communication mainly preserves tasking/relief and reduces duplicate chase rather than giving a generic kill bonus.
+
+V26:77-78 remain useful for EMI hardware and anti-GCI guards, but their historical-static doctrine conclusion is superseded.
+
+## CURRENT NEXT
+
+Run Apr29 A14/A16/A18 sensitivity through this command system to loss/abort/valid-release bands only. Stop before direct hits.
