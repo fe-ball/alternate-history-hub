@@ -1,5 +1,5 @@
 priority	id	source_status	navigation_role	position	sources
-0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:91-92でmulti-axis attack synchronizationを明示。Enterpriseをprebrief->A6M/F4F disruption->COM/A-CMD->SYNC S1-S4->delayed/displaced/abort->valid releaseまで再演しhits前で止める。
+0	CURRENT-RESUME	OPEN	CURRENT-NEXT	V26:93-94でEnterprise戦をprecombatから再起動。次は13:52 radar cue後の10-12 F4F outer intercept -> A6M package contact -> D3A/B5N delay/displacement -> COM/A-CMD/SYNC degradation。旧loss/valid/hitsは継承しない。
 1	ENTERPRISE-DEC7	OPEN	CURRENT-NEXT	A6M18 package、US radar/CAP、A-CMD/B-CMD/D、D3A/B5N cohesion/valid-releaseを再導出。hits前で停止。	V26:16-17;V26:89-90
 2	FORCEZ-COMMAND	WORKING	AFTER-ENTERPRISE	Peer fighter battleではない。Attack-airborne command / FT-Type91 sequencingの説明を再監査。	V26:16-17;V26:89
 3	WAKE-SARATOGA	OPEN	HIGH	Enterpriseで観測されたlessonのみ反映し、Dec22双方carrier-air C2/valid releaseを再演。	V26:07;V26:17;V26:89
@@ -13,3 +13,4 @@ priority	id	source_status	navigation_role	position	sources
 11	MI-COMBAT	OPEN	AFTER-MO-REBUILD	MOまでの上流再演とMI OOB再構築後に復帰。	V26:89-90
 8	PREMO-COMBAT-REAUDIT	WORKING-CLOSE	AUTHORITY	Tier1: Enterprise, Wake/Saratoga, Apr5 Force A, Apr9 Yorktown, Apr29。Enterpriseがfirst clear carrier-fighter peer contest、Wake/Saratogaがfirst two-way carrier exchange。	V26:89-90
 9	ATTACK-SYNCHRONIZATION	WORKING-CLOSE	MODEL	T/R/V/E cue + SYNC0-3をassembly/target acquisition/commitment/final release別に追う。CAP/AAはkillだけでなくdelay/displacement/desyncで攻撃を崩せる。	V26:91-92
+10	ENTERPRISE-RESTART	WORKING-CLOSE	CURRENT-NEXT	54機JP strike、F4F15-18 svc center17、main intercept10-12。A6M18=6+6+6、precontact COM2/A-CMD2-3/SYNC2。外周迎撃から再演。	V26:93-94
