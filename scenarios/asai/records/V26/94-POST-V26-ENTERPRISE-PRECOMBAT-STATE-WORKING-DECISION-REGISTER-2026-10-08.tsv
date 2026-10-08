@@ -1,0 +1,12 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains1941-12-07T14:30 HST.	V26:00;V26:93
+ENT-CONTACT	INHERIT-WORKING	INPUT	Enterprise contact08:17-08:20 and usable moving track retained; Lexington unlocated; launch12:22-12:35 and radar cue13:52~60nmi retained as working geometry.	V26:02-03;V26:93
+ENT-F4F-POOL	WORKING	FORCE-STATE	Enterprise ~19 active F4F historical anchor; early-afternoon serviceable15-18 center17; main outer intercept10-12 plus2-4 local/late possible.	Historical DANFS;V26:93
+ENT-US-CMD	WORKING	MODEL	CXAM/fighter direction gives U-B-CMD2 normal and temporaryB3 possible; no mature precision altitude/IFF/late-war direction.	Historical anchor;V26:93
+JP-STRIKE-SIZE	WORKING-CLOSE	FORCE-STATE	54-aircraft center =18A6M+18D3A+18B5N. Selected for one-carrier attack + Lexington uncertainty/reserve, not hindsight mission-kill guarantee.	V26:16-17;V26:93
+JP-A6M-PACKAGES	WORKING-CLOSE	TACTICS	A6M18 = JF1 high/free6 + JF2 D3A-cover6 + JF3 B5N-cover6; 3-plane shotai remains immediate element.	V26:85-88;V26:93
+JP-D3A-STRUCTURE	WORKING	TACTICS	D3A18 as two9-aircraft groups for separated pressure/exploitation rather than one monolithic column.	V26:93
+JP-B5N-LOAD	WORKING	TACTICS	B5N18 = Type919 + FT6 + FT-IR3; working role card HE3 / Type919 / SAP3 / IR-SAP3, reorderable by airborne leader.	V26:17;V26:29;V26:93
+ENT-JP-COM-CMD	WORKING-CLOSE	MODEL	Japanese COM2 central; A-CMD3 possible route/assembly, A-CMD2 normal under pressure; no generic radio hit bonus.	V26:87-92;V26:93
+ENT-SYNC-PRECONTACT	WORKING-CLOSE	MODEL	S1 route/assembly SYNC2 central; S2 target acquisition SYNC2 central with SYNC3 favorable tail; F4F intercept is first major sync shock.	V26:91-93
+ENT-FIRST-CONTACT	OPEN	CURRENT-NEXT	Resolve ~14:04-14:10 outer intercept: radar-vector quality,10-12 F4F, JF package contact, A6M/F4F combat, D3A/B5N delay/displacement, COM/A-CMD/SYNC degradation; no hits yet.	V26:93
