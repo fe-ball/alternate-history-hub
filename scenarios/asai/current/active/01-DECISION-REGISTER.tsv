@@ -138,3 +138,8 @@ SHOTAI-SKELETON	WORKING-CLOSE	DOCTRINE	Three-plane shotai/nine-plane chutai skel
 CARRIER-C2-1942	WORKING-CLOSE	MODEL	Ship/cell plot->CAP leader->shotai leader; Type21 adds coarse sensor cue to pre-existing procedure, not new precision GCI.	V26:79-82
 APR29-CARDS-CORRECTED	WORKING-CLOSE	TACTICS	A14/A16/A18 superseded; use A12/A15/A18 by shotai increments. A15 reference, total strike69.	V26:81-82
 NEXT-APR29-VALID	OPEN	CURRENT-NEXT	Run A12/A15/A18 both directions to valid-release bands; stop before hits.	V26:81-82
+COMMS-CAP-RECONCILE	WORKING-CLOSE	AUTHORITY	V26:83 reconciles duplicate V26:79-82 records and is current authority for communications/doctrine and Apr29 CAP state.	V26:83-84
+APR29-ESCORT-CARDS-REVISED	WORKING-CLOSE	TACTICS	Use shotai-compatible A12/A15/A18; A15 reference. V26:75-76 A14/A16 tactical cards superseded.	V26:81;V26:83-84
+APR29-A15	WORKING	REFERENCE	A6M15 escort + D3A27 + B5N27 =69; ~17 A6M serviceable remain for CAP/relief at pool32.	V26:83-84
+APR29-CAP-C2-RECONCILED	WORKING-CLOSE	MODEL	COM2 normal, CMD2 normal/CMD3 pre-early contact possible; D3-D0 discipline states; controller tracks shotai/chutai status, not individuals.	V26:83-84
+NEXT-APR29-VALID-RECONCILED	OPEN	CURRENT-NEXT	Run A12/A15/A18 both directions to loss/abort/valid-release bands only; stop before hits.	V26:83-84
