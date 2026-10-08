@@ -1,0 +1,14 @@
+id	source_status	navigation_role	statement	sources
+CANON	CURRENT-CLOSE	ANCHOR	V26 canon remains 1941-12-07T14:30 HST.	V26:00;V26:79
+V77-CORRECTION	WORKING-CLOSE	SUPERSESSION	V26:77 was too restrictive: radio alone does not create doctrine, but 1937-42 continuous combat + reliable comms does produce procedural/tactical evolution.	V7;V26:77;V26:79
+RADIO-1932-34	WORKING-CLOSE	TIMELINE	GT quiet-radio comparison -> EMI source isolation -> shielding/bonding/filtering/noise-acceptance engineering.	V7;V26:79
+RADIO-1935-36	WORKING-CLOSE	TIMELINE	Important-aircraft acceptance requirements and naval/recon/bomber spread make usable radio increasingly normal enough to support procedure.	V7;V26:79
+DOCTRINE-1937-38	WORKING-CLOSE	TIMELINE	China shifts bottleneck from hardware-only to reporting/procedure/organization; contact, leader-status, reform/RTB and task-ownership procedures mature.	V7;1938 replay;V26:79
+DOCTRINE-1939	WORKING	TIMELINE	Leader-centered radio discipline, short standard reports, prebriefed sector/altitude/reform procedures and attack/support/lookout roles develop within three-plane shotai structure.	V26:79
+DOCTRINE-1940	WORKING-CLOSE	TIMELINE	A6M enters combat into a radio-assisted tactical culture; three-plane shotai retained but split/reform, high-cover and sequential-pass coordination become more robust.	V26:79
+CARRIER-1940-41	WORKING	TIMELINE	Carrier concentration + warning/plot/readiness procedures produce preplanned division CAP sectors/altitude bands, CAP leaders and group-level ship-to-fighter vector/retask.	V26:23;V26:79
+SPRING42-COM	WORKING-CLOSE	MODEL	First-line A6M normal serviceable state uses COM2 reliable leader-level voice; COM3 local, COM0/1 still possible from fault/congestion/damage.	V26:79
+SPRING42-CMD	WORKING-CLOSE	MODEL	CMD2 shotai/chutai task allocation normal; CMD3 group-level carrier control achievable pre/early contact, degrading in dense merge; no CMD4 precision GCI.	V26:79
+SHOTAI-STRUCTURE	WORKING-CLOSE	DOCTRINE	Formal three-plane shotai/nine-plane chutai retained; no universal two-plane/finger-four conversion.	Historical anchor;V26:79
+TYPE21-INTERACTION	WORKING-CLOSE	MODEL	Type21 feeds an already-developed report/plot/vector procedure; it improves cueing but not precision altitude or individual tracking.	V26:25;V26:79
+NEXT-APR29-C2	OPEN	CURRENT-NEXT	Define Apr29 CarDiv5 CAP command/report/sector/relief state and discipline-failure modes before A14/A16/A18 valid-release replay.	V26:79
