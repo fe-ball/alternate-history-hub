@@ -133,3 +133,8 @@ CARRIER-CAP-C2	WORKING-CLOSE	MODEL	Carrier division can prebrief sectors/altitud
 COM-CMD-STATES	WORKING-CLOSE	MODEL	First-line A6M uses COM2 normally when serviceable; CMD2 normal and CMD3 pre/early-contact possible, degrading in dense merge.	V26:79-82
 CAP-DISCIPLINE-STATES	WORKING-CLOSE	MODEL	Use D3 group discipline -> D2 shotai -> D1 local -> D0 fragmented; improved comms slows collapse but does not eliminate aggressive pursuit/dogpile.	V26:81-82
 NEXT-APR29-C2-VALID	OPEN	CURRENT-NEXT	Run A14/A16/A18 through warning/CAP/COM-CMD-D/F4F/SBD-TBD/AA to valid-release bands only; no hits.	V26:75-82
+RADIO-DOCTRINE-DIFFUSION	WORKING-CLOSE	DOCTRINE	1932-42 communications gain diffuses hardware->procedure->tactical employment->command architecture; continuous combat prevents static historical-type execution.	V26:79-80
+SHOTAI-SKELETON	WORKING-CLOSE	DOCTRINE	Three-plane shotai/nine-plane chutai skeleton retained; radio enables task split/cover/reserve/rejoin/staggered passes rather than finger-four or synchronized fire.	V26:79-80
+CARRIER-C2-1942	WORKING-CLOSE	MODEL	Ship/cell plot->CAP leader->shotai leader; Type21 adds coarse sensor cue to pre-existing procedure, not new precision GCI.	V26:79-82
+APR29-CARDS-CORRECTED	WORKING-CLOSE	TACTICS	A14/A16/A18 superseded; use A12/A15/A18 by shotai increments. A15 reference, total strike69.	V26:81-82
+NEXT-APR29-VALID	OPEN	CURRENT-NEXT	Run A12/A15/A18 both directions to valid-release bands; stop before hits.	V26:81-82
