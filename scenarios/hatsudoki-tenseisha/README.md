@@ -1,5 +1,7 @@
 # 発動機転生者
 
+> **Recovered Hyuga-only R3 conversion rationale, Sasebo/Chitose resource audit, winter 1943 readiness and Nisshin fallback:** [relaunch/32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md](relaunch/32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md)
+
 > **2026-10-09 corrected mission priority:** GOVERNING CORRECTION: User-intended 1943 sea-flank envelopment behind Arakan field forces and Hyuga support, not north-Chittagong railway blockade. See linked audit. [31](relaunch/31-ARAKAN-1943-INTENT-CORRECTION-HYUGA.md)
 
 現代の自動車用ガソリンエンジン技術者が、名古屋の織機工場の家に生まれ、航空発動機事業を育てる世界線。
