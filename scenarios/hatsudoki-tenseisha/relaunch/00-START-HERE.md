@@ -172,7 +172,7 @@ PROVISIONAL discussion results:
 ### 22–23 — 2026-10-09 Bengal / Arakan continuity correction
 
 - [22](22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md): 日向の水上航空、瑞雲のEnterprise効果・艦上射出・水戦フェリー不実施の区別を記録。
-- **[23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md):** 1942年末反攻・膠着の**未検証な会話復元案を再OPEN**。史実の英軍1942年12月Arakan攻勢・日本軍1943年春反撃との時間差、Cox's BazarのR3占領実績を要監査とし、独立した冬季後背上陸の企図・Chittagong攻略の条件分岐・参加艦艇候補は残す。
+- **[23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md):** 旧会話で確定していた先行日本軍反攻、Cox's Bazar獲得、その後の膠着の**大枠を復旧**。詳細日付・戦力・基地の稼働状況は未転記のためOPEN。次の冬季後背上陸構想、Chittagong攻略の条件分岐、参加艦艇候補を保存。
 - [21](21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md) §1の1943年春反撃→春Chittagong進出は旧会話の暫定再構成であり、**今回の時系列を上書きしない**。戦役の実際の成功は引き続きOPEN。
 
 ## 現在の読み順
