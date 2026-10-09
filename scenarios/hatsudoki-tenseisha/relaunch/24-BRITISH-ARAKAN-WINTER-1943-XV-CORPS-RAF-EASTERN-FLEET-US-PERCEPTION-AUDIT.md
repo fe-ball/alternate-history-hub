@@ -151,6 +151,8 @@ https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/d
 
 [25](25-ARAKAN-BRITISH-LOSSES-RECONSTITUTION-AND-INTERMITTENT-AIR-WAR-1943.md) audits historic First Arakan KIA/WIA/MIA versus R3 unrecorded Cox losses, 14/26th Indian reconstitution and 5/7th arrivals, RAF Hurricane-to-Spitfire Vc conversion and December Mk VIII timing, and separate USAAF Tenth/Fourteenth AF transfers. **British fighter and ground serviceability remain OPEN.**
 
+> **Cumulative losses/replacements:** [26](26-FIRST-ARAKAN-R3-CASUALTY-AND-MATERIEL-CARRYOVER-1942Q4-1943Q1.md) proposes explicit initial ground + equipment + air write-offs and late-1943 survivors, **PROVISIONAL**, following the old Cox defeat. Use a single shared casualty ledger across 14th/26th attached brigades; returnees are not new drafts; RAF and army pilots don't get included in infantry casualties.
+
 ## 8. Link back to other ledgers
 
 - [23] §0 and §7 establish the already settled Japanese Cox holding and months of active stalemate. This document changes **no prior battle result**.
