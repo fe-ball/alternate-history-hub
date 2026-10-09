@@ -119,9 +119,9 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 
 **Core historical sources:** Official British history, S. Woodburn Kirby et al., *The War Against Japan*, vol. II, *India's Most Dangerous Hour* (1958), ch. XV/XIX/XX, appendix 28 and map 13: https://www.ibiblio.org/hyperwar/UN/UK/UK-Japan-II/ ; RAF Museum, *Stalemate 1943*, https://www.rafmuseum.org.uk/research/online-exhibitions/never-forgotten-the-raf-in-the-far-east/stalemate-1943/ ; Australian Army Research Centre on the 1942–43 campaign, https://researchcentre.army.gov.au/library/australian-army-journal-aaj/volume-18-number-1/implications-contemporary-defence-leaders-air-land-integration-part-burma-campaign-during-second-world-war ; Indian Defence Review, Colonel J. K. Achuthan, *The Arakan Campaign 1942–43, in Retrospective*, https://indiandefencereview.com/the-arakan-campaign-1942-43-in-retrospective/ (contains one evident typo “1 Dec 1943” in a description of 1942 planning, so do not inherit dates without cross-check).
 
-### 7.2 Tentative R3 candidate: actual late-1942 counterstroke, early-1943 Cox exploitation
+### 7.2 ARCHIVE ONLY — earlier alternative chronology (superseded as the governing plot)
 
-**Best working synthesis consistent with coarse recollection and feasible 1942H2 preparation** — NOT a closed battle result:
+**ARCHIVE / superseded provisional reconstruction:** The following table was generated when the previous assistant mistook an incomplete GitHub record for an undecided Cox capture. The user's already-settled **Japanese acquisition of Cox, followed by stalemate, is CLOSED**. Retain this table only as possible *physical sub-event dating and supply routes*, not an alternative in which Cox capture can be declined.
 
 | Period | Military action / control | Necessary prior event or limiting gate |
 |---|---|---|
@@ -132,9 +132,9 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 | 1943 monsoon–autumn | Both reinforce, skirmish and learn; no major net territorial change **if** Cox lodgment remains supplied and Britain cannot recapture it; air attacks and local counterattacks do not cease | Coastal supply through monsoon is constrained; Japanese must retain limited sea lanes, dispersal, AA, radio, ammunition; British 26th Division and RAF arrival timing recalculated |
 | 1943 next dry season (Dec candidate) | Japan can prepare an **independent rear landing** to break the now-learned British defense. Possible Banshbaria–Sitakunda northern Chittagong access needs hydrology and enemy GCI/naval analysis | A **separate** post-landing decision determines whether to attack/occupy Chittagong city/port by land and/or an additional amphibious act |
 
-**Why this synthesis is reasonable:** It preserves an **actual late-1942 Japanese counterstroke** as remembered without demanding that Cox's Bazar instantly fall in the very same week. The initial British December advance may expose dispersed brigades, while R3 can pay for Japanese October–December staged troops and boats. The **decisive divergence** is a real Japanese movement **north of historical Maungdaw/Mayu stop** into Cox. That extra success is not free and is not yet proved.
+**Archived hypothesis, not authority:** It preserves an **actual late-1942 Japanese counterstroke** without demanding that Cox's Bazar fall in that same week. The initial British December advance may expose dispersed brigades, while R3 can pay for Japanese October–December staged troops and boats. The **decisive divergence** is a real Japanese movement **north of historical Maungdaw/Mayu stop** into Cox. That extra success is not free and is not yet proved.
 
-**R3 alternative still viable:** Late-1942 preposition but **first substantial counterattack in 1943Q1–Q2** is logistically cheaper and close to history. Both remain OPEN. If British withdraw early instead of marching south, Japanese may be forced into a deliberate attack against stronger rear defenses; the “early trapped Britons” opportunity is NOT guaranteed.
+**SUPSERSEDED choice of alternative macro-events:** Alternative timing can be considered only to restore unlogged subevents, not to reopen already settled territorial conquest; Cox remains Japanese for the winter plan. If British withdraw early instead of marching south, Japanese may be forced into a deliberate attack against stronger rear defenses; the “early trapped Britons” opportunity is NOT guaranteed.
 
 ### 7.3 Control line and identification discipline
 
@@ -153,14 +153,14 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 
 **Political/administrative rule:** Cox's Bazar in 1943 is British Indian territory. Holding it would give the Japanese a potentially important Azad Hind/Bose political card, but it does not automatically produce trained INA formations or local logistical support. Effects depend on arrival timing, local communities and governance.
 
-### 7.4 What can be tentatively held now
+### 7.4 Corrected scope: historical references versus already-settled R3
 
 1. **Historical baseline: CLOSED as reference.**
-2. **Campaign geography: DIRECTIONAL candidate** — if Cox is Japanese by winter, an interim front between Cox and British-held Chakaria makes the contemplated south/north operations geographically coherent. Not a surveyed or fixed line.
+2. **Campaign geography: CLOSED Japanese Cox control** by winter; contact line north of Cox remains unlocated at village scale, with Chakaria status OPEN. The map is not a surveyed line.
 3. **Japanese operational intention: retained** — next dry-season rear landing is not contingent on a fresh British attack; success and Chittagong exploitation remain independent decisions.
 4. **Never claim**: (a) Japanese took Cox by 1942 Dec solely on late-year resupply, (b) British irreversibly collapsed in Arakan, (c) Japanese captured the entire road Cox–Chittagong, (d) RAF had no airfields, or (e) Japan already controls Chakaria.
 
-**Exact missing prerequisite to close territorial history:** R3 late-1942 55th Division and 213th detachments (arrival dates/OOB), troops and Daihatsu that landed north of Mayu, physical supply routes, British December 1942 brigade locations and their withdrawal/relief decisions, then event/date of Japanese acquisition of Cox's Bazar. If no such event is demonstrated, winter landing must be re-based on Akyab or an intermediate stepping-stone, not simply call Cox Japanese.
+**Untranscribed details, to recover only if needed for calculations:** R3 late-1942 55th Division / 213th elements, shipping and Daihatsu receipts, British brigade withdrawal, Japanese Cox takeover date and postcapture air/logistics qualification. These details are **not gates to undo an already CLOSED result**. Winter sortie readiness may still fail on fuel/port/road grounds even though Cox remains Japanese.
 
 
 ## 6. Remaining OPEN — detail restoration without strategic reopening
