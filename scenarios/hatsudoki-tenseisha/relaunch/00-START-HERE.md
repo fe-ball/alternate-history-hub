@@ -169,6 +169,12 @@ PROVISIONAL discussion results:
 - 1944 India二正面案、航空集中、British relief、Hump、Five-Go後の船腹余力は、この1943結果が閉じるまでdownstream workingに留める。
 - O6、Ki-45昴型再評価、後期昴Ki-63、峰Ki-63 / 新規峰戦、後期峰A7M / O6試験型のdiscussionをstatus付きで保持する。
 
+### 22–23 — 2026-10-09 Bengal / Arakan continuity correction
+
+- [22](22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md): 日向の水上航空、瑞雲のEnterprise効果・艦上射出・水戦フェリー不実施の区別を記録。
+- **[23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md):** 1942年末の高速補給・舟艇機動反攻後の膠着、英軍新攻勢の有無に依存しない1943年冬季後方上陸構想、Chittagong市街・港湾への追加攻勢の別判定、参加艦艇の候補と未確定を記録。
+- [21](21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md) §1の1943年春反撃→春Chittagong進出は旧会話の暫定再構成であり、**今回の時系列を上書きしない**。戦役の実際の成功は引き続きOPEN。
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
