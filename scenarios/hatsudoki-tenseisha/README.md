@@ -22,6 +22,8 @@
 
 > **Arakan British loss/replacement + 1943 intermittent air war:** [relaunch/25-ARAKAN-BRITISH-LOSSES-RECONSTITUTION-AND-INTERMITTENT-AIR-WAR-1943.md](relaunch/25-ARAKAN-BRITISH-LOSSES-RECONSTITUTION-AND-INTERMITTENT-AIR-WAR-1943.md)
 
+> **First Arakan R3 casualty/material/air loss working ledger (figures NOT CLOSED):** [relaunch/26-FIRST-ARAKAN-R3-CASUALTY-AND-MATERIEL-CARRYOVER-1942Q4-1943Q1.md](relaunch/26-FIRST-ARAKAN-R3-CASUALTY-AND-MATERIEL-CARRYOVER-1942Q4-1943Q1.md)
+
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
 
