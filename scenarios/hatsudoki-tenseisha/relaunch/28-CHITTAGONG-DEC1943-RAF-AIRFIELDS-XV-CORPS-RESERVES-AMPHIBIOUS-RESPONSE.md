@@ -110,6 +110,8 @@ This theatre has an institutionally plausible **corps reserve at Chittagong**; i
 
 **NOT DECIDED:** where British reserve actually sat, whether Japanese land successfully, whether rail is cut, whether Britain fights or retreats, whether Chittagong falls, whether RN/US redeploys. All await the landing design and British intelligence decision.
 
+> **Japanese landing lift and British H+72 challenge:** [29](29-WINTER-1943-CHITTAGONG-REAR-LANDING-LIFT-TIDES-AIR-COVER-72H-WARGAME.md) builds an explicitly conditional Akitsu/Shinshu **36 Daihatsu** capacity, 1st-wave 1,540 troops+100t+4 gun packages if all craft available, separate tide/RAF/double-counting gates, and wargames the 26th India reserve response. Landing success or railway occupation remains OPEN.
+
 ## 8. Sources and status discipline
 
 - Brit official history *The War Against Japan* vols II and III: [rail/sea and air OOB](https://www.generalstaff.org/WW2/Hist_UK/WarAgainstJapanVol2.pdf), [No.224 Group actual footprint](https://www.generalstaff.org/WW2/Hist_UK/WarAgainstJapanVol3.pdf).
