@@ -133,6 +133,64 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 - [22] correctly records Hyūga/seaplane doctrine; it does **not** document a final named fleet composition or the conditional campaign outcome.
 - The current accessible chat covered specific ship candidates, near-Chittagong/Banshbaria–Sitakunda landing discussion, combat aircraft and ship/fuel/handling caveats, then branched into floatplanes. **The full logs of older separate chats are not directly available for verbatim validation**; any unverifiable earlier ship number is tagged discussion-only.
 
+
+## 7. Geography + chronology recheck: 1942 winter to December 1943 planning start line (2026-10-09)
+
+> **Status:** HISTORICAL BASELINE VERIFIED from RAF Museum / HMSO official British campaign history; **R3 physical divergence: PROVISIONAL reconstruction, NOT historical victory or CLOSED territory**. This section addresses the confusion between the prior 1942–43 counterstroke and next dry-season strategic rear landing. The user's recollected timeline is an input, **not a shortcut around force, supply and British-response checks**.
+
+### 7.1 Historical calibration
+
+- British **14th Indian Division** began its Arakan advance planning and movement in **September–November 1942**; operational drive from **Cox's Bazar** gained Maungdaw and the Maungdaw–Buthidaung road in **December**, then stopped against Donbaik/Rathedaung during **January–March 1943**.
+- Real Japanese **55th Division** (especially 112th/143rd Regiments, with 213th Regiment elements as reinforcement) concentrated on Arakan **during January–February 1943**, counterattacked **March–May**, crossed Mayu Range and ultimately induced British evacuation of **Maungdaw on 11 May**. Japanese advance halted around the **Maungdaw–Buthidaung axis**, not Cox's Bazar, largely amid monsoon, strained local logistics and British artillery advantage nearer Cox.
+- British built field communications and supply with coast boats and inland narrow roads; **railhead Dohazari ~32 km south of Chittagong**, and the Cox–Tumbru–Mayu route relied on tracks, country boats, pack animals and porters. Japan's coastal ship/landing craft advantage in R3 is relevant but does not instantly create an all-weather highway or a deepwater Cox's Bazar port.
+- British November 1943 **second Arakan offensive** existed in history. In R3, an altered front around Cox changes British staging, timing and OOB; it is **NOT automatically the same historical 1943 November offensive**, nor does British inactivity become automatic.
+
+**Core historical sources:** Official British history, S. Woodburn Kirby et al., *The War Against Japan*, vol. II, *India's Most Dangerous Hour* (1958), ch. XV/XIX/XX, appendix 28 and map 13: https://www.ibiblio.org/hyperwar/UN/UK/UK-Japan-II/ ; RAF Museum, *Stalemate 1943*, https://www.rafmuseum.org.uk/research/online-exhibitions/never-forgotten-the-raf-in-the-far-east/stalemate-1943/ ; Australian Army Research Centre on the 1942–43 campaign, https://researchcentre.army.gov.au/library/australian-army-journal-aaj/volume-18-number-1/implications-contemporary-defence-leaders-air-land-integration-part-burma-campaign-during-second-world-war ; Indian Defence Review, Colonel J. K. Achuthan, *The Arakan Campaign 1942–43, in Retrospective*, https://indiandefencereview.com/the-arakan-campaign-1942-43-in-retrospective/ (contains one evident typo “1 Dec 1943” in a description of 1942 planning, so do not inherit dates without cross-check).
+
+### 7.2 Tentative R3 candidate: actual late-1942 counterstroke, early-1943 Cox exploitation
+
+**Best working synthesis consistent with coarse recollection and feasible 1942H2 preparation** — NOT a closed battle result:
+
+| Period | Military action / control | Necessary prior event or limiting gate |
+|---|---|---|
+| 1942 Jul–Oct | Japan uses FS-delay surplus to reconnoiter Akyab–Naf–Cox and stage transport, Daihatsu, fuel, and **meaningful 55th Division detachments** on Arakan ahead of real-life concentration | Army orders and shipping draw from Central Burma, possible impact on inland defense, RAF patrol |
+| 1942 Nov–Dec | Britain advances from Cox toward Mayu as in historical design **if enemy intelligence permits**; Japanese defence and late-December **local land/coastal counterstroke** aims at exposed British flanks and beach/river communications | Britain might cancel/postpone if obvious Japanese build-up; early Japanese counterstroke needs actual assembled units |
+| 1942 late Dec–1943 Feb/Mar | *Conditional success branch*: Japanese amphibious exploitation cuts British communications and **captures Cox's Bazar by a separate, costed seizure/retreat event**; surviving British brigades retreat north towards Chakaria–Dohazari–Chittagong, or escape by sea. No free assumption of mass British POWs | Unlike real history requires a regiment/multiple battalions and possibly **[17] middle-B 5,000–10,000-class landing**, naval/air cover, landing craft, first-wave supplies, beach reconnaissance and credible British retreat/response |
+| 1943 spring | Front settles with Japan in Akyab–Maungdaw–Naf–Ramu–**Cox's Bazar**. Northern forward limits/raiding zone tentatively between Cox and Chakaria; Britain retains **Chakaria–Dohazari–Chittagong corridor**, with RAF and reinforcements farther north | **Cox, not Chakaria, is the only explicitly proposed Japanese northern major node**; no automatic occupation of Chakaria, southern Chittagong or port |
+| 1943 monsoon–autumn | Both reinforce, skirmish and learn; no major net territorial change **if** Cox lodgment remains supplied and Britain cannot recapture it; air attacks and local counterattacks do not cease | Coastal supply through monsoon is constrained; Japanese must retain limited sea lanes, dispersal, AA, radio, ammunition; British 26th Division and RAF arrival timing recalculated |
+| 1943 next dry season (Dec candidate) | Japan can prepare an **independent rear landing** to break the now-learned British defense. Possible Banshbaria–Sitakunda northern Chittagong access needs hydrology and enemy GCI/naval analysis | A **separate** post-landing decision determines whether to attack/occupy Chittagong city/port by land and/or an additional amphibious act |
+
+**Why this synthesis is reasonable:** It preserves an **actual late-1942 Japanese counterstroke** as remembered without demanding that Cox's Bazar instantly fall in the very same week. The initial British December advance may expose dispersed brigades, while R3 can pay for Japanese October–December staged troops and boats. The **decisive divergence** is a real Japanese movement **north of historical Maungdaw/Mayu stop** into Cox. That extra success is not free and is not yet proved.
+
+**R3 alternative still viable:** Late-1942 preposition but **first substantial counterattack in 1943Q1–Q2** is logistically cheaper and close to history. Both remain OPEN. If British withdraw early instead of marching south, Japanese may be forced into a deliberate attack against stronger rear defenses; the “early trapped Britons” opportunity is NOT guaranteed.
+
+### 7.3 Control line and identification discipline
+
+**For the specific December 1943 *option study only*, not as established prior-campaign fact:**
+
+| Area | Suggested holder | Confidence / impact |
+|---|---|---|
+| Akyab–Mayu–Maungdaw | Japanese | Robust prior Japanese-operating sector; actual wartime fortification and garrisons conditional |
+| Teknaf–Naf mouth, Ramu, Cox's Bazar | Japanese **IF** Cox-seizure branch wins | Requires coastal lift/maintenance; river crossing and garrison strength separately tracked |
+| Cox–Chakaria approaches | **CONTACT ZONE / OPEN** | Unmeasured seasonal lines; neither side gets automatic uninterrupted road control |
+| Chakaria, Dohazari | British **working assumption** | North road/railhead defense, RAF field use not automatically qualified |
+| Chittagong port and city | British **working assumption** | Main strategic target of later option; no spring-1943 conquest automatically |
+| Feni / Comilla and onward India | British | Rear air/rail reinforcement nodes subject to British choices |
+
+**Critical physical rule:** Capture of Cox's Bazar town and road junction does NOT guarantee port/wharf, sheltered mooring, runway, aviation fuel depot or fair-weather roads: assess **separately**. In the absence of proof, the December plan may draw **some** advance capacity from Akyab/Cox but must not pretend that Cox is a major all-weather supply harbor.
+
+**Political/administrative rule:** Cox's Bazar in 1943 is British Indian territory. Holding it would give the Japanese a potentially important Azad Hind/Bose political card, but it does not automatically produce trained INA formations or local logistical support. Effects depend on arrival timing, local communities and governance.
+
+### 7.4 What can be tentatively held now
+
+1. **Historical baseline: CLOSED as reference.**
+2. **Campaign geography: DIRECTIONAL candidate** — if Cox is Japanese by winter, an interim front between Cox and British-held Chakaria makes the contemplated south/north operations geographically coherent. Not a surveyed or fixed line.
+3. **Japanese operational intention: retained** — next dry-season rear landing is not contingent on a fresh British attack; success and Chittagong exploitation remain independent decisions.
+4. **Never claim**: (a) Japanese took Cox by 1942 Dec solely on late-year resupply, (b) British irreversibly collapsed in Arakan, (c) Japanese captured the entire road Cox–Chittagong, (d) RAF had no airfields, or (e) Japan already controls Chakaria.
+
+**Exact missing prerequisite to close territorial history:** R3 late-1942 55th Division and 213th detachments (arrival dates/OOB), troops and Daihatsu that landed north of Mayu, physical supply routes, British December 1942 brigade locations and their withdrawal/relief decisions, then event/date of Japanese acquisition of Cox's Bazar. If no such event is demonstrated, winter landing must be re-based on Akyab or an intermediate stepping-stone, not simply call Cox Japanese.
+
+
 ## 6. Remaining OPEN — next legitimate research frontier
 
 1. **Definitive exact line/map before winter H-hour**: Cox's Bazar Japanese-control node, remaining RAF/British fields, Chakaria–Sitakunda approach and sea/road distance. No free use of British-held ports.
