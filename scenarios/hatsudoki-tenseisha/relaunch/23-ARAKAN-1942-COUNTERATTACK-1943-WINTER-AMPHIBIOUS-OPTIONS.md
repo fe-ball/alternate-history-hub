@@ -219,6 +219,9 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 - Royal Air Force Museum, *On to the offensive: 1944*: https://www.rafmuseum.org.uk/research/online-exhibitions/never-forgotten-the-raf-in-the-far-east/onto-the-offensive-1944/ (records British offensive beginning November 1943 and February 1944 Japanese response).
 
 
+
+**1943-12 英側実働戦力の同時点監査:** [24](24-BRITISH-ARAKAN-WINTER-1943-XV-CORPS-RAF-EASTERN-FLEET-US-PERCEPTION-AUDIT.md) — XV軍団（第5/7/26インド師団・第81西アフリカ）、RAF第224航空群14個飛行隊と米第10航空軍の独立勘定、1943年12月東洋艦隊と翌1–2月増援の時間差、米太平洋艦隊への英国の認識をまとめた。現行第23の戦役CLOSED事項は変更せず、英国の冬季軍事行動の結果はOPEN。
+
 ## 8. 英国の1943年冬季戦略選択 — 政策・兵力・米国に対する認識
 
 > **Status:** 英国の作戦選択を考えるための史実制約と分析枠はCLOSED。R3英国の具体的政策、兵力、命令、対日進攻や艦隊出撃は**PROVISIONAL / OPEN**。既決の「日本軍Cox's Bazar保持・春秋は戦線膠着」は維持する。
