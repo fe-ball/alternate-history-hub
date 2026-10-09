@@ -218,3 +218,48 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 - US National Defense University Press, *Echoes of the Past: The Burma Campaign and Future Operational Design in the Indo-Pacific Region*: https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-109/Article/Article/3385559/echoes-of-the-past-the-burma-campaign-and-future-operational-design-in-the-indo/
 - Royal Air Force Museum, *On to the offensive: 1944*: https://www.rafmuseum.org.uk/research/online-exhibitions/never-forgotten-the-raf-in-the-far-east/onto-the-offensive-1944/ (records British offensive beginning November 1943 and February 1944 Japanese response).
 
+
+## 8. 英国の1943年冬季戦略選択 — 政策・兵力・米国に対する認識
+
+> **Status:** 英国の作戦選択を考えるための史実制約と分析枠はCLOSED。R3英国の具体的政策、兵力、命令、対日進攻や艦隊出撃は**PROVISIONAL / OPEN**。既決の「日本軍Cox's Bazar保持・春秋は戦線膠着」は維持する。
+
+### 8.1 史実の政策と能力の差
+
+- **英国参謀長委員会（1943年5月14日）**はビルマ全面奪回ANAKIMを当該冬季には過大と評価。他方でAkyab、Ramree、対日航空作戦、海上交通妨害、対中航空補給を明確に重視した。英国は単なる守勢を望んだわけではない。資料: https://history.state.gov/historicaldocuments/frus1943/d104
+- **1943年12月のCairo/SEXTANT**ではAndaman攻略BUCCANEERにも増加約120機の艦載戦闘機、上陸船艇、輸送等の供給問題があった。英米間には欧州とアジアへの配分論争があり、史実のBUCCANEERは中止された。資料: https://history.state.gov/historicaldocuments/frus1943CairoTehran/d447 ; https://history.state.gov/historicaldocuments/frus1943CairoTehran/d448
+- **欧州優先:** 1943年末のイタリアではドイツ軍が防御線を維持し、1944年1月にはAnzio上陸が必要になった。地中海戦力を「既に暇な艦隊」とはみなさない。資料: https://history.army.mil/Research/Reference-Topics/Army-Campaigns/Brief-Summaries/World-War-II/World-War-II-European-African-Middle-Eastern-Theater/
+- **海軍到着の時計:** 史実のEastern FleetにはRenown、Queen Elizabeth、Valiant、Illustrious、Unicornが1944年1月に到着する群があった。ただし転航・補給・戦隊訓練を要した。R3はOperation CでIndomitableを喪失しFormidableを損傷させており、史実1944年の編成を無償転写しない。資料: https://www.naval-history.net/xDKWD-EF1943Dec-Apr1944.htm
+- **インドの兵站・政治:** Cox's Bazar喪失は英領インドに関わるが、軍の増援には鉄道・海運・工兵・食糧供給との競合がある。1943年Bengal飢饉は重大な実務制約。資料: https://history.state.gov/historicaldocuments/frus1943v04/d336
+
+### 8.2 関係者によって優先順位が異なる
+
+| 英国・連合国側の主体 | 作戦目的 | 主な現実的制約 |
+|---|---|---|
+| London / War Cabinet / 参謀長委員会 | ドイツ撃破、欧州上陸準備、インド防衛・国威と対中補給 | 地中海・Overlordとの競合、艦艇・航空戦力・上陸船艇の転用時間 |
+| India Command / 英印軍 | Chittagong・鉄道・航空基地の安全、Cox方面での再度の敗走阻止 | 熟練、組織再建、道路と補給、民政 |
+| SEAC / 第14軍 / XV軍団 | 局地反撃か慎重な戦線構築か、戦場で主導権を取り戻す | 英軍による前回包囲失敗の教訓、予備と航空支援 |
+| Eastern Fleet | 海上交通保護、対潜任務、適切な条件下での海上攻勢 | 空母と艦載航空隊、護衛・燃料、R3日本艦隊の状況 |
+| 米国の統合参謀・太平洋海軍 | 太平洋の主作戦と中国の継戦維持 | 太平洋空母の実戦稼働、対日戦域間配分、欧州上陸との関係 |
+
+### 8.3 英国の作戦選択肢（いずれも結果を確定しない）
+
+| 案 | 欲求・利点 | 実施を左右する条件 |
+|---|---|---|
+| **A: 積極的防御** | Chittagong保全、空軍力・道路・予備を立て直し、海上交通への圧力を維持する | 砲兵・航空整備・防空と後方輸送 |
+| **B: 限定反攻** | 日本軍を牽制し、局地的な戦術主導権を回復する | 部隊の再編と航空援護、孤立を避ける予備 |
+| **C: Cox's Bazar奪回を狙う本格攻勢** | 英領インド側の失地回復、心理・政治上の効果 | 十分な師団・砲兵・兵站、再包囲への備え。既決の膠着を勝手に書き換えない |
+| **D: 周辺での海上・島嶼作戦** | 日本の配置を分散させ、直接の正面攻勢を避ける | 上陸船艇・空母・護衛・米軍協力 |
+| **E: 英東洋艦隊の大増援** | 日本艦隊・上陸作戦への強い抑止または反応 | ロンドンと英米の資源再配分の決定。既存地中海戦力を瞬間移動させない |
+
+**暫定中央仮説:** 英国は**積極的防御Aに限定反攻Bを併用**し、Cの準備を進めるが即時実施を固定しない。日本側の1943年冬季後背上陸が成功するかどうかで、その後の英国側の選択は再変化する。DとEは政策的には考えられても能力面で重い。
+
+### 8.4 米国が日本を抑えている、との英国の認識
+
+- 史実で1943年末の米海軍はEssex級7隻とIndependence級9隻を就役させたが、これは**稼働し交戦可能な機動部隊数と同義ではない**。資料: https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-025/h-025-1.html
+- R3ではEnterprise鹵獲・Hornet沈没、そして日本の空母機動部隊が史実より健全。英軍が安心できるのは単なる米国の建造数ではなく、**米軍の現実の太平洋作戦で日本艦隊の行動が制約されているという情報**が得られた場合に限る。
+- 日本海軍がインド洋に姿を見せない理由は、米海軍に拘束されている、船団・燃料の問題、整備中、あるいは短期集中待機など複数あり得る。英国はそのどれかを自動的に知ってはいない。
+- **英国が「米軍は日本主力を太平洋に釘付けにした」と認識する場合**、英側の限定海上攻勢の構想は立てやすくなる。ただし自国の空母・掃海・輸送船不足は残る。
+- **日本主力がインド洋へ短期集中できると認識する場合**、英側はより航空防御・海上補給の保護・増援要請を重視する可能性がある。
+- **Chittagongの危機が深い場合**、地中海・欧州との優先順位争いをロンドンで再審議する余地がある。再審議は直ちに海上決戦が可能になることを意味しない。
+
+**OPEN for next:** 英国の実際の冬季戦闘序列（師団・RAF・RN）、米国のR3太平洋作戦が英国にどう見えたか、R3東洋艦隊の具体艦艇と訓練状態、英国がCox奪回を準備したか、それともChittagong防衛に留まったか。**日本軍の先行Cox確保・膠着は再監査しない。**
