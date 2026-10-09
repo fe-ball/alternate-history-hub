@@ -153,6 +153,8 @@ https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/d
 
 > **Cumulative losses/replacements:** [26](26-FIRST-ARAKAN-R3-CASUALTY-AND-MATERIEL-CARRYOVER-1942Q4-1943Q1.md) proposes explicit initial ground + equipment + air write-offs and late-1943 survivors, **PROVISIONAL**, following the old Cox defeat. Use a single shared casualty ledger across 14th/26th attached brigades; returnees are not new drafts; RAF and army pilots don't get included in infantry casualties.
 
+> **Actual December readiness versus paper OOB:** [27](27-1943-ARAKAN-JUN-NOV-ATTRITION-REPLACEMENT-DEC-AIR-GROUND-READINESS.md) gives an explicit worked **model** 224 Group ~180 assigned / ~125 mission-ready and Japanese Burma IJA ~272 assigned/~204 ready (west support ~90–130), with the two countries' replenishment and RAF Spitfire readiness gates. These are not observed 1943 counts or automatically committed aircraft.
+
 ## 8. Link back to other ledgers
 
 - [23] §0 and §7 establish the already settled Japanese Cox holding and months of active stalemate. This document changes **no prior battle result**.
