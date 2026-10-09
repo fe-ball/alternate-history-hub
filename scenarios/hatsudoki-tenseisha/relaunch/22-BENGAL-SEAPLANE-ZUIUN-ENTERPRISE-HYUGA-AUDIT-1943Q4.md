@@ -1,5 +1,7 @@
 # 22 — Bengal水上航空・瑞雲のEnterprise効果・日向艦上運用監査（1943Q4 forward）
 
+> **Sasebo cost / R3 Hyuga completion audit:** [32](32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md) finds Hyuga-only conversion already decided in [15], and provides a credible but PROVISIONAL Sep–Oct 1943 completion path only if other yard assignments (particularly the historically simultaneous Chitose CVL conversion) are genuinely sacrificed. An E13A/F1M-led Dec Hyuga can function without two early E16A; their qualifications remain separate.
+
 > **2026-10-09 corrected mission priority:** Hyuga role restored: Her seaplanes and retained eight 35.6cm guns were envisaged as **central reconnaissance, observation and naval fire support** for the seaborne flank and main land-force operation. Not incidental nor a replacement for an aircraft carrier, landing craft or infantry. December 1943 physical arrival/training remains an explicit condition. [31](31-ARAKAN-1943-INTENT-CORRECTION-HYUGA.md)
 
 > **Authority:** R3 forward analytical closure / follow-on to [17](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md), [18](18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md), [20](20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md), and [21](21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md).
