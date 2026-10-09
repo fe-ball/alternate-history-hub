@@ -20,6 +20,8 @@
 
 > **British winter 1943 ground/RAF/RN capability audit:** [relaunch/24-BRITISH-ARAKAN-WINTER-1943-XV-CORPS-RAF-EASTERN-FLEET-US-PERCEPTION-AUDIT.md](relaunch/24-BRITISH-ARAKAN-WINTER-1943-XV-CORPS-RAF-EASTERN-FLEET-US-PERCEPTION-AUDIT.md)
 
+> **Arakan British loss/replacement + 1943 intermittent air war:** [relaunch/25-ARAKAN-BRITISH-LOSSES-RECONSTITUTION-AND-INTERMITTENT-AIR-WAR-1943.md](relaunch/25-ARAKAN-BRITISH-LOSSES-RECONSTITUTION-AND-INTERMITTENT-AIR-WAR-1943.md)
+
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
 
