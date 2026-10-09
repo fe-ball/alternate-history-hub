@@ -155,6 +155,8 @@ https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/d
 
 > **Actual December readiness versus paper OOB:** [27](27-1943-ARAKAN-JUN-NOV-ATTRITION-REPLACEMENT-DEC-AIR-GROUND-READINESS.md) gives an explicit worked **model** 224 Group ~180 assigned / ~125 mission-ready and Japanese Burma IJA ~272 assigned/~204 ready (west support ~90–130), with the two countries' replenishment and RAF Spitfire readiness gates. These are not observed 1943 counts or automatically committed aircraft.
 
+> **1943 Chittagong sector basing and defense:** [28](28-CHITTAGONG-DEC1943-RAF-AIRFIELDS-XV-CORPS-RESERVES-AMPHIBIOUS-RESPONSE.md) — preserve R3 Japanese Cox/Ramu control, use actual 1895 Chittagong–Feni railway and 1931 Dohazari terminus, historical RAF 224 airfield/warning network and 26th Indian at Chittagong, derive a PROVISIONAL H+0–96 hour conditional response to a Sitakunda rear landing. Not a CLOSED British OOB or result.
+
 ## 8. Link back to other ledgers
 
 - [23] §0 and §7 establish the already settled Japanese Cox holding and months of active stalemate. This document changes **no prior battle result**.
