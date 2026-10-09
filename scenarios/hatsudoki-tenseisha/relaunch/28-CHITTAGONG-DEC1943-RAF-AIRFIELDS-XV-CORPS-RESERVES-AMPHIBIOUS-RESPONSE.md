@@ -47,6 +47,8 @@ This theatre has an institutionally plausible **corps reserve at Chittagong**; i
   Sources: https://www.rafweb.org/Members%20Pages/Orders%20of%20Battle/1944/1944_01_SEAC.htm ; https://rafweb.org/Members%20Pages/Unt%20Histories/Maintenance%20Units%20etc/RRPs.htm
 - **Radar and aircraft warning already in 1943**: 224 Group filter/sector network and air-warning stations should be allowed, but 1944 full geographic coverage, solid reporting from every north-coast beach and 100% night detection is NOT free. Aircraft radar plotting does not guarantee observing small boats / tidal channel movements.
 
+> **2026-10-09 RAF field count correction:** [30](30-CHITTAGONG-1943-OBJECTIVES-BEACHHEAD-COUNT-AIRFIELD-NODES-REAPPRAISAL.md) confirms these **five geographic rows are command/supply clusters, not an exhaustive list of five actual 1943 runways or a proven fully based 125-aircraft deployment**. Chittagong/Double Moorings, Feni/Parashuram, Comilla/Lalmai and the evolving Dohazari facilities differ by dated qualification and squadrons. Of particular note, No.8 IAF's Double Moorings Vengeance unit first flew on **15 Dec 1943**, and No.243 Wing at Feni assumed squadron control only **18 Dec**; do NOT automatically grant their mature operation to a **10 Dec** R3 H-hour. The table below is a **conditional functional-region accounting test**; if fields are not approved, 125 airworthy group aircraft do not instantly become 125 locally ready sortie aircraft.
+
 ## 4. Air-accounted British R3 stationing model — **same 125 as [27], never extra**
 
 [27] hypothesizes RAF No.224 Group **180 physically assigned / 125 mission-ready** (Spitfire 29; Hurricane family 67; Beaufighter 13; Vengeance 16). Reallocate those *same aircraft* to British-held bases for the R3 test.
