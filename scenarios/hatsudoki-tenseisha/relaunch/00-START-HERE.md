@@ -1,5 +1,7 @@
 # 発動機転生者・リランチ正本
 
+> **2026-10-09 corrected mission priority:** GOVERNING CORRECTION: The 1943 winter Japanese operation targets the **British field front rear/flank**, in conjunction with Japanese main troops advancing north from previously held Cox, and only thereafter may exploit toward Chittagong. Former #28–30 Sitakunda–Feni blockade is unapproved assistant-invented alternative; Hyuga is a support centerpiece (deployment still OPEN). [31](31-ARAKAN-1943-INTENT-CORRECTION-HYUGA.md)
+
 > **Authority:** Relaunch R3
 > **Canonical historical clock:** **1942-06-26 約18:00（Enterprise Kwajalein sheltered-salvage / Midway radar-base working clock）**
 > **Checkpoint:** Enterpriseは6/25 Kwajalein lagoonへ安全入泊しAkashi＋Urakami Maruでsheltered salvage中。Midwayは固定早期警戒radarを持つforward baseへ移行
