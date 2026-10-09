@@ -1,5 +1,7 @@
 # 29 — 1943冬季 Chittagong後背上陸：大発揚陸量・母船・潮汐・航空援護・英軍反撃 H+72h
 
+> **2026-10-09 corrected mission priority:** SUPERSEDED MISSION: The first sea landing is behind the British south-Arakan field front to cooperate with Japan's advancing main army, not a self-contained Chittagong north-city blockade. Physical Daihatsu craft capacities remain arithmetically informative. The 36-boat minimum and mother-ship urgency from the larger blockade cannot be transferred to this smaller/different flank mission without a new tactical requirement. [31](31-ARAKAN-1943-INTENT-CORRECTION-HYUGA.md)
+
 > **Study:** 2026-10-09. **R3 master clock:** 1942-06-26 around 18:00. All 1943 manoeuvre outcomes are forward scenarios, not 1942 actors' knowledge.
 >
 > **CLOSED inherited macro-events:** Prior Japanese counterstroke with rapid logistics/landing-craft mobility captured Cox's Bazar; the territorial front was broadly static through 1943; Japanese independently plans a new dry-season amphibious strike into the British rear whether Britain advances or not; later direct fight for Chittagong city/port is a **separate decision**, not a guaranteed second landing.
