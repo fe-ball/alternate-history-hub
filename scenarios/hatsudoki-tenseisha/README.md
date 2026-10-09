@@ -18,6 +18,8 @@
 > **Winter Bengal ship/seaplane audit:** [relaunch/22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md](relaunch/22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md)
 > **Arakan previously closed continuity restored (Cox held, following stalemate; winter operation outcome OPEN):** [relaunch/23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md](relaunch/23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md)
 
+> **British winter 1943 ground/RAF/RN capability audit:** [relaunch/24-BRITISH-ARAKAN-WINTER-1943-XV-CORPS-RAF-EASTERN-FLEET-US-PERCEPTION-AUDIT.md](relaunch/24-BRITISH-ARAKAN-WINTER-1943-XV-CORPS-RAF-EASTERN-FLEET-US-PERCEPTION-AUDIT.md)
+
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
 
