@@ -1,77 +1,49 @@
-# 23 — Arakan 1942末–1943戦役経緯の再監査・冬季後背上陸構想・海軍投入選択肢
+# 23 — Arakan先行反攻・Cox's Bazar確保・膠着・1943冬季上陸作戦構想
 
-> **Authority / priority:** 2026-10-09 会話でユーザーが明示した戦役前提の引き継ぎ・整合性監査。[17](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)、[19](19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md)、[21](21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md) と連結する。
+> **Authority:** Relaunch R3 operational continuity recovery from the user's repeated explicit clarification in the current conversation, reconciling [17](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md), [19](19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md), [21](21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md), and [22](22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md).
 >
-> **Status (CORRECTED 2026-10-09):** **CLOSED analytic distinction between first reaction / stalemate / subsequent winter offensive and between rear landing / Chittagong exploitation**; **WORKING HYPOTHESES, NOT CLOSED facts** for exact 1942/43 counteroffensive clock, Cox's Bazar capture, territorial boundaries and stagnation duration; **PROVISIONAL winter landing intentions and ship candidates**; **OPEN outcome, capability and landing sites**.
+> **Status (2026-10-09 reclassification):** **CLOSED / RESTORED core prior-campaign continuity as user-established R3 worldline**; **OPEN archival precision (exact dates, division/transport inventories, casualties, coastal logistics, line trace)**; **PROVISIONAL 1943 winter rear-landing military plan and ship candidates**; **OPEN outcome of winter assault and Chittagong attack/occupation**.
 >
-> **Canonical master clock stays 1942-06-26 ~18:00.** This note does **not** declare that the future battle or ship sailings have occurred. It closes only the conditional future-branch scenario assumptions and decision structure.
+> **R3 master clock remains 1942-06-26 ~18:00.** CLOSED in this document means an already-decided later scenario branch to preserve for future examination, not contemporaneous knowledge available to Japanese officers in June 1942.
 >
-> **Source caveat:** The current accessible conversation and the repository handoff ledgers were checked. This is **not a verbatim recovery of inaccessible, older separate chat transcripts**. User's 2026-10-09 direct clarification takes precedence over speculative reconstruction in [21] §1.1–1.3, which had mixed earlier offensive phases.
+> **Source provenance:** Older separate chat transcripts are not directly fetchable. In the current conversation the user has *expressly reaffirmed* prior Cox's Bazar acquisition and prior late-1942 high-speed supply/boat counteroffensive, followed by a lull. Earlier assistant treatment (2026-10-09) **mistook the absence of a detailed GitHub campaign-results ledger for an undecided campaign result**, repeatedly reopened that branch, and then generated unnecessary substitute alternatives. Those revisions are superseded here. Historical comparisons remain useful only as plausibility/physics checks, not authority to silently reverse a resolved R3 outcome.
 
-## -1. Critical source and chronology re-audit (2026-10-09)
+## 0. Restored campaign continuity — authoritative summary
 
-**Why reopened:** The previous assistant placed the user's deliberately coarse recollection into GitHub at too high a status of certainty. This was an **unverified elevation of hints into campaign facts**. The operational intention may be a firm planning premise; the underlying battle chronology, territorial-control changes, and exact air/naval readiness are **not established**.
+| Established R3 sequence | Status / meaning |
+|---|---|
+| **先行する反攻** | **CLOSED continuity:** 1942年末前後、日本は高速補給・小船艇/大発の沿岸機動を用いた反攻を実施した。細かな日付・部隊の正確な入替・損害は旧会話の全文を確認できず、書式化がまだ足りない。 |
+| **Cox's Bazar獲得** | **CLOSED continuity:** 前回の戦役で日本側が獲得・保持した拠点とする。占領日、戦術的経過、揚陸/飛行場の実用化程度、Cox以北の厳密な保持線は**OPEN detail**。Coxの再奪回戦を勝手に生成しない。 |
+| **その後の膠着** | **CLOSED continuity:** 双方は前回の側背・舟艇機動を学習し、偵察・小戦闘は継続するが**次の冬季攻勢まで大きな確定前進を得ない**。停戦でも兵力損耗ゼロでもない。 |
+| **次の乾季・冬季の計画** | **CLOSED intent / PROVISIONAL operation:** 日本は英国の新攻勢の有無にかかわらず、敵後背への着上陸で既設防御線を破綻させようとする。発進の実行条件・場所・成否はOPEN。 |
+| **Chittagongの攻略** | **CLOSED decision separation / OPEN result:** 後背上陸で何が起こるかを見て、港湾・市街を攻略できるか、どの方法で続けるかを判定する。**二回の別々の海岸上陸を前提にしない**。 |
+| **史実との差異** | 史実の英国第一次Arakan攻勢は1942年12月～1943年春、日本反撃主力は1943年春。R3には早い準備と追加沿岸機動という**既に承認された別分岐**があり、史実の月日に合わせてCox獲得を取り消さない。 |
 
-### -1.1 Outside historical baseline versus R3 divergence
+**Scope of closure:** This restores previously agreed **macro-events**, not every physical subledger. It does not grant an all-weather Cox deepwater port, automatic airfield readiness, 1943 railway advances north of Cox, unlimited fuel/craft, large POW totals, or a completed winter Chittagong victory. New information can still be used to audit specific quantitative details *without reopening the whole history by default*.
 
-- **Historical First Arakan began in December 1942** as a British/Indian offensive southward from Cox's Bazar toward Akyab; the British front was already moving forward from the autumn.
-- **Historical Japanese major counteroffensive came mainly in April 1943**, and the British fell back to Cox's Bazar by May; Japanese forces historically **did not thereby seize Cox's Bazar**.
-- Therefore, **a completed large Japanese counteroffensive in December 1942** would require substantially earlier R3 staff preparation, movement and supply, plus British tactical opportunities than the historical schedule. The prior R3 [17] establishes planning opportunity from 1942H2 but does **not** prove these implementation gates were passed.
-- The user's 「1942年末の反攻後」 could refer either to (A) a deliberately early R3 counterblow during late 1942, or (B) late-1942 intensive coastal preparations feeding a **1943 early/spring** counteroffensive. Neither alternative is proven by archived troop and supply logs.
-- Cox's Bazar control, if established in R3, is a significant **explicit divergence from history** and requires a captured-territory result with date, British retreat decision, Japanese units and local air/logistics qualification.
+### 0.1 Conditional operational geography used for 1943 winter planning
 
-**References:** RAF Museum, *Stalemate: 1943*, https://www.rafmuseum.org.uk/research/online-exhibitions/never-forgotten-the-raf-in-the-far-east/stalemate-1943/ ; National Defense University, *Echoes of the Past*, https://ndupress.ndu.edu/Media/News/News-Article-View/Article/3385559/echoes-of-the-past-the-burma-campaign-and-future-operational-design-in-the-indo/ ; J. Rickard/Allen summary https://en.wikipedia.org/wiki/Arakan_campaign_%281942%E2%80%931943%29 (chronology compared to RAF Museum).
+- **Japan holds** Akyab–Maungdaw/Naf/Ramu–Cox's Bazar chain as the working defended coastal position; exact garrisons and coastal sublocations must be documented.
+- **Contact line north of Cox's Bazar** is not yet reconstructed at village/river scale. Do **not** simply assign Chakaria to Japan or Britain without a recovered operational map; earlier discussion of Cox's Bazar–Chakaria as a campaigning corridor is not proof of ownership.
+- **Britain retains Chittagong and approaches** for the winter rear-landing scenario; Feni/Comilla remain rear-area options, not already conquered Japanese destinations.
+- Cox's port/sheltered water/runway status is **partially or conditionally usable depending on installation history**; dedicated Akyab and afloat base support are not magically superseded.
 
-### -1.2 Plausible but unequal R3 alternatives
+### 0.2 Historical physical cross-check, NOT reopening
 
-| Reconstruction | First reaction / ground state | Advantages | Required debit / uncertainty | Current decision |
-|---|---|---|---|---|
-| **A: accelerated winter 1942 counterblow** | Japan forward-transports the requisite ground force in autumn and counterattacks in Dec 1942, potentially advancing beyond historical Mayu positions | Closest to literal coarse recollection; Japanese amphibious readiness stronger than historical | Early 55 Division concentrations, troop/boat fuel transfer, British front geography and capture of Cox all must be proved; winter 1942 timeline demanding | **OPEN** |
-| **B: late-1942 supply/boat preparation, 1943 counteroffensive** | Japan gets its seaborne operating system into place in late 1942 and counterattacks 1943Q1–Q2; Cox capture if separately won; ensuing stalemate to winter | Better fits established [17] and historical tempo; easier to account for 55 Division arrival | Actual Cox conquest and fixed front still distinct unproven events | **Working analytic alternative, not selected** |
-| **C: 1942 counterblow stops short of Cox, later local gains** | Late-1942 local Japanese reaction but British retain Cox; no Cox staging assumed for winter operation | Lower initial supply cost | Incompatible with the *specific* December 1943 Cox-based operation unless new staging/territorial acquisition proved | **Contingency** |
-
-Do not “repair” missing story history by choosing a timeline solely for convenience. Check original OOB, shipping, geography and whichever older user-authored notes can be recovered.
-
-### -1.3 Terminology and landing geography
-
-- **User's strategic intention (retain as a design constraint, not guaranteed outcome):** Prepare an independently initiated Japanese amphibious move into the British rear in the next dry season, rather than launch it only if the British attack first; assess whether to fight for the Chittagong area **after seeing what the first move accomplishes**.
-- This does **not prove** two discrete amphibious landings. “Chittagong landing” could denote the landing area north of the port/city, or a proposed subsequent port landing; user context should disambiguate before fixing numbered waves.
-- **Banshbaria–Sitakunda**, the discussed northern candidate, is not a clean sand-beach assumption: modern coastal geomorphology identifies the Chattogram–Cox's Bazar littoral as a mix of tidal flats, mud flats and estuarine deposits, and Sitakunda as a tidal coastal system. Historic 1943 soundings and shoal/road/rail access need separate qualification.
-- The British have learned from the earlier waterborne Japanese actions; “rear landing destroys the defensive line” is the *Japanese objective*, **not** a demonstrated result. British reserve positioning, RAF search, mines/shore watching and withdrawal contingencies are adversarial choices.
-
-**Physical references:** https://www.sciencedirect.com/science/article/abs/pii/S0025322721002103 ; https://www.casp.org.uk/publications/casp-pubs-117/.
-
-### -1.4 Provenance and closing criteria
-
-**Genuinely supported now:** [17] mid-1942 preparation and coastal manoeuvre options; [18] conditional force accounting; [20/22] water-air and Hyūga planning limits; accessible conversation's *winter option intent and named candidate ships*. **Not proven:** specific 1942 Dec Japanese victory, Japanese conquest of Cox, 1943 unchanged front line, named ships ready to sail in December, northern landing site viable, a second separate landing into the Chittagong harbor.
-
-**Before CLOSED timeline:** identify (1) when 55 Division / 144th Regt / 38th Div detachments assembled and their alternatives; (2) British advancement / withdrawal by month; (3) landing craft and cargo quantities landed (not gross nominal lift); (4) Cox's actual capture and forward airfield state; (5) spring–autumn contact line and losses; (6) exact winter rear landing target in relation to Chittagong; (7) phased fleet commitment, reconnaissance and tide/minesweeping.
-
-**Authority treatment:** This correction is **an audit reopening**, not denial of the user's possible intended R3 continuity. Do not promote undecided chronology into CLOSED without evidence; do not copy this proposal into contemporaneous 1942 actor knowledge.
-
----
-
-## 0. Reconstruction hypothesis: distinct phases but dates and results unverified
-
-**User-provided coarse-grained recovery narrative (not a verified military events ledger):**
-
-1. **1942年末前後の日本軍反撃についての記憶:** 高速補給、沿岸小輸送、舟艇機動を使った先行反撃を想定する。**反撃を完了した時期・英軍攻勢との先後・兵力は未立証**であり、『1942年末にCox's Bazarまで取った』とはここから推定しない。次の冬季構想とは時間的にも作戦的にも区別する。
-2. **その後の戦線停滞という仮説:** 双方が前の舟艇機動を学び、哨戒・襲撃・局地攻撃を続けつつ次の冬季攻勢へ至る。**停滞した期間と保持線はOPEN**。1943年春にChittagong入城したと事前確定しない一方、未検証の長期間膠着もCLOSED扱いにしない。
-3. **Cox's Bazar continuity:** このチャットの冬季作戦案は『Cox's Bazarを日本軍が確保している』という条件から構成されたが、現存する一次R3 campaign-result ledgerでは立証できない。**冬季作戦の前提条件として保持するが、占領そのものは未監査でOPEN**。英国軍が再占領し日本軍が再奪還した、という新たな戦闘は根拠なく生成しない。確保日・部隊・港湾/飛行場の実用度を監査する。
-4. **次の乾季・冬季の日本軍作戦意図:** 日本は英国が先に攻勢を開始することを必要条件とせず、**敵後背への水陸協同上陸で防御体系を崩す構想**を選べる。これは敵情にかかわらず必ず実行する確定命令ではない。作戦時期は1943年12月候補だが、前段戦役経過・部隊と輸送能力の監査が先。
-5. **Chittagong攻略は後続判断:** 上陸成功、敵の後退・反撃、地上兵力、海空補給、港湾・市街の敵守備を見て**都市・港湾をどう攻略するか、そもそも続けるか**を別gateで決める。『Chittagong上陸』が市街港湾への別途の上陸を意味するか、北方の後背着上陸全体を指す略称かも**未確認**であり、二回の水陸上陸を自動設定しない。
-
-**Vocabulary guard:** 「先行する高速補給・舟艇反撃」≠「次の乾季の後背上陸構想」≠「Chittagong市街・港湾攻略の続行判断」。ただし**後背上陸と港湾への別個の上陸が両方実際に行われると固定しない**。
+- Real British First Arakan advance was launched late 1942 from Cox's Bazar through Mayu; British attacks halted in 1943 and Japanese counterattack drove them back toward Cox's Bazar by May. Thus Japanese **capture of Cox** belongs specifically to R3, not real history.
+- The R3 summer/autumn 1942 preparation options in [17] include seaplane bases, landing craft, coast reconnaissance, aviation and amphibious transport. These are explanatory resource pathways, **not proofs of specific troop complements or costs**. Those details should be restored from the agreed branch only where required.
+- Historic Arakan land supply beyond Dohazari railhead, tides, roads and monsoon continue to constrain the R3 force. That prevents cost-free **further** progress, but does not annul already fixed Japanese capture.
+- Sources for the historic calibration: https://www.ibiblio.org/hyperwar/UN/UK/UK-Japan-II/ ; https://www.rafmuseum.org.uk/research/online-exhibitions/never-forgotten-the-raf-in-the-far-east/stalemate-1943/
 
 ## 1. Both armies remember the first contest
 
 **Japanese planning value:**
-- 1942年末に高速補給と船艇機動が作戦機動を可能にした戦訓がある。
+- 先行する1942年末前後の反攻で高速補給と船艇機動が作戦機動を可能にした戦訓がある。
 - よって敵攻勢を待つことを作戦発動の必要条件としない。攻勢の計画開始は独立した政治・作戦意思決定。
 - ただし「計画している」は「波浪・潮汐・航空・機雷・船腹が許さなくても必ず実施する」ではない。事前測量・航空援護・揚陸能力のNO-GO条件を設定する。
 
 **British adaptive defense:**
-- 1942年末の舟艇機動と沿岸・内陸の連携を学んでいる。再度の防御正面のみでなく、側背海岸、道路/鉄道結節点、予備隊、RAF偵察、沿岸見張り、機雷/舟艇/潜水艦への警戒を強化する可能性が高い。
+- 先行反攻の舟艇機動と沿岸・内陸の連携を学んでいる。再度の防御正面のみでなく、側背海岸、道路/鉄道結節点、予備隊、RAF偵察、沿岸見張り、機雷/舟艇/潜水艦への警戒を強化する可能性が高い。
 - 英側の新攻勢、反撃、局地攻撃、または守勢のどれもOPEN。日本側の上陸実施判断と一対一で結び付けない。
 - 後方上陸がいつでも敵陣を破綻させると先に決めない。英軍が分散予備と道路連絡を改善していれば失敗・遅滞もあり得る。
 
@@ -85,7 +57,7 @@ Do not “repair” missing story history by choosing a timeline solely for conv
 
 **Location guard:** 本チャットでは**Banshbaria–Sitakunda (Chittagong北方)** を後背遮断着上陸の候補として議論。ただし**実際の初期上陸浜がここに決まったとは限らない**。ここはSandwip Channelに面する潮汐・干潟・泥質・河川水路の検証が必要な海岸帯。『Chittagong上陸』は (a) 市街の北方に着上陸する構想全体か、(b) 後続の港湾・市街上陸かが曖昧なので、**ユーザー発言を二つの実施済み作戦に自動展開しない**。
 
-**Ground maneuver:** 第38師団級がCox's Bazar～Chakaria～南方軸から前進し、後背着上陸と圧力を同期する案が会話で検討された。第55師団の守備/機動との役割分担、38師団の正式到着・輸送、英陣の位置はOPEN。第55師団が新たにCox's Bazarを「再攻略」する必要があるとは決めない。
+**Ground maneuver:** 第38師団級がCox's Bazar～Chakaria～南方軸から前進し、後背着上陸と圧力を同期する案が会話で検討された。第55師団の守備/機動との役割分担、38師団の正式到着・輸送、英陣の位置はOPEN。第55師団が既に日本軍の拠点であるCox's Bazarを再攻略する必要はない。
 
 ## 3. Discussed ship participation: named candidate list, NOT a closed naval OOB
 
@@ -116,7 +88,7 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 
 | Stage | Trigger / Japanese choice | What can be committed | Stop / review gate |
 |---|---|---|---|
-| S0 — prepared stalemate | **If** the front stabilized after the previous Japanese counterstroke and before the next dry season (dates/line unverified) | Reconnaissance, defensive works, seaplane bases, boat stocks, local air; British also prepares | Preserve uncertainty in enemy OOB and terrain |
+| S0 — prepared stalemate | The front **did stabilize** after the earlier Japanese counteroffensive; its exact dates and line are not yet reproduced in the ledger | Reconnaissance, defensive works, seaplane bases, boat stocks, local air; British also prepares | Preserve uncertainty in enemy OOB and terrain |
 | S1 — winter rear-landing **plan** | **Japan decides regardless of whether Britain launches a fresh offensive** | Assault landing group; frontal diversion/pressure; localized fighter/strike cover and reconnaissance | Weather, shore soundings, transport, RAF and enemy coastal lookouts can stop execution |
 | S2 — reinforce/reverse flank | Landing encounters strong reserve or creates usable break | More air fighter/attack, shore logistics, destroyer/cruiser or reinforcements | Reinforcement transport and casualty evacuation; do not sacrifice entire reserve blindly |
 | S3 — Chittagong direct assault/port use | British position actually compromised; terrain/port/ground-air balance assessed | Division reserve, engineers, minesweeping, selected naval fire support, port repair | **Separate approval**; urban/port entry and British destruction/open-field retreat OPEN |
@@ -127,11 +99,11 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 
 ## 5. Source and contradiction audit
 
-- [17] §6 already contains **Arakan research → British First Arakan → Japanese coastal counterattack** with middle-A/middle-B/high escalation, but does not record the **actual 1942 year-end counterattack followed by stalemate**. It also makes Japanese escalation look like merely reactive counterattack; current user's intention is **independent Japanese winter rear landing**.
+- [17] §6 contains **Arakan research → British First Arakan → Japanese coastal counterattack** and various escalation options but does not transcribe the **prior user-established 1942-year-end counteroffensive, Japanese Cox acquisition, and ensuing stalemate**. It also makes Japanese escalation look like merely reactive counterattack; current user's intention is **independent Japanese winter rear landing**.
 - [19] §10 “strong Bengal-side strategic wedge” was **conditional strategic shorthand**, NOT proof of 1943 spring Chittagong occupation.
-- [21] §1.1–1.3 contains a **PROVISIONAL older-chat reconstruction**, including early-1943 Japanese counterstroke and possible Apr/May Chittagong arrival. **Superseded as the controlling chronology for this reviewed branch.** Leave the archival section visible as a record, mark it superseded rather than silently deleting it.
+- [21] §1.1–1.3 contains a **PROVISIONAL older-chat reconstruction**, including a possible Apr/May Chittagong arrival. It is **not controlling** where it contradicts the restored prior Cox capture and subsequent stalemate; its hypothetical Chittagong takeover remains OPEN.
 - [22] correctly records Hyūga/seaplane doctrine; it does **not** document a final named fleet composition or the conditional campaign outcome.
-- The current accessible chat covered specific ship candidates, near-Chittagong/Banshbaria–Sitakunda landing discussion, combat aircraft and ship/fuel/handling caveats, then branched into floatplanes. **The full logs of older separate chats are not directly available for verbatim validation**; any unverifiable earlier ship number is tagged discussion-only.
+- The current accessible chat covered the **user-reaffirmed prior Cox capture, late-1942 counterattack and stalemate**, ship candidates, near-Chittagong/Banshbaria–Sitakunda landing discussion, combat aircraft and ship/fuel/handling caveats, then branched into floatplanes. **The full logs of older separate chats are not directly available for verbatim validation**; any unverifiable earlier ship number is tagged discussion-only.
 
 
 ## 7. Geography + chronology recheck: 1942 winter to December 1943 planning start line (2026-10-09)
@@ -191,16 +163,15 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 **Exact missing prerequisite to close territorial history:** R3 late-1942 55th Division and 213th detachments (arrival dates/OOB), troops and Daihatsu that landed north of Mayu, physical supply routes, British December 1942 brigade locations and their withdrawal/relief decisions, then event/date of Japanese acquisition of Cox's Bazar. If no such event is demonstrated, winter landing must be re-based on Akyab or an intermediate stepping-stone, not simply call Cox Japanese.
 
 
-## 6. Remaining OPEN — next legitimate research frontier
+## 6. Remaining OPEN — detail restoration without strategic reopening
 
-1. **Definitive exact line/map before winter H-hour**: Cox's Bazar Japanese-control node, remaining RAF/British fields, Chakaria–Sitakunda approach and sea/road distance. No free use of British-held ports.
-2. **1942 year-end counterattack ledger**: force dispositions, Japanese gain and held beachheads, actual British withdrawal, attrition, shipping/boat and logistical expenditure, dates.
-3. **1943 stalemate costs:** units, rotation, skirmish losses, fortifications, RAF radar, observation, airfield building and learned British defenses.
-4. **Winter date** (Dec 1943 candidate) and **exact rear landing beach** (Banshbaria–Sitakunda discussion candidate), hydrography, surf, tide, mines, intelligence and British response.
-5. **Initial landing vs follow-on Chittagong**: define independent tactical objective, landing troops and port assault decision after H-hour intelligence.
-6. **Named IJN orders-of-battle / resources**: battleships, carriers, cruisers, escorts, transport hulls, Daihatsu mother ships, oilers, ASW/minesweeping, assembly/withdrawal and repair;
-7. **Air group and sortie ledger**: Ki-63/Zero/Spitfire balance, British GCI, seaplane and H6K/H8K allocations, Japanese airfield capacities, losses.
-8. **Historical outcome** (British counteroffensive/stalemate/retreat, landing success/failed assault, Chittagong entry, eventual Feni/Comilla): **OPEN**.
-9. **Future 1944 secondary offensives**: downstream and cannot be pre-closed by former [21] narrative.
+1. Exact earlier operation timing, 55th Division/144th Regiment OOB and strength, landing craft and delivered supplies, RAF/British opposition and attrition (**restore when operational calculation needs them**).
+2. Cox's Bazar capture date, British withdrawal route and the Cox harbor, river mouth, runway, radio, fuel and repair readiness (**do not undo the capture simply because the precise report is missing**).
+3. Geographic contact line north of Cox, British Chakaria/Dohazari defense and loss totals during a period of *already-established stalemate*.
+4. Winter rear-landing specific date/beach, actual tide/surf/soundings/mines, initial landings/transport names, escort/oiler availability and British active defense.
+5. Chittagong city/port campaign decision and results; possible continued pressure toward Feni/Comilla remains a new strategic choice.
+6. Named IJN naval OOB and H-hour aviation support; §3 remains **a proposal** not an approved deployed fleet.
+7. Recover earlier-chat original exact troop/fleet/loss figures if they become accessible; treat user-confirmed past storyline as authoritative in the meantime.
 
-**Final discipline:** This document **does not close historical progression, Cox's Bazar capture, the 1943 winter landing or its result**. It documents an intended campaign architecture and named fleet candidates pending independent historical and R3-state audits.
+**Final conclusion:** **No full re-fight or re-audit of already closed prior events is required.** Repository documentation was incomplete. Fill archival numerical gaps and physically test new winter options *forward* from the restored Cox-held, stalemated start line. Do not invent a British recapture or a second Japanese Cox conquest.
+
