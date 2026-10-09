@@ -24,6 +24,8 @@
 
 > **First Arakan R3 casualty/material/air loss working ledger (figures NOT CLOSED):** [relaunch/26-FIRST-ARAKAN-R3-CASUALTY-AND-MATERIEL-CARRYOVER-1942Q4-1943Q1.md](relaunch/26-FIRST-ARAKAN-R3-CASUALTY-AND-MATERIEL-CARRYOVER-1942Q4-1943Q1.md)
 
+> **June–Nov 1943 Arakan attrition and Dec British/Japanese operational readiness (PROVISIONAL numeric model):** [relaunch/27-1943-ARAKAN-JUN-NOV-ATTRITION-REPLACEMENT-DEC-AIR-GROUND-READINESS.md](relaunch/27-1943-ARAKAN-JUN-NOV-ATTRITION-REPLACEMENT-DEC-AIR-GROUND-READINESS.md)
+
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
 
