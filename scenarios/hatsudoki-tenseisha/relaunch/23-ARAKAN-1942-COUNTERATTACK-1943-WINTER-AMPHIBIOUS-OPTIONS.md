@@ -224,6 +224,8 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 
 > **Loss and air-war continuation:** [25](25-ARAKAN-BRITISH-LOSSES-RECONSTITUTION-AND-INTERMITTENT-AIR-WAR-1943.md) is the next numerical/source baseline: historic First Arakan losses (not R3 totals), British ground rotation/replenishment and nonzero Japanese/RAF aircraft attrition under the CLOSED spring–autumn territorial stalemate. No reopening of Japanese Cox conquest.
 
+> **First Arakan losses audited, provisional only:** [26](26-FIRST-ARAKAN-R3-CASUALTY-AND-MATERIEL-CARRYOVER-1942Q4-1943Q1.md) separates UK/Japan ground KIA/WIA/MIA, POW resolution, abandoned guns/vehicles/craft, and airframe/crew accounts. This does **not** reopen Cox capture or the spring–autumn stalemate, and the proposed casualty numbers are NOT CLOSED.
+
 ## 8. 英国の1943年冬季戦略選択 — 政策・兵力・米国に対する認識
 
 > **Status:** 英国の作戦選択を考えるための史実制約と分析枠はCLOSED。R3英国の具体的政策、兵力、命令、対日進攻や艦隊出撃は**PROVISIONAL / OPEN**。既決の「日本軍Cox's Bazar保持・春秋は戦線膠着」は維持する。
