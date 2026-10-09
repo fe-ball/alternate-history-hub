@@ -180,6 +180,10 @@ PROVISIONAL discussion results:
 
 - [24](24-BRITISH-ARAKAN-WINTER-1943-XV-CORPS-RAF-EASTERN-FLEET-US-PERCEPTION-AUDIT.md): 1943年12月史実の第15軍団5・7・26インド師団と81西アフリカ師団、第224航空群の14個飛行隊、米第10航空軍、東洋艦隊の12月と翌1–2月戦力の差、太平洋で米軍が日本艦隊を拘束していると英国がどれほど認識できるか。**R3への実配属・実可動機数・戦役結果はOPEN**。
 
+### 25 — 英印軍の前回損耗・補充と1943年断続的航空戦
+
+- [25](25-ARAKAN-BRITISH-LOSSES-RECONSTITUTION-AND-INTERMITTENT-AIR-WAR-1943.md): 第一次Arakan史実損失5,057名（R3では別値）、第14・26師団の残存兵員・カドレの再建と第5・7師団の交代、Hurricane→Spitfire Vc/初期VIII、Ramu/Cox飛行場のR3占領差、10AF→14AF配分。**R3の実損害、可動機・搭乗員補充、具体空戦戦果はOPEN**。
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
