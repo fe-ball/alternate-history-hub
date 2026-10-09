@@ -147,6 +147,10 @@ https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/d
 
 **What remains to audit:** R3 numerical **5th/7th/26th/81st** strength/gun mobility and prior Cox losses; RAF serviceable aircraft and airfields, R3 USAAF Tenth transfer to Bengal after China Five-Go pressure; December cruiser/escort position with actual fuel and patrol time; United States Pacific operations that London can truly observe; and Japanese landing H-hour/shore reconnaissance.
 
+### Follow-on prior-loss and air-attrition handoff
+
+[25](25-ARAKAN-BRITISH-LOSSES-RECONSTITUTION-AND-INTERMITTENT-AIR-WAR-1943.md) audits historic First Arakan KIA/WIA/MIA versus R3 unrecorded Cox losses, 14/26th Indian reconstitution and 5/7th arrivals, RAF Hurricane-to-Spitfire Vc conversion and December Mk VIII timing, and separate USAAF Tenth/Fourteenth AF transfers. **British fighter and ground serviceability remain OPEN.**
+
 ## 8. Link back to other ledgers
 
 - [23] §0 and §7 establish the already settled Japanese Cox holding and months of active stalemate. This document changes **no prior battle result**.
