@@ -8,6 +8,8 @@
 >
 > **Preservation principle:** Aircraft hulls, engines, crew, spare parts, weather/serviceability and ship aviation arrangements are tracked separately. No duplicate accounting, no automatic creation of a fighter squadron by loading it on Hyūga.
 
+> **Operational chronology pointer, 2026-10-09:** [23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md) restores the 1942 year-end counterattack → stalemate → prospective 1943 winter rear-landing sequence and discusses tentative ship participants. This water-aircraft ledger does not close actual Chittagong landing/occupation. Its conditional Hyūga/Bengal 14+24-aircraft allocation remains subject to the winter operation's decision and material readiness gates.
+
 ## 0. Findings / decisions
 
 1. **CLOSED: E16A 瑞雲 is an independent pre-Enterprise development.** Aichi's AM-22 / 16-Shi concept, twin floats, dive-brake concept and folding arrangement pre-date Japan's R3 capture of Enterprise on 1942-06-04. Do **not** assign the E16A's invention, airframe lineage or Kinsei engine to US capture.
