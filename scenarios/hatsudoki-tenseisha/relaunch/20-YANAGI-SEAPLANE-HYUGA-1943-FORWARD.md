@@ -1,5 +1,7 @@
 # 20 — 柳船・水上航空・日向航空偵察戦艦 1942H2–1943 forward
 
+> **2026-10-09 timeline follow-up:** [32](32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md) retrieves the earlier Hyuga-only CLOSED decision and this §10 1943Q4 completion candidate; compares actual Sasebo July–Nov yard dates and simultaneous Chitose CVL work with a proposed paid early Hyuga workup. Hyuga's Dec Bay of Bengal mission and deferring Chitose remain PROVISIONAL; no requirement for a qualified E16A squadron.
+
 > **Authority:** Relaunch R3 supporting / forward-analysis ledger
 > **Status:** mixed — CLOSED direction / PROVISIONAL engineering and deployment bands / OPEN exact performance
 > **Canonical historical clock remains:** **1942-06-26 約18:00**
