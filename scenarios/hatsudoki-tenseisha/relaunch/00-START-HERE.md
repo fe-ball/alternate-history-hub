@@ -200,6 +200,10 @@ PROVISIONAL discussion results:
 
 - [29](29-WINTER-1943-CHITTAGONG-REAR-LANDING-LIFT-TIDES-AIR-COVER-72H-WARGAME.md): 大発14m級の**70人OR10t**を厳守し、36隻の第一波は**最大兵員1,540＋物資100t＋軽砲/車両4艇**の作業マニフェスト。第二波まで成功すれば**合計2,800人＋240t＋8艇の軽装備**が算術上限だが、潮汐・RAF・母船不足により保証なし。**あきつ丸20艇＋神州丸16艇は新たな船腹投入案**で、日進に舟艇36を架空収納しない。H+72の英第26師団・RAF対応、Sitakunda/Kumira/Anwara別枝を検討。海軍配属・潮時・成否OPEN。
 
+### 30 — Chittagong上陸目標・上陸地点数・英国航空拠点数の再定義
+
+- [30](30-CHITTAGONG-1943-OBJECTIVES-BEACHHEAD-COUNT-AIRFIELD-NODES-REAPPRAISAL.md): 鉄道襲撃G1、鉄道＋道路の**持続遮断G2**、英XV軍団の防御破綻G3、Chittagong市街港湾占領G4を分ける。**一個の連続橋頭堡でも海岸荷役・輸送回廊・北南警戒が別の任務**。大発36隻を24/12に分割すると初波の兵員艇15/7隻の場合は1,050/490人に過ぎず、二正面維持には貧弱。RAF第224群の5つの配置行は**5飛行場ではなく地域区分**（Double Moorings、Lalmai、Parashuramなど別）と訂正。P2一点集中の持続遮断を主たる試験案にするが、実行と結果はOPEN。
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
