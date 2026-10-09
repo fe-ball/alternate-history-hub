@@ -128,6 +128,8 @@ From [26]: initial British after healing/MIA resolution **~3,250 still unavailab
 - **Fleet carriers:** Hiyō/Ryūhō etc. require separate naval escalation approval, deck airframe/capability roster, destroyers, oiler, and transport; **excluded** from baseline local land fighter counts and from coastal 24.
 - **Operational comparison:** the IJA can possess a strong Burma-wide pool while losing local initiative at times when British Spitfires/CAP concentrate over Chittagong. Britain may have ~125 ready 224 Group aircraft while Japan chooses hours/sectors with ~115 readily reachable IJA, plus sea ISR. Neither number is proof of air superiority: bases, Spitfire altitude, warning, fuel, weather and sortie cycles decide local outcomes.
 
+> **R3 1943-12 flight-base/army anti-landing distribution follow-up:** [28](28-CHITTAGONG-DEC1943-RAF-AIRFIELDS-XV-CORPS-RESERVES-AMPHIBIOUS-RESPONSE.md) assigns the **same** 224 Group 125 model-ready aircraft to Chittagong 40 / Dohazari 34 / Feni 25 / Comilla 11 / Agartala 15 (zero RAF at Japanese Cox/Ramu); west-IJA aircraft remain a subset of Burma's ~204. The British 26th reserves and Sitakunda north-line response clocks are PROVISIONAL, never guaranteed historical outcomes.
+
 ## 7. December decision and carryover audit
 
 | Category | R3 Dec preliminary answer | Status |
