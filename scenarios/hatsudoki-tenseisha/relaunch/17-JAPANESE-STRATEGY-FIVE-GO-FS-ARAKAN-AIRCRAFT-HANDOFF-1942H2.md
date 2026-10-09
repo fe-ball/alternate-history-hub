@@ -253,7 +253,7 @@ R3ではMidwayも保持するため、Kiska / Attuの観測・牽制基地価値
 - 1942中は水上機 / reconnaissance / submarine support / radar / AA / fuel / wintering中心
 - 天候・tundra・工事能力を無視して大航空基地を即完成させない
 
-> **2026-10-09 chronology reconciliation:** [23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md) にて、1942年末の高速補給・舟艇機動による日本軍反攻の後、戦線が膠着し、次の冬季後方上陸構想へ移る会話前提を継承。以下のlow/middle/highは**選択肢の説明**であり、1943年春にそのままChittagongまで進んだ確定戦果ではない。冬季作戦は英軍新攻勢の有無を発動条件とせず、Chittagongの港湾・市街への上陸/攻略は後段の別判定。
+> **2026-10-09 provisional chronology pointer — REOPENED in [23]:** [23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md) にて、1942年末の高速補給・舟艇機動反攻と戦線膠着という**会話上の粗い復元案**を保管。ただし史実では英軍の第一次Arakan攻勢が1942年12月に開始し、日本軍の主たる反撃は1943年4月であったため、R3が数か月早い日本反撃・Cox占領を実現したかは**未監査**。以下のlow/middle/highは**選択肢の説明**であり、1943年春にそのままChittagongまで進んだ確定戦果ではない。冬季作戦は英軍新攻勢の有無を発動条件とせず、Chittagongの港湾・市街への上陸/攻略は後段の別判定。
 
 ## 6. Indian Ocean / Arakan — 研究→準備→英攻勢→反撃拡張
 
