@@ -1,0 +1,50 @@
+# 32 — 日向1943改装の再監査：損傷の独立理由・佐世保と千歳の競合・冬季出撃・日進代替
+
+> **2026-10-09 archive-recovery audit.** Governing [15](15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md) §11: **Hyūga only conversion is already CLOSED R3 forward doctrine**, Ise follow-on OPEN, and carrier-replacement panic is explicitly NOT the rationale. [20](20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md) §10 proposes 1942H2 design/yard prep, 1943H1–Q3 Sasebo conversion, **1943Q4 initial readiness PROVISIONAL**. [22](22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md) §§2/7 restricts actual December aircraft; [31](31-ARAKAN-1943-INTENT-CORRECTION-HYUGA.md) restores Hyūga's central naval gunfire/observation function in the actual sea-flank + land-main-force pincer. **Do not reopen the fact that R3 chose the Hyūga conversion** merely because some deployment detail was not written.
+>
+> **Master clock** remains 1942-06-26 18:00. Future work completion/Benɡal transit is not contemporaneous foreknowledge and no named winter deployment is CLOSED merely because it appears in a planning table.
+
+## 1. Actual prior R3 rationale is NOT “extra yard space”
+
+1. **Pre-Midway, independent damage:** On **5 May 1942**, No.5 turret breech explosion killed 51, turret made inoperative and removed/covered, unrepaired in 1942. No.6 aft turret was undamaged but offered restricted high-elevation range. This made abandoning the aft twin-turret arrangement cheaper in lost *effective* gunnery capability than an entirely healthy battleship; still a real major rebuilding project. Source [Hyūga TROM](https://www.combinedfleet.com/Hyuga.htm); [NavWeaps technical article](https://www.navweaps.com/index_tech/tech-021.php). Some secondary tellings give 15 May, but detailed TROM records **5 May**.
+2. **Doctrine rather than emergency carrier replacement:** [15] already chooses **one “large Tone/Chikuma” scouting/artillery-spottɪng/seaplane-support battleship**. R3 Pacific bases and Indian Ocean coastal fights reward afloat search, radio relay, spotting and resilience when RAF destroys land-airfield infrastructure. Japan's stronger 1943 CV force does not eliminate this role.
+3. **Selective one-hull budget:** Hyūga yes, Ise undecided, Fusō/Yamashiro not automatically touched. Existing remaining eight 356mm guns retained; cost is stern turret/barbette removal, hangar, handling rails, elevator, two catapults, crane, aviation-fuel/magazine safety, AA/radar, trials, maintenance, crew, dock occupancy and ship fuel.
+4. **Lower pressure for a CVL diversion is a separate budget lever:** [15] §14 explicitly leaves the **Chitose/Chiyoda carrier-conversion timing OPEN**. Under healthy Sōryū/Hiryū/Shōkaku/Zuikaku and restored Akagi/Kaga in R3, defer or omit **Chitose's emergency light-carrier conversion**; retain it as a waterplane tender / coastal support hull. This is a defensible **NEW CONDITIONAL naval resource decision**, not something already CLOSED. The trade-off is loss/delay of Chitose's future fleet-carrier flight deck, not free material.
+5. **Real competing resource:** Actual **Chitose conversion started at Sasebo 26 Jan 1943**, concluded with final outfitting Jan 1944. Historical **Hyūga conversion took place at Sasebo simultaneously**, proving that the yard COULD complete both in history but was **not idle**. Diverting Chitose's steelworkers, outfitters, tools, shops or slip/dock scheduling to Hyūga is an intelligible way to advance the latter **if individually rescheduled and qualified**, not proof that every fitter or catapult component is interchangeable.
+6. **Other R3 repair costs endure:** *Akagi/Kaga* repairs and *Enterprise* reconstruction at Kure, national steel, specialists and machinery resources; as [15] says, damaged Mogami absence does not create a free unlimited yard. Sasebo also fits out and repairs other warships. No free acceleration bonus elsewhere.
+   
+Historical sources: [Hyūga contemporary-tabulated movements](https://www.combinedfleet.com/Hyuga.htm); [Chitose carrier conversion](https://en.wikipedia.org/wiki/Japanese_aircraft_carrier_Chitose); [Chitose Pacific Wrecks entry](https://pacificwrecks.com/ship/ijn/chitose.html); [NavWeaps conversion engineering](https://www.navweaps.com/index_tech/tech-021.php).
+
+## 2. Calendar: OTL versus R3 if explicit yard prioritization is adopted
+
+| Task | Actual Hyūga history | R3 conditional **one-ship-priority path** (NOT fact) |
+|---|---|---|
+| Commitment and engineering design | After disastrous Midway 1942; ship damaged already | Independent No.5 casualty + seaplane doctrine => IJN approval/yard design **1942H2**; no simultaneous Ise commitment |
+| Sasebo shop/pre-fit work | 1 May 1943 administrative start; actual drydock 1 Jul | Start prework early **1943Q1/Q2**, catapult/rail/elevator parts reserved, separate structural survey |
+| Main dock conversion | Historical major drydock **1 Jul–1 Oct 1943** | **May–August/early September 1943** candidate dock period; requires active transfer of Sasebo skilled fitters and shop work |
+| Completion | Historical **18 Nov 1943** | **Late Sep–early Oct 1943** objective after actual structural/armament/aviation acceptance |
+| Sea trials / radio & aircraft drills | Historical **22–25 Nov trials, Dec 1943 to 1944 workup** | **October–early November 1943**; qualification of E13A/F1M launch/spotting is baseline requirement, not a full 22-aircraft aviation regiment |
+| Transit to Bengal | Historically not dispatched there Dec 1943 | **November 1943 voyage** with escorts, oilers, coastal stationing, nav training; late Nov/Dec mission possible only if no route/maintenance delay |
+| December 1943 winter flank landing | Historically **not an operational Bengal sortie** | Can include Hyūga as **qualified limited naval gunfire + aerial ISR**; carrier-style CAP and fully trained E16A unit NOT bundled |
+
+**Key delta:** This requires advancing construction/completion by **several weeks to ~2 months** from history and allocating equivalent lost Chitose CVL/cross-yard work. It is **plausible as an R3 scenario track**, not established to have happened. Most difficult gate is staff authorization/yard fitting + floatplane work-up **before** transit, not simply free drydock space.
+
+### 2.1 What Hyūga actually brings in December
+
+- **Eight remaining 356mm guns**, contingent on range, survey, spotting/target visibility, ammunition and RAF/RN opposition. High-power artillery can support a short-lived coastal behind-the-line infantry blocker, **but does not hold a jungle road**.
+- Aircraft: the [22] Dec ambitious conditional mix **8 E13A + 4 F1M + 2 E16A = 14 physical / ~11 ready**; **two E16A require pre-series Aichi production and certification before historical Jan 1944 serial run**. This is an extra industrial/crew choice, NOT essential for basic support. **Safer mission model: E13A/F1M scout–spotters only, up to 12 nominal physical if actually assigned and deck certified**, with physically mission-ready number audited rather than assumed 12.
+- No regular ship-catapult fighter A6M2-N/Kyōfū CAP by weight alone. Shore/CV fighter cover must be allocated separately; Hyūga does **not** remove air attack danger to ships.
+
+## 3. Decision tree and genuine fallback
+
+| Case | Resource conditions | 1943 winter field package | Judgement |
+|---|---|---|---|
+| **H1 preferred conditional** | 1942H2 early approved one-hull refit, Chitose CVL conversion postponed or other explicit Sasebo priority reallocation, autumn 1943 trials passed and transit completed | **Hyūga + Nisshin (if separately survived/assigned) + available light CV/CVL fighter cover (Hiyō/Ryūhō qualified) + landing boats**; Hyūga centered on guns/scouts, no required E16A | This **reconciles the previously CLOSED conversion choice** with possible winter attendance; status PROVISIONAL deployment |
+| **H2 converted but late** | Historical Nov 18-like completion, ship/aviation still in December work-up, no paid acceleration | For a **December H-hour**, **Nisshin + qualified smaller IJN carrier/surface screen**, plus shore scouts and cruiser gunnery; Hyūga joins later only if timing legitimately slips into 1944 and further RN reinforcement risks recalculated | **Do not un-close Hyūga conversion**; merely Hyūga is unavailable to *this* raid |
+| **H3 structural/crew or transfer no-go** | Shipyard or seaplane air section failed acceptance or wider navy denied redeployment | **Nisshin + mini carrier force**; reconnaissance from cruisers/shore floatplanes, naval fire from cruiser/available battleships only if separately committed | Downgrade achievable bombardment/ISR, adjust target/holding-time expectations instead of importing Hyūga capabilities |
+
+**Nisshin distinction:** Historical *Nisshin* was a 28-knot seaplane carrier / fast heavy-cargo ship, carrying **six 14cm guns and nominal 12 floatplanes** with two catapults and heavy cargo/midget-sub support. It made artillery/tank transport trips. In real history it was sunk **22 Jul 1943** near Bougainville; in R3 Guadalcanal/Solomons path differs and **survival is plausible, not automatic**. If it serves mainly as a troop/weapon/ammo cargo transport, it cannot simultaneously offer every aircraft facility at full complement. R3 [17] treats it as high-speed cargo arm; that is its default in the fallback. Sources https://en.wikipedia.org/wiki/Japanese_seaplane_carrier_Nisshin ; https://www.combinedfleet.com/Nisshin.htm .
+
+**R3 choice to settle next:** Whether to **postpone Chitose's Sasebo CVL conversion** (seaplane doctrine strengthened, Chitose retained) to pay for a September/October-ready Hyūga; how this affects 1944 CVL/dock national force ledgers. Do NOT mark the transfer/cancel decision CLOSED without user agreement. If it is rejected, the December mission should default to H2, not pretend the ship has time-travelled.
+
+**Corrected rule for 1943 military analysis:** Existing R3 already decided **why Hyūga was being converted**. The remaining audit is **whether Sasebo physical schedule and trained aircraft/crew allow it to be in the Bay of Bengal by H-hour**, with the explicit H2/H3 alternative.
