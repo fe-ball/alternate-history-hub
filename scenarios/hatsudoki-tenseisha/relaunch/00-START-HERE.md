@@ -196,6 +196,10 @@ PROVISIONAL discussion results:
 
 - [28](28-CHITTAGONG-DEC1943-RAF-AIRFIELDS-XV-CORPS-RESERVES-AMPHIBIOUS-RESPONSE.md): Cox/RamuのRAF使用を排除し、**RAF第224群の作業可動125機をChittagong 40 / Dohazari 34 / Feni 25 / Comilla 11 / Agartala 15へ配分する例示**。第5/7インド師団の南方配備・第26のChittagong予備と、Sitakunda北方上陸への南北両側からの反応・RAF航空攻撃をH+0–96hの**条件付き時計**で区別。海岸線/道路規格/実際の配属・戦果はOPEN。史実の1944年前線をR3へ転写せず、前回Cox獲得を再戦させない。
 
+### 29 — 1943冬季Chittagong後背上陸の輸送・潮汐・航空・H+72監査
+
+- [29](29-WINTER-1943-CHITTAGONG-REAR-LANDING-LIFT-TIDES-AIR-COVER-72H-WARGAME.md): 大発14m級の**70人OR10t**を厳守し、36隻の第一波は**最大兵員1,540＋物資100t＋軽砲/車両4艇**の作業マニフェスト。第二波まで成功すれば**合計2,800人＋240t＋8艇の軽装備**が算術上限だが、潮汐・RAF・母船不足により保証なし。**あきつ丸20艇＋神州丸16艇は新たな船腹投入案**で、日進に舟艇36を架空収納しない。H+72の英第26師団・RAF対応、Sitakunda/Kumira/Anwara別枝を検討。海軍配属・潮時・成否OPEN。
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
