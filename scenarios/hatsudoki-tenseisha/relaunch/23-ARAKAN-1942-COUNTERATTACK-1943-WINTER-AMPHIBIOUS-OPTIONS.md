@@ -228,6 +228,8 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 
 > **After first-campaign damage accounting:** [27](27-1943-ARAKAN-JUN-NOV-ATTRITION-REPLACEMENT-DEC-AIR-GROUND-READINESS.md) works June–Nov skirmish/air attrition and replacements into Dec British and Japanese operational availability. Prior Japanese Cox possession and no-major-front-move remain CLOSED; all later attrition/replenishment and winter battle choices PROVISIONAL/OPEN.
 
+> **Northern landing correction:** [28](28-CHITTAGONG-DEC1943-RAF-AIRFIELDS-XV-CORPS-RESERVES-AMPHIBIOUS-RESPONSE.md) places Banshbaria/Sitakunda **north of Chittagong on the prewar Feni railway trunk**, which threatens the northern rail artery but **exposes Japanese beachhead to Chittagong- and Feni-side reserves and British near-field RAF**. No automatic railway severance, beachhead success, or fall of Chittagong.
+
 ## 8. 英国の1943年冬季戦略選択 — 政策・兵力・米国に対する認識
 
 > **Status:** 英国の作戦選択を考えるための史実制約と分析枠はCLOSED。R3英国の具体的政策、兵力、命令、対日進攻や艦隊出撃は**PROVISIONAL / OPEN**。既決の「日本軍Cox's Bazar保持・春秋は戦線膠着」は維持する。
