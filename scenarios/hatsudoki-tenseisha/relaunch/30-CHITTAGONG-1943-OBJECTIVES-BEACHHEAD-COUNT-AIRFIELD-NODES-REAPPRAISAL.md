@@ -95,3 +95,21 @@ Sourced RAF historical entries:
 **Recommended central design for examination:** **P2: one concentrated amphibious bridgehead, multiple assigned inland functions, plus genuine coordinated Japanese southern pressure.** This best preserves the user's intended *operational disruption* without inventing several simultaneous full-size beachheads; it must still be **able to abort or shrink to P1** if the chart and mother-ship readiness fail. P3 is a serious but separately costly escalation.
 
 **Status at end of this audit:** user was justified to question **“how many targets/bases”**. The previous five RAF location rows were abstract zones, not confirmed fully active runways; one rail break was conflated with broader isolation; and splitting 36 craft is not an inexpensive way to add a second bridgehead. Fix those bookkeeping/mission definitions **before** playing Japanese v. British H+72 battle results.
+
+
+## 8. Additional 1943 choke-point found: **Kalurghat railway bridge** is NOT Sitakunda
+
+**Historical evidence:** Kalurghat bridge spans **Karnaphuli** southeast/south of the Chittagong city centre and carried the **Chittagong–Dohazari railway**. It was built 1930 and train service commissioned **1931**. **1962** conversion into a permanent rail/road bridge means **not a default 1943 all-weather motor roadway**; one history says an interim WWII wartime road deck was fitted and another says road traffic 1962 onwards. Treat possible temporary wartime military motor deck as **SOURCE CONFLICT / OPEN**, require military engineer records. Sources:
+- https://www.thedailystar.net/old-site/2005/02/02/d502023501128.htm (1930 rail, 1931 commission, 1962 rail-and-road conversion)
+- https://www.observerbd.com/news.php?id=381656 (same)
+- https://en.wikipedia.org/wiki/Kalurghat_Bridge (reports a temporary wartime motor deck, source needs verification).
+- https://www.prothomalo.com/bangladesh/zmj89nzyv1 (road motor vehicle use begins 1962 in account).
+
+**Three different 1943 British transport wallets around Chittagong:**
+1. **North rail+trunk road corridor** via Sitakunda/Kumira → Feni/Comilla: movement of reserves, supplies, strategic withdrawal toward Bengal.
+2. **South railway** via Karnaphuli/Kalurghat → Dohazari, with separate southbound road/ferries/river approaches: army supply for the former Cox front (in R3 British forward line is north of Japanese-held Cox).
+3. **Seaward Chittagong port / coastal craft**, plus airfield runway/fuel nodes: persists even if a north rail track temporarily fails; closure needs actual maritime/air interdiction.
+
+**Consequence for objectives:** Northern amphibious G2 closure may seriously impede reinforcements but **cannot by itself physically cut the southern army's railway to Dohazari** or close the port. A Japanese south-front movement threatening Kalurghat is a **distinct task** and may take many days from the Cox sector; its feasibility cannot be handed as a free H+12 effect. If the Japanese desire true multi-axis isolation, require multiple independent effects with real troop/naval-air resources, *not* necessarily multiple amphibious beachheads.
+
+**First design implication:** Rather than immediately multiply landing beaches, select a **primary communication function** for the amphibious force (north line), a **separate physically costed ground-front pressure mission** against the south line, and a **separate naval/air-interdiction burden** on port/coastal supply. Only their interaction may make British XV Corps collapse plausible. If the ground line is too far away, downgrade expectation to delaying British plans without forcing corps rout.
