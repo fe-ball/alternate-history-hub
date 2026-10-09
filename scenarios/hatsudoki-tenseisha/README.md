@@ -30,6 +30,8 @@
 
 > **R3 winter 1943 Japanese rear landing: Daihatsu lift, 1943 ship carrier availability, Sandwip tidal risk and H+72 RAF/British response (NOT CLOSED):** [relaunch/29-WINTER-1943-CHITTAGONG-REAR-LANDING-LIFT-TIDES-AIR-COVER-72H-WARGAME.md](relaunch/29-WINTER-1943-CHITTAGONG-REAR-LANDING-LIFT-TIDES-AIR-COVER-72H-WARGAME.md)
 
+> **Chittagong rear-landing mission hierarchy, beachhead count and RAF airfield-cluster corrections (PROVISIONAL):** [relaunch/30-CHITTAGONG-1943-OBJECTIVES-BEACHHEAD-COUNT-AIRFIELD-NODES-REAPPRAISAL.md](relaunch/30-CHITTAGONG-1943-OBJECTIVES-BEACHHEAD-COUNT-AIRFIELD-NODES-REAPPRAISAL.md)
+
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
 
