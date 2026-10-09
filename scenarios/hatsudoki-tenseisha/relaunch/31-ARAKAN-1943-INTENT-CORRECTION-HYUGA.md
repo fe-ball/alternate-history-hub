@@ -1,5 +1,7 @@
 # 31 — 1943冬季アラカン構想の意図訂正：側背上陸と日向
 
+> **Availability audit:** [32](32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md) distinguishes already CLOSED Hyuga-conversion doctrine from OPEN actual autumn 1943 work-up and Indian Ocean transit. Historical Chitose conversion occupies Sasebo too; its R3 postponement is a plausible NEW price, not a free assumption. If the calendar fails, use Nisshin + a small qualified carrier group rather than revoke the prior conversion.
+
 **2026-10-09 user clarification, controlling interpretation.**
 
 **CLOSED (以前の筋):** 日本軍の先行反攻、Cox's Bazar確保、1943年の戦線膠着。次の冬季は英軍の新攻勢を待たず、日本軍主力が北進するのと合わせ、海上から英軍前線の側背に回り込み、その前線部隊の補給・退却を妨げ、撃滅または後退を強いる。成功後のChittagong方面への前進・港湾攻略は別途判断する。
