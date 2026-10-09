@@ -149,3 +149,32 @@ User may accept or adjust **ground small-combat loss center 800/650**, **RAF/Jap
 **Next operational questions:** Dec 10 front-area RAF field list and detection/counter-air cycles; first day Japanese landing craft/ship and RAF sortie generation; whether 5th Indian/7th Indian/26th reserve brigade vehicles and roads allow response in time; and observed US Pacific naval activity to determine British RN caution.
 
 **Do not redo the settled Cox conquest.**
+
+
+## 8. Artillery, trucks, boats, stocks: replacement isn't merely people or airplanes
+
+**All figures here are PROVISIONAL logistics *flow proposals* relative to [26], NOT newly established British 1943 loss returns.** Count replacement matériel to the old force **apart from complete organic gun/vehicle establishments carried into the theater by new 5th/7th Divisions.**
+
+| Item in prior loss ledger | Initial R3 central irrevocable loss | Proposal: June–Nov receipts / repairs for the old front | Dec practical meaning |
+|---|---:|---:|---|
+| British field/mountain/AT guns | **14 guns** | **11–16** replacement pieces shipped to front-area depots; **8–13** actually surveyed/crewed/transport-qualified at front | Most tube inventory can recover while ready batteries and ammunition carts lag; 14 *losses* are not necessarily 14 *captured Japanese usable guns* |
+| British vehicles/tractors/jeeps | **130** | **150–220** replacements/relief shipments into wider Bengal theatre; **95–145** eventually assigned to original forward units | Tractors and heavy transport remain competed for by new divisions, RAF construction, rail/road work and relief of infantry brigades |
+| British country/coastal boats | **12** | **4–10** usable replacement small boats collected or built/assigned | Shore transport may be restored for patrol/supply without generating a fully seaworthy coast-assault flotilla |
+| Japanese Daihatsu/motor landing craft | **5 irrecoverably lost + 8–18 repair-class damaged** | **6–13** of damaged returned to service by winter, plus **4–8** new craft physically transferred from *other named landing-craft stocks* | Earlier 5 cannot be repaired; damaged repairs and new arrivals carry slipway/crew/oil/engine costs, and newer coastal craft also wear out June–Nov |
+| Japanese/RN radios, engineers, towing, aviation fuel and dumps | **Unknown** | Physical restock inventories **OPEN**; new batteries/radio crews are not equivalent to earlier veterans | Restored defensive supply ≠ deepwater Cox infrastructure or enough lift for a second major beachhead |
+
+A British railhead/Chittagong-stockroom gun is **not yet an available front-line gun**. The British after prior defeat can have more equipment stock in Bengal by December while still slow at maneuvering artillery/brigade reserves to the river- and mud-crossed frontline.
+
+A Japanese **boat hull in a transport's cargo** is not an operational amphibious wave until unloaded, crewed, fueled, engine-qualified and staged under RAF observation. Do not make the winter proposed **32–40 Daihatsu** from [23] appear by merely restoring the handful lost in the earlier campaign. The 32–40 target needs a separately dated concentration of units from Rangoon/Port Blair/other theatres.
+
+**June–Nov additional material wear (OPEN):** do not automatically subtract destroyed guns and road vehicles proportional to the proposed **800/650** minor ground casualties. Small-front skirmishes may damage trucks or boats, but permanent loss rows require specific credible events. Maintain a repair/consumables wallet (tyres, engine hours, radio valve spares, malaria supplies, aircraft fuel) rather than invent another large lost equipment convoy.
+
+### 8.1 Ability to use replacements is more important than gross receipts
+
+- **British 26th Indian Division:** old artillery and transport replacement needs account for battle loss AND 1943 monsoon road wear; corps reserve only reacts fast if trucks and sappers are actually concentrated behind threatened rail/road exits.
+- **British 5th/7th Division:** their new organic field artillery and sappers are **not** the 11–16 replacement guns sent to old formations. If these brigades arrive in stages, only units that physically arrived carry their full organic heavy kit.
+- **Japan 55th Division / landing parties:** relative replacements may restore infantry headcount but not the veteran boat pilots/engineers; coastal logistics remains constrained by storm, mines, RAF attacks and Japanese escort hull/sea lane availability.
+- **Britain RAF:** improvements in type (Spitfire Vc), early-warning/GCI, maintenance and hardened forward basing have costs in road/rail, fuel bowsers and skilled mechanics. They must not be inferred solely from 14 paper squadrons.
+- **Ground-air integration:** [Australian Army Research Centre](https://researchcentre.army.gov.au/library/australian-army-journal-aaj/volume-18-number-1/implications-contemporary-defence-leaders-air-land-integration-part-burma-campaign-during-second-world-war) cites the RAF and army learning in 1943; **headquarters formation does not give R3 perfect CAS coordination**.
+
+**Recommended use:** the prior Cox victory and the 1943 stable front remain CLOSED; **all numerical replenishment flows and pre-winter readied stocks still await user selection, and never force a chosen British or Japanese winter victory.**
