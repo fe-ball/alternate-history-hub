@@ -8,6 +8,8 @@
 
 > **New first-campaign numeric proposal (NOT CLOSED), 2026-10-09:** [26](26-FIRST-ARAKAN-R3-CASUALTY-AND-MATERIEL-CARRYOVER-1942Q4-1943Q1.md) provides provisional central **British ground 6,500 (1,150 KIA / 3,600 WIA / 1,750 MIA), Japanese ground 2,650 (700 / 1,850 / 100)**, proposed equipment/craft losses and **separately** RAF 35 / Japanese 28 local combat-airframe write-offs. The previous Cox victory and subsequent stalemate are CLOSED. The historical **5,057 casualties includes 965 adjacent-period cases** (UK official vol V, App 31); don't multiply/copy it directly into R3. This proposal supersedes "entirely unknown loss" phrasing here, **not** acceptance of the numeric proposal.
 
+> **Detailed follow-up 2026-10-09:** [27](27-1943-ARAKAN-JUN-NOV-ATTRITION-REPLACEMENT-DEC-AIR-GROUND-READINESS.md) independently accounts June–Nov front-contact casualties, malaria snapshots, replacements, aircraft type conversions and December local mission readiness. All numeric forward results remain **PROVISIONAL**, prior Cox capture CLOSED.
+
 ## 1. Historical casualty calibration versus R3 prior defeat
 
 **Official historical comparator only:** *The War Against Japan*, vol. V, Appendix 31, British/Commonwealth casualties **First Arakan (23 Oct 1942–15 May 1943)**:
