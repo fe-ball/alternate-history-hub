@@ -410,6 +410,8 @@ It is:
 - US can bomb / blockade / isolate
 - major landing remains expensive and is not the natural first strategic answer to Sichuan crisis
 
+> **2026-10-09 clarification:** ここでのBengal wedgeは抽象的な条件付き戦略評価であり、1943年春にChittagongへ入城したと確定する根拠ではない。今回検討する枝は「1942年末日本反攻後の膠着 → 1943年冬季の独立した後方上陸構想 → Chittagong攻撃可否は後続判断」。出典と艦艇候補は [23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md)、技術的水上航空配分は[22](22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md)。
+
 ### Bengal / Chittagong
 - Japan has already created a strong Bengal-side strategic wedge in the conditional branch
 - British / US India resources cannot be stripped without consequence
