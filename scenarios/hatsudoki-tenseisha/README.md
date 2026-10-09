@@ -1,5 +1,7 @@
 # 発動機転生者
 
+> **2026-10-09 corrected mission priority:** GOVERNING CORRECTION: User-intended 1943 sea-flank envelopment behind Arakan field forces and Hyuga support, not north-Chittagong railway blockade. See linked audit. [31](relaunch/31-ARAKAN-1943-INTENT-CORRECTION-HYUGA.md)
+
 現代の自動車用ガソリンエンジン技術者が、名古屋の織機工場の家に生まれ、航空発動機事業を育てる世界線。
 浅井世界線／計算機異聞とは別シナリオ。
 
