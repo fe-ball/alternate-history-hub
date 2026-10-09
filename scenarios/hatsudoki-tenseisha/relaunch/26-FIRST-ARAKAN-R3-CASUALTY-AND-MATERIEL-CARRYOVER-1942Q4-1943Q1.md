@@ -8,6 +8,8 @@
 >
 > **Connected documents:** [17](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md) amphibious options; [18](18-AIRCRAFT-FORCE-LEDGER-1942H2-1943-FORWARD.md) finite aircraft pools; [23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md) established campaign continuity; [24](24-BRITISH-ARAKAN-WINTER-1943-XV-CORPS-RAF-EASTERN-FLEET-US-PERCEPTION-AUDIT.md) historical Dec British OOB; [25](25-ARAKAN-BRITISH-LOSSES-RECONSTITUTION-AND-INTERMITTENT-AIR-WAR-1943.md) unit recovery and intermittent air war.
 
+> **Cumulative bridge (2026-10-09):** [27](27-1943-ARAKAN-JUN-NOV-ATTRITION-REPLACEMENT-DEC-AIR-GROUND-READINESS.md) models the **separate 1943 June–November** contact battle, disease, replacement drafts and Dec RAF/IJA air serviceability. Proposed extra British **800**, Japanese **650** ground incidents, RAF **30**, Japanese IJAAF+IJN **36** write-offs, **all PROVISIONAL**. [26]'s original 6,500/2,650 and 35/28 must **not** be deducted twice.
+
 ## 0. Why the original British losses are not simply multiplied
 
 Official British history Woodburn Kirby, *The War Against Japan*, V, Appendix 31, reports 1st Arakan losses **916 KIA + 2,889 WIA + 1,252 MIA = 5,057**. Crucial source footnote says this ledger **includes 965 casualties from the 1942 monsoon and operations after 15 May 1943 through September** for reporting convenience; **5,057 − 965 = 4,092** approximates the strictly reported 23 Oct 1942–15 May 1943 operations, but the class allocation (KIA vs WIA vs missing) within 965 is not known and must not be invented. Do not compare R3 first battle 1:1 with the broad 5,057 or use it as a literal R3 list.
