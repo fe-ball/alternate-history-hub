@@ -175,6 +175,11 @@ PROVISIONAL discussion results:
 - **[23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md):** 旧会話で確定していた先行日本軍反攻、Cox's Bazar獲得、その後の膠着の**大枠を復旧**。詳細日付・戦力・基地の稼働状況は未転記のためOPEN。次の冬季後背上陸構想、Chittagong攻略の条件分岐、参加艦艇候補を保存。
 - [21](21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md) §1の1943年春反撃→春Chittagong進出は旧会話の暫定再構成であり、**今回の時系列を上書きしない**。戦役の実際の成功は引き続きOPEN。
 
+
+### 24 — 1943年冬季英国軍・航空・海軍の同時点監査
+
+- [24](24-BRITISH-ARAKAN-WINTER-1943-XV-CORPS-RAF-EASTERN-FLEET-US-PERCEPTION-AUDIT.md): 1943年12月史実の第15軍団5・7・26インド師団と81西アフリカ師団、第224航空群の14個飛行隊、米第10航空軍、東洋艦隊の12月と翌1–2月戦力の差、太平洋で米軍が日本艦隊を拘束していると英国がどれほど認識できるか。**R3への実配属・実可動機数・戦役結果はOPEN**。
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
