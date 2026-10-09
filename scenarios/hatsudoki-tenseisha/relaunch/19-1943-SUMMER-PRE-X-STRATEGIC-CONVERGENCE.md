@@ -410,7 +410,7 @@ It is:
 - US can bomb / blockade / isolate
 - major landing remains expensive and is not the natural first strategic answer to Sichuan crisis
 
-> **2026-10-09 clarification:** ここでのBengal wedgeは抽象的な条件付き戦略評価であり、1943年春にChittagongへ入城したと確定する根拠ではない。今回の粗い時系列仮説「1942年末前後の反攻→膠着→1943年冬季の独立した後方上陸構想→Chittagong攻撃可否は後続判断」は[23]で**再OPEN**した。正確な先行反撃の年/月、Cox支配、膠着線は未確定。出典と艦艇候補は [23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md)、技術的水上航空配分は[22](22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md)。
+> **2026-10-09 clarification:** ここでのBengal wedgeは抽象的な条件付き戦略評価であり、1943年春にChittagongへ入城したと確定する根拠ではない。先行日本反攻・Cox's Bazarの獲得・その後の膠着は旧会話で既決の大枠として[23]で**復旧済み**。正確な日付・戦線の細かな位置・損害は未転記の細部。次の冬季の後方上陸とChittagong攻略の成否はなおOPEN。出典と艦艇候補は [23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md)、技術的水上航空配分は[22](22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md)。
 
 ### Bengal / Chittagong
 - Japan has already created a strong Bengal-side strategic wedge in the conditional branch
