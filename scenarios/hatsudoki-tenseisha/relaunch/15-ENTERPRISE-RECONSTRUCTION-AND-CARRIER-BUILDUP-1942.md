@@ -1,5 +1,7 @@
 # 15 — Enterprise再建・ミッドウェー後工廠負荷・空母建造計画 1942
 
+> **2026-10-09 Hyuga completion audit:** [32](32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md) confirms this §11 Hyuga-only conversion is already CLOSED in R3. It proposes an explicitly PROVISIONAL route to Dec 1943 Bengal attendance: prioritize the independent damaged-turret and reconnaissance refit, and consider postponing the historical Sasebo Chitose CVL conversion (whose timing is OPEN below) to buy construction/work-up margin. Do not treat either accelerated work-up or a Chitose delay as already approved.
+
 > **Status:** Relaunch R3 supporting ledger
 > **Canonical historical clock remains:** 1942-06-26 約18:00
 > **Epistemic guard:** 本ファイルの1942-06-27以後は、6/26時点で合理的に採用されるforward plan / engineering expectationを固定する。記載された将来日付を、clock到達前から「既に成功した実績」としてactor knowledgeへ逆流させない。
