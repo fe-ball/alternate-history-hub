@@ -7,11 +7,11 @@
 >
 > 本稿は、2026-10-07までの長期会話で進んだ1943–44 forward discussionを、次回再開用に編入する。
 > GitHubへ入ったこと自体をCLOSED昇格理由にしない。
-> とくに1943 Arakan / Chittagong結果は、既存17と19の間にcontinuity gapがあるため**再OPENして監査する**。
+> とくに旧17と19の間に残ったArakan戦役の**記載漏れ**は、[23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md) にて、会話で既決の先行日本反攻・Cox's Bazar確保・膠着という大枠を復旧した。Chittagong攻略・冬季作戦の結果は依然OPEN。
 
 ---
 
-> **2026-10-09 provisional user-recollection / chronology REOPENED by [23]:** 会話からの粗い復元では1942年末前後に日本軍が高速補給・舟艇機動を伴う反撃を行い、のち日英が次の冬季攻勢まで膠着した可能性がある。しかし史実の第一次Arakan攻勢と4月の日本軍反撃の時計と照合すると、**この時系列とCox's BazarのR3占領実績は未検証**。日本軍は英軍新攻勢の有無にかかわらず後方上陸で防御線破綻を狙い、Chittagong市街・港湾への追加上陸・攻略は後段の別判断とする。**本稿§1.1–1.3の「1943年春反撃→Apr/May Chittagong入城候補」は当該枝の基準時系列としては使用しない。** 詳細と艦艇候補の出所・状態は[23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md)へ。Cox's Bazarは12月作戦案の**条件付き開始前提**だが占領経緯はOPEN。根拠のない再攻略戦は挿入しない。実際の冬季作戦結果はOPEN。
+> **2026-10-09 authority correction, see [23]:** 1942年末前後の日本軍高速補給・舟艇反攻、前回戦役でのCox's Bazarの日本軍確保、その後の膠着は**旧会話で決定済みとして今回ユーザーが再確認したR3戦役大枠**であり、史実との差だけで一から再審査しない。正確な日付・兵力・港湾整備などは未転記の細部。日本軍は英軍新攻勢の有無にかかわらず後方上陸で防御線破綻を狙い、Chittagong市街・港湾への追加上陸・攻略は後段の別判断とする。**本稿§1.1–1.3の「1943年春反撃→Apr/May Chittagong入城候補」は既決のCox確保後膠着に対して基準時系列ではない。** 詳細と艦艇候補の出所・状態は[23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md)へ。Cox's Bazarは冬季作戦開始時点での**日本軍既得拠点としてCLOSED**。占領日・損失・戦術経緯・基地設備は未転記の細部としてOPEN。根拠のない再攻略戦は挿入しない。実際の冬季作戦結果はOPEN。
 
 ## 0. 今回の最重要読み替え
 
@@ -20,8 +20,8 @@
 1944年India二正面作戦、Bose / Azad Hind、British relief、Burma air concentrationを先に固定しない。
 
 まず、
-1. 1943 First Arakan後の日本反撃がどこまで進んだか
-2. Cox's Bazar / Chittagongの実際の戦果
+1. 旧会話で既決の先行反攻とCox's Bazarの確保・膠着を前提にする（詳しい数値は必要時復元）
+2. その後の**冬季作戦**およびChittagongへの進攻可否・実際の戦果
 3. 英印軍主力を包囲できたのか、それとも後退を許したのか
 4. Chittagongを取った場合、その後どこまで保持・復旧・要塞化できたか
 を閉じる。
@@ -32,13 +32,13 @@
 - しかし両者の間に、**Chittagong入城 / 非入城、英軍損害、撤退線、港湾状態を明示するcampaign result ledgerが存在しない**。
 
 したがって、
-**「Chittagong未入城」も「Chittagong入城済み」も現時点でR3 CLOSEDではない。**
+**1943冬季作戦以前にChittagongを取ったとはしない。Coxは日本軍既得拠点だが、今後のChittagong攻略成否はR3 CLOSEDではない。**
 
 ---
 
 ## 1. 1943 Arakan / Chittagong — 次回auditの中心
 
-### 1.1 user-memory reconstruction candidate — PROVISIONAL, not authority
+### 1.1 旧会話の未検証再構成（記録として保存、Cox確保済みの正本を上書きしない）
 
 会話上の記憶として、以前の検討は次の形だった可能性がある:
 
@@ -78,7 +78,7 @@
 - 1943 monsoon後の保持兵力 / monthly sustainment。
 - Bose / Azad Hindへ実インド領民政を渡す条件。
 
-### 1.3 candidate chronology — discussion-only
+### 1.3 旧時系列候補（現在の復旧済みCox確保・膠着前提を上書きしない）
 
 監査開始用の候補であり、まだCLOSEDではない:
 
