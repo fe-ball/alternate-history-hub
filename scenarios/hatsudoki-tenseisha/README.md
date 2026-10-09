@@ -26,6 +26,8 @@
 
 > **June–Nov 1943 Arakan attrition and Dec British/Japanese operational readiness (PROVISIONAL numeric model):** [relaunch/27-1943-ARAKAN-JUN-NOV-ATTRITION-REPLACEMENT-DEC-AIR-GROUND-READINESS.md](relaunch/27-1943-ARAKAN-JUN-NOV-ATTRITION-REPLACEMENT-DEC-AIR-GROUND-READINESS.md)
 
+> **Chittagong RAF basing / XV Corps anti-landing reserves / H-hour response time study (PROVISIONAL):** [relaunch/28-CHITTAGONG-DEC1943-RAF-AIRFIELDS-XV-CORPS-RESERVES-AMPHIBIOUS-RESPONSE.md](relaunch/28-CHITTAGONG-DEC1943-RAF-AIRFIELDS-XV-CORPS-RESERVES-AMPHIBIOUS-RESPONSE.md)
+
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
 
