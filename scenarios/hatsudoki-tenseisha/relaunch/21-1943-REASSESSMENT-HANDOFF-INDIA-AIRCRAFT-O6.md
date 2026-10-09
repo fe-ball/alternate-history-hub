@@ -11,7 +11,7 @@
 
 ---
 
-> **2026-10-09 user-established correction / SUPERSEDED older chat reconstruction:** 1942年末、日本軍は高速補給・舟艇機動を伴う反攻を実施し、その後は日英とも新しい大きな進出を得ず次の冬季攻勢まで膠着。日本軍は英軍新攻勢の有無にかかわらず後方上陸で防御線破綻を狙い、Chittagong市街・港湾への追加上陸・攻略は後段の別判断とする。**本稿§1.1–1.3の「1943年春反撃→Apr/May Chittagong入城候補」は当該枝の基準時系列としては使用しない。** 詳細と艦艇候補の出所・状態は[23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md)へ。Cox's Bazarは既存日本軍拠点の作戦前提、再攻略戦を挿入しない。実際の冬季作戦結果はOPEN。
+> **2026-10-09 provisional user-recollection / chronology REOPENED by [23]:** 会話からの粗い復元では1942年末前後に日本軍が高速補給・舟艇機動を伴う反撃を行い、のち日英が次の冬季攻勢まで膠着した可能性がある。しかし史実の第一次Arakan攻勢と4月の日本軍反撃の時計と照合すると、**この時系列とCox's BazarのR3占領実績は未検証**。日本軍は英軍新攻勢の有無にかかわらず後方上陸で防御線破綻を狙い、Chittagong市街・港湾への追加上陸・攻略は後段の別判断とする。**本稿§1.1–1.3の「1943年春反撃→Apr/May Chittagong入城候補」は当該枝の基準時系列としては使用しない。** 詳細と艦艇候補の出所・状態は[23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md)へ。Cox's Bazarは12月作戦案の**条件付き開始前提**だが占領経緯はOPEN。根拠のない再攻略戦は挿入しない。実際の冬季作戦結果はOPEN。
 
 ## 0. 今回の最重要読み替え
 
