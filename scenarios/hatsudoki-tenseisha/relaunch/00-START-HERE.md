@@ -192,6 +192,10 @@ PROVISIONAL discussion results:
 
 - [27](27-1943-ARAKAN-JUN-NOV-ATTRITION-REPLACEMENT-DEC-AIR-GROUND-READINESS.md): [26]先行戦役被害とは別に、**6月～11月の英印軍地上800・日本軍650、RAF航空全損30・日本陸海軍航空全損36**（すべてPROVISIONAL）の追加、医療除隊・補充の分解を行う。1943年12月の**RAF 224群 ~180物理機/~125可動、日本陸航ビルマ全域 ~272機/~204可動**などは**物理勘定を示す例示案であり確定OOBではない**。史実の第5師団帰還5/18→アラカン配属11/9、第7師団秋展開、RAF Spitfire新装備を参照。Cox獲得・膠着は維持。
 
+### 28 — 1943-12 Chittagong飛行場・道路鉄道・英国予備隊・日本上陸反応時計
+
+- [28](28-CHITTAGONG-DEC1943-RAF-AIRFIELDS-XV-CORPS-RESERVES-AMPHIBIOUS-RESPONSE.md): Cox/RamuのRAF使用を排除し、**RAF第224群の作業可動125機をChittagong 40 / Dohazari 34 / Feni 25 / Comilla 11 / Agartala 15へ配分する例示**。第5/7インド師団の南方配備・第26のChittagong予備と、Sitakunda北方上陸への南北両側からの反応・RAF航空攻撃をH+0–96hの**条件付き時計**で区別。海岸線/道路規格/実際の配属・戦果はOPEN。史実の1944年前線をR3へ転写せず、前回Cox獲得を再戦させない。
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
