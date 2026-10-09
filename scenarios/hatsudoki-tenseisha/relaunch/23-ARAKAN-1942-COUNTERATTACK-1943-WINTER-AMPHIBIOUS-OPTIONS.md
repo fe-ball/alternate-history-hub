@@ -1,4 +1,4 @@
-# 23 — Arakan 1942年末反攻後の膠着・1943年冬季後方上陸構想・海軍投入オプション監査
+# 23 — Arakan 1942末–1943戦役経緯の再監査・冬季後背上陸構想・海軍投入選択肢
 
 > **Authority / priority:** 2026-10-09 会話でユーザーが明示した戦役前提の引き継ぎ・整合性監査。[17](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md)、[19](19-1943-SUMMER-PRE-X-STRATEGIC-CONVERGENCE.md)、[21](21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md) と連結する。
 >
@@ -116,7 +116,7 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 
 | Stage | Trigger / Japanese choice | What can be committed | Stop / review gate |
 |---|---|---|---|
-| S0 — prepared stalemate | Front fixed after 1942 year-end and before next winter | Reconnaissance, defensive works, seaplane bases, boat stocks, local air; British also prepares | Preserve uncertainty in enemy OOB and terrain |
+| S0 — prepared stalemate | **If** the front stabilized after the previous Japanese counterstroke and before the next dry season (dates/line unverified) | Reconnaissance, defensive works, seaplane bases, boat stocks, local air; British also prepares | Preserve uncertainty in enemy OOB and terrain |
 | S1 — winter rear-landing **plan** | **Japan decides regardless of whether Britain launches a fresh offensive** | Assault landing group; frontal diversion/pressure; localized fighter/strike cover and reconnaissance | Weather, shore soundings, transport, RAF and enemy coastal lookouts can stop execution |
 | S2 — reinforce/reverse flank | Landing encounters strong reserve or creates usable break | More air fighter/attack, shore logistics, destroyer/cruiser or reinforcements | Reinforcement transport and casualty evacuation; do not sacrifice entire reserve blindly |
 | S3 — Chittagong direct assault/port use | British position actually compromised; terrain/port/ground-air balance assessed | Division reserve, engineers, minesweeping, selected naval fire support, port repair | **Separate approval**; urban/port entry and British destruction/open-field retreat OPEN |
