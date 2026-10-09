@@ -16,7 +16,7 @@
 > **Yanagi / seaplane / Hyuga ledger:** [relaunch/20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md](relaunch/20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md)
 > **1943 reassessment handoff:** [relaunch/21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md](relaunch/21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md)
 > **Winter Bengal ship/seaplane audit:** [relaunch/22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md](relaunch/22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md)
-> **Arakan historical chronology audit (timing/Cox capture REOPENED; winter rear-landing intention retained):** [relaunch/23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md](relaunch/23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md)
+> **Arakan previously closed continuity restored (Cox held, following stalemate; winter operation outcome OPEN):** [relaunch/23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md](relaunch/23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md)
 
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
@@ -35,7 +35,7 @@
 10. [20 — 柳船・水上航空・日向航空偵察戦艦](relaunch/20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md) をsupport layerとして読む
 11. **[21 — 1943構成再評価 handoff](relaunch/21-1943-REASSESSMENT-HANDOFF-INDIA-AIRCRAFT-O6.md) を今回の再開入口とし、17→19間のArakan / Chittagong結果を先に監査する**
 12. [22 — ベンガル水上航空・日向・瑞雲運用監査](relaunch/22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md) を補助航空戦力の正本として参照
-13. **[23 — 1942末反攻・膠着の未検証経過と冬季後方上陸構想](relaunch/23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md) をArakan/Chittagong時系列と艦艇選択肢の最新の継続正本として優先する**
+13. **[23 — 既決の先行反攻・Cox確保・膠着と冬季後方上陸構想](relaunch/23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md) をArakan/Chittagong時系列と艦艇選択肢の最新の継続正本として優先する**
 
 最大version、更新日の新しさ、記述年代の未来さだけでauthorityを決めない。
 
