@@ -222,6 +222,8 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 
 **1943-12 英側実働戦力の同時点監査:** [24](24-BRITISH-ARAKAN-WINTER-1943-XV-CORPS-RAF-EASTERN-FLEET-US-PERCEPTION-AUDIT.md) — XV軍団（第5/7/26インド師団・第81西アフリカ）、RAF第224航空群14個飛行隊と米第10航空軍の独立勘定、1943年12月東洋艦隊と翌1–2月増援の時間差、米太平洋艦隊への英国の認識をまとめた。現行第23の戦役CLOSED事項は変更せず、英国の冬季軍事行動の結果はOPEN。
 
+> **Loss and air-war continuation:** [25](25-ARAKAN-BRITISH-LOSSES-RECONSTITUTION-AND-INTERMITTENT-AIR-WAR-1943.md) is the next numerical/source baseline: historic First Arakan losses (not R3 totals), British ground rotation/replenishment and nonzero Japanese/RAF aircraft attrition under the CLOSED spring–autumn territorial stalemate. No reopening of Japanese Cox conquest.
+
 ## 8. 英国の1943年冬季戦略選択 — 政策・兵力・米国に対する認識
 
 > **Status:** 英国の作戦選択を考えるための史実制約と分析枠はCLOSED。R3英国の具体的政策、兵力、命令、対日進攻や艦隊出撃は**PROVISIONAL / OPEN**。既決の「日本軍Cox's Bazar保持・春秋は戦線膠着」は維持する。
