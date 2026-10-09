@@ -8,6 +8,8 @@
 >
 > **Source documents:** [23](23-ARAKAN-1942-COUNTERATTACK-1943-WINTER-AMPHIBIOUS-OPTIONS.md) ship candidate list and user intent; [28](28-CHITTAGONG-DEC1943-RAF-AIRFIELDS-XV-CORPS-RESERVES-AMPHIBIOUS-RESPONSE.md) British H-hour response; [27](27-1943-ARAKAN-JUN-NOV-ATTRITION-REPLACEMENT-DEC-AIR-GROUND-READINESS.md) air allocation; [22](22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md) Hyūga aviation; [17](17-JAPANESE-STRATEGY-FIVE-GO-FS-ARAKAN-AIRCRAFT-HANDOFF-1942H2.md) 1942 preparation and Nisshin role.
 
+> **2026-10-09 critical objectives-and-base-count correction, controlling for interpretation:** [30](30-CHITTAGONG-1943-OBJECTIVES-BEACHHEAD-COUNT-AIRFIELD-NODES-REAPPRAISAL.md) establishes that “one beach / one bridgehead / one rail interruption / Chittagong operational isolation” are four different states. Its **P2 = one concentrated landing area with multi-point road/rail/N-S blocking functions** supersedes any reading of [29] as requiring a second independent beach. A **36-craft** flotilla is not automatically sufficient for an enduring anti-brigade perimeter and the July 1943 Akitsu **20 ferried craft** does not prove a ready H-hour well-deck launch of 20. This document's previous 1–2-wave theoretical totals remain pure arithmetic, NOT probable operational delivery. [28] five air nodes are geographic clusters, not five exactly identified ready airstrips.
+
 ## 1. No numbers until "36 Daihatsu" can truly reach the assault anchorage
 
 ### 1.1 Class physics
