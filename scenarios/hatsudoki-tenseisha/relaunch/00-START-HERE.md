@@ -1,5 +1,7 @@
 # 発動機転生者・リランチ正本
 
+> **32 — Hyuga Sasebo refit and Chitose trade-off:** [32](32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md) finds that [15]§11 had already CLOSED Hyuga-only reconnaissance battleship conversion because of independent No.5 turret explosion + waterborne ISR doctrine, not 1942 carrier losses. [20] projects 1943Q4 readiness. Hist Sasebo Hyuga and Chitose concurrent; postponing Chitose's CVL conversion is a plausible *new, unapproved* price for Sep–Oct Hyuga completion and Dec Bengal appearance. If workup fails, Nisshin + qualified mini carrier force remains the Dec plan.
+
 > **2026-10-09 corrected mission priority:** GOVERNING CORRECTION: The 1943 winter Japanese operation targets the **British field front rear/flank**, in conjunction with Japanese main troops advancing north from previously held Cox, and only thereafter may exploit toward Chittagong. Former #28–30 Sitakunda–Feni blockade is unapproved assistant-invented alternative; Hyuga is a support centerpiece (deployment still OPEN). [31](31-ARAKAN-1943-INTENT-CORRECTION-HYUGA.md)
 
 > **Authority:** Relaunch R3
