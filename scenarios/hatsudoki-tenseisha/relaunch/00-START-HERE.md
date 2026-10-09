@@ -184,6 +184,10 @@ PROVISIONAL discussion results:
 
 - [25](25-ARAKAN-BRITISH-LOSSES-RECONSTITUTION-AND-INTERMITTENT-AIR-WAR-1943.md): 第一次Arakan史実損失5,057名（R3では別値）、第14・26師団の残存兵員・カドレの再建と第5・7師団の交代、Hurricane→Spitfire Vc/初期VIII、Ramu/Cox飛行場のR3占領差、10AF→14AF配分。**R3の実損害、可動機・搭乗員補充、具体空戦戦果はOPEN**。
 
+### 26 — R3第一次アラカン戦役の損害・装備・航空機残高
+
+- [26](26-FIRST-ARAKAN-R3-CASUALTY-AND-MATERIEL-CARRYOVER-1942Q4-1943Q1.md): 史実5057名に前後期965名を含む脚注を監査し、R3の**英印軍地上6,500 / 日本陸軍地上2,650**、装備・舟艇、航空機**RAF35 / 日本28**の損失を**暫定中央案**として記録。行方不明者の捕虜/死亡/帰還の再分類、1943年末の負傷者回帰を含む。既決のCox獲得を再判定しない。**数値は未CLOSED**。
+
 ## 現在の読み順
 
 1. [固有ルール](../SCENARIO-RULES.md)
