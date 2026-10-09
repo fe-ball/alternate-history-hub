@@ -1,5 +1,7 @@
 # 30 — 1943年冬季Chittagong後背上陸：目標の階層・上陸地点数・英航空拠点数の再定義
 
+> **2026-10-09 corrected mission priority:** OVERRIDING MISSION CORRECTION: The northern railway blockade recommended in this document was a mistaken reconstruction of the user's plan. The originally intended operation is a sea-flank and rear attack on British Arakan FRONT formations, coordinated with Japanese land main force. Retain geography and counting cautions only; withdraw the former Sitakunda corridor as central. [31](31-ARAKAN-1943-INTENT-CORRECTION-HYUGA.md)
+
 > **Created 2026-10-09; status:** **CLOSED previous macro-continuity** (Japan already holds Cox's Bazar; 1943 front stalemate; intent to execute winter rear landing independently of British offensive; Chittagong city/port action decided only later). **CLOSED verified period geography/known 1943 airfield and shipping precedents; OPEN actual 1943 beach/RAF strips, assault ships, landing plan and outcome.** All force/mission assignments and recommendation below PROVISIONAL.
 >
 > **Scope:** Critical reinspection of the *objectives and number of landing sites / RAF forward-airfield bases* assumed in [28](28-CHITTAGONG-DEC1943-RAF-AIRFIELDS-XV-CORPS-RESERVES-AMPHIBIOUS-RESPONSE.md) and [29](29-WINTER-1943-CHITTAGONG-REAR-LANDING-LIFT-TIDES-AIR-COVER-72H-WARGAME.md). The number of geographic pins, transport ships, boat runs, RAF flying fields, and strategic objectives are **five different numbers**. Do not choose them from the same “3–5” shorthand.
