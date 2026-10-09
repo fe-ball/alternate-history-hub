@@ -175,3 +175,46 @@ Below is the **conversation-level preliminary force package**, reconstructed fro
 
 **Final conclusion:** **No full re-fight or re-audit of already closed prior events is required.** Repository documentation was incomplete. Fill archival numerical gaps and physically test new winter options *forward* from the restored Cox-held, stalemated start line. Do not invent a British recapture or a second Japanese Cox conquest.
 
+
+## 7. 1943春–冬の膠着戦線：領土の静止と軍事活動の継続を分離
+
+> **2026-10-09 follow-up:** **CLOSED prior-branch macro-continuity: 春から次の冬季作戦まで大きな支配線の移動はない。** This does **NOT** mean ceasefire, zero casualties, inactive British command or halted air/naval activity. **PROVISIONAL specific monthly events and rates**; **OPEN named unit movement, actual losses and RAF sorties**.
+
+### 7.1 Historical plausibility check
+
+- **Monsoon barrier:** On the 1943–44 Burma/Arakan front, effective dry-season campaigning was primarily **October–May**; in the summer southwest monsoon, narrow coast roads, river crossings, jungle tracks, medical conditions and all-weather supply collapsed in utility, making major manoeuvre very costly. Australian Army Research Centre's 1943–44 air-land integration study identifies the period as the principal tactical constraint. It does **not** mean air operations, river patrols, raids or logistical construction cease.
+- **British activity even without a front advance:** In May 1943 Allied combined leaders explicitly planned for **November–December offensive operations while the previous monsoon was approaching**, and stressed airfields, shipping, training and supply capacity. Britain did not accept a permanent frozen front. Its army rebuilt jungle tactics, reserve security, air supply and RAF fighter / reconnaissance organization through the 1943 monsoon.
+- **Dry-season reopening:** In real history British/Commonwealth forces began the **second Arakan offensive in November 1943**, with major gains/attacks continuing into January–February 1944. But **in R3, Japan holds Cox's Bazar, historically a British staging base**. The British offensive plan, start line, force readiness and risk calculus must be recomputed; it is **not obligatory** to copy an identical November attack, and **not plausible** to forget British attempts to regain initiative.
+- **Cox political/logistical pressure:** British-held Chittagong is an important port/air/rail base, and the loss of an Indian coastal town to Japan would logically intensify British defensive reinforcement and air/naval interdiction. That is a plausible opponent response, NOT proof of a successful recapture or a fully operational British assault in any particular month.
+- **Japanese supply:** Japanese Cox occupation and retention are established in this R3 branch; its **daily ability to sustain a larger forward garrison** remains weather-, shipping-, shore-handling- and RAF-dependent. Holding the town does **not** grant a deepwater port, mature dispersed aircraft base, or cost-free further advance.
+
+### 7.2 Recommended monthly narrative, without revisiting prior victories
+
+| Period | Japanese operational activity without major territorial gain | British operational activity without major territorial gain | Status |
+|---|---|---|---|
+| **1943 March–May** | Garrison and replenish prior gains at Cox/Naf, replace boats and casualties, probe northward and test coastal defenses | Rebuild front line behind loss of Cox, contain Japanese probes, conduct RAF observation/attacks, transfer survivors and train reserves | PROVISIONAL activities; geography and casualties OPEN |
+| **1943 June–September (monsoon peak)** | Dig in, dispersed shoreline fuel/radio, repair jetty/landing approaches, conduct patrols/short boat raids in weather windows, suffer disease/supply disruptions | Restore Chittagong–Dohazari road/rail/air defense, fortify likely amphibious beaches and road exits, RAF patrol/strike activity on workable days, intelligence collection | **CLOSED no major line change**; operational tempo/weather losses PROVISIONAL |
+| **1943 October–November (drying season)** | Concentrate small craft, mapping and landing rehearsals under concealment; northern ground probes or tactical attacks where cheap | Intensify air/coastal reconnaissance, shelling or commando/brigade probes as feasible, stage reserves, prepare local counterattack or fresh dry-season offensive | Tactical activity likely; **British major offensive not preordained** |
+| **1943 December before landing H-hour** | Rear-landing plan is an independent Japanese initiative; check mine/tide/RAF/ship/air gates before launch | Increased alert, possible pre-emptive local actions or a prepared operational counterattack, response limited by actual R3 troop, air and transport readiness | **Outcome OPEN** |
+
+**Clear conceptual division:**
+1. **Operational stalemate** = roughly unchanged major territorial control despite contact, casualties and reinforcement. This is a defensible R3 historical continuation and remains **CLOSED as pre-agreed macro-plot**.
+2. **Tactical inactivity** = no raids, no air and maritime interdiction, no replenishment, no engineering, no casualties. **REJECTED**. Monsoon imposes limits, not a ceasefire.
+3. **British permanent passivity** = no planning for a counterstroke when the dry season returns. **REJECTED**. A fully mounted November large-scale attack is not guaranteed; reconnaissance and preparation are expected.
+4. **Nomenclature** = if the user says both were '動きがない', interpret as *no sizable advance on the campaign map*, not no military activity.
+
+### 7.3 Implications for the Japanese 1943 winter landing
+
+- Britain has seen earlier Japanese boat-borne rear attacks: **do not award tactical surprise automatically**. The advantage must come from *which* stretch of coast, precise timing, deception, British reserves/air coverage, and rapid unloading, with British coastal watchers/mine countermeasures.
+- The price of long stalemate includes **boats, engines, fuel, malaria casualties, trained crews, damaged shore installations, and RAF attrition**. These carry forward under SCENARIO-RULES §15; neither side enters the winter offensive as a freshly reset force.
+- The Japanese can intend to attack without waiting for a British attack, but if Britain opens a limited autumn attack, Japanese commanders must decide whether to accelerate, disguise, delay or repurpose their landing. This is a branching choice, not proof that Britain 'did nothing'.
+- **At Chittagong** the British may be better defended and reinforced than in spring, and will have examined airborne resupply as a counter to Japanese rear infiltration. Historic British February 1944 resilience is a **future possible adapted response, not free advance knowledge or guaranteed perfection in 1943**.
+- **Data needed only for the winter operation**, not to re-simulate prior Cox capture: 1943 Q3-Q4 British local reserves and RAF serviceable strength; actual winter Japanese troop replacement, cargo landed at Cox vs Akyab, weather-limited shipping/craft availability, and beach coverage.
+
+### External support
+
+- Australian Army Research Centre, *An essay on the Success of Air-Land Integration during the Burma Campaign in World War II*: https://researchcentre.army.gov.au/library/australian-army-journal-aaj/volume-13-number-2-spring/essay-success-air-land-integration-during-burma-campaign-world-war-ii-illustration-importance-leadership-adaptation-innovation-and-integration
+- US State Department, **Combined Chiefs of Staff conference 14 May 1943**: https://history.state.gov/historicaldocuments/frus1943/d36 (preparation for post-monsoon November–December and shipping difficulty).
+- US National Defense University Press, *Echoes of the Past: The Burma Campaign and Future Operational Design in the Indo-Pacific Region*: https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-109/Article/Article/3385559/echoes-of-the-past-the-burma-campaign-and-future-operational-design-in-the-indo/
+- Royal Air Force Museum, *On to the offensive: 1944*: https://www.rafmuseum.org.uk/research/online-exhibitions/never-forgotten-the-raf-in-the-far-east/onto-the-offensive-1944/ (records British offensive beginning November 1943 and February 1944 Japanese response).
+
