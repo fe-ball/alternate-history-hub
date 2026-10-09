@@ -28,6 +28,8 @@
 
 > **Chittagong RAF basing / XV Corps anti-landing reserves / H-hour response time study (PROVISIONAL):** [relaunch/28-CHITTAGONG-DEC1943-RAF-AIRFIELDS-XV-CORPS-RESERVES-AMPHIBIOUS-RESPONSE.md](relaunch/28-CHITTAGONG-DEC1943-RAF-AIRFIELDS-XV-CORPS-RESERVES-AMPHIBIOUS-RESPONSE.md)
 
+> **R3 winter 1943 Japanese rear landing: Daihatsu lift, 1943 ship carrier availability, Sandwip tidal risk and H+72 RAF/British response (NOT CLOSED):** [relaunch/29-WINTER-1943-CHITTAGONG-REAR-LANDING-LIFT-TIDES-AIR-COVER-72H-WARGAME.md](relaunch/29-WINTER-1943-CHITTAGONG-REAR-LANDING-LIFT-TIDES-AIR-COVER-72H-WARGAME.md)
+
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
 
