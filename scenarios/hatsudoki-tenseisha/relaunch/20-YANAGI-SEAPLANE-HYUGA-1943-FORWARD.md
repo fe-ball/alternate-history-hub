@@ -357,6 +357,8 @@ resilience comes from separation / distribution, not from float status alone.
 
 ---
 
+> **2026-10-11 scope correction:** The user's intended R3 baseline keeps the **empire-wide seaplane share/strategic priority approximately unchanged**, while general technological, crew, maintenance and communications improvement strengthens existing seaplane forces' **relative capability against enemies**. This is not a blanket shift of resources from carrier/land aviation toward floatplanes, nor an automatic numerical aircraft or trained-pilot bonus. Hyūga-only conversion is justified by its independently damaged aft turret and a standing reconnaissance/spotting mission; Chitose CVL postponement, if chosen, is an independently paid Sasebo and carrier-deck trade-off. See [32](32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md).
+
 ## 10. 日向 — only Ise-class hybrid conversion CLOSED
 
 [15](15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md) §11 remains governing:
