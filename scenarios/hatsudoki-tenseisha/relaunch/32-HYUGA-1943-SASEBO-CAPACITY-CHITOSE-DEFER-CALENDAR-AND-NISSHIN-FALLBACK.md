@@ -15,6 +15,14 @@
    
 Historical sources: [Hyūga contemporary-tabulated movements](https://www.combinedfleet.com/Hyuga.htm); [Chitose carrier conversion](https://en.wikipedia.org/wiki/Japanese_aircraft_carrier_Chitose); [Chitose Pacific Wrecks entry](https://pacificwrecks.com/ship/ijn/chitose.html); [NavWeaps conversion engineering](https://www.navweaps.com/index_tech/tech-021.php).
 
+### 1.1 User clarification 2026-10-11 — relative battlefield value is not an empire-wide doctrinal reallocation
+
+**Controlling distinction:** R3 is **not** assumed to raise the percentage of total IJN resources assigned to floatplanes or make floatplanes replace fleet/land fighter aviation. Floatplane force **position/strategic weight across the Empire remains approximately unchanged**. But broader R3 advances in aircraft engines, radio, maintenance, scouting/task hand-off, crews and surrounding joint-force air power improve what that otherwise comparable seaplane force can accomplish **relative to the enemy**. The improvement is real but uneven by type and theater; do not award free extra E13A/F1M/A6M2-N/N1K units, sortie cycles or guaranteed Spitfire superiority.
+
+**Hyūga:** No necessity to invent a new empire-wide seaplane expansion policy. The already damaged aft turret and a limited conversion into a major scouting/naval artillery platform are justified by an existing naval mission becoming more capable **without a new percentage-budget priority**. In the Arakan sea-flank operation, observers/spotters and naval guns have disproportionate local utility, with no general-purpose carrier-fighter cover supplied by Hyūga itself.
+
+**Chitose:** Delaying its CVL conversion is an optional, separately costed construction-timetable/available-carrier force decision, **not an automatic consequence** of floatplanes receiving greater relative combat value. If Chitose is retained as a seaplane tender, this is retention of an already-existing floatplane support asset, not free aviation capacity; future CVL flight-deck opportunity cost remains.
+
 ## 2. Calendar: OTL versus R3 if explicit yard prioritization is adopted
 
 | Task | Actual Hyūga history | R3 conditional **one-ship-priority path** (NOT fact) |
