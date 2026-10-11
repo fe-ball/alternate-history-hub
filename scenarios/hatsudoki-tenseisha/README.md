@@ -1,5 +1,7 @@
 # 発動機転生者
 
+> **R3 complete 1943–44 seaplane engine-fit/catapult and production priority audit (E16A/Kyofu/Rufe/E15K/M6A/H8K):** [relaunch/33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md](relaunch/33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md)
+
 > **Recovered Hyuga-only R3 conversion rationale, Sasebo/Chitose resource audit, winter 1943 readiness and Nisshin fallback:** [relaunch/32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md](relaunch/32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md)
 
 > **2026-10-09 corrected mission priority:** GOVERNING CORRECTION: User-intended 1943 sea-flank envelopment behind Arakan field forces and Hyuga support, not north-Chittagong railway blockade. See linked audit. [31](relaunch/31-ARAKAN-1943-INTENT-CORRECTION-HYUGA.md)
