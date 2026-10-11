@@ -1,5 +1,7 @@
 # 22 — Bengal水上航空・瑞雲のEnterprise効果・日向艦上運用監査（1943Q4 forward）
 
+> **2026-10-11 E16A / Hyuga engine decision audit:** [33](33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md) recommends Kinsei51→54 1,300hp E16A1, no forced O4/O5 engine swap, with E16A2 Kinsei62 1,560hp an independently qualified 1944 study. The 1943 four-pre-series batch / Hyuga two-aircraft boarding remain unapproved; no automatic catapult release or water-fighter CAP. Same coastal/ship aircraft wallets.
+
 > **Sasebo cost / R3 Hyuga completion audit:** [32](32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md) finds Hyuga-only conversion already decided in [15], and provides a credible but PROVISIONAL Sep–Oct 1943 completion path only if other yard assignments (particularly the historically simultaneous Chitose CVL conversion) are genuinely sacrificed. An E13A/F1M-led Dec Hyuga can function without two early E16A; their qualifications remain separate.
 
 > **2026-10-09 corrected mission priority:** Hyuga role restored: Her seaplanes and retained eight 35.6cm guns were envisaged as **central reconnaissance, observation and naval fire support** for the seaborne flank and main land-force operation. Not incidental nor a replacement for an aircraft carrier, landing craft or infantry. December 1943 physical arrival/training remains an explicit condition. [31](31-ARAKAN-1943-INTENT-CORRECTION-HYUGA.md)
