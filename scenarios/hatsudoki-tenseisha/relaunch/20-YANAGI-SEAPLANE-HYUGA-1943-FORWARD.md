@@ -224,6 +224,8 @@ Therefore historical later sinkings are **not auto-fixed**, but neither are they
 
 ---
 
+> **Recovered R3 May 1942 operational precedent [34](34-R3-MO-A6M2N-FLOAT-FIGHTER-TENDERS-EXHAUST-EMERGENCY-AIR-DEFENSE-AUDIT.md):** [14] already specifies **昴一一/1,500PS spring-1942 bridging seaplane Zero**, ~6 Rekata and 4–5 reacting to the Tulagi second raid with 10–12 carrier Zeros. **昴二一/二二 upgrade discussed below is LATER**, not an engine retrofit assumed before MO. MO losses/strike results remain PROVISIONAL. More crucially, post-raid sortie regeneration needs tender, safe mooring, spare fuel/radio and pilots, not just a better engine.
+
 ## 5. 二式水戦 O4 growth — direction only, exact specification OPEN
 
 Existing R3 branch begins with O4 / 昴-powered bridge aircraft rather than historical low-power baseline.
