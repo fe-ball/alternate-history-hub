@@ -1,5 +1,7 @@
 # 32 — 日向1943改装の再監査：損傷の独立理由・佐世保と千歳の競合・冬季出撃・日進代替
 
+> **2026-10-11 engine/system follow-up:** [33](33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md) shows Hyuga's mission can be supported by E13A Kinsei43 and F1M Zuisei13 without redesign or indispensable 1943 Zuiun deployment. Early E16A1 uses Kinsei 51/54 and requires paid pilot batch; O5 Kyofu development competes with frontline fighters; engine growth does NOT automatically justify higher navy-wide seaplane share.
+
 > **2026-10-09 archive-recovery audit.** Governing [15](15-ENTERPRISE-RECONSTRUCTION-AND-CARRIER-BUILDUP-1942.md) §11: **Hyūga only conversion is already CLOSED R3 forward doctrine**, Ise follow-on OPEN, and carrier-replacement panic is explicitly NOT the rationale. [20](20-YANAGI-SEAPLANE-HYUGA-1943-FORWARD.md) §10 proposes 1942H2 design/yard prep, 1943H1–Q3 Sasebo conversion, **1943Q4 initial readiness PROVISIONAL**. [22](22-BENGAL-SEAPLANE-ZUIUN-ENTERPRISE-HYUGA-AUDIT-1943Q4.md) §§2/7 restricts actual December aircraft; [31](31-ARAKAN-1943-INTENT-CORRECTION-HYUGA.md) restores Hyūga's central naval gunfire/observation function in the actual sea-flank + land-main-force pincer. **Do not reopen the fact that R3 chose the Hyūga conversion** merely because some deployment detail was not written.
 >
 > **Master clock** remains 1942-06-26 18:00. Future work completion/Benɡal transit is not contemporaneous foreknowledge and no named winter deployment is CLOSED merely because it appears in a planning table.
