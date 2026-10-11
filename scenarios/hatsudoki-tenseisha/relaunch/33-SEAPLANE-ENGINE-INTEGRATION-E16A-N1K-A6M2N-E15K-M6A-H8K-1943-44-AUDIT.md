@@ -52,7 +52,7 @@ A 2,000PS engine has a marked rated-power advantage over 1,460–1,530hp Kasei, 
 
 ### 2.4 E15K Shiun: reject the “more hp makes an escape aircraft” trap
 
-Historical prototype E15K **first flew December 1941**, decades? [correct historical year 1941], main difficulty with retractable outrigger floats and emergency main-float jettison plus unusual prop; late Kasei 24 1,850hp was already substantial. Field application still suffered from mechanical complexity and exposure to faster Allied interceptors, with **only ~15 built historically**. R3 broadly improved opposing aircraft too (including British 1943 Spitfire), so giving it O5 power without fixing floats/prop and proving escape advantage is poor use of scarce O5. Keep as limited experimental project, allocate its crews/production only after cost-benefit comparison to E16A and E13A. No invented reliable throwaway float.
+Historical prototype E15K **first flew December 1941**; main difficulty with retractable outrigger floats and emergency main-float jettison plus unusual prop; late Kasei 24 1,850hp was already substantial. Field application still suffered from mechanical complexity and exposure to faster Allied interceptors, with **only ~15 built historically**. R3 broadly improved opposing aircraft too (including British 1943 Spitfire), so giving it O5 power without fixing floats/prop and proving escape advantage is poor use of scarce O5. Keep as limited experimental project, allocate its crews/production only after cost-benefit comparison to E16A and E13A. No invented reliable throwaway float.
 
 ### 2.5 Seiran M6A vs floatplane pool
 
