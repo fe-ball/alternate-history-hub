@@ -1,5 +1,7 @@
 # 18 — 航空機枝・Enterprise技術吸収・1943戦力台帳 forward
 
+> **2026-10-11 seaplane engine allocation audit:** [33](33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md) partitions the previous contingent A6M2-N/N1K fighter pool, fixes E16A1 Kinsei51/54 vs *proposed later* E16A2 Kinsei62, Kyofu Kasei13/15 vs limited O5 R&D (15–25 O5 engines including tests/spares from existing production), H8K2 4×Kasei22, and specialist M6A Atsuta/E15K Kasei. No additional production allocation or mass E16A/floatfighter readiness was created.
+
 > **Authority:** Relaunch R3 supporting / forward-analysis ledger  
 > **Status:** mixed CLOSED technical closure + PROVISIONAL conditional 1943 force ledger  
 > **Canonical clock remains:** **1942-06-26 約18:00**  
