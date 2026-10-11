@@ -1,5 +1,7 @@
 # 技術・航空機台帳 1940–1941 — Relaunch R3
 
+> **2026-10-11 cross-airframe implementation audit:** [33](33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md) applies O4 Subaru 1,600–1,650PS and O5 Mine 2,000PS to R3 float aviation only after airframe, hydro/prop/CG, spares and 1943 schedule qualification. E16A uses Kinsei51/54 first; Kyofu Kasei13/15; E13A Kinsei43; F1M Zuisei13; H8K2 4×Kasei22; M6A Atsuta prototype. These later selections are technical proposals, not changes to already-CLOSED 1941 engine architecture.
+
 > **Status:** current/deployed items = CLOSED / PROVISIONAL as labeled; post-1941 items = roadmap only
 > **Actor-knowledge guard:** canonical clockより未来の成功・失敗を1941-12-07のactor knowledgeへ逆流させない。
 > **Supersedes:** 1939以後のO4/O5成長、1940–41航空機配備について旧planningと競合する箇所。
