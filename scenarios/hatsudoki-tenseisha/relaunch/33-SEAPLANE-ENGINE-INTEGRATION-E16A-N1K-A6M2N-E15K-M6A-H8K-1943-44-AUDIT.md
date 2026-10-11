@@ -32,6 +32,17 @@
 
 **Historical sources:** [NASM Kyofu original contra-prop, 1,460hp and 1943 service](https://airandspace.si.edu/collection-objects/kawanishi-n1k1-kyofu-mighty-wind-rex/nasm_A19761114000); [Kyofu technical engine variants](https://www.warbirdsresourcegroup.org/IJARG/kawanishin1k1.html); [Kyofu late Kasei 15](https://www.gruppofalchi.com/files/Profile-Publications-Aircraft-213---Kawanishi-N1K-Kyofu.pdf); [E16A development/engine](https://www.historyofwar.org/articles/weapons_aichi_E16A.html); [E16A 51/54 and late E16A2 62](https://airpages.ru/eng/jp/aichi_e16a.shtml); [E13A Kinsei43](https://www.historyofwar.org/articles/weapons_aichi_E13A.html); [F1M2 Zuisei13](https://www.historyofwar.org/articles/weapons_mitsubishi_F1M.html); [Rufe original Sakae12](https://www.wardrawings.be/WW2/Files/2-Airplanes/Axis/3-Japan/07-Maritime-Planes/A6M-Zero/Data/A6M2-N.htm); [E15K Kasei14/24 and float faults](https://www.historyofwar.org/articles/weapons_kawanishi_E15K.html); [M6A first prototype 1943 and submarine geometry, Smithsonian](https://airandspace.si.edu/collection-objects/aichi-m6a1-seiran-clear-sky-storm/nasm_A19630308000); [M6A Atsuta32](https://www.historyofwar.org/articles/weapons_aichi_M6A.html); [H8K1/H8K2 Kasei](https://www.historyofwar.org/articles/weapons_kawanishi_H8K.html).
 
+### 1.1 O3 岳 14-cylinder: why an apparently right-sized 1,320–1,450PS engine isn't free
+
+[11] preserves the O3/岳 commercial **145×160mm ×14-cylinder / 1,320–1,450PS family** (research toward 1,550–1,650PS separately). **It is a legitimate third choice** between the historical Kinsei54 1,300hp and R3 Subaru22 1,650PS, especially when considering single-engine reconnaissance seaplanes. But do not choose it just to standardize a label:
+- For **E16A1**: its existing Kinsei51/54 mount, propeller, oil/cowl diameter, folding-wing balance, float handling and 1943 Aichi production drawings are far more valuable to meet the early 1943Q4 timing than a hypothetical O3 swap. Absent a specifically cheaper certified engine package, **Kinsei54 wins**.
+- For **E13A**: long-range three-crew endurance and an established Kinsei43 production/repair chain argue for no rebuild; O3 may improve power without improving hours on station after extra fuel and cowl drag.
+- For **F1M2**: 875hp Zuisei13 light observation craft is simply in a different structural/size class; O3 and O4 violate the low-cost spotter premise.
+- For **M6A**: the folding pressure-hangar airframe is shaped around compact Atsuta inline; an O3 radial still requires new cowling and stowage measurements.
+- For a **new dedicated O3 float scout type after 1944**: a hypothetical future branch could be studied, but there is no existing accepted airframe and it would conflict with already funded E16A/float operations.
+
+**Engine selection principle:** choose **Mitsubishi Kinsei/Kasei or Zuisei** where an airframe and field logistics are already qualified. Use Owari **O4 only where R3 had already paid for a distinctly O4-derived A6M fighter structure**, and **O5 only where the extra horsepower can justify the mass, scarce engine budget and hydro/prop qualification**.
+
 ## 2. High-value incompatibilities to keep visible
 
 ### 2.1 A6M2-N/O4 R3 ≠ historical A6M2-N Rufe just improved a bit
