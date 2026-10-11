@@ -25,6 +25,8 @@ Historical sources: [Hyūga contemporary-tabulated movements](https://www.combin
 
 **Chitose:** Delaying its CVL conversion is an optional, separately costed construction-timetable/available-carrier force decision, **not an automatic consequence** of floatplanes receiving greater relative combat value. If Chitose is retained as a seaplane tender, this is retention of an already-existing floatplane support asset, not free aviation capacity; future CVL flight-deck opportunity cost remains.
 
+> **Mother ship inventory audit [34](34-R3-MO-A6M2N-FLOAT-FIGHTER-TENDERS-EXHAUST-EMERGENCY-AIR-DEFENSE-AUDIT.md):** R3 Chitose 1942 operating as a tender is attested in [14], and 1943 Chitose carrier conversion postponement is a candidate, not automatically an accepted historical alternative. **Chiyoda** needs independent Yokosuka 1943 CVL-conversion choice, and historical **Mizuho 2 May 1942 USS Drum sinking** remains unaltered absent explicit R3 event. Retaining a 1941 submarine-modified tender does not restore its full original 24-plane/4-catapult design without additional refit; keeping more motherships is not the same as generating aircraft.
+
 ## 2. Calendar: OTL versus R3 if explicit yard prioritization is adopted
 
 | Task | Actual Hyūga history | R3 conditional **one-ship-priority path** (NOT fact) |
