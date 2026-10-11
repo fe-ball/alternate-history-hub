@@ -1,5 +1,7 @@
 # 発動機転生者・リランチ正本
 
+> **33 — 1943–44水上機の発動機・統合設計総監査:** [33](33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md) covers 二式水戦（R3昴新造枝と史実栄の区別）、強風火星13→15と峰2000PS試作、瑞雲金星51/54→別途1944金星62研究、零水偵金星43、零観瑞星13、紫雲火星14/24、晴嵐熱田32、二式大艇4×火星22。生産配分・射出/回収・部隊可動率を独立させる。帝国全体の水上機比率は据え置き、相対的な実用能力だけ向上。全ての新推奨はPROVISIONAL。
+
 > **32 — Hyuga Sasebo refit and Chitose trade-off:** [32](32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md) finds that [15]§11 had already CLOSED Hyuga-only reconnaissance battleship conversion because of independent No.5 turret explosion + waterborne ISR doctrine, not 1942 carrier losses. [20] projects 1943Q4 readiness. Hist Sasebo Hyuga and Chitose concurrent; postponing Chitose's CVL conversion is a plausible *new, unapproved* price for Sep–Oct Hyuga completion and Dec Bengal appearance. If workup fails, Nisshin + qualified mini carrier force remains the Dec plan.
 
 > **2026-10-09 corrected mission priority:** GOVERNING CORRECTION: The 1943 winter Japanese operation targets the **British field front rear/flank**, in conjunction with Japanese main troops advancing north from previously held Cox, and only thereafter may exploit toward Chittagong. Former #28–30 Sitakunda–Feni blockade is unapproved assistant-invented alternative; Hyuga is a support centerpiece (deployment still OPEN). [31](31-ARAKAN-1943-INTENT-CORRECTION-HYUGA.md)
