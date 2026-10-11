@@ -325,6 +325,8 @@ Eastern Fleetの大型艦不足は:
 
 という程度が中央。
 
+> **Controlling Type 2 fighter floatplane accounting [34](34-R3-MO-A6M2N-FLOAT-FIGHTER-TENDERS-EXHAUST-EMERGENCY-AIR-DEFENSE-AUDIT.md):** Prior [14] MO had six R3 **昴一一 A6M2-N** at Rekata in 1942 May; Bengal **4–8 A6M2-N** here is **a later conditional allocation from the finite national force**, not the same six immediately teleported from Rekata. Seaplane mother-ship hull existence and 1941 midget-sub fit, float-plane fuel/rescue stations and pilot/ready crew counts require independent proof. Chitose/Chiyoda 1943 carrier-conversion decisions remain OPEN, Mizuho historic May 1942 submarine loss does not vanish with different Guadalcanal campaign.
+
 ## 7. 日進・水上機 — 今回の掘り直し
 
 ### 日進
