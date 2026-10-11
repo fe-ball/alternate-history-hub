@@ -152,6 +152,8 @@ R3共通ルールを維持する。
 - 教訓は「高速戦闘機が不足」ではなく detection→ID→report→command→scramble→vectoring の失敗。
 - Midway決心そのものは4/16以前から進行しており、raidは補強材料。
 
+> **Float fighter recovery crosscheck 2026-10-12:** [34](34-R3-MO-A6M2N-FLOAT-FIGHTER-TENDERS-EXHAUST-EMERGENCY-AIR-DEFENSE-AUDIT.md) confirms §2's **昴一一 1,500PS initial Type 2 water fighter** is the six-plane Rekata group here, not [33]'s later proposal of 昴二一/二二. The stated 10:00 combined CAP and second-wave consequences are still scenario PROVISIONAL, and historical June-1942 Yokohama Kokutai transfer requires R3 earlier logistics/training. Do not inflate to continuous CAP.
+
 ## 6. MO / Coral Sea — R3決定的分岐
 
 ### CLOSED/PROVISIONAL central
