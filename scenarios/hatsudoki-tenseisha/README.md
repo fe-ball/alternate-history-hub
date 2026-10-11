@@ -38,6 +38,8 @@
 
 > **Chittagong rear-landing mission hierarchy, beachhead count and RAF airfield-cluster corrections (PROVISIONAL):** [relaunch/30-CHITTAGONG-1943-OBJECTIVES-BEACHHEAD-COUNT-AIRFIELD-NODES-REAPPRAISAL.md](relaunch/30-CHITTAGONG-1943-OBJECTIVES-BEACHHEAD-COUNT-AIRFIELD-NODES-REAPPRAISAL.md)
 
+> **Restored MO initial Subaru11 Type 2 float fighter (6 Rekata / 4–5 sortie R3 provisional), tender survival/Chitose–Chiyoda CVL fate and practical exhaust/emergency CAP audit:** [relaunch/34-R3-MO-A6M2N-FLOAT-FIGHTER-TENDERS-EXHAUST-EMERGENCY-AIR-DEFENSE-AUDIT.md](relaunch/34-R3-MO-A6M2N-FLOAT-FIGHTER-TENDERS-EXHAUST-EMERGENCY-AIR-DEFENSE-AUDIT.md)
+
 機械可読のauthority / clock / frontierはリポジトリ直下の `scenarios.yaml` を正とする。
 このREADMEと競合した場合は、`scenarios.yaml` が指す `authority_entrypoint` と、その入口が明示するsupersessionを優先する。
 
