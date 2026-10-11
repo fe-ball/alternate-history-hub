@@ -4,6 +4,8 @@
 >
 > **User clarification 2026-10-11:** The **empire-wide allocation share and doctrinal priority of floatplanes is NOT automatically increased**. The entire R3 aviation/powerplant/radio/maintenance system improves; hence *an otherwise comparable seaplane force can have higher relative battlefield value against Britain/US*. Do **not** manufacture extra planes or postulate superior fighter coverage because waterplanes acquired political favoritism.
 
+> **CORRECTED chronological priority 2026-10-12 — see [34](34-R3-MO-A6M2N-FLOAT-FIGHTER-TENDERS-EXHAUST-EMERGENCY-AIR-DEFENSE-AUDIT.md):** Original [14] §2 explicitly places **spring 1942 R3 MO A6M2-N-equivalent at 昴一一 1,500PS** and [14] §6 contains **6 initial at Rekata, 4–5 in Tulagi response 4 May 1942** (battle outcome PROVISIONAL). This document's 昴二一 1,600PS recommendation applies **only to a potential later new-build 1942H2/1943 improved float Zero**, and 昴二二 1,650PS is a separate later trial. Historical 栄-equipped interim airplanes are not automatically present in R3 MO. Do not let the general engineering matrix silently supersede the dated original battle case.
+
 ## 0. R3 engine budget/engineering baseline (not a new plant)
 
 **[11](11-ENGINE-AIRCRAFT-ROADMAP-1940-1941.md):**
