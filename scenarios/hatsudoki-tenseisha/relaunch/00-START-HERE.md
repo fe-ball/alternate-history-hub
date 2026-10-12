@@ -1,5 +1,7 @@
 # 発動機転生者・リランチ正本
 
+> **35 — R3水上航空体系の統合正本（2026-10-12）:** [35](35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md) に二式水戦の1942MO昴一一型6機／後期昴二一・二二型、千歳・千代田の軽空母改装有無（OPEN）と瑞穂・神川丸・日進の別個の生存判定、排気噴流・冷却・無線・母艦工廠、日向と1943ベンガル湾の**同一航空機残高**を整理。帝国全体の水上機比率は引上げず、土壇場の滑走路非依存航空を強める。既存のCLOSEDと候補PROVISIONALを混同せず、今後は本書を解釈の入口とする。
+
 > **33 — 1943–44水上機の発動機・統合設計総監査:** [33](33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md) covers 二式水戦（R3昴新造枝と史実栄の区別）、強風火星13→15と峰2000PS試作、瑞雲金星51/54→別途1944金星62研究、零水偵金星43、零観瑞星13、紫雲火星14/24、晴嵐熱田32、二式大艇4×火星22。生産配分・射出/回収・部隊可動率を独立させる。帝国全体の水上機比率は据え置き、相対的な実用能力だけ向上。全ての新推奨はPROVISIONAL。
 
 > **32 — Hyuga Sasebo refit and Chitose trade-off:** [32](32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md) finds that [15]§11 had already CLOSED Hyuga-only reconnaissance battleship conversion because of independent No.5 turret explosion + waterborne ISR doctrine, not 1942 carrier losses. [20] projects 1943Q4 readiness. Hist Sasebo Hyuga and Chitose concurrent; postponing Chitose's CVL conversion is a plausible *new, unapproved* price for Sep–Oct Hyuga completion and Dec Bengal appearance. If workup fails, Nisshin + qualified mini carrier force remains the Dec plan.
