@@ -1,5 +1,7 @@
 # 20 — 柳船・水上航空・日向航空偵察戦艦 1942H2–1943 forward
 
+> **2026-10-12 integrated water-air doctrine:** [35](35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md) draws together this original 1942H2/43 waterbase and engine research, original [14] MO Subaru11 (~6 Rekata), Chitose/Chiyoda mothership choices, Hyūga conversion and Bengal conditional aircraft stocks. #35 corrects any impression that R3 water planes are a substantially bigger empire-wide aviation allocation.
+
 > **2026-10-11 detailed engine fit and branch precedence:** [33](33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md) scrutinizes O4 A6M2-N's non-trivial flotation conversion, Kasei-standard Kyofu with only trial O5 growth, E16A1 Kinsei 51/54 early issue and separate 1944 Kinsei62 E16A2, plus E13A/F1M/E15K/M6A/H8K engines. Existing design chronology is preserved; exact R3 dates and qualification OPEN.
 
 > **2026-10-09 timeline follow-up:** [32](32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md) retrieves the earlier Hyuga-only CLOSED decision and this §10 1943Q4 completion candidate; compares actual Sasebo July–Nov yard dates and simultaneous Chitose CVL work with a proposed paid early Hyuga workup. Hyuga's Dec Bay of Bengal mission and deferring Chitose remain PROVISIONAL; no requirement for a qualified E16A squadron.
