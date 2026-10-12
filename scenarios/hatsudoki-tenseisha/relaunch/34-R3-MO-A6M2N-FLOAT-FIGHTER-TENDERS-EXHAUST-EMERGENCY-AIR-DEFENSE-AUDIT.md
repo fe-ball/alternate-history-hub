@@ -1,5 +1,7 @@
 # 34 — R3二式水戦の既決MO起用・水上機母艦存続・昴/排気推力・緊急迎撃の実務監査
 
+> **2026-10-12 follow-up authoritative synthesis:** [35](35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md) integrates the MO Subaru11/6 Rekata precedent in this audit with 1942H2 newbuild A6M2-N options, Chitose/Chiyoda distinct yards/decision states, waterbase emergency sortie network, Hyūga and Bengal 24/18 coastal numbers. This file supplies detailed recovered evidence, #35 is the consolidated interpretation; no PROVISIONAL battle result became CLOSED.
+
 > **2026-10-12.** Recover original R3 archive, do NOT invent a new MO result or promote existing PROVISIONAL damage figures to CLOSED. **R3 canonical master actor clock: 1942-06-26 ~18:00**; 1943 Bengal and beyond remain forward study.
 >
 > **Critical recovered primary R3 source:** [14](14-WAR-LEDGER-1941-12-07-TO-1942-06-04-MIDWAY-CHECKPOINT.md), Section 2 and Section 6, *explicitly* already included **A6M2-N-equivalent first spring 1942 equipped with 昴一一 1,500PS**, **R3 May 4 1942 Tulagi/Rekata 6 initial float fighters**, and *after the initially successful Yorktown strike*, **four–five** responding with **ten–twelve carrier 昴 Zero fighters** at c.10:00 on Tulagi. Yorktown 2nd wave loss **6** and 3rd wave abort / H6K survival were **PROVISIONAL central MO battle adjudications**, not independent historical observations. **Do NOT overwrite with [33]'s proposed later 昴二一 1,600PS when calculating original MO.**
