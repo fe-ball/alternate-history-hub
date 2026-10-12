@@ -1,5 +1,7 @@
 # 22 — Bengal水上航空・瑞雲のEnterprise効果・日向艦上運用監査（1943Q4 forward）
 
+> **2026-10-12 integrated aviation inventory/capability note:** [35](35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md) preserves this document's provisional Bengal 24 physical/18 serviceable coastal planes and separately Hyūga 14 physical/~11 nominal ready, subject to E16A 0–1 qualified catapult aircraft; differentiates 1942 initial Subaru11 floatfighter and later Subaru21/22, distinct tender/CVL decisions, and observed ship survival. No double counting with nationwide pool.
+
 > **2026-10-11 E16A / Hyuga engine decision audit:** [33](33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md) recommends Kinsei51→54 1,300hp E16A1, no forced O4/O5 engine swap, with E16A2 Kinsei62 1,560hp an independently qualified 1944 study. The 1943 four-pre-series batch / Hyuga two-aircraft boarding remain unapproved; no automatic catapult release or water-fighter CAP. Same coastal/ship aircraft wallets.
 
 > **Sasebo cost / R3 Hyuga completion audit:** [32](32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md) finds Hyuga-only conversion already decided in [15], and provides a credible but PROVISIONAL Sep–Oct 1943 completion path only if other yard assignments (particularly the historically simultaneous Chitose CVL conversion) are genuinely sacrificed. An E13A/F1M-led Dec Hyuga can function without two early E16A; their qualifications remain separate.
