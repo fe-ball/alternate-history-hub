@@ -1,5 +1,7 @@
 # 日本側1942H2戦略整理・五号/FS/Arakan・航空機更新 handoff
 
+> **2026-10-12 seaplane program integrated accounting:** [35](35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md) contextualizes this planned Bengal seaplane/fast Nisshin allocation after earlier [14] MO six Subaru11 floatfighters and distinguishes 1943 spring national pool and Dec 24 coastal/14 Hyūga aircraft. Surface tenders and sheltered anchorages are separate finite assets; initial Chittagong north railway siege is not user-intended southern sea-flank attack.
+
 > **Authority:** Relaunch R3 supporting / forward-analysis ledger
 > **Status:** PROVISIONAL forward-analysis + next-session handoff
 > **Canonical clock remains:** **1942-06-26 約18:00**
