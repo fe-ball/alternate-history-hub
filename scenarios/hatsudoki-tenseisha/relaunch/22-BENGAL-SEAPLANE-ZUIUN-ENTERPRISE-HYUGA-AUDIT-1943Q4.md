@@ -1,5 +1,8 @@
 # 22 — Bengal水上航空・瑞雲のEnterprise効果・日向艦上運用監査（1943Q4 forward）
 
+> **2026-10-13 hull policy update:** User explicitly CLOSED choice A: Chitose & Chiyoda retain waterplane/special-sub support instead of 1943 CVL conversion. This does **not** authorize either hull in Bengal or grant their 24+12 design capacity as aircraft on top of the original coastline **24 / ~18** or Hyūga conditional **14 / ~11**. Chitose first-state, Chiyoda second-state; #22 actual aircraft demands still PROVISIONAL. See [36](36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md), next [37](37-R3-WATER-AIR-FINAL-HANDOFF-A-CHITOSE-CHIYODA-1943.md).
+
+
 > **2026-10-12 integrated aviation inventory/capability note:** [35](35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md) preserves this document's provisional Bengal 24 physical/18 serviceable coastal planes and separately Hyūga 14 physical/~11 nominal ready, subject to E16A 0–1 qualified catapult aircraft; differentiates 1942 initial Subaru11 floatfighter and later Subaru21/22, distinct tender/CVL decisions, and observed ship survival. No double counting with nationwide pool.
 
 > **2026-10-11 E16A / Hyuga engine decision audit:** [33](33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md) recommends Kinsei51→54 1,300hp E16A1, no forced O4/O5 engine swap, with E16A2 Kinsei62 1,560hp an independently qualified 1944 study. The 1943 four-pre-series batch / Hyuga two-aircraft boarding remain unapproved; no automatic catapult release or water-fighter CAP. Same coastal/ship aircraft wallets.
