@@ -1,5 +1,8 @@
 # 33 — R3水上航空の発動機・機体統合・量産/試験・1943–44配備の機種別監査
 
+> **2026-10-13 strategy status update:** Chitose and Chiyoda's **1943 no-CVL conversion is CLOSED option A** [36](36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md); hence some period seaplane-depot/operational preservation is a deliberate budget choice, not a hidden assumption. It does **not** finalize improved Subaru A6M2-N production/sea trials, O5 Kyōfū prototype, seaplane national total or 1943 Bengal transport. See next handoff [37](37-R3-WATER-AIR-FINAL-HANDOFF-A-CHITOSE-CHIYODA-1943.md).
+
+
 > **2026-10-12 seaplane system executive alignment:** [35](35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md) is the unified status ledger for engine, mother ship, launch/mooring and theatre stock. Remember [14] initial MO **Subaru11 1500PS** separate from this document's later A6M2-N **Subaru21/22** options. Fleetwide seaplane priority remains unchanged. Detailed engine choices here remain PROVISIONAL where not originally CLOSED.
 
 > **2026-10-11 study** — user's request to audit engines across E16A, N1K, A6M2-N and other contemporary/successor floatplanes. **CLOSED PREEXISTING:** Japanese 1942H2 Cox conquest, 1943 territorial stalemate, original Arakan flank-beach+Japanese ground advance concept; [15] Hyūga-only recon-battleship conversion decision; [11] O4/O5 dated architecture; [20]/[22] distinctions between shipborne observers and shore floatfighters. **PROVISIONAL NEW RECOMMENDATIONS:** engine/production choices below. **OPEN:** exact R3 output by airframe, 1943 delivery and fully trained unit strengths, definitive catapult/recovery certification and December Bengal sortie. R3 canonical clock **1942-06-26 ~18:00**; no future result leaks backward.
