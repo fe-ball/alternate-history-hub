@@ -1,5 +1,8 @@
 # 31 — 1943冬季アラカン構想の意図訂正：側背上陸と日向
 
+> **2026-10-13 inherited A decision for 1943 winter flank-plan budget:** The user CLOSED **both Chitose/Chiyoda NOT converted to CVLs during 1943** [36](36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md); this may support waterbase aviation/Hyūga yard priority but it is NOT a guaranteed specific mother ship in Bengal, trained air group, or amphibious force. Main goal remains **British front's flank/rear + Japanese northward land offensive**, not initial north-Chittagong rail blockade. Remaining costs [37](37-R3-WATER-AIR-FINAL-HANDOFF-A-CHITOSE-CHIYODA-1943.md).
+
+
 > **Availability audit:** [32](32-HYUGA-1943-SASEBO-CAPACITY-CHITOSE-DEFER-CALENDAR-AND-NISSHIN-FALLBACK.md) distinguishes already CLOSED Hyuga-conversion doctrine from OPEN actual autumn 1943 work-up and Indian Ocean transit. Historical Chitose conversion occupies Sasebo too; its R3 postponement is a plausible NEW price, not a free assumption. If the calendar fails, use Nisshin + a small qualified carrier group rather than revoke the prior conversion.
 
 **2026-10-09 user clarification, controlling interpretation.**
