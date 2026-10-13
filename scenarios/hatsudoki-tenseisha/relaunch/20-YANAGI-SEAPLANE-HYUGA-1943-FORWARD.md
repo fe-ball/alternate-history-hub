@@ -1,5 +1,8 @@
 # 20 — 柳船・水上航空・日向航空偵察戦艦 1942H2–1943 forward
 
+> **1942-06-30 fleet tender/CVL choice and corrected 1942 ship status:** [36](36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md) establishes **Chitose kept first-state waterplane equipment**, Chiyoda alone converted to second-state midget-sub carrier, and argues retaining both tenders to 1943 (NOT CLOSED) under healthy R3 fleet carriers and standing full new carrier construction. Different Sasebo and Yokosuka CVL refits and actual air units must be debited separately.
+
+
 > **2026-10-12 integrated water-air doctrine:** [35](35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md) draws together this original 1942H2/43 waterbase and engine research, original [14] MO Subaru11 (~6 Rekata), Chitose/Chiyoda mothership choices, Hyūga conversion and Bengal conditional aircraft stocks. #35 corrects any impression that R3 water planes are a substantially bigger empire-wide aviation allocation.
 
 > **2026-10-11 detailed engine fit and branch precedence:** [33](33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md) scrutinizes O4 A6M2-N's non-trivial flotation conversion, Kasei-standard Kyofu with only trial O5 growth, E16A1 Kinsei 51/54 early issue and separate 1944 Kinsei62 E16A2, plus E13A/F1M/E15K/M6A/H8K engines. Existing design chronology is preserved; exact R3 dates and qualification OPEN.
