@@ -1,5 +1,8 @@
 # 発動機転生者
 
+> **Chitose/Chiyoda June 1942 carrier-conversion pivot, first-state vs midget-sub second-state correction and 1943/44 CVL-vs-seaplane policy:** [relaunch/36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md](relaunch/36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md)
+
+
 > **R3 seaplane-system unified status and decision index (2026-10-12):** [relaunch/35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md](relaunch/35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md). Bridges MO Subaru11 float fighter, later Subaru variants, Chitose/Chiyoda tender-versus-CVL refits, individual ship fates, exhaust/cooling/radio, Hyūga and 1943 Bengal finite aviation stock. Earlier documents remain detailed evidence; new technical and ship allocations are NOT silently closed.
 
 > **R3 complete 1943–44 seaplane engine-fit/catapult and production priority audit (E16A/Kyofu/Rufe/E15K/M6A/H8K):** [relaunch/33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md](relaunch/33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md)
