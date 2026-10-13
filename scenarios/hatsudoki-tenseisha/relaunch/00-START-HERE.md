@@ -1,5 +1,8 @@
 # 発動機転生者・リランチ正本
 
+> **LATEST SESSION CLOSURE — 2026-10-13: USER ADOPTED OPTION A, CLOSED.** 千歳・千代田は**1943年中の軽空母改装を両方とも実施しない**。千歳は第一状態（設計上水上機24・射出機4）、千代田は甲標的母艦化した第二状態（水上機約12・射出機2）を維持。史実6/30の両艦緊急改装命令をR3へ自動転写しない。工廠実配分、1943艦所在/被害、1944以降改装、搭載機配分は依然OPEN。**次チャットの再開は先に [37](37-R3-WATER-AIR-FINAL-HANDOFF-A-CHITOSE-CHIYODA-1943.md) を読んでNEXT-1（工廠/艦務）→NEXT-2（二式水戦開発時計）へ。ユーザーにAかBかを再質問しない。** [36](36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md) / [35](35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md)
+
+
 > **36 — 1942-06-30千歳・千代田空母改装命令とR3での非成立/別目的要件:** [36](36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md)は史実ミッドウェー直後の緊急空母化命令がR3の**6/26正本時計の4日後**に対応することを検証。**千歳は第一状態（概ね水上機24機・射出機4基の設計）、千代田のみ甲標的母艦の第二状態（概ね水上機12機・射出機2基）**という従来の誤記を修正。両艦保持（中央推奨・未CLOSED）/千歳保持＋千代田CVL/逆/両艦CVLの4案を、1944飛行甲板・1943水上母艦・日向佐世保工期・搭乗員・横須賀工期で比較。対米空母建造拡充自体は継続CLOSED、両艦緊急改装は自動ではない。
 
 
