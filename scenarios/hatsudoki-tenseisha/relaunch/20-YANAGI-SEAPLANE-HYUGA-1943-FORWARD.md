@@ -1,5 +1,8 @@
 # 20 — 柳船・水上航空・日向航空偵察戦艦 1942H2–1943 forward
 
+> **Latest R3 fleet-mother status (2026-10-13):** [36](36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md) option **A accepted**: no 1943 Chitose or Chiyoda CVL conversion, float/support roles kept; first-state Chitose 24/4 design vs second-state Chiyoda 12/2 design, not 36 active planes. Does not overrule main waterplane doctrine, original MO Subaru11 fighter and Hyūga-only hybrid decision. For remaining deadlines and initial next-session tasks consult [37](37-R3-WATER-AIR-FINAL-HANDOFF-A-CHITOSE-CHIYODA-1943.md).
+
+
 > **1942-06-30 fleet tender/CVL choice and corrected 1942 ship status:** [36](36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md) establishes **Chitose kept first-state waterplane equipment**, Chiyoda alone converted to second-state midget-sub carrier, and argues retaining both tenders to 1943 (NOT CLOSED) under healthy R3 fleet carriers and standing full new carrier construction. Different Sasebo and Yokosuka CVL refits and actual air units must be debited separately.
 
 
