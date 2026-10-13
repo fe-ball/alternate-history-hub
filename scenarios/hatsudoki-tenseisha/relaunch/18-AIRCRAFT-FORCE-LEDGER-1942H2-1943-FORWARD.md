@@ -1,5 +1,8 @@
 # 18 — 航空機枝・Enterprise技術吸収・1943戦力台帳 forward
 
+> **Ship/aircraft coupling 1942-06-30:** [36](36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md) separately models retaining both Chitose/Chiyoda tender capabilities vs converting one/both to ~30-airplane 1944 CVLs. These are **mutually exclusive spaces** and neither 24+12 nominal tender planes nor 30+30 nominal carrier planes are actual air groups or additive aircraft production. National IJN air combat inventory unchanged until crew/aircraft transfer orders posted.
+
+
 > **2026-10-11 seaplane engine allocation audit:** [33](33-SEAPLANE-ENGINE-INTEGRATION-E16A-N1K-A6M2N-E15K-M6A-H8K-1943-44-AUDIT.md) partitions the previous contingent A6M2-N/N1K fighter pool, fixes E16A1 Kinsei51/54 vs *proposed later* E16A2 Kinsei62, Kyofu Kasei13/15 vs limited O5 R&D (15–25 O5 engines including tests/spares from existing production), H8K2 4×Kasei22, and specialist M6A Atsuta/E15K Kasei. No additional production allocation or mass E16A/floatfighter readiness was created.
 
 > **Authority:** Relaunch R3 supporting / forward-analysis ledger  
