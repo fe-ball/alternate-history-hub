@@ -1,5 +1,8 @@
 # 発動機転生者
 
+> **LATEST USER-ACCEPTED R3 POLICY (2026-10-13): Option A CLOSED — Chitose and Chiyoda remain in their different 1942 tender/midget-sub configurations, neither converted to CVL in 1943. No automatic 1944 CVL air groups or 1943 seaplane squadron generated.** The user expects the next conversation to resume *without user memory*: READ FIRST [relaunch/37-R3-WATER-AIR-FINAL-HANDOFF-A-CHITOSE-CHIYODA-1943.md](relaunch/37-R3-WATER-AIR-FINAL-HANDOFF-A-CHITOSE-CHIYODA-1943.md), then [relaunch/36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md](relaunch/36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md). NEXT-1: named 1943 Sasebo/Yokosuka yard shifts; NEXT-2: Subaru11→21/22 Type-2 floatfighter qualification; remaining tender losses, float bases, exhaust performance, 1943 Bengal and 1944 carrier deck budgets in #37. Never reopen A without explicit user decision.
+
+
 > **Chitose/Chiyoda June 1942 carrier-conversion pivot, first-state vs midget-sub second-state correction and 1943/44 CVL-vs-seaplane policy:** [relaunch/36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md](relaunch/36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md)
 
 
