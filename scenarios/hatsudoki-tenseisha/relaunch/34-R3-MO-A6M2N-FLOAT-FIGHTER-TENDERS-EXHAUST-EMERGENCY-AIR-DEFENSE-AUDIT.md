@@ -1,5 +1,8 @@
 # 34 — R3二式水戦の既決MO起用・水上機母艦存続・昴/排気推力・緊急迎撃の実務監査
 
+> **2026-10-13 two corrections (CONTROLLING):** In **[36](36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md)** historical detail, **Chitose was not 1941 converted to midget-sub second state**, Chiyoda **was**. Chitose first-state 24/4 DESIGN, Chiyoda second-state 12/2 DESIGN. The user has now adopted **A (CLOSED): neither is CVL-converted in 1943**; older line below claiming both 1941 midget-sub modifications is ERROR and older lines saying 1943 conversion OPEN are SUPERSEDED. 1942 MO Subaru11/1500PS six and provisional outcome remain as before. Details and NEXT issues: **[37](37-R3-WATER-AIR-FINAL-HANDOFF-A-CHITOSE-CHIYODA-1943.md)**.
+
+
 > **2026-10-12 follow-up authoritative synthesis:** [35](35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md) integrates the MO Subaru11/6 Rekata precedent in this audit with 1942H2 newbuild A6M2-N options, Chitose/Chiyoda distinct yards/decision states, waterbase emergency sortie network, Hyūga and Bengal 24/18 coastal numbers. This file supplies detailed recovered evidence, #35 is the consolidated interpretation; no PROVISIONAL battle result became CLOSED.
 
 > **2026-10-12.** Recover original R3 archive, do NOT invent a new MO result or promote existing PROVISIONAL damage figures to CLOSED. **R3 canonical master actor clock: 1942-06-26 ~18:00**; 1943 Bengal and beyond remain forward study.
