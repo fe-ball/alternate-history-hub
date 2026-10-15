@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-10-08"
+updated: "2026-10-15"
 
 scenarios:
   asai:
@@ -89,3 +89,20 @@ scenarios:
     epistemic_rule: "future-knowledge-individual-history-and-chemistry-materials-business-simulation"
     source_import: "all-39-current-claude-project-context-markdown-documents-plus-2026-10-07-aviation-integration-working-discussion"
     source_archive_status: "ui-code-view-text-recovered; sha256-and-git-blob-verified; original-upload-bytes-and-original-zip-not-verified; complete-chat-archive-not-imported"
+
+  zosen-tenseisha:
+    title: "造船転生者"
+    status: active
+    authority_version: "Run 01 - accepted WORKING outline (2026-10-15)"
+    canonical_clock: null
+    clock_state: "no-exact-history-clock; Run 01 company development working through 1935; 1936-1937 preparations are planning only; post-1937 war and contracts unsimulated"
+    frontier: "次回は1935年の大阪・香焼島の船台、起重機、機械工場、鋼板／主機調達と技能構成を監査。A26型2,600GT級の軽荷重量、所要PS、造船工数・船台日数を再計算し、1936～37年の自動溶接・小組立・修繕改造・標準商船のスパートを配分する。1927年香焼島取得契約／価格も未監査。1937年以降の歴史・軍需実績は未確定。"
+    repository: "fe-ball/alternate-history-hub"
+    path: "scenarios/zosen-tenseisha"
+    entrypoint: "scenarios/zosen-tenseisha/README.md"
+    scenario_rules: "scenarios/zosen-tenseisha/SCENARIO-RULES.md"
+    authority_entrypoint: "scenarios/zosen-tenseisha/current/00-SESSION-HANDOFF.md"
+    import_status: "scenarios/zosen-tenseisha/import/IMPORT-STATUS.md"
+    epistemic_rule: "future-knowledge-independent-shipbuilding-industrial-entrepreneur"
+    source_import: "conversation-derived reconstruction through 2026-10-15; shared technology and Run 01 separated; first-run feedback included; no verbatim chat archive"
+    source_archive_status: "Technology candidate ledger v3 exists in ChatGPT Library but workbook binary and full verbatim source chat are not imported"
