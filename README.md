@@ -25,6 +25,7 @@
 | [発動機転生者](scenarios/hatsudoki-tenseisha/README.md) | active | Relaunch R3 | 1942-06-26T18:00:00-10:30 | Enterprise Kwajalein sheltered salvage・Midway radar-assisted base | 6/27–7/3 repair/tow decision → Saratoga/Wasp concentration → Midway maturation |
 | [豊国IF](scenarios/toyokuni-if/README.md) | active | v3＋執筆規律 | 一律の確定時計は未指定 | 派生叙述は1613年まで、提言採否はOPEN | 呂宋統治・後金問題・国内政治 |
 | [樹脂含浸シナリオ](scenarios/resin-impregnation/README.md) | active | Claude現行39文書（2026-10-06回収） | 単一時計は未指定 | 年表・試算と確定進行を分離 | 取り込み完了。次の検討対象はユーザー指定待ち |
+| [造船転生者](scenarios/zosen-tenseisha/README.md) | active | Run 01 accepted WORKING（2026-10-15） | 正確な時計なし・1935年企業基盤が暫定到達点 | 1936–37年準備は計画、以後未実行 | [次回引継ぎ](scenarios/zosen-tenseisha/current/00-SESSION-HANDOFF.md) → A26実設計・工場能力と1937年スパート |
 
 ## 読み方
 
@@ -88,3 +89,7 @@ AIの推論、ユーザー指定、未確定案、superseded事項を可能な�
 
 - [樹脂含浸シナリオ：コンテキスト全39文書](scenarios/resin-impregnation/README.md) — 木材加工・樹脂化学・複合材料の技術経営シミュレーション。元テキスト保全・修正版・監査記録を分離。数値と量産条件等を修正し、未解決事項を明示。
 - 回収範囲・テキスト取得方法・検証上の限界は [取り込み記録](scenarios/resin-impregnation/import/IMPORT-STATUS.md)。
+
+## 造船転生者の新規登録 — 2026-10-15
+
+[共通技術考察](scenarios/zosen-tenseisha/research/TECHNOLOGY-BASELINE.md) と [第一走Run 01](scenarios/zosen-tenseisha/runs/01/RUN-01-1914-1937.md) を分離して収録。[第一走のフィードバック](scenarios/zosen-tenseisha/feedback/RUN-01-FEEDBACK.md) は共通技術側へ戻せる知見・数値監査・未決事項を保存。1937年以降の戦況は未進行。
