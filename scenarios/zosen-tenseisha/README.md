@@ -11,6 +11,7 @@
 5. [恐慌期の取得案](runs/01/ACQUISITIONS-1920-1935.md) — 史実で存在した再編機会と歴史改変上の取得を分離。
 6. [第一走のフィードバック](feedback/RUN-01-FEEDBACK.md) — 再利用可能な教訓・修正・次回のOPEN。
 7. [共通技術ベース](research/TECHNOLOGY-BASELINE.md) / [船型・物流・先行研究](research/SHIP-DESIGN-AND-ROUTES.md) — Run非依存の技術選択肢。
+   - [追加研究：酸素精錬・低窒素鋼・原料ブレンディングと成形性](research/LOW-NITROGEN-STEEL-AND-FORMABILITY.md) — **RESEARCH / PROPOSED**。第一走の確定実装ではない。
 8. [史実アンカー](research/HISTORICAL-ANCHORS.md)、[収録範囲](import/IMPORT-STATUS.md)。
 
 ## 主題
