@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-10-15"
+updated: "2026-10-16"
 
 scenarios:
   asai:
@@ -28,7 +28,7 @@ scenarios:
     authority_version: "Branch B v100"
     canonical_clock: "1944-06-16T14:15"
     clock_state: "canonical-anchor-only; authority-remains-1944-06-16T14:15; saipan-ground-approved-through-1944-06-16-dawn; post-1415-working-not-authority; 10Jun-Marianas-zero-baseline-air-sea-board-selected-working; next-gate-is-11Jun-first-counterstrike-weapons-tactics-reaudit-before-hit-resolution; historical-performance-hit-rate-rollback-prohibited; tf58-asw-meta-reaudit-still-mandatory-before-post1415-promotion; china-1944-05-29_to_06-14-detail-gap"
-    frontier: "FORAGER正本は1944-06-16 14:15据置。次チャットはAUDIT_RESET_2026-09-25/92_NEXT_CHAT_11JUN_FIRST_COUNTERSTRIKE_WEAPONS_TACTICS_REAUDIT_HANDOFF_v001.mdを入口とする。10Jun resident aviation zero-baseline（physical580–700/serviceable500–620/crewed465–575/MR420–520/immediate250–310/fighter MR290–360級）、ISR S/C/R/P/I/D、基地P0–P4、水上航空別防護、Sea Board Bは保持。次は11Jun第一次対艦反撃を判定する前にcurrent50/51/52/53・v099航空/誉・v098 anti-radar/approach doctrine・現行艦隊AA/電子装備・Ni/Cr/Mo等特殊合金の選択配分線を再確認し、Branch機体性能・機銃/機関砲・爆弾/航空魚雷・AAの性能/命中を史実値へ黙って戻さない。直前会話の日本24–34攻撃機+護衛10–14、二実攻撃軸+一情報軸、米/日損失帯は監査前DISCUSSION値であり戦果として固定しない。次回は最新TG観測→再接触→発進基地/兵装/燃料→二実軸+一情報軸geometry→米CAP/CIC/radar/5in-VT/Bofors→release geometry→命中/損傷/帰投までを再演する。海面下/水上時計も並行維持し、11Jun潜水艦attack-quality TF58接触は自動付与しない。TF58全体ASWメタ監査はpost-14:15正本化前の必須gateとして維持"
+    frontier: "FORAGER正本は1944-06-16 14:15据置。最新の会話WORKING再開入口はAUDIT_RESET_2026-09-25/153_NEXT_CHAT_TINIAN_GUNFIRE_SHIP_DAMAGE_OPTICS_SESSION_CLOSE_2026-10-16_v001.md（2026-10-16会話終結）。次はテニアン14–15Junの陸戦・米支援艦艇の砲撃損害と史実照合、レンズ/光学/測量/着弾観測の長距離砲戦利得を検証する。正本昇格の監査入口は引き続きAUDIT_RESET_2026-09-25/92_NEXT_CHAT_11JUN_FIRST_COUNTERSTRIKE_WEAPONS_TACTICS_REAUDIT_HANDOFF_v001.md。10Jun resident aviation zero-baseline（physical580–700/serviceable500–620/crewed465–575/MR420–520/immediate250–310/fighter MR290–360級）、ISR S/C/R/P/I/D、基地P0–P4、水上航空別防護、Sea Board Bは保持。次は11Jun第一次対艦反撃を判定する前にcurrent50/51/52/53・v099航空/誉・v098 anti-radar/approach doctrine・現行艦隊AA/電子装備・Ni/Cr/Mo等特殊合金の選択配分線を再確認し、Branch機体性能・機銃/機関砲・爆弾/航空魚雷・AAの性能/命中を史実値へ黙って戻さない。直前会話の日本24–34攻撃機+護衛10–14、二実攻撃軸+一情報軸、米/日損失帯は監査前DISCUSSION値であり戦果として固定しない。次回は最新TG観測→再接触→発進基地/兵装/燃料→二実軸+一情報軸geometry→米CAP/CIC/radar/5in-VT/Bofors→release geometry→命中/損傷/帰投までを再演する。海面下/水上時計も並行維持し、11Jun潜水艦attack-quality TF58接触は自動付与しない。TF58全体ASWメタ監査はpost-14:15正本化前の必須gateとして維持"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/keisanki-ibun"
     entrypoint: "scenarios/keisanki-ibun/README.md"
