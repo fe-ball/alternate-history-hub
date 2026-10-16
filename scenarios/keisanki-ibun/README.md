@@ -14,6 +14,12 @@ Post-14:15 working syntheses exist, but are **NOT AUTHORITY** and do not advance
 Current frontier: **11-Jun first Japanese anti-carrier counterstrike is the next gate. Before resolving it, re-audit Branch aircraft/weapon/AA performance and tactical research; do not silently restore historical hit rates. Read file 92 first.**
 
 
+## 最新会話の次回WORKING入口（2026-10-16 / 正本ではない）
+
+[2026-10-16 会話終結／次回：テニアン砲戦・米支援艦被害・光学観測の監査](current/V100_ADDENDUM_2026-09-21/04_RESUME/AUDIT_RESET_2026-09-25/153_NEXT_CHAT_TINIAN_GUNFIRE_SHIP_DAMAGE_OPTICS_SESSION_CLOSE_2026-10-16_v001.md) を最初に読む。今回は「要塞化再考＋航空再考＋テニアン再考」の検討を整理して終了した。次回は **14–15 Junのテニアン発砲・米支援艦艇の直撃／至近弾／支援中断／陸戦差** と **レンズ・光学・測量・観測／着弾修正が長距離砲戦に与える利得** の史実・分岐監査から再開する。
+
+6月15日朝のテニアン単独再演とサイパン上陸時の支援負担は既存files151/152にあるが、15日以降の地域統合と20日・25日WORKINGは全台帳が閉じていない。会話で選定した空母7+3+後方群、米CVE出撃配分、20日の空海戦数値は **CONVERSATION WORKING / NOT AUTHORITY**。**正本の1944-06-16 14:15は据置**、正本化には引き続きfile 92/93とTF58 ASWメタ監査が必要。
+
 ## 最新の会話WORKING継続線（2026-10-05 / 正本ではない）
 
 **正本昇格の監査入口は引き続き file 92。会話上の最新WORKING再開入口は file 95。**
