@@ -1,0 +1,12 @@
+id	period	subject	working_status	gate	source
+H7Y-A	1942-02	western_detachment_1_aircraft	PROPOSED	orders_transit_spares_fuel	99
+H7Y-B	1942-04-05	seven_physical_max_if_D06_D07_accepted	CONDITIONAL	water_tests_readiness	95/96/99
+H7Y-C	1942-04-05	Force_A_early_contact	NOT_GRANTED	flight_path_weather_track_radio	99
+E6B-A	1942-03_to_04	China_4_aircraft_evaluation	PROPOSED	service_release_runway_logistics	99
+E6B-B	1942-04-05	Burma_Indian_Ocean_MO_zero	PROPOSED_EXCLUSION	later_theater_gate	99
+TWIN-A	1942-03_to_04	Rabaul_2_to_3_existing_recon_aircraft	PROPOSED	photo_equipment_logistics	99
+TWIN-B	1942-04-05	B2_dedicated_recon_zero	RESEARCH_ONLY	conversion_test	99
+IO-A	1942-04-05	Force_A_existing_contact_1532_local	RETAIN_COMPARATOR	historical_track_C2_audit	19/21/89/99
+MO-A	1942-04-10	Saratoga_old_battle_cancelled	SUPERSEDED	repair_clock	21/99
+MO-B	1942-04-27_to_29	Lexington_search_chain	RETAIN_COMPARATOR	H7Y_serviceability	21/99
+TP-A	next_session	E5_E6_E7_turboprop_product_audit	OPEN_NEXT	BSFC_reducer_propeller_production	99
