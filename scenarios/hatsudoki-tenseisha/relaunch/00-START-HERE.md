@@ -1,5 +1,8 @@
 # 発動機転生者・リランチ正本
 
+> **LATEST HANDOFF — 2026-10-19: [38](38-1943-SUMMER-RAID-THAILAND-ARAKAN-OPERATIONS-HANDOFF-TECH-HISTORY-NEXT.md)**. 1943夏の空母相討ちと米秋季ギルバート延期は既決大筋。翔鶴・CV-10ヨークタウン喪失等はユーザーが**枝として保持したPROVISIONALモデル**で、確定艦別戦果ではない。タイ向け九九戦1942年早期供与、1943年雲南南部牽制、アラカンの陸上主攻＋英前線側背上陸・空母/日向短期集中はPROVISIONAL。**次回は戦役でなく技術史の再監査**から始める。旧[37]の「次回NEXT-1から」の順序指定は[38]により上書き（千歳・千代田A案CLOSED自体は維持）。
+
+
 > **LATEST SESSION CLOSURE — 2026-10-13: USER ADOPTED OPTION A, CLOSED.** 千歳・千代田は**1943年中の軽空母改装を両方とも実施しない**。千歳は第一状態（設計上水上機24・射出機4）、千代田は甲標的母艦化した第二状態（水上機約12・射出機2）を維持。史実6/30の両艦緊急改装命令をR3へ自動転写しない。工廠実配分、1943艦所在/被害、1944以降改装、搭載機配分は依然OPEN。**次チャットの再開は先に [37](37-R3-WATER-AIR-FINAL-HANDOFF-A-CHITOSE-CHIYODA-1943.md) を読んでNEXT-1（工廠/艦務）→NEXT-2（二式水戦開発時計）へ。ユーザーにAかBかを再質問しない。** [36](36-CHITOSE-CHIYODA-JUNE1942-CVL-CONVERSION-STRATEGY-AND-SEAPLANE-STATUS-AUDIT.md) / [35](35-R3-SEAPLANE-SYSTEM-CONSOLIDATED-1942-MO-1943-TENDERS-ENGINES-BENGAL.md)
 
 
@@ -221,6 +224,10 @@ PROVISIONAL discussion results:
 ### 30 — Chittagong上陸目標・上陸地点数・英国航空拠点数の再定義
 
 - [30](30-CHITTAGONG-1943-OBJECTIVES-BEACHHEAD-COUNT-AIRFIELD-NODES-REAPPRAISAL.md): 鉄道襲撃G1、鉄道＋道路の**持続遮断G2**、英XV軍団の防御破綻G3、Chittagong市街港湾占領G4を分ける。**一個の連続橋頭堡でも海岸荷役・輸送回廊・北南警戒が別の任務**。大発36隻を24/12に分割すると初波の兵員艇15/7隻の場合は1,050/490人に過ぎず、二正面維持には貧弱。RAF第224群の5つの配置行は**5飛行場ではなく地域区分**（Double Moorings、Lalmai、Parashuramなど別）と訂正。P2一点集中の持続遮断を主たる試験案にするが、実行と結果はOPEN。
+
+### 38 — 1943夏空母相討ち枝／タイ航空供与・雲南牽制／アラカン投入法；技術史へ移行
+
+- **[38](38-1943-SUMMER-RAID-THAILAND-ARAKAN-OPERATIONS-HANDOFF-TECH-HISTORY-NEXT.md)**: 今回会話で検討した各枝を状態別に引継ぎ。夏の米艦隊レイドと秋ギルバート延期の既決大筋、未確定の翔鶴/ヨークタウン等艦別被害案、九九戦の1942年タイ供与案、雲南国境の局地戦・相互牽制、1943冬季アラカンの陸上主攻＋短期集中海上支援と24艇例示の物理勘定を保存。**次回は技術史（発動機・航空機開発史ほか）を優先**、戦役経過の裁定は一時保留。旧[37]は水上航空とA案の詳細正本として維持。
 
 ## 現在の読み順
 
