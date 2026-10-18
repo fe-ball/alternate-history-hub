@@ -1057,3 +1057,25 @@ Then:
 
 Downstream repair remains:
 Enterprise -> Wake/Saratoga -> Feb20 check -> Apr5 Force A -> Apr9 Yorktown -> Apr29 -> Zuikaku/MI OOB -> MI replay.
+
+---
+
+# 2026-10-19 session close — H7Y / E6-B / reconnaissance Twin theater audit; TP next
+
+**NEW WORKING FILES (not V26 canon):**
+- `records/V26/99-POST-V26-INDIAN-OCEAN-MO-H7Y-E6B-TWIN-DEPLOYMENT-WORKING-HANDOFF-2026-10-19.md`
+- `records/V26/100-POST-V26-2026-10-19-H7Y-E6B-TWIN-DEPLOYMENT-WORKING-REGISTER.tsv`
+
+**Authority guard:** V26 remains canonical; clock remains 1941-12-07 14:30 HST. This session integrated discussion-stage 1942 theater-allocation proposals into POST-V26 WORKING; it did not canonize orders, serviceability, historical verification, contacts, or battle results. Historical Deep Research was requested but its source-by-source final findings were not independently incorporated here.
+
+**New provisional February 1942 orders:** one H7Y-D to western Indian Ocean staging (Penang/Sabang rear, Port Blair only conditionally); four E6-B factory-evaluation aircraft toward Army China operational evaluation; two or three *existing* Navy E6 Twin reconnaissance fits toward Truk/Rabaul. Dedicated long-fuel photo-recon Twin B2: zero deployed by Apr 5. E6-B: zero Burma/Indian Ocean/MO Apr 5. These are allocations to test, not certified arrivals or sorties.
+
+**H7Y inventory guard:** five physical D01-D05 by end-1941, approximately three mission-ready and two extreme-range ready; D06 Feb, D07 Mar, D08 Apr are acceptance *plans*, D09 Apr favorable only. Thus Apr 5 max seven physical if Feb/Mar acceptances passed; Apr 30 central eight, favorable nine. Serial Dxx must not be confused with mission callsigns D1/D2. Do not count aircraft as ready simply because they are physically built.
+
+**Indian Ocean:** no automatic H7Y early contact with Somerville's Force A. Existing Apr 5 ~15:32 B5N contact remains provisional center; compare no sortie/no contact/credible earlier contact only after weather, patrol route, British track, time zones, Port Blair service release, radio and British counterreaction. Apr 5 fighter/C2 re-audit remains OPEN.
+
+**MO:** Apr 9 Yorktown H6K/H7Y contact and Apr 27-29 Lexington H7Y/H6K contact are inherited working comparators, subject to airframe availability and combat C2 re-audit. Apr 10 Saratoga/CarDiv5 exchange is SUPERSEDED by V26:21. No teleportation of April factory aircraft to front.
+
+**CURRENT NEXT — NEW CHAT:** TP (turboprop/shaft products) is the next unfinished technical subject. Start with E5/E6/E7 shaft-product performance, BSFC and reducer/propeller/qualification; then Ki-40 TP high-altitude reconnaissance, D4Y/B6N carrier TP selection, H7Y diesel-versus-TP, AT-3 transport and industrial/OOB reconciliation. Read V10 `ASAI-E7-TURBOPROP-SHAFT-PRODUCT-PREWAR-OUTLOOK-1940-1942-V1.md`, `ASAI-NAVY-CARRIER-TP-APPLICATION-SPLIT-D4Y-B6N-1941-1942-V1.md`, V11 E6B/STOL/TPRECON closeout, and V26:95 before creating new claims.
+
+**Navigation precedence:** This 2026-10-19 close is the current next-session pointer. Earlier `CURRENT NEXT` blocks in this append-only handoff remain historical session markers, not today's next task.
