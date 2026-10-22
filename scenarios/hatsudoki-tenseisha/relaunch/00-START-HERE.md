@@ -1,5 +1,8 @@
 # 発動機転生者・リランチ正本
 
+> **NEW TECHNOLOGY-HISTORY AUDIT (branch-only candidate, 2026-10-22):** [39 — 航空機開発史の統合](39-R3-AIRCRAFT-TECH-CANONICAL-CROSSWALK-1934-1943.md) / [40 — 九九艦爆の370kg・五〇番・真珠湾認定](40-R3-D3A-50BAN-BOMBLOAD-PEARL-1941-GATES.md) / [41 — 中国戦線・真珠湾・1942海戦への接続](41-R3-CHINA-PEARL-AIRCRAFT-IMPACT-BRIDGE-1937-1942.md)。この参照は `audit/r3-aircraft-tech-canonical-rebase-2026-10-22` ブランチの**新正本候補**であり、**既存CLOSEDの戦果・攻撃編成・1943方針を自動変更しない**。五〇番D3Aの設計・弾種・1941実運用はOPEN、研究案はPROVISIONAL。レビュー・明示承認・マージまでmainの既存正本が優先。
+
+
 > **LATEST HANDOFF — 2026-10-19: [38](38-1943-SUMMER-RAID-THAILAND-ARAKAN-OPERATIONS-HANDOFF-TECH-HISTORY-NEXT.md)**. 1943夏の空母相討ちと米秋季ギルバート延期は既決大筋。翔鶴・CV-10ヨークタウン喪失等はユーザーが**枝として保持したPROVISIONALモデル**で、確定艦別戦果ではない。タイ向け九九戦1942年早期供与、1943年雲南南部牽制、アラカンの陸上主攻＋英前線側背上陸・空母/日向短期集中はPROVISIONAL。**次回は戦役でなく技術史の再監査**から始める。旧[37]の「次回NEXT-1から」の順序指定は[38]により上書き（千歳・千代田A案CLOSED自体は維持）。
 
 
