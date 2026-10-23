@@ -1,0 +1,6 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: tinian_day15_scenarios.csv>
+index,scenario,overlap,replacement,beach_fraction,beach_impairment,T2T3_min,same_day_recovery,dd_direct_hit_unfit_min,dd_doublecount_overlap,extra_window_min,full_front_benchmark_persons_per_min,unreplaced_heavy_ship_min,unreplaced_dd_ship_min,gross_ship_min,dd_conditional_independent_damage_min,dd_total_burden_no_doublecount,landing_flow_temporary_queue_person_equiv,landing_flow_recovered_same_day_person_equiv,landing_flow_unrecovered_that_day_person_equiv,relief_candidate_extra_unloading_person_equiv,relief_candidate_extra_unloading_t_equiv,relief_actual_additional_personnel,relief_actual_additional_t,ship_kills,marines_casualties
+0,low,0.25,0.75,0.1,0.25,15.0,1.0,20.0,15.0,0.0,34.129692832764505,2.1875,5.0,115.0,5.0,85.0,12.798634812286693,12.798634812286693,0.0,0.0,0.0,UNRESOLVED,UNRESOLVED,UNRESOLVED,UNRESOLVED
+1,center,0.5,0.5,0.2,0.5,25.0,0.75,60.0,20.0,10.0,34.129692832764505,8.75,20.0,115.0,40.0,120.0,85.32423208191126,63.99317406143345,21.331058020477816,24.583333333333336,15.0,UNRESOLVED,UNRESOLVED,UNRESOLVED,UNRESOLVED
+2,high,0.8,0.25,0.3,0.75,35.0,0.5,120.0,25.0,20.0,34.129692832764505,21.0,48.0,115.0,95.0,175.0,268.77133105802045,134.38566552901025,134.38566552901025,49.16666666666667,30.0,UNRESOLVED,UNRESOLVED,UNRESOLVED,UNRESOLVED

@@ -1,0 +1,14 @@
+date,time,asset,location,source,observed,attribution,delta_B_new
+1944-06-14,day,California BB-44 / Braine DD-630 / Cleveland CL-55,Tinian fire support area,Repo 150 and USN histories,"California/Braine hit, Cleveland straddled (historical calibration)",TINIAN HISTORICAL,"NO: baseline historical event, must not count again"
+1944-06-15,D-Day,Tennessee BB-43,Southern Saipan support under Tinian fire,Repo 133/151 and USN DANFS Tennessee,"Three hits, 8 KIA and 25 WIA (historical); support continued",TINIAN HISTORICAL,NO: historical already present; branch candidate extra localized effects pending
+1944-06-16,not established,US fire support vessels unspecified,Southern Saipan/Tinian,"Repo 151, 153",Regular naval support; no named Tinian hit verified,EXPOSURE CANDIDATE,NO ACTUAL HIT BOOKED
+1944-06-17,not established,US fire support vessels unspecified,Southern Saipan/Tinian,"Repo 151, 153",Regular naval support; no named Tinian hit verified,EXPOSURE CANDIDATE,NO ACTUAL HIT BOOKED
+1944-06-18,05:39,Phelps DD-360,Saipan WEST shore south of Garapan,USN damage report and Phelps action report,"Two hits, one fireroom unfit; Saipan origin","SAIPAN, NOT TINIAN",EXCLUDE
+1944-06-18,18:01,"Waller DD-466, Pringle DD-477","Magicienne Bay, Saipan EAST",USN DANFS Waller,Saipan Japanese shore guns opened fire; maneuver/withdrawal,"SAIPAN, NOT TINIAN",EXCLUDE
+1944-06-19,early morning,Pringle DD-477,"Magicienne Bay, Saipan EAST",USN DANFS Pringle,"Came under shore fire; moved out of range, not hit","SAIPAN, NOT TINIAN",EXCLUDE
+1944-06-20,evening,Pringle DD-477 -> Renshaw DD-499,Magicienne Bay fire support station,USN DANFS Pringle,Relieved on station; no Tinian encounter recorded in this entry,US SUPPORT TRANSFER (not Tinian hit),NO HIT BOOKED
+1944-06-20,day,"Battery B, 531st FA / Tinian batteries",Saipan artillery to Tinian,USMC Seizure of Tinian,"US 155-mm shelling of Tinian starts, continuing baseline pressure",US FIRE ON TINIAN,"APPLY TO TINIAN PHYSICAL/SUPPRESSION LOSS, no phantom US casualty"
+1944-06-21,while under repair,Phelps DD-360,Saipan,USN wartime damage summary,Two small caliber hits from Japanese small craft during repairs; negligible damage,"SAIPAN SMALL CRAFT, NOT TINIAN",EXCLUDE
+1944-06-22,day/night,Pringle DD-477,"Special fire support mission, station unresolved",USN DANFS Pringle,22–23 Jun special fire-support mission recorded; not a Tinian hit,US SUPPORT CONTEXT,NO HIT BOOKED
+1944-06-23,day/night,Pringle DD-477,"Special fire support mission, station unresolved",USN DANFS Pringle,22–23 Jun special fire-support mission recorded; not a Tinian hit,US SUPPORT CONTEXT,NO HIT BOOKED
+1944-06-24,day,531st FA remaining Batteries A/C,Saipan artillery to Tinian,USMC Seizure of Tinian,Two additional 155-mm batteries turn to Tinian; total direct artillery component ~3x B-only,US FIRE ON TINIAN,APPLY STRONGER BASELINE FIRE TO JAPAN; not all US fire tripled

@@ -1,0 +1,4 @@
+event,period,start_min,active_min,heavy_ship_min,dd_ship_min,post_first_landing,description
+T1,08:20-08:32 (example),500,12.0,12.0,24.0,False,near H-hour ship/assault approach; do not count beach personnel flow before H
+T2,09:20-09:35 (example),560,15.0,15.0,36.0,True,postlanding support/boat congestion
+T3,11:05-11:15 (example),665,10.0,8.0,20.0,True,late morning reappearance
