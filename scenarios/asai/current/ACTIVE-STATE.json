@@ -474,6 +474,30 @@
     },
     "V26:94": {
       "path": "records/V26/94-POST-V26-ENTERPRISE-RESTART-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+    },
+    "V26:95": {
+      "path": "records/V26/95-POST-V26-H7Y-D-PREWAR-PROCUREMENT-ENGINE-PRODUCTION-CLOSE-2026-10-09.md",
+      "blob_sha": "552dcdc97150ba6f47fd87121dd59d07ae18ee72"
+    },
+    "V26:96": {
+      "path": "records/V26/96-POST-V26-H7Y-D-ENGINE-AIRFRAME-ACCEPTANCE-LEDGER-2026-10-09.tsv",
+      "blob_sha": "ce85e7028240ca9f7a872f47a66ade5f87360c25"
+    },
+    "V26:97": {
+      "path": "records/V26/97-POST-V26-2026-10-09-ENTERPRISE-FORCEZ-WAKE-H7Y-WORKING-HANDOFF.md",
+      "blob_sha": "d9502235d651208e4eee0ea17427d5bef2408b46"
+    },
+    "V26:98": {
+      "path": "records/V26/98-POST-V26-2026-10-09-WORKING-CANONIZATION-REGISTER.tsv",
+      "blob_sha": "0e2ed10475803a6737892054bfa6eddce4356208"
+    },
+    "V26:99": {
+      "path": "records/V26/99-POST-V26-INDIAN-OCEAN-MO-H7Y-E6B-TWIN-DEPLOYMENT-WORKING-HANDOFF-2026-10-19.md",
+      "blob_sha": "8bb539afd977000af0a4cc1ce4e90e9caf8c0352"
+    },
+    "V26:100": {
+      "path": "records/V26/100-POST-V26-2026-10-19-H7Y-E6B-TWIN-DEPLOYMENT-WORKING-REGISTER.tsv",
+      "blob_sha": "e62eac26a4fd9c5bcd6c784826c5a5e96314f4da"
     }
   },
   "lineage_sources": [
@@ -482,7 +506,7 @@
   ],
   "source_routes": "navigation/SOURCE-ROUTES.json",
   "verified_source_commit": "75a45b79ed79d378276311469de91bc646c8d7c2",
-  "freshness_rule": "Compare same-axis handoffs/registers/checkpoints/progress and tree inventory. New or changed sources require review and manifest update; neither this pointer nor file mtime wins over contradictory explicit branch evidence.",
+  "freshness_rule": "Compare same-axis handoffs/registers/checkpoints/progress and tree inventory. New or changed sources require review and manifest update; neither this pointer nor file mtime wins over contradictory explicit branch evidence. The newly indexed V26:95-100 and branch sources are a 2026-10-23 addendum; do not confuse older verified_source_commit with latest branch source snapshot. Read the selected branch records from main.",
   "default_search_scope": [
     "current/active",
     "records/V26",
@@ -527,5 +551,32 @@
       "branches/indian-ocean-recon-2026-10-22/03-DECISION-REGISTER.tsv",
       "branches/indian-ocean-recon-2026-10-22/01-AIRCRAFT-AND-PROCUREMENT-2026-10-22.md"
     ]
+  },
+  "active_branch_sources": {
+    "00-SESSION-HANDOFF.md": {
+      "path": "branches/indian-ocean-recon-2026-10-22/00-SESSION-HANDOFF.md",
+      "blob_sha": "a06555ce74cc6db99614f1a282f1690d97828f9b",
+      "status": "BRANCH-LOCAL-WORKING-NOT-CANON"
+    },
+    "01-AIRCRAFT-AND-PROCUREMENT-2026-10-22.md": {
+      "path": "branches/indian-ocean-recon-2026-10-22/01-AIRCRAFT-AND-PROCUREMENT-2026-10-22.md",
+      "blob_sha": "68b0e475d6535663806c0b948539aa7340218a09",
+      "status": "BRANCH-LOCAL-WORKING-NOT-CANON"
+    },
+    "02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md": {
+      "path": "branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md",
+      "blob_sha": "a59d289b2863a0f55226851257b47404d9faa459",
+      "status": "BRANCH-LOCAL-WORKING-NOT-CANON"
+    },
+    "03-DECISION-REGISTER.tsv": {
+      "path": "branches/indian-ocean-recon-2026-10-22/03-DECISION-REGISTER.tsv",
+      "blob_sha": "a6fb55833dd062234ce7b06865487b07bac6701a",
+      "status": "BRANCH-LOCAL-WORKING-NOT-CANON"
+    },
+    "README.md": {
+      "path": "branches/indian-ocean-recon-2026-10-22/README.md",
+      "blob_sha": "7eaaa5a715b7a348b5be964c501721c16576c139",
+      "status": "BRANCH-LOCAL-WORKING-NOT-CANON"
+    }
   }
 }
