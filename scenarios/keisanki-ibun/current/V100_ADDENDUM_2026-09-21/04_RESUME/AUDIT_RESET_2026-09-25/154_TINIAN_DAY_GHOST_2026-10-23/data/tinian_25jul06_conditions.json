@@ -1,0 +1,284 @@
+{
+  "description": "Diagnostic fixed-US daily ghost extension 25 Jun–6 July. Every rate / opportunity fractional weight is hypothetical and sensitive.",
+  "source": "tinian_16_24_ghost_assumptions.json and historical Navy records",
+  "note": "Gross B naval shots include prior Tinian fire; B-A is incremental vs controlled weak-recovery model, NOT fully reconstructed prior scenario.",
+  "post24_dates": [
+    [
+      "1944-06-25",
+      0.64,
+      0.57,
+      2.17,
+      "Bancroft after arrival: night illumination/harassing Tinian Town/harbor; no Japanese hit established",
+      1.22,
+      1
+    ],
+    [
+      "1944-06-26",
+      0.82,
+      0.54,
+      2.65,
+      "Bancroft close shore; Birmingham+3 DD bombard town/harbor; five sampans historically lost, not carried to fork",
+      1.65,
+      1
+    ],
+    [
+      "1944-06-27",
+      0.74,
+      0.53,
+      2.6,
+      "Birmingham group bombardment after rearm; Town/harbor main suppression zone",
+      1.62,
+      1
+    ],
+    [
+      "1944-06-28",
+      0.57,
+      0.54,
+      2.2,
+      "Tinian bombardment continues; named cruiser contact not independently proven for date",
+      1.0,
+      0
+    ],
+    [
+      "1944-06-29",
+      0.57,
+      0.54,
+      2.2,
+      "155mm baseline; no dated new Tinian naval gun salvo established",
+      1.0,
+      0
+    ],
+    [
+      "1944-06-30",
+      0.55,
+      0.55,
+      2.23,
+      "155mm baseline; continuing shore support elsewhere",
+      1.0,
+      0
+    ],
+    [
+      "1944-07-01",
+      0.56,
+      0.56,
+      2.2,
+      "Birmingham historically at Garapan/Saipan, not a confirmed Tinian-target contact",
+      1.0,
+      0
+    ],
+    [
+      "1944-07-02",
+      0.53,
+      0.55,
+      2.23,
+      "US shore/naval fire continued; named contact unverified",
+      1.0,
+      0
+    ],
+    [
+      "1944-07-03",
+      0.52,
+      0.51,
+      2.25,
+      "155mm/shore+naval pressure illustrative",
+      1.0,
+      0
+    ],
+    [
+      "1944-07-04",
+      0.54,
+      0.54,
+      2.28,
+      "Aslito/Tinian threat; source-identified target and specific round counts unavailable",
+      1.0,
+      0
+    ],
+    [
+      "1944-07-05",
+      0.56,
+      0.56,
+      2.3,
+      "Birmingham at Saipan tank-support, do not duplicate as Tinian close mission",
+      1.0,
+      0
+    ],
+    [
+      "1944-07-06",
+      0.82,
+      0.55,
+      2.75,
+      "Birmingham fires at Tinian throughout day; Saipan final-operation remains prior-branch only",
+      1.35,
+      1
+    ]
+  ],
+  "scenario_sensitivity": {
+    "soft": {
+      "local_strike": 0.8,
+      "contact": 0.6
+    },
+    "central": {
+      "local_strike": 1.0,
+      "contact": 1.0
+    },
+    "severe": {
+      "local_strike": 1.25,
+      "contact": 1.15
+    }
+  },
+  "results": [
+    {
+      "stock_scenario": "tight",
+      "visibility_sensitivity": "soft",
+      "A_total_rounds": 46.68088536663171,
+      "B_total_rounds": 91.0583658273344,
+      "delta_total_rounds": 44.37748046070268,
+      "delta_sea_rounds": 31.1189651877715,
+      "delta_land_rounds": 13.258515272931177,
+      "B_named_event_town_6inch_fire_opportunity": 5.223876329018927,
+      "B_named_event_town_6inch_shots_if_half_exposure": 2.6119381645094637,
+      "B_ready_7Jul_am": 14.948661723190336,
+      "B_physical_7Jul_am": 18.219352575342977,
+      "B_ammo_rem_7Jul_am": 109.63844831076995,
+      "B_6inch_stock_7Jul_am": 7.661472448409592,
+      "B_140stock_7Jul_am": 0.0,
+      "B_120stock_7Jul_am": 25.272215825187168
+    },
+    {
+      "stock_scenario": "tight",
+      "visibility_sensitivity": "central",
+      "A_total_rounds": 69.48081754636111,
+      "B_total_rounds": 132.9390787169734,
+      "delta_total_rounds": 63.45826117061229,
+      "delta_sea_rounds": 50.19974589768111,
+      "delta_land_rounds": 13.258515272931177,
+      "B_named_event_town_6inch_fire_opportunity": 7.39097946045117,
+      "B_named_event_town_6inch_shots_if_half_exposure": 3.695489730225585,
+      "B_ready_7Jul_am": 14.880640774281986,
+      "B_physical_7Jul_am": 18.17645342426806,
+      "B_ammo_rem_7Jul_am": 67.75773542113092,
+      "B_6inch_stock_7Jul_am": 0.0,
+      "B_140stock_7Jul_am": 0.0,
+      "B_120stock_7Jul_am": 1.0053498779715537
+    },
+    {
+      "stock_scenario": "tight",
+      "visibility_sensitivity": "severe",
+      "A_total_rounds": 75.12176300157152,
+      "B_total_rounds": 137.67656903020017,
+      "delta_total_rounds": 62.55480602862864,
+      "delta_sea_rounds": 49.995896621436835,
+      "delta_land_rounds": 12.55890940719181,
+      "B_named_event_town_6inch_fire_opportunity": 6.816380135250913,
+      "B_named_event_town_6inch_shots_if_half_exposure": 3.4081900676254566,
+      "B_ready_7Jul_am": 14.796936929434676,
+      "B_physical_7Jul_am": 18.12333846808842,
+      "B_ammo_rem_7Jul_am": 63.02024510790422,
+      "B_6inch_stock_7Jul_am": 0.0,
+      "B_140stock_7Jul_am": 0.0,
+      "B_120stock_7Jul_am": -1.1102230246251565e-16
+    },
+    {
+      "stock_scenario": "center",
+      "visibility_sensitivity": "soft",
+      "A_total_rounds": 46.68088536663171,
+      "B_total_rounds": 156.42385036732216,
+      "delta_total_rounds": 109.74296500069043,
+      "delta_sea_rounds": 81.69512231369481,
+      "delta_land_rounds": 28.047842686995615,
+      "B_named_event_town_6inch_fire_opportunity": 5.223876329018927,
+      "B_named_event_town_6inch_shots_if_half_exposure": 2.6119381645094637,
+      "B_ready_7Jul_am": 14.948661723190336,
+      "B_physical_7Jul_am": 18.219352575342977,
+      "B_ammo_rem_7Jul_am": 844.2414858959845,
+      "B_6inch_stock_7Jul_am": 107.66147244840961,
+      "B_140stock_7Jul_am": 134.6030375852145,
+      "B_120stock_7Jul_am": 335.27221582518723
+    },
+    {
+      "stock_scenario": "center",
+      "visibility_sensitivity": "central",
+      "A_total_rounds": 69.48081754636111,
+      "B_total_rounds": 232.8690021384692,
+      "delta_total_rounds": 163.3881845921081,
+      "delta_sea_rounds": 135.3403419051125,
+      "delta_land_rounds": 28.047842686995615,
+      "B_named_event_town_6inch_fire_opportunity": 8.237980258010335,
+      "B_named_event_town_6inch_shots_if_half_exposure": 4.118990129005168,
+      "B_ready_7Jul_am": 14.880640774281986,
+      "B_physical_7Jul_am": 18.17645342426806,
+      "B_ammo_rem_7Jul_am": 767.7963341248375,
+      "B_6inch_stock_7Jul_am": 99.15299920244082,
+      "B_140stock_7Jul_am": 100.8855995012656,
+      "B_120stock_7Jul_am": 311.00534987797175
+    },
+    {
+      "stock_scenario": "center",
+      "visibility_sensitivity": "severe",
+      "A_total_rounds": 77.67536531079838,
+      "B_total_rounds": 260.2205687680053,
+      "delta_total_rounds": 182.54520345720692,
+      "delta_sea_rounds": 154.49736077021132,
+      "delta_land_rounds": 28.047842686995615,
+      "B_named_event_town_6inch_fire_opportunity": 8.81601868261919,
+      "B_named_event_town_6inch_shots_if_half_exposure": 4.408009341309595,
+      "B_ready_7Jul_am": 14.796936929434676,
+      "B_physical_7Jul_am": 18.12333846808842,
+      "B_ammo_rem_7Jul_am": 740.4447674953012,
+      "B_6inch_stock_7Jul_am": 96.73074818687765,
+      "B_140stock_7Jul_am": 88.24156021978477,
+      "B_120stock_7Jul_am": 302.4522139807345
+    },
+    {
+      "stock_scenario": "deep",
+      "visibility_sensitivity": "soft",
+      "A_total_rounds": 46.68088536663171,
+      "B_total_rounds": 156.42385036732216,
+      "delta_total_rounds": 109.74296500069043,
+      "delta_sea_rounds": 81.69512231369481,
+      "delta_land_rounds": 28.047842686995615,
+      "B_named_event_town_6inch_fire_opportunity": 5.223876329018927,
+      "B_named_event_town_6inch_shots_if_half_exposure": 2.6119381645094637,
+      "B_ready_7Jul_am": 14.948661723190336,
+      "B_physical_7Jul_am": 18.219352575342977,
+      "B_ammo_rem_7Jul_am": 2604.241485895984,
+      "B_6inch_stock_7Jul_am": 282.6614724484095,
+      "B_140stock_7Jul_am": 554.6030375852143,
+      "B_120stock_7Jul_am": 995.272215825187
+    },
+    {
+      "stock_scenario": "deep",
+      "visibility_sensitivity": "central",
+      "A_total_rounds": 69.48081754636111,
+      "B_total_rounds": 232.8690021384692,
+      "delta_total_rounds": 163.3881845921081,
+      "delta_sea_rounds": 135.3403419051125,
+      "delta_land_rounds": 28.047842686995615,
+      "B_named_event_town_6inch_fire_opportunity": 8.237980258010335,
+      "B_named_event_town_6inch_shots_if_half_exposure": 4.118990129005168,
+      "B_ready_7Jul_am": 14.880640774281986,
+      "B_physical_7Jul_am": 18.17645342426806,
+      "B_ammo_rem_7Jul_am": 2527.7963341248374,
+      "B_6inch_stock_7Jul_am": 274.1529992024408,
+      "B_140stock_7Jul_am": 520.8855995012657,
+      "B_120stock_7Jul_am": 971.0053498779714
+    },
+    {
+      "stock_scenario": "deep",
+      "visibility_sensitivity": "severe",
+      "A_total_rounds": 77.67536531079838,
+      "B_total_rounds": 260.2205687680053,
+      "delta_total_rounds": 182.54520345720692,
+      "delta_sea_rounds": 154.49736077021132,
+      "delta_land_rounds": 28.047842686995615,
+      "B_named_event_town_6inch_fire_opportunity": 8.81601868261919,
+      "B_named_event_town_6inch_shots_if_half_exposure": 4.408009341309595,
+      "B_ready_7Jul_am": 14.796936929434676,
+      "B_physical_7Jul_am": 18.12333846808842,
+      "B_ammo_rem_7Jul_am": 2500.4447674953008,
+      "B_6inch_stock_7Jul_am": 271.73074818687763,
+      "B_140stock_7Jul_am": 508.24156021978496,
+      "B_120stock_7Jul_am": 962.4522139807344
+    }
+  ]
+}

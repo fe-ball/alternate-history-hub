@@ -1,5 +1,8 @@
 # 154 — テニアン再考／日内幽霊ルール・会話全体のGitHub編入
 
+> **次回の最初の入口:** [155_NEXT_CHAT・2026-10-23保存完全性再点検](155_NEXT_CHAT_TINIAN_DAY_GHOST_POST_ARCHIVE_AUDIT_2026-10-23_v001.md)。[GitHub単独での再計算手順](154_TINIAN_DAY_GHOST_2026-10-23/data/REPRODUCE.md)・[実行器](154_TINIAN_DAY_GHOST_2026-10-23/data/reproduce_all.py)を追加。初版で欠けていた再計算コード6件の追加と、15日シナリオCSV形式修正済み。
+
+
 **記録日: 2026-10-23 / STATUS: WORKING ARCHIVE; NOT AUTHORITY; NO CLOCK ADVANCE.**
 **正本時刻: 1944-06-16 14:15（変更なし）**。本編入による新しい撃沈・死傷・日本軍の輸送成功・サイパン地上戦の変更を正本認定しない。
 

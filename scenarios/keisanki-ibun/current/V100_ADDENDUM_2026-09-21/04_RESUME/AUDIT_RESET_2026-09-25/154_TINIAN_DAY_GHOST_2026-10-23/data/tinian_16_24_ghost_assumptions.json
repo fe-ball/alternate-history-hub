@@ -1,0 +1,234 @@
+{
+  "purpose": "Conditional potential accounting only, not historical adjudication",
+  "sources": [
+    "repo 133/134/138/150/151/153",
+    "USN DANFS Waller and Pringle",
+    "USN war damage Phelps",
+    "USMC 531st 20/24 Jun"
+  ],
+  "gun_groups": [
+    {
+      "name": "Ushi 140",
+      "category": "140mm",
+      "phys": 2.5,
+      "ready": 1.5,
+      "nav_arc": 1.0,
+      "ground_arc": 0.8,
+      "shot_rate": 5.2
+    },
+    {
+      "name": "Faibus 140",
+      "category": "140mm",
+      "phys": 2.5,
+      "ready": 1.5,
+      "nav_arc": 0.7,
+      "ground_arc": 0.28,
+      "shot_rate": 5.2
+    },
+    {
+      "name": "Asiga 140",
+      "category": "140mm",
+      "phys": 4.0,
+      "ready": 2.0,
+      "nav_arc": 0.55,
+      "ground_arc": 0.15,
+      "shot_rate": 5.2
+    },
+    {
+      "name": "Ushi 120 DP",
+      "category": "120mm",
+      "phys": 2.5,
+      "ready": 1.8,
+      "nav_arc": 0.9,
+      "ground_arc": 0.75,
+      "shot_rate": 7.0
+    },
+    {
+      "name": "Other 120 DP",
+      "category": "120mm",
+      "phys": 5.5,
+      "ready": 4.2,
+      "nav_arc": 0.25,
+      "ground_arc": 0.05,
+      "shot_rate": 7.0
+    },
+    {
+      "name": "Tinian Town 6in",
+      "category": "6inch",
+      "phys": 3.0,
+      "ready": 2.0,
+      "nav_arc": 0.85,
+      "ground_arc": 0.0,
+      "shot_rate": 4.0
+    },
+    {
+      "name": "Mobile 75",
+      "category": "75mm",
+      "phys": 10.0,
+      "ready": 6.5,
+      "nav_arc": 0.18,
+      "ground_arc": 0.26,
+      "shot_rate": 5.5
+    }
+  ],
+  "stocks_post15_UNVERIFIED": {
+    "tight": {
+      "140mm": 110,
+      "120mm": 180,
+      "6inch": 55,
+      "75mm": 155
+    },
+    "center": {
+      "140mm": 330,
+      "120mm": 490,
+      "6inch": 155,
+      "75mm": 345
+    },
+    "deep": {
+      "140mm": 750,
+      "120mm": 1150,
+      "6inch": 330,
+      "75mm": 850
+    }
+  },
+  "systems": {
+    "A-weak-recovery": {
+      "perm": 0.021,
+      "temp": 0.3,
+      "recover": 0.38
+    },
+    "B-fortified": {
+      "perm": 0.012,
+      "temp": 0.19,
+      "recover": 0.72
+    }
+  },
+  "days": [
+    [
+      "1944-06-16",
+      0.85,
+      0.75,
+      0.93,
+      "After landing; NGFS continued; no named verified Tinian-to-US hull engagement"
+    ],
+    [
+      "1944-06-17",
+      0.82,
+      0.79,
+      1.0,
+      "Landing support and screening; no timed identified Tinian naval target"
+    ],
+    [
+      "1944-06-18",
+      0.78,
+      0.78,
+      1.04,
+      "Waller/Pringle east Saipan and Phelps west Saipan: NOT Tinian engagements"
+    ],
+    [
+      "1944-06-19",
+      0.78,
+      0.8,
+      1.1,
+      "Pringle attacked by Saipan east-shore fire; NOT Tinian"
+    ],
+    [
+      "1944-06-20",
+      0.72,
+      0.78,
+      1.4,
+      "US 531st Battery B starts Tinian 155-mm shelling; shore relief event remains conditional"
+    ],
+    [
+      "1944-06-21",
+      0.68,
+      0.73,
+      1.45,
+      "Existing US 155-mm counterbattery only; not all 531st batteries"
+    ],
+    [
+      "1944-06-22",
+      0.64,
+      0.66,
+      1.53,
+      "US ground guns/NGFS present; 531st B remains the known anti-Tinian Bty"
+    ],
+    [
+      "1944-06-23",
+      0.6,
+      0.64,
+      1.6,
+      "No sourced fixed Bty reenforcement before 24 Jun"
+    ],
+    [
+      "1944-06-24",
+      0.55,
+      0.58,
+      2.14,
+      "Other two 531st batteries turned to Tinian, tripled artillery component"
+    ]
+  ],
+  "benchmark": {
+    "dday_tinian_B_total_batt_minutes": 37,
+    "dday_us_bb_ship_minutes": 35,
+    "dday_us_dd_ship_minutes": 80,
+    "rounds_per_firing_min_assumed": 2.2,
+    "within_day_contact_overlap_if_unconfirmed": 0.4,
+    "within_day_replacement_fraction_assumed": 0.5
+  },
+  "target_share_naval": 0.72,
+  "naval_benchmark_rounds_UNVERIFIED": 90.0,
+  "summary": {
+    "tight": {
+      "A_rounds_16_24": 197.7,
+      "B_rounds_16_24": 299.3,
+      "delta_rounds_16_24": 101.6,
+      "A_naval_16_24": 160.6,
+      "B_naval_16_24": 242.5,
+      "delta_naval_16_24": 81.8,
+      "delta_latent_DD_shipmin": 72.7,
+      "delta_unreplaced_DD_shipmin_if_contact": 14.5,
+      "B_ammo_24_evening": {
+        "140mm": 0.0,
+        "120mm": 75.3,
+        "6inch": 21.4,
+        "75mm": 104.0
+      },
+      "actual_us_hit": "NOT DETERMINED"
+    },
+    "center": {
+      "A_rounds_16_24": 197.7,
+      "B_rounds_16_24": 319.3,
+      "delta_rounds_16_24": 121.7,
+      "A_naval_16_24": 160.6,
+      "B_naval_16_24": 259.0,
+      "delta_naval_16_24": 98.4,
+      "delta_latent_DD_shipmin": 87.4,
+      "delta_unreplaced_DD_shipmin_if_contact": 17.5,
+      "B_ammo_24_evening": {
+        "140mm": 200.0,
+        "120mm": 385.3,
+        "6inch": 121.4,
+        "75mm": 294.0
+      },
+      "actual_us_hit": "NOT DETERMINED"
+    },
+    "deep": {
+      "A_rounds_16_24": 197.7,
+      "B_rounds_16_24": 319.3,
+      "delta_rounds_16_24": 121.7,
+      "A_naval_16_24": 160.6,
+      "B_naval_16_24": 259.0,
+      "delta_naval_16_24": 98.4,
+      "delta_latent_DD_shipmin": 87.4,
+      "delta_unreplaced_DD_shipmin_if_contact": 17.5,
+      "B_ammo_24_evening": {
+        "140mm": 620.0,
+        "120mm": 1045.3,
+        "6inch": 296.4,
+        "75mm": 799.0
+      },
+      "actual_us_hit": "NOT DETERMINED"
+    }
+  }
+}

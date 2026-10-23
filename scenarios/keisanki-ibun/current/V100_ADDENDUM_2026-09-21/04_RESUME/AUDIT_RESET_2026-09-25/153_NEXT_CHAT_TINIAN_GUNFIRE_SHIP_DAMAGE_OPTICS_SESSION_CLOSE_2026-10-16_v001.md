@@ -1,4 +1,7 @@
 # NEXT CHAT / SESSION CLOSE — Tinian ground and U.S. support-ship damage, optics and long-range gunfire
+
+> **2026-10-23 入口更新:** この旧引継ぎ153からの続行は、現在の[155・再点検済みNEXT CHAT](155_NEXT_CHAT_TINIAN_DAY_GHOST_POST_ARCHIVE_AUDIT_2026-10-23_v001.md)を先に読むこと。議論経緯・CSV・方法論は[154・全会話編入](154_TINIAN_DAY_GHOST_CHAT_INTEGRATION_2026-10-23_v001.md)へ。古い後続WORKINGを正本化しない。
+
 ## 2026-10-16 — 「要塞化再考＋航空再考＋テニアン再考」会話引継ぎ
 
 **Status: CONVERSATION-DERIVED WORKING HANDOFF / NOT AUTHORITY / NO CLOCK ADVANCE.**

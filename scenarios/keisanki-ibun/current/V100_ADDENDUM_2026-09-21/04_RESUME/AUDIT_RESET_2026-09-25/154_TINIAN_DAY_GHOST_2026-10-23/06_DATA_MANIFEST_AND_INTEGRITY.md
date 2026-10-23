@@ -49,3 +49,15 @@ ZIP内部のソース（本コミットではGit登録対象外。ローカル�
 - 6/16–24 center+B は24日夜B残弾合計約1000.665、7/6朝B約767.796となるモデルを継承。実軍弾薬ではない。
 - 6/25–7/6の『named ship mission』列はその日US艦対テニアン砲撃の史実日付を示し、日本砲側に確定目標機会を無料で創出するものではない。
 - **適応の第2・第3段階はまだない**。米軍日次幽霊復元と日本テニアン継続残高のみ。
+
+## 2026-10-23 再点検：再計算ファイルの追加とCSV形式修正
+初版では `data/` にCSV12件と6/15モデルPython1件しかなく、6/16以降の数値模型が**GitHub単独では再実行できなかった**。これは不十分だったため、元のZIPに含まれたコードとJSONを追加した。
+
+- `data/tinian_16_20_ghost_increment_model.py` と `data/tinian_16_20_parameters.json` — 6/16–20旧・共通在庫感度試験。
+- `data/tinian_16_24_dualclock_model.py` と `data/tinian_16_24_ghost_assumptions.json` — 6/16–24砲種別在庫後継模型。
+- `data/tinian_25jul06_replay.py` と `data/tinian_25jul06_conditions.json` — 6/25–7/6延伸模型。
+- `data/reproduce_all.py` と [REPRODUCE.md](data/REPRODUCE.md) — Python標準ライブラリのみ。従来ソース内の固定 `/mnt/data` 出力先は一時コピー内で差し替え、25日以降のモデルが要求する16–24ZIP内JSONも生成して検算。
+
+**再点検の実行結果**: 12個のCSVについて合計2,764データ行を独立の一時環境で再生成・照合済み。11件は元原本とのバイト一致を確認。残る `tinian_day15_scenarios.csv` は初版登録時に `<PARSED TEXT FOR SHEET>` ラッパーと `index` 列を誤って混入させていたため、元の列構成3ケースへ修正し、数値許容差1e-9で検証する。上表のローカル原本SHA-256は**生成直後のローカル原本**についての記載であって、GitHub修正済みCSVのハッシュではない。
+
+引継ぎは[155・最新版入口](../155_NEXT_CHAT_TINIAN_DAY_GHOST_POST_ARCHIVE_AUDIT_2026-10-23_v001.md)。従来の『GitHubには後期Python/JSONがない』という記述は**初版コミット時点の履歴**を表し、現在の登録状態には当てはまらない。最初の21ファイルは史料・暫定結果の保存で、今回の補修はその再現性と導線を強化するものであり、正本時計・実戦果は変更しない。
