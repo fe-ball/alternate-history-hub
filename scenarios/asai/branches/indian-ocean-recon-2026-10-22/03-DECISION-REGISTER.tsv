@@ -1,0 +1,30 @@
+ID	date_scope	subject	status	value_or_decision	source_or_note
+B00	1941-12-07 14:30 HST	canonical_clock	CANON-ANCHOR	V26 canonical clock remains fixed	scenarios.yaml; ACTIVE-STATE.json
+B01	2026-10-22	git_branch	BRANCH-LOCAL	asai/indian-ocean-recon-replay-2026-10-22 from main@b471a357c295d8f60b5b1e79e7084408a933855b	No main or canon mutation
+B02	1942-02	western_H7Y_order	WORKING-SELECTED	1 H7Y westbound planned; crew/fuel/maintenance prepositioned	V26:99; NOT actual deployment in V26 canon
+B03	1941-12 end	H7Y_inventory	UPSTREAM-WORKING	5 physical; about 3 mission capable; 2 Hawaii extreme-range capable	V26:95-96; no double counting other theaters
+B04	1942-03-12	Sabang_capture	HISTORICAL-BASELINE	Capture date kept near historical 1942-03-12	Physical capture vs H7Y service separate
+B05	1942-03-23	Port_Blair_capture	HISTORICAL-BASELINE	Capture 1942-03-23; H6K forward operation began early	Existing mooring/fuel setup partly reusable
+B06	1942-03-25/26	H7Y_forward_base_ready	BRANCH-WORKING	Port Blair H7Y forward mission support considered ready	Fuel/boats/mooring/tooling/personnel separate from capture
+B07	1942-03-29	H7Y_sortie	BRANCH-SELECTED	1 H7Y ~12h ~2800km south/southeast of Ceylon from Port Blair	18h planning cap; >=2h fuel reserve; historical enemy position not used for orders
+B08	1942-03-29	H6K_regular	BRANCH-SELECTED	3 H6K historical-style searches plus 1 standby if significant contact	Not 4+ H6K flights by default
+B09	1942-03-29 evening	capital_contact	BRANCH-SELECTED	None; H6K merchant report remains comparison	No Addu base identification; absence != proof
+B10	1942-03-30	H7Y_availability	BRANCH-SELECTED	Grounded for post-sortie inspection and crew rest	No consecutive sortie magically added
+B11	1942-03-30	H6K_sortie_allocation	BRANCH-SELECTED	3 normal C/D/E-class searches + 1 extra southern line = 4 flights	H6K mission-ready count treated as sortie allocation not total inventory
+B12	1942-03-30	extra_H6K_route	BRANCH-SELECTED	PB -> 9N87E -> 7N85E -> 6.5N83.8E -> 8.8N86.2E -> PB; ~2300km 12h	Designed from Japanese information; no future-coordinate backflow
+B13	1942-03-30 evening	capital_contact	BRANCH-SELECTED	None. Japanese knowledge: British capital-force location unknown	British sailing facts for adjudicator only
+B14	1942-03-31	search_orders_and_overlap	NEXT-OPEN	Choose sectors, assets, time, weather, visual intercept geometry	Do not target Somerville rendezvous using hindsight
+B15	1942-03-31	H7Y_second_sortie	NEXT-OPEN	Evaluate 48-72h maintenance crew rest and fuel availability	Not automatically another westbound H7Y
+B16	1942-03-31 onward	shadowing_and_follow_on_flying_boats	CONDITIONAL	Follow target briefly and report; divert flying H6K or next-day reserve	Only after actual valid contact; daylight/distance/fuel/radio constraints
+B17	1942-04-02 onward	Addu_inference	CONDITIONAL	Charted atoll + shipping routes + observed naval traffic may raise secret-base hypothesis	Cannot insert Port T knowledge ex ante
+B18	1942-04-03	Nagumo_recon_go_no_go	NEXT-LATER	Re-evaluate historical planned extra search cancellation only after incoming reports	V26:19/21 Force A battle remains separate working comparison
+A01	1941-12	carrier_aircraft	CANON-BASELINE	Pearl initial 6-carrier loadout B5N2 144; D3A1 135; A6M2 108; total 387	Not Dec7 14:30 remaining operational state
+A02	1942-43	D4Y_B6N_production	DESIGN-PLANNING	1942 D4Y66 B6N44; 1943 D4Y220 B6N160 factory receipts planned	Not combat-present or canon
+A03	1942-43	jet_carrier_recon_prototypes	DESIGN-PLANNING	1942 E6 recon4; 1943 E7 recon2 factory receipts proposed	Independent from Sakufu prototype count; no OOB promotion
+A04	1942-43	jet_carrier_recon_E6	DESIGN-BENCHMARK	Wing34.5m2 span15.2m TO5150kg E6-JF2x984kgf max650km/h@8.5km radius300km	Conceptual performance closure not actual service
+A05	1942-43	jet_carrier_recon_E7	DESIGN-BENCHMARK	Wing34.5m2 TO5200kg E7-JF2x1120kgf max695km/h@8.5km radius320km	E7-M 13.2kg/s PR8 ~15stage 680kg each design target
+A06	1942	recon_role_split	DESIGN-SELECTED	D4Y for general long-range recon; E6/E7 jet for fast high-threat reacquisition of roughly located enemy	No blanket jet advantage
+A07	1942 onward	B6N_E7_TP	DESIGN-SELECTED	B6N low-flow E7-M TP ~10-11kg/s candidate; D4Y piston-first then dive bomber qualification	Core family/flow and product qualification separate
+G01	all	knowledge_firewall	HARD-RULE	Knowledge at time only; no hindsight Addu; no instant carrier attack after contact	SCENARIO-RULES.md
+G02	all	capability_vs_OOB	HARD-RULE	Separate technical ability, physical airframe, qualified, delivered, serviceable, forward, mission-ready	SCENARIO-RULES.md
+G03	all	branch_isolation	HARD-RULE	This Git branch is separate scenario replay; no main/current/scenarios.yaml mutation	Session close request 2026-10-22
