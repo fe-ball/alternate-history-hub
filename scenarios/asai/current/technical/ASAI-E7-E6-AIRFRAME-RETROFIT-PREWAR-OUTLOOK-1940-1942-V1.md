@@ -141,3 +141,10 @@ Do not automatically select the newest E-number. Do not automatically retain the
 | E7-dedicated aircraft first flight 1942Q1-Q2 | TARGET-CLOSED parent |
 | E8/E9 aircraft dates | OPEN; use continuous-front semantics, not fixed invention dates |
 
+
+
+---
+
+## 2026-10-23 accepted-design authority overlay
+
+The user has adopted new **DESIGN-CANON**, without promoting 1942-43 physical service history. For E generation vs physical core size/flow/engine product, carrier-air role and material doctrine, prefer `scenarios/asai/current/technical/ASAI-2026-10-23-APPROVED-CORE-FAMILY-AND-CARRIER-AIR-DOCTRINE.md`. For the separate **34.5m², two-crew carrier reconnaissance airframe**, E6-M-JF at **650km/h** and E7-M-JF at **695km/h**, consult `scenarios/asai/current/technical/ASAI-2026-10-23-CARRIER-TWIN-JET-RECON-DESIGN-CANON.md`. The E7 installed mass/TSFC statements OPEN in the old generalized retrofit outlook are therefore superseded **only for this adopted carrier reconnaissance design**, not for unspecified E7 applications, conventional E6 land Twin or Sakufu. D4Y/B6N numbers are approved future plans, not realized deliveries: `scenarios/asai/current/plans/ASAI-2026-10-23-NAVY-CARRIER-AIRCRAFT-APPROVED-PROCUREMENT-BASELINE.md`. The V26 history canonical clock is unchanged at 1941-12-07 14:30 HST.

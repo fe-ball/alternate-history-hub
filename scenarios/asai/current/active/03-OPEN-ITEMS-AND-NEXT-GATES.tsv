@@ -17,3 +17,6 @@ priority	id	source_status	navigation_role	position	sources
 8	PREMO-COMBAT-REAUDIT	WORKING-CLOSE	AUTHORITY	Tier1: Enterprise, Wake/Saratoga, Apr5 Force A, Apr9 Yorktown, Apr29。Enterpriseがfirst clear carrier-fighter peer contest、Wake/Saratogaがfirst two-way carrier exchange。	V26:89;V26:90
 9	ATTACK-SYNCHRONIZATION	WORKING-CLOSE	MODEL	T/R/V/E cue + SYNC0-3をassembly/target acquisition/commitment/final release別に追う。CAP/AAはkillだけでなくdelay/displacement/desyncで攻撃を崩せる。	V26:91;V26:92
 10	ENTERPRISE-RESTART	WORKING-CLOSE	PRIOR-DISCUSSION-NEXT	54機JP strike、F4F15-18 svc center17、main intercept10-12。A6M18=6+6+6、precontact COM2/A-CMD2-3/SYNC2。外周迎撃から再演。	V26:93;V26:94
+20	AIR-CORE-DESIGN	DESIGN-CANON	TECHNICAL-AUTHORITY	E番号とコアサイズ・流量・J/JF/TP製品は独立、朔風要撃・凱風TP主力化棚上げ、接着混成翼の設計原則を採用。実績と区別。	current/technical/ASAI-2026-10-23-APPROVED-CORE-FAMILY-AND-CARRIER-AIR-DOCTRINE.md
+21	AIR-JET-RECON-DESIGN	DESIGN-CANON	TECHNICAL-AUTHORITY	34.5m2 E6/E7双発複座艦上偵察機、650/695km/h、重量・燃料・任務半径の設計基準を採用。試作完成・部隊配備は別時計。	current/technical/ASAI-2026-10-23-CARRIER-TWIN-JET-RECON-DESIGN-CANON.md
+22	AIR-CARRIER-1942-43-PLAN	APPROVED-PLAN	PLANNING-AUTHORITY	D4Yの偵察先行/艦爆移行とB6N E7-TP、四半期受領計画を採択。1942/43年の実績・搭載数は未確定。	current/plans/ASAI-2026-10-23-NAVY-CARRIER-AIRCRAFT-APPROVED-PROCUREMENT-BASELINE.md
