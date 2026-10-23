@@ -347,6 +347,10 @@ carrier gate:
 
 ---
 
+## 5A. H7Y / 岳二発特殊長距離偵察機（1942以降、作者CLOSEDの実用化枝との接続）
+
+[42](42-R3-H7Y-GAKU-SPECIAL-RECON-1937-1942-PEARL-CLOSED.md)で**1939–41の試作・改修、1941布哇作戦ウォッジェ発の独立1機索敵（米艦隊接触なし・帰還）**をCLOSED採用済み。1942はその実測経験を継ぐ整流、機関、燃料／航法、片発帰投と洋上補給研究の継続をCLOSEDとし、追加2～4機級実用試験・8,100～8,300km性能はPROVISIONAL。H7Yをこの台帳のH6K/H8K数表へ勝手に加算しない。1943のH7Y累計生産、可動機数、他海域出撃はOPEN。K作戦やEnterpriseの1942捕獲技術を1939–41の設計原因にしない。
+
 ## 6. Enterprise exploitation → aircraft / air-defense feedback
 
 ### 原則
