@@ -22,150 +22,150 @@ LEX-CONTACT	WORKING	REPLAY-LOCAL	Apr27 H7Y CONTACT-1/2、Apr28 H6K/H7Y updateで
 APR29-LEX	WORKING	REPLAY-LOCAL	Lexington=D3A bomb2+Type91x2+FTx2(HE1/SAP1級)、mission kill後に放棄・自沈/沈没中央。	V26:21#11.3
 APR29-SHOKAKU	SUPERSEDED	REPLAY-LOCAL	旧Shokaku=1000lb級bomb2固定結果はV26:25の防空再監査で非支配化。0-2 direct-hit branchへ再OPEN。	V26:21#11.4;V26:25
 APR29-ZUIKAKU	WORKING	REPLAY-LOCAL	Zuikaku direct hit 0、hull combat-effective。air-group attrition別計上。	V26:21#11.4
-MO-LATEST	WORKING	CONTINUITY	Apr29後: Lexington lost中央 / Shokaku damage state branched / Zuikaku hull effective中央 / PM Apr18 captured。Shokaku固定MKはsuperseded。	V26:21#12;V26:25-26
+MO-LATEST	WORKING	CONTINUITY	Apr29後: Lexington lost中央 / Shokaku damage state branched / Zuikaku hull effective中央 / PM Apr18 captured。Shokaku固定MKはsuperseded。	V26:21#12;V26:25;V26:26
 NEXT-SHOKAKU	OPEN	PRIOR-DISCUSSION-NEXT	Shokaku repair / return clockを閉じる。	V26:21#15
 NEXT-ZUIKAKU	OPEN	PRIOR-DISCUSSION-NEXT	Zuikaku airframe/aircrew/serviceability ledgerを閉じる。	V26:21#15
 NEXT-US-CARRIERS	OPEN	PRIOR-DISCUSSION-NEXT	Saratoga readiness + Enterprise/Hornet return/replenishmentを閉じる。	V26:21#15
 NEXT-STRATEGY	OPEN	AFTER-REGEN	再生後にMI/AL/FS/other次作戦を再評価。	V26:21#15
 GT-CORE-FUEL-RATING	NEXT-DEFERRED	DEFERRED	GT core-life×fuel-quality×rating gateは後続技術課題。	V26:13#14
-DOOLITTLE-SYSTEM	WORKING-CLOSE	REPLAY-LOCAL	Apr22級Doolittle防空は監視/plotting/readiness改善、全国精密GCI未成立。主律速はtrack/handoff/vector。	V26:23-24
-AEW-REQUIREMENT	WORKING	REQUIREMENT	Doolittle AAR後に海軍側から空中早期警戒要求が自然発生。浅井側はsystem integrator/support。	V26:23-24
-MI-AL-SEPARATION	WORKING-CLOSE	STRATEGY	MI先行、ALは中止せずMI後へ分離。Shokaku returnは待たない。	V26:23-24
-ZUIKAKU-MI	WORKING-CLOSE	FORCE-STATE	Zuikakuは再編航空隊でMI参加YES中央。pristine72ではない。	V26:23-24
-RYUJO-MI	WORKING-CLOSE	FORCE-STATE	Ryujoはfighter-heavy CAP/search/torpedo support carrierとしてMIへ。	V26:23-24
-NEXT-FLEET-WEAPONS	WORKING-CLOSE	ROLLED-FORWARD	艦載航空/水上偵察/radar/AA/FCS/ASWのspring-1942 working inventoryをV26:25-26へ統合。	V26:23-26
-RADAR-AA-1942	WORKING-CLOSE	FORCE-EQUIPMENT	Type21-line前身少数実戦。MI central Akagi/Hiryu/Zuikaku各1。精密GCI/砲射撃入力ではない。	V26:25-26
-RADAR-SURFACE-1942	WORKING-CLOSE	FORCE-EQUIPMENT	Type22-line前身少数実戦。Tone/Chikuma/Haruna/Takao/selected DD優先。blind-fire FCSではない。	V26:25-26
-AA-37MM	WORKING-CLOSE	FORCE-EQUIPMENT	国産37mm中間AAを低率量産。end-May combat-fitted14-16 twin mounts fleet-wide級。	V26:25-26
-AA-FCS	WORKING-CLOSE	FCS	Type89/Type94系はselected modern shipsでFCS2/FCS3-like integration。VT/Mk37/RPCなし。	V26:25-26
-MAIN-GUN-TORPEDO-FCS	WORKING-CLOSE	FCS	主砲は光学/機械中心でreset/transmission改善。Type93はtarget-motion/gyro/sync改善、body性能はほぼ史実。	V26:25-26
-ASW-1942	WORKING-CLOSE	ASW	Type93 acoustic suite reliability/QC/own-noise map改善。Type95爆雷主力。Type3/ahead-thrown/MADなし。	V26:25-26
-APR29-SHOKAKU-REAUDIT	WORKING	REPLAY-LOCAL	Shokaku direct1000lb hit0-2 plausible、1-hit branch central、immediate mission-kill35-50% working。hit location/repair OPEN。	V26:25-26
-NEXT-MI-FORCE-DETAIL	WORKING-CLOSE	ROLLED-FORWARD	exact DD/escort hull+central radar/ASW roleをV26:27-28で閉じた。次はType91/Type93/FT stock、Shokaku repair、final air-group regeneration。	V26:25-28
-MI-SCREEN-TOTAL	WORKING-CLOSE	FORCE-STATE	Nagara+DD16 carrier-support system。史実MI DD12に、AL分離でShiokaze/Akebono/Ushio/SazanamiをRyujo outerへ移す。	V26:27-28
-MI-CELL1-DD	WORKING-CLOSE	FORCE-STATE	Akagi/Kaga: Arashi radar picket、Nowaki/Hagikaze ASW priority、Maikaze plane-guard/flexible。	V26:27-28
-MI-CELL2-DD	WORKING-CLOSE	FORCE-STATE	Soryu/Hiryu: Urakaze radar picket、Isokaze/Hamakaze ASW priority、Tanikaze plane-guard/flexible。	V26:27-28
-MI-CELL3-DD	WORKING-CLOSE	FORCE-STATE	Zuikaku: Kazagumo radar picket、Yugumo/Makigumo ASW priority、Akigumo plane-guard/flexible。	V26:27-28
-MI-RYUJO-OUTER	WORKING-CLOSE	FORCE-STATE	Ryujo/Takao/Maya + Shiokaze/Akebono/Ushio/Sazanami。Takao surface radar node、Ushio/Akebono/Sazanami ASW priority。	V26:27-28
-MI-SURFACE-RADAR-7	WORKING-CLOSE	RADAR	Haruna/Tone/Chikuma/Takao/Arashi/Urakaze/Kazagumo各1、合計7中央。Kirishima/Mayaはavailability-dependent。	V26:27-28
-NEXT-ORDNANCE	OPEN	PRIOR-DISCUSSION-NEXT	V26:29-30 target cardを制約に、Type91 aerial torpedo / FT family / Type93 ship torpedoのforce-level stockとallocationを閉じる。generic FT count禁止。	V26:27-30
-FT-FAMILY-SEPARATION	WORKING-CLOSE	DOCTRINE	FT-G/FT-GR/standard FT/FT-GR-IR/FT-IRを別familyとして扱い、HE/SAP等warheadを別軸管理。	V26:29-30
-FT-PREWAR-MIXED-DOCTRINE	WORKING-CLOSE	DOCTRINE	mixed FT+Type91は1939-40演習開始、1940-41成熟。Enterpriseで概念発見ではない。	V26:17-18;V26:29-30
-FT-MULTIAXIS	WORKING-CLOSE	DOCTRINE	FT/Type91をseparated bearing/phaseで相互利用。FT-first/Type91-first双方をtarget classで使い分ける。	V26:29-30
-FT-IR-SELECTIVE	WORKING-CLOSE	DOCTRINE	IRは1D yaw correctionのpremium選択枝。fast carrier等へ優先。night identification/all-aspect/retargetなし。	V26:29-30
-FT-TARGET-CARDS	WORKING-CLOSE	DOCTRINE	carrier=standard+selectiveIR+Type91、capital=HE suppression+Type91+SAP、light/screen=GR/HE選択、transport=G/GR HE。	V26:29-30
-FT-NIGHT-GUARD	WORKING-CLOSE	DOCTRINE	IR目的で夜を意図的に待たない。deck recovery/navigation/identification burdenが優越。	V26:17-18;V26:29-30
-FT-ENEMY-ADAPTATION	WORKING-CLOSE	DOCTRINE	春1942には敵もFT存在を認識しradar/CAP/evasive/screen adaptationを行う。permanent surprise禁止。	V26:29-30
-MI-ORDNANCE-STOCK	WORKING-CLOSE	ROLLED-FORWARD	V26:29-30 target-card制約下でType91/FT-family/Type93 force-level stockとMI allocationをV26:31-32で閉じた。	V26:29-32
-MI-FT-STOCK	WORKING	ORDNANCE-STOCK	end-May FT service-released約1635-1785/center1705、serviceable national約1400-1520、forward約760-900。	V26:16-17;V26:31-32
-MI-FT-EMBARKED	WORKING-CLOSE	ORDNANCE-ALLOCATION	MI embarked FT=116: standard94/FT-IR18/FT-GR4、HE54/SAP62。Akagi24/Kaga24/Soryu18/Hiryu18/Zuikaku24/Ryujo8。	V26:31-32
-MI-TYPE91-EMBARKED	WORKING-CLOSE	ORDNANCE-ALLOCATION	Type91 Mod2 embarked=148: Akagi28/Kaga32/Soryu24/Hiryu24/Zuikaku28/Ryujo12。staging reserve center約80。	V26:31-32
-MI-TYPE93-CARRIED	WORKING-CLOSE	ORDNANCE-ALLOCATION	carrier-support Type93 physical carried=334、ready171/reload163。12 modern DD192、outer DD54、Tone/Chikuma/Takao/Maya88。	V26:31-32
-NEXT-ORDNANCE	WORKING-CLOSE	ROLLED-FORWARD	旧current-nextのordnance stock/allocation gateはV26:31-32で閉鎖。generic FT countへ戻らない。	V26:27-32
-NEXT-SHOKAKU-HIT	OPEN	PRIOR-DISCUSSION-NEXT	次はV26:25防空状態を使いApr29 Shokaku 0-2 direct-hit branchのhit count/location/damageを判定。	V26:25;V26:31-32
-APR29-SHOKAKU-HITCOUNT	WORKING-CLOSE	REPLAY-LOCAL	V26:25の0-2 direct-hit branchから1x1000lb-class direct hitをcentral continuationに採用。0/2-hit tailsはsensitivity。	V26:25;V26:33-34
-APR29-SHOKAKU-LOCATION	WORKING-CLOSE	DAMAGE-MODEL	forward-starboard/island-adjacent flight deck→upper hangar/aviation-support hit central。machinery/waterline/magazine/avgas catastropheなし。	V26:33-34
-SHOKAKU-REPAIR	WORKING-PLAN	REPAIR-CLOCK	frontline carrier-ready fast Jun5-7/center Jun9-11/slow Jun14-18。	V26:33-34
-SHOKAKU-MI	WORKING-CLOSE	FORCE-STATE	MI combat-present=NO central。MIはShokaku return待ちにしない。	V26:23;V26:33-34
-NEXT-AIRLOSS	OPEN	PRIOR-DISCUSSION-NEXT	Apr29双方のairframe/aircrew loss ledgerをV26:25 defense stateで閉じる。	V26:25;V26:33-34
-APR29-JP-AIRLOSS	WORKING-CLOSE	AIRLOSS	Apr29 Japanese irreversible16: A6M2 4/Gaifu1/D3A5/B5N6; aviation KIA/MIA25 central.	V26:35-36
-APR29-US-AIRLOSS	WORKING-CLOSE	AIRLOSS	Lexington physical air-group writeoff72 central, direct combat20, aviation KIA/MIA~44; majority of surviving aircrew rescued.	V26:35-36
-ZUIKAKU-MI-SERVICEABLE	WORKING-CLOSE	FORCE-STATE	Zuikaku end-May MI serviceable64: Gaifu12/A6M10/D3A20/D4Y2/B5N16/B6N4.	V26:37-38
-ZUIKAKU-MI-READY	WORKING-CLOSE	FORCE-STATE	Zuikaku physical67-69/serviceable64/crewed~62/24h sortie-ready60 central.	V26:37-38
-ZUIKAKU-MI-ORDNANCE	WORKING-CLOSE	FORCE-STATE	Zuikaku Type91=28 / FT=24 carried central.	V26:31-32;V26:37-38
-NEXT-MI-CARRIER-AIR	OPEN	PRIOR-DISCUSSION-NEXT	Akagi/Kaga/Soryu/Hiryu/Ryujo end-May readiness and remaining D4Y/B6N allocationを統合。	V26:23;V26:25;V26:37-38
-NEXT-US-CARRIER-BALANCE	OPEN	PRIOR-DISCUSSION-NEXT	Saratoga readiness + Enterprise/Hornet post-Doolittle returnを閉じる。	V26:21;V26:37-38
-MI-CARRIER-TIMING-JP	WORKING-CLOSE	DEPLOYMENT	Akagi/Soryu/Hiryu Apr21-23 home return; Kaga early-May maintenance; Ryujo May6 release->MI; Zuikaku May10-12 home return; May27 MI sortie central。	V26:39-40
-MI-JP-AIR-TOTAL	WORKING-CLOSE	FINAL-OOB	Six decks serviceable331/24h-ready311: Akagi60/Kaga68/Soryu53/Hiryu54/Zuikaku64/Ryujo32。	V26:39-40;V26:43-44
-MI-US-CARRIER-TIMING	WORKING-CLOSE	DEPLOYMENT	Saratoga Pearl May7 center; Enterprise/Hornet Pearl return May22 center; MI sortie May28-29。	V26:41-42
-MI-US-AIR-TOTAL	WORKING-CLOSE	FINAL-OOB	Enterprise/Hornet/Saratoga serviceable232/24h-ready221; Yorktown absent, Lexington lost。	V26:41-44
-MI-FINAL-OOB	WORKING-CLOSE	ROLLED-FORWARD	日米carrier/screen/radar/AA/ASW/ordnance/Midway land airをV26:43-44で統合済み。	V26:43-44
-NEXT-MI-GEOMETRY	OPEN	PRIOR-DISCUSSION-NEXT	Jun3-4 starting geometry/search allocation/first contact timing-qualityを再演。	V26:43-44
-MI-START-GEOMETRY	WORKING-CLOSE	COMBAT-GEOMETRY	Jun4 0430 JP core~230-250nm NW Midway; US carrier center~190-220nm NE/E of JP core; Saratoga group15-25nm separated central。	V26:45-46
-MI-US-FIRST-CONTACT	WORKING-CLOSE	ACTOR-KNOWLEDGE	Midway PBY JP carrier-force sighting0530-0545/center0538; moving track by0550-0600。	V26:45-46
-MI-JP-FIRST-CONTACT	WORKING-CLOSE	ACTOR-KNOWLEDGE	D4Y finds Enterprise/Hornet0615-0630/center0622; separate Saratoga group0640-0700/center0650。	V26:45-46
-MI-INFO-RACE	WORKING-CLOSE	COMBAT-GEOMETRY	US first useful carrier-position advantage retained; Japanese carrier-blind interval shortened; both launch-quality by~0700。	V26:45-46
-NEXT-MI-STRIKE-PACKAGES	OPEN	PRIOR-DISCUSSION-NEXT	US first strike + Japanese counterstrike + Midway land-air allocationを閉じる。	V26:45-46
-MI-MIDWAY-FIRST-WAVE	WORKING-CLOSE	STRIKE-PACKAGE	A6M36/D3A36/B5N36=108 fixed-target raid; FT0/Type910 central.	V26:47-48
-MI-US-FIRST-STRIKE	WORKING-CLOSE	STRIKE-PACKAGE	Enterprise56/Hornet55/Saratoga58=169; F4F32/SBD93/TBD44.	V26:47-48
-MI-JP-COUNTERSTRIKE	WORKING-CLOSE	STRIKE-PACKAGE	Three-cell anti-carrier counterstrike132; Type9125/FT25/D3A46.	V26:47-48
-MI-MIDWAY-AIR-COMBAT	WORKING	AIR-COMBAT	Midway fighter irreversible18; Japanese first-wave irreversible7 central.	V26:49-50
-MI-MIDWAY-LAND-ATTACK	WORKING-CLOSE	COMBAT	Land attack irreversible18 and carrier direct hit0 central.	V26:49-50
-MI-US-VALID-RELEASE	WORKING-CLOSE	VALID-RELEASE	US SBD valid70/TBD valid17.	V26:49-50
-MI-JP-VALID-RELEASE	WORKING-CLOSE	VALID-RELEASE	JP D3A valid34/Type91 valid16/FT valid22.	V26:49-50
-MI-DECK-STATE	WORKING-CLOSE	DAMAGE-GUARD	Anti-carrier reserve already launched before full Midway-wave recovery; historical full rearm/deck-clutter state not copied.	V26:49-50
-NEXT-MI-HITS	OPEN	PRIOR-DISCUSSION-NEXT	Direct-hit outcomesをcarrier/weapon別に判定。	V26:49-50
-MI-FT-MULTISTAGE	WORKING-CLOSE	TACTICS	Valid FT22 split8 screen/AA suppression +14 carrier-directed; Atlanta/Portland suppression changes later release geometry.	V26:51-52
-MI-JP-VALID-REVISED	WORKING-CLOSE	VALID-RELEASE	After suppression JP valid D3A37/Type9119/FT22 total, with14 FT carrier-directed.	V26:51-52
-MI-US-HIT-PACKET	WORKING-CLOSE	HIT-PACKET	Akagi2 bombs; Kaga1 bomb+imperfect Mk13; Soryu1; Hiryu1; Zuikaku1; Ryujo0.	V26:53-54
-MI-JP-HIT-PACKET	WORKING-CLOSE	HIT-PACKET	Enterprise4 direct/Hornet3/Saratoga4 including D3A+Type91+FT mixes.	V26:53-54
-MI-FIRST-CYCLE-DAMAGE	WORKING-CLOSE	DAMAGE	JP: Akagi/Kaga/Soryu aviation MK, Hiryu/Zuikaku temporary stop, Ryujo intact. US: all three carriers battle-day aviation MK but afloat central.	V26:55-56
-NEXT-MI-RECOVERY	OPEN	PRIOR-DISCUSSION-NEXT	Returning-aircraft recovery/diversion/ditching/onboard aircraft loss/aircrew rescueを閉じる。	V26:55-56
-MI-MODEL-ROLLBACK	WORKING-CLOSE	NAVIGATION	V26:51-56 are exploratory only; current combat frontier returns to V26:49-50.	V26:57-58
-MI-PREMULTISTAGE-BASELINE	PROVISIONAL	BASELINE	US SBD70/TBD17 and JP D3A34/Type9116/FT22 are pre-multistage baselines.	V26:49-50;V26:57
-NEXT-MI-MODEL	OPEN	PRIOR-DISCUSSION-NEXT	Define phase-by-phase state transitions before revised valid releases and hits.	V26:57-58
-MI-COMBAT-MODEL	WORKING-CLOSE	MODEL	Robust combat input stops at V26:47-48; V26:49-50 numerical outputs are provisional baselines pending state-model replay.	V26:59-60
-GAIFU-ROLE-CARDS	WORKING	TACTICS	Gaifu11 ready split cards: G-E8/3/0, G-B5/5/1, G-D3/7/1 escort/CAP/reserve; G-B planning center only.	V26:61-62
-FT-LOAD-CARDS	WORKING	TACTICS	FT-D/FT-B/FT-S preload cards separate physical load from contact-time target allocation; no fixed screen count.	V26:63-64
-GAIFU-TECH-CORRECTION	WORKING-CLOSE	TECH	Gaifu ~575-600 normal/~595-615 short, 6km6.0-6.8min normal, not Sakufu670-710; mixed-CAP gain reinterpreted accordingly.	V26:65-66
-NEXT-CAP-REPLAY	OPEN	PRIOR-DISCUSSION-NEXT	Run Gaifu allocation cards against actual US arrival sequence and derive revised SBD/TBD release bands.	V26:59-66
-NEXT-FT-REPLAY	OPEN	AFTER-CAP	Run FT load/target cards against updated US defense state and derive revised D3A/Type91/FT release bands.	V26:59-66
-MI-FIGHTER-PERF-AUDIT	WORKING-CLOSE	TECH	A6M2/Gaifu comparison extended to wing/power loading, climb, turn, roll/dive, armament, protection, endurance, carrier ops.	V26:69-70
-GAIFU-NOT-UPGRADE	WORKING-CLOSE	MODEL	Gaifu is not a universal A6M upgrade: faster/better-climbing, but much higher wing loading, overlapping power loading, same MI gun count, no closed protection bonus.	V26:69-70
-A6M-ROLE-STRENGTH	WORKING-CLOSE	MODEL	A6M likely retains sustained-turn, endurance, maturity and deck-support advantages.	V26:69-70
-FIGHTER-OPEN-BOUNDS	OPEN	PRIOR-DISCUSSION-NEXT	Close/bound Gaifu high-speed roll/dive/transient plus worldline A6M climb/accel and both CAP endurance states before replay.	V26:69-70
-GAIFU-CARRIER-RELEASE	WORKING-CLOSE	FORCE-STATE	Apr29/MI Gaifu combat-present0 central; prototype/service evaluation retained, mass carrier service not established.	V26:71-72
+DOOLITTLE-SYSTEM	WORKING-CLOSE	REPLAY-LOCAL	Apr22級Doolittle防空は監視/plotting/readiness改善、全国精密GCI未成立。主律速はtrack/handoff/vector。	V26:23;V26:24
+AEW-REQUIREMENT	WORKING	REQUIREMENT	Doolittle AAR後に海軍側から空中早期警戒要求が自然発生。浅井側はsystem integrator/support。	V26:23;V26:24
+MI-AL-SEPARATION	WORKING-CLOSE	STRATEGY	MI先行、ALは中止せずMI後へ分離。Shokaku returnは待たない。	V26:23;V26:24
+ZUIKAKU-MI	WORKING-CLOSE	FORCE-STATE	Zuikakuは再編航空隊でMI参加YES中央。pristine72ではない。	V26:23;V26:24
+RYUJO-MI	WORKING-CLOSE	FORCE-STATE	Ryujoはfighter-heavy CAP/search/torpedo support carrierとしてMIへ。	V26:23;V26:24
+NEXT-FLEET-WEAPONS	WORKING-CLOSE	ROLLED-FORWARD	艦載航空/水上偵察/radar/AA/FCS/ASWのspring-1942 working inventoryをV26:25-26へ統合。	V26:23;V26:24;V26:25;V26:26
+RADAR-AA-1942	WORKING-CLOSE	FORCE-EQUIPMENT	Type21-line前身少数実戦。MI central Akagi/Hiryu/Zuikaku各1。精密GCI/砲射撃入力ではない。	V26:25;V26:26
+RADAR-SURFACE-1942	WORKING-CLOSE	FORCE-EQUIPMENT	Type22-line前身少数実戦。Tone/Chikuma/Haruna/Takao/selected DD優先。blind-fire FCSではない。	V26:25;V26:26
+AA-37MM	WORKING-CLOSE	FORCE-EQUIPMENT	国産37mm中間AAを低率量産。end-May combat-fitted14-16 twin mounts fleet-wide級。	V26:25;V26:26
+AA-FCS	WORKING-CLOSE	FCS	Type89/Type94系はselected modern shipsでFCS2/FCS3-like integration。VT/Mk37/RPCなし。	V26:25;V26:26
+MAIN-GUN-TORPEDO-FCS	WORKING-CLOSE	FCS	主砲は光学/機械中心でreset/transmission改善。Type93はtarget-motion/gyro/sync改善、body性能はほぼ史実。	V26:25;V26:26
+ASW-1942	WORKING-CLOSE	ASW	Type93 acoustic suite reliability/QC/own-noise map改善。Type95爆雷主力。Type3/ahead-thrown/MADなし。	V26:25;V26:26
+APR29-SHOKAKU-REAUDIT	WORKING	REPLAY-LOCAL	Shokaku direct1000lb hit0-2 plausible、1-hit branch central、immediate mission-kill35-50% working。hit location/repair OPEN。	V26:25;V26:26
+NEXT-MI-FORCE-DETAIL	WORKING-CLOSE	ROLLED-FORWARD	exact DD/escort hull+central radar/ASW roleをV26:27-28で閉じた。次はType91/Type93/FT stock、Shokaku repair、final air-group regeneration。	V26:25;V26:26;V26:27;V26:28
+MI-SCREEN-TOTAL	WORKING-CLOSE	FORCE-STATE	Nagara+DD16 carrier-support system。史実MI DD12に、AL分離でShiokaze/Akebono/Ushio/SazanamiをRyujo outerへ移す。	V26:27;V26:28
+MI-CELL1-DD	WORKING-CLOSE	FORCE-STATE	Akagi/Kaga: Arashi radar picket、Nowaki/Hagikaze ASW priority、Maikaze plane-guard/flexible。	V26:27;V26:28
+MI-CELL2-DD	WORKING-CLOSE	FORCE-STATE	Soryu/Hiryu: Urakaze radar picket、Isokaze/Hamakaze ASW priority、Tanikaze plane-guard/flexible。	V26:27;V26:28
+MI-CELL3-DD	WORKING-CLOSE	FORCE-STATE	Zuikaku: Kazagumo radar picket、Yugumo/Makigumo ASW priority、Akigumo plane-guard/flexible。	V26:27;V26:28
+MI-RYUJO-OUTER	WORKING-CLOSE	FORCE-STATE	Ryujo/Takao/Maya + Shiokaze/Akebono/Ushio/Sazanami。Takao surface radar node、Ushio/Akebono/Sazanami ASW priority。	V26:27;V26:28
+MI-SURFACE-RADAR-7	WORKING-CLOSE	RADAR	Haruna/Tone/Chikuma/Takao/Arashi/Urakaze/Kazagumo各1、合計7中央。Kirishima/Mayaはavailability-dependent。	V26:27;V26:28
+NEXT-ORDNANCE	OPEN	PRIOR-DISCUSSION-NEXT	V26:29-30 target cardを制約に、Type91 aerial torpedo / FT family / Type93 ship torpedoのforce-level stockとallocationを閉じる。generic FT count禁止。	V26:27;V26:28;V26:29;V26:30
+FT-FAMILY-SEPARATION	WORKING-CLOSE	DOCTRINE	FT-G/FT-GR/standard FT/FT-GR-IR/FT-IRを別familyとして扱い、HE/SAP等warheadを別軸管理。	V26:29;V26:30
+FT-PREWAR-MIXED-DOCTRINE	WORKING-CLOSE	DOCTRINE	mixed FT+Type91は1939-40演習開始、1940-41成熟。Enterpriseで概念発見ではない。	V26:17;V26:18;V26:29;V26:30
+FT-MULTIAXIS	WORKING-CLOSE	DOCTRINE	FT/Type91をseparated bearing/phaseで相互利用。FT-first/Type91-first双方をtarget classで使い分ける。	V26:29;V26:30
+FT-IR-SELECTIVE	WORKING-CLOSE	DOCTRINE	IRは1D yaw correctionのpremium選択枝。fast carrier等へ優先。night identification/all-aspect/retargetなし。	V26:29;V26:30
+FT-TARGET-CARDS	WORKING-CLOSE	DOCTRINE	carrier=standard+selectiveIR+Type91、capital=HE suppression+Type91+SAP、light/screen=GR/HE選択、transport=G/GR HE。	V26:29;V26:30
+FT-NIGHT-GUARD	WORKING-CLOSE	DOCTRINE	IR目的で夜を意図的に待たない。deck recovery/navigation/identification burdenが優越。	V26:17;V26:18;V26:29;V26:30
+FT-ENEMY-ADAPTATION	WORKING-CLOSE	DOCTRINE	春1942には敵もFT存在を認識しradar/CAP/evasive/screen adaptationを行う。permanent surprise禁止。	V26:29;V26:30
+MI-ORDNANCE-STOCK	WORKING-CLOSE	ROLLED-FORWARD	V26:29-30 target-card制約下でType91/FT-family/Type93 force-level stockとMI allocationをV26:31-32で閉じた。	V26:29;V26:30;V26:31;V26:32
+MI-FT-STOCK	WORKING	ORDNANCE-STOCK	end-May FT service-released約1635-1785/center1705、serviceable national約1400-1520、forward約760-900。	V26:16;V26:17;V26:31;V26:32
+MI-FT-EMBARKED	WORKING-CLOSE	ORDNANCE-ALLOCATION	MI embarked FT=116: standard94/FT-IR18/FT-GR4、HE54/SAP62。Akagi24/Kaga24/Soryu18/Hiryu18/Zuikaku24/Ryujo8。	V26:31;V26:32
+MI-TYPE91-EMBARKED	WORKING-CLOSE	ORDNANCE-ALLOCATION	Type91 Mod2 embarked=148: Akagi28/Kaga32/Soryu24/Hiryu24/Zuikaku28/Ryujo12。staging reserve center約80。	V26:31;V26:32
+MI-TYPE93-CARRIED	WORKING-CLOSE	ORDNANCE-ALLOCATION	carrier-support Type93 physical carried=334、ready171/reload163。12 modern DD192、outer DD54、Tone/Chikuma/Takao/Maya88。	V26:31;V26:32
+NEXT-ORDNANCE	WORKING-CLOSE	ROLLED-FORWARD	旧current-nextのordnance stock/allocation gateはV26:31-32で閉鎖。generic FT countへ戻らない。	V26:27;V26:28;V26:29;V26:30;V26:31;V26:32
+NEXT-SHOKAKU-HIT	OPEN	PRIOR-DISCUSSION-NEXT	次はV26:25防空状態を使いApr29 Shokaku 0-2 direct-hit branchのhit count/location/damageを判定。	V26:25;V26:31;V26:32
+APR29-SHOKAKU-HITCOUNT	WORKING-CLOSE	REPLAY-LOCAL	V26:25の0-2 direct-hit branchから1x1000lb-class direct hitをcentral continuationに採用。0/2-hit tailsはsensitivity。	V26:25;V26:33;V26:34
+APR29-SHOKAKU-LOCATION	WORKING-CLOSE	DAMAGE-MODEL	forward-starboard/island-adjacent flight deck→upper hangar/aviation-support hit central。machinery/waterline/magazine/avgas catastropheなし。	V26:33;V26:34
+SHOKAKU-REPAIR	WORKING-PLAN	REPAIR-CLOCK	frontline carrier-ready fast Jun5-7/center Jun9-11/slow Jun14-18。	V26:33;V26:34
+SHOKAKU-MI	WORKING-CLOSE	FORCE-STATE	MI combat-present=NO central。MIはShokaku return待ちにしない。	V26:23;V26:33;V26:34
+NEXT-AIRLOSS	OPEN	PRIOR-DISCUSSION-NEXT	Apr29双方のairframe/aircrew loss ledgerをV26:25 defense stateで閉じる。	V26:25;V26:33;V26:34
+APR29-JP-AIRLOSS	WORKING-CLOSE	AIRLOSS	Apr29 Japanese irreversible16: A6M2 4/Gaifu1/D3A5/B5N6; aviation KIA/MIA25 central.	V26:35;V26:36
+APR29-US-AIRLOSS	WORKING-CLOSE	AIRLOSS	Lexington physical air-group writeoff72 central, direct combat20, aviation KIA/MIA~44; majority of surviving aircrew rescued.	V26:35;V26:36
+ZUIKAKU-MI-SERVICEABLE	WORKING-CLOSE	FORCE-STATE	Zuikaku end-May MI serviceable64: Gaifu12/A6M10/D3A20/D4Y2/B5N16/B6N4.	V26:37;V26:38
+ZUIKAKU-MI-READY	WORKING-CLOSE	FORCE-STATE	Zuikaku physical67-69/serviceable64/crewed~62/24h sortie-ready60 central.	V26:37;V26:38
+ZUIKAKU-MI-ORDNANCE	WORKING-CLOSE	FORCE-STATE	Zuikaku Type91=28 / FT=24 carried central.	V26:31;V26:32;V26:37;V26:38
+NEXT-MI-CARRIER-AIR	OPEN	PRIOR-DISCUSSION-NEXT	Akagi/Kaga/Soryu/Hiryu/Ryujo end-May readiness and remaining D4Y/B6N allocationを統合。	V26:23;V26:25;V26:37;V26:38
+NEXT-US-CARRIER-BALANCE	OPEN	PRIOR-DISCUSSION-NEXT	Saratoga readiness + Enterprise/Hornet post-Doolittle returnを閉じる。	V26:21;V26:37;V26:38
+MI-CARRIER-TIMING-JP	WORKING-CLOSE	DEPLOYMENT	Akagi/Soryu/Hiryu Apr21-23 home return; Kaga early-May maintenance; Ryujo May6 release->MI; Zuikaku May10-12 home return; May27 MI sortie central。	V26:39;V26:40
+MI-JP-AIR-TOTAL	WORKING-CLOSE	FINAL-OOB	Six decks serviceable331/24h-ready311: Akagi60/Kaga68/Soryu53/Hiryu54/Zuikaku64/Ryujo32。	V26:39;V26:40;V26:43;V26:44
+MI-US-CARRIER-TIMING	WORKING-CLOSE	DEPLOYMENT	Saratoga Pearl May7 center; Enterprise/Hornet Pearl return May22 center; MI sortie May28-29。	V26:41;V26:42
+MI-US-AIR-TOTAL	WORKING-CLOSE	FINAL-OOB	Enterprise/Hornet/Saratoga serviceable232/24h-ready221; Yorktown absent, Lexington lost。	V26:41;V26:42;V26:43;V26:44
+MI-FINAL-OOB	WORKING-CLOSE	ROLLED-FORWARD	日米carrier/screen/radar/AA/ASW/ordnance/Midway land airをV26:43-44で統合済み。	V26:43;V26:44
+NEXT-MI-GEOMETRY	OPEN	PRIOR-DISCUSSION-NEXT	Jun3-4 starting geometry/search allocation/first contact timing-qualityを再演。	V26:43;V26:44
+MI-START-GEOMETRY	WORKING-CLOSE	COMBAT-GEOMETRY	Jun4 0430 JP core~230-250nm NW Midway; US carrier center~190-220nm NE/E of JP core; Saratoga group15-25nm separated central。	V26:45;V26:46
+MI-US-FIRST-CONTACT	WORKING-CLOSE	ACTOR-KNOWLEDGE	Midway PBY JP carrier-force sighting0530-0545/center0538; moving track by0550-0600。	V26:45;V26:46
+MI-JP-FIRST-CONTACT	WORKING-CLOSE	ACTOR-KNOWLEDGE	D4Y finds Enterprise/Hornet0615-0630/center0622; separate Saratoga group0640-0700/center0650。	V26:45;V26:46
+MI-INFO-RACE	WORKING-CLOSE	COMBAT-GEOMETRY	US first useful carrier-position advantage retained; Japanese carrier-blind interval shortened; both launch-quality by~0700。	V26:45;V26:46
+NEXT-MI-STRIKE-PACKAGES	OPEN	PRIOR-DISCUSSION-NEXT	US first strike + Japanese counterstrike + Midway land-air allocationを閉じる。	V26:45;V26:46
+MI-MIDWAY-FIRST-WAVE	WORKING-CLOSE	STRIKE-PACKAGE	A6M36/D3A36/B5N36=108 fixed-target raid; FT0/Type910 central.	V26:47;V26:48
+MI-US-FIRST-STRIKE	WORKING-CLOSE	STRIKE-PACKAGE	Enterprise56/Hornet55/Saratoga58=169; F4F32/SBD93/TBD44.	V26:47;V26:48
+MI-JP-COUNTERSTRIKE	WORKING-CLOSE	STRIKE-PACKAGE	Three-cell anti-carrier counterstrike132; Type9125/FT25/D3A46.	V26:47;V26:48
+MI-MIDWAY-AIR-COMBAT	WORKING	AIR-COMBAT	Midway fighter irreversible18; Japanese first-wave irreversible7 central.	V26:49;V26:50
+MI-MIDWAY-LAND-ATTACK	WORKING-CLOSE	COMBAT	Land attack irreversible18 and carrier direct hit0 central.	V26:49;V26:50
+MI-US-VALID-RELEASE	WORKING-CLOSE	VALID-RELEASE	US SBD valid70/TBD valid17.	V26:49;V26:50
+MI-JP-VALID-RELEASE	WORKING-CLOSE	VALID-RELEASE	JP D3A valid34/Type91 valid16/FT valid22.	V26:49;V26:50
+MI-DECK-STATE	WORKING-CLOSE	DAMAGE-GUARD	Anti-carrier reserve already launched before full Midway-wave recovery; historical full rearm/deck-clutter state not copied.	V26:49;V26:50
+NEXT-MI-HITS	OPEN	PRIOR-DISCUSSION-NEXT	Direct-hit outcomesをcarrier/weapon別に判定。	V26:49;V26:50
+MI-FT-MULTISTAGE	WORKING-CLOSE	TACTICS	Valid FT22 split8 screen/AA suppression +14 carrier-directed; Atlanta/Portland suppression changes later release geometry.	V26:51;V26:52
+MI-JP-VALID-REVISED	WORKING-CLOSE	VALID-RELEASE	After suppression JP valid D3A37/Type9119/FT22 total, with14 FT carrier-directed.	V26:51;V26:52
+MI-US-HIT-PACKET	WORKING-CLOSE	HIT-PACKET	Akagi2 bombs; Kaga1 bomb+imperfect Mk13; Soryu1; Hiryu1; Zuikaku1; Ryujo0.	V26:53;V26:54
+MI-JP-HIT-PACKET	WORKING-CLOSE	HIT-PACKET	Enterprise4 direct/Hornet3/Saratoga4 including D3A+Type91+FT mixes.	V26:53;V26:54
+MI-FIRST-CYCLE-DAMAGE	WORKING-CLOSE	DAMAGE	JP: Akagi/Kaga/Soryu aviation MK, Hiryu/Zuikaku temporary stop, Ryujo intact. US: all three carriers battle-day aviation MK but afloat central.	V26:55;V26:56
+NEXT-MI-RECOVERY	OPEN	PRIOR-DISCUSSION-NEXT	Returning-aircraft recovery/diversion/ditching/onboard aircraft loss/aircrew rescueを閉じる。	V26:55;V26:56
+MI-MODEL-ROLLBACK	WORKING-CLOSE	NAVIGATION	V26:51-56 are exploratory only; current combat frontier returns to V26:49-50.	V26:57;V26:58
+MI-PREMULTISTAGE-BASELINE	PROVISIONAL	BASELINE	US SBD70/TBD17 and JP D3A34/Type9116/FT22 are pre-multistage baselines.	V26:49;V26:50;V26:57
+NEXT-MI-MODEL	OPEN	PRIOR-DISCUSSION-NEXT	Define phase-by-phase state transitions before revised valid releases and hits.	V26:57;V26:58
+MI-COMBAT-MODEL	WORKING-CLOSE	MODEL	Robust combat input stops at V26:47-48; V26:49-50 numerical outputs are provisional baselines pending state-model replay.	V26:59;V26:60
+GAIFU-ROLE-CARDS	WORKING	TACTICS	Gaifu11 ready split cards: G-E8/3/0, G-B5/5/1, G-D3/7/1 escort/CAP/reserve; G-B planning center only.	V26:61;V26:62
+FT-LOAD-CARDS	WORKING	TACTICS	FT-D/FT-B/FT-S preload cards separate physical load from contact-time target allocation; no fixed screen count.	V26:63;V26:64
+GAIFU-TECH-CORRECTION	WORKING-CLOSE	TECH	Gaifu ~575-600 normal/~595-615 short, 6km6.0-6.8min normal, not Sakufu670-710; mixed-CAP gain reinterpreted accordingly.	V26:65;V26:66
+NEXT-CAP-REPLAY	OPEN	PRIOR-DISCUSSION-NEXT	Run Gaifu allocation cards against actual US arrival sequence and derive revised SBD/TBD release bands.	V26:59;V26:60;V26:61;V26:62;V26:63;V26:64;V26:65;V26:66
+NEXT-FT-REPLAY	OPEN	AFTER-CAP	Run FT load/target cards against updated US defense state and derive revised D3A/Type91/FT release bands.	V26:59;V26:60;V26:61;V26:62;V26:63;V26:64;V26:65;V26:66
+MI-FIGHTER-PERF-AUDIT	WORKING-CLOSE	TECH	A6M2/Gaifu comparison extended to wing/power loading, climb, turn, roll/dive, armament, protection, endurance, carrier ops.	V26:69;V26:70
+GAIFU-NOT-UPGRADE	WORKING-CLOSE	MODEL	Gaifu is not a universal A6M upgrade: faster/better-climbing, but much higher wing loading, overlapping power loading, same MI gun count, no closed protection bonus.	V26:69;V26:70
+A6M-ROLE-STRENGTH	WORKING-CLOSE	MODEL	A6M likely retains sustained-turn, endurance, maturity and deck-support advantages.	V26:69;V26:70
+FIGHTER-OPEN-BOUNDS	OPEN	PRIOR-DISCUSSION-NEXT	Close/bound Gaifu high-speed roll/dive/transient plus worldline A6M climb/accel and both CAP endurance states before replay.	V26:69;V26:70
+GAIFU-CARRIER-RELEASE	WORKING-CLOSE	FORCE-STATE	Apr29/MI Gaifu combat-present0 central; prototype/service evaluation retained, mass carrier service not established.	V26:71;V26:72
 GAIFU-FUEL-LOGISTICS	WORKING-CLOSE	LOGISTICS	Grade-A fuel exists nationally; blocker is shipboard segregated handling + GT maintenance/deck-cycle/unit service release, not national fuel supply.	V16;V26:71
-APR29-REOPEN-GAIFU	OPEN	PRIOR-DISCUSSION-NEXT	Apr29 CarDiv5 defense/losses/Shokaku damageをGaifu抜きで再監査。	V26:33-38;V26:71
-MI-OOB-REOPEN-GAIFU	OPEN	AFTER-APR29	Zuikaku fighters and Japanese MI carrier-air totals/Cell3 escortを再構築。	V26:37-48;V26:71
-A6M-HOMOGENEOUS-CAP	WORKING-CLOSE	MODEL	Worldline A6M improvements narrow Gaifu marginal value; A6M-only CAP gains common fuel/spares/performance/deck/C2 simplicity.	V26:73-74
-APR29-A6M-POOL	WORKING	FORCE-STATE	Serviceable30-34 center32; ready29-32; no one-for-one Gaifu replacement.	V26:75-76
-APR29-A16	WORKING	REFERENCE	Balanced reference escort16/defense16 at pool32; total strike70 with D3A27/B5N27.	V26:75-76
-APR29-CARDS	WORKING	SENSITIVITY	A14 defense-heavy and A18 offense-heavy retained for valid-release sensitivity.	V26:75-76
-NEXT-APR29-VALID	OPEN	PRIOR-DISCUSSION-NEXT	Recompute both directions to valid-release bands only; no hits yet.	V26:75-76
-A6M-RADIO-EMI	WORKING-CLOSE	TECH	GT control experiment accelerates ignition shielding/bonding/filtering; existing fighter radio becomes more intelligible/reliable, not fundamentally longer-range/networked.	V7;V26:77-78
-A6M-FORMATION-DOCTRINE	WORKING-CLOSE	DOCTRINE	No general IJN fighter formation/coordinated-firing doctrine reform is closed; retain historical-type tactical baseline.	V7;V26:77-78
-A6M-FIGHTER-DIRECTION	WORKING-CLOSE	DOCTRINE	Air-control gain is detect/report/plot/alert/launch/coarse vector; no precision altitude/continuous tracking/mature carrier GCI.	V26:23;V26:25;V26:77-78
-APR29-RADIO-CORRECTION	OPEN	PRIOR-DISCUSSION-NEXT	A14/A16/A18 replay must remove unsupported formation-handling multiplier and retain only supported comms/FCS/warning gains.	V26:75-78
-COMMS-DOCTRINE-DIFFUSION	WORKING-CLOSE	DOCTRINE	1932-42 usable radio + continuous war creates procedural/tactical evolution; V26:77 historical-static reading superseded in part.	V26:79-80
-SHOTAI-1942	WORKING-CLOSE	DOCTRINE	Three-plane shotai/nine-plane chutai retained, but leader-level split/reform, high-cover, attack sequencing and regroup are radio-assisted by spring1942.	V26:79-80
-CARRIER-CAP-C2	WORKING-CLOSE	MODEL	Carrier division can prebrief sectors/altitude/relief, maintain group-level status via CAP-leader reports and issue broad retask; no individual tracking/precision GCI.	V26:79-82
-COM-CMD-STATES	WORKING-CLOSE	MODEL	First-line A6M uses COM2 normally when serviceable; CMD2 normal and CMD3 pre/early-contact possible, degrading in dense merge.	V26:79-82
-CAP-DISCIPLINE-STATES	WORKING-CLOSE	MODEL	Use D3 group discipline -> D2 shotai -> D1 local -> D0 fragmented; improved comms slows collapse but does not eliminate aggressive pursuit/dogpile.	V26:81-82
-NEXT-APR29-C2-VALID	OPEN	PRIOR-DISCUSSION-NEXT	Run A14/A16/A18 through warning/CAP/COM-CMD-D/F4F/SBD-TBD/AA to valid-release bands only; no hits.	V26:75-82
-RADIO-DOCTRINE-DIFFUSION	WORKING-CLOSE	DOCTRINE	1932-42 communications gain diffuses hardware->procedure->tactical employment->command architecture; continuous combat prevents static historical-type execution.	V26:79-80
-SHOTAI-SKELETON	WORKING-CLOSE	DOCTRINE	Three-plane shotai/nine-plane chutai skeleton retained; radio enables task split/cover/reserve/rejoin/staggered passes rather than finger-four or synchronized fire.	V26:79-80
-CARRIER-C2-1942	WORKING-CLOSE	MODEL	Ship/cell plot->CAP leader->shotai leader; Type21 adds coarse sensor cue to pre-existing procedure, not new precision GCI.	V26:79-82
-APR29-CARDS-CORRECTED	WORKING-CLOSE	TACTICS	A14/A16/A18 superseded; use A12/A15/A18 by shotai increments. A15 reference, total strike69.	V26:81-82
-NEXT-APR29-VALID	OPEN	PRIOR-DISCUSSION-NEXT	Run A12/A15/A18 both directions to valid-release bands; stop before hits.	V26:81-82
-COMMS-CAP-RECONCILE	WORKING-CLOSE	AUTHORITY	V26:83 reconciles duplicate V26:79-82 records and is current authority for communications/doctrine and Apr29 CAP state.	V26:83-84
-APR29-ESCORT-CARDS-REVISED	WORKING-CLOSE	TACTICS	Use shotai-compatible A12/A15/A18; A15 reference. V26:75-76 A14/A16 tactical cards superseded.	V26:81;V26:83-84
-APR29-A15	WORKING	REFERENCE	A6M15 escort + D3A27 + B5N27 =69; ~17 A6M serviceable remain for CAP/relief at pool32.	V26:83-84
-APR29-CAP-C2-RECONCILED	WORKING-CLOSE	MODEL	COM2 normal, CMD2 normal/CMD3 pre-early contact possible; D3-D0 discipline states; controller tracks shotai/chutai status, not individuals.	V26:83-84
-NEXT-APR29-VALID-RECONCILED	OPEN	PRIOR-DISCUSSION-NEXT	Run A12/A15/A18 both directions to loss/abort/valid-release bands only; stop before hits.	V26:83-84
-FIGHTER-CELL-SIZE	WORKING-CLOSE	DOCTRINE	Spring1942 carrier central retains3-aircraft shotai but uses6-aircraft/two-shotai controlled tactical package; nine-aircraft chutai can act as6+3.	V26:85-86
-FOUR-PLANE-TRIAL	WORKING	SENSITIVITY	Four-aircraft2+2 trials plausible from1940H2-41 selected units, but full benefit requires pair-mutual-support doctrine/training beyond radio reliability.	V26:85-86
-APR29-CELL-MAP	WORKING-CLOSE	MODEL	A12=6+6; A15=6+6+3 reference; A18=6+6+6 or6+6+3+3.	V26:85-86
-AVIATION-COMMAND-ARCH	WORKING-CLOSE	MODEL	Separate operational mission command, ship/base air-ops, airborne tactical command and fighter-direction control.	V26:87-88
-AIRBORNE-AUTHORITY	WORKING-CLOSE	DOCTRINE	After contact, overall strike/type/package/shotai leaders own local attack geometry within prebriefed intent; below-side exact-geometry micromanagement is rejected.	V26:87-88
-BELOW-SIDE-AUTHORITY	WORKING-CLOSE	DOCTRINE	Force/air staff owns objective/priority/reserve; carrier/base owns deck/readiness; plot/controller owns warning/group cueing.	V26:87-88
-B-A-CMD	WORKING-CLOSE	MODEL	Use B-CMD0-3 and A-CMD0-3 plus explicit handoff latency/failure; B2/A2 normal prepared state, B3/A3 temporary high-function state.	V26:87-88
-NEXT-APR29-COMMAND	OPEN	PRIOR-DISCUSSION-NEXT	Instantiate command/handoff states inside A12/A15/A18 before valid-release recalculation.	V26:87-88
-PREMO-COMBAT-REAUDIT	WORKING-CLOSE	AUTHORITY	Tier1 re-audit Enterprise/Wake-Saratoga/Apr5 ForceA/Apr9 Yorktown/Apr29; preserve robust search/contact/force-state inputs.	V26:89-90
-ENTERPRISE-FIRST-PEER	WORKING-CLOSE	INTERPRETATION	Enterprise is first clear carrier-fighter peer contest under revised doctrine; 54-aircraft strike anchor retained but losses/valid releases/hits reopen.	V26:16-17;V26:89-90
-WAKE-FIRST-TWOWAY	WORKING-CLOSE	INTERPRETATION	Wake/Saratoga Dec22 is first true two-way carrier exchange; both strike penetration chains reopen.	V26:07;V26:17;V26:89-90
+APR29-REOPEN-GAIFU	OPEN	PRIOR-DISCUSSION-NEXT	Apr29 CarDiv5 defense/losses/Shokaku damageをGaifu抜きで再監査。	V26:33;V26:34;V26:35;V26:36;V26:37;V26:38;V26:71
+MI-OOB-REOPEN-GAIFU	OPEN	AFTER-APR29	Zuikaku fighters and Japanese MI carrier-air totals/Cell3 escortを再構築。	V26:37;V26:38;V26:39;V26:40;V26:41;V26:42;V26:43;V26:44;V26:45;V26:46;V26:47;V26:48;V26:71
+A6M-HOMOGENEOUS-CAP	WORKING-CLOSE	MODEL	Worldline A6M improvements narrow Gaifu marginal value; A6M-only CAP gains common fuel/spares/performance/deck/C2 simplicity.	V26:73;V26:74
+APR29-A6M-POOL	WORKING	FORCE-STATE	Serviceable30-34 center32; ready29-32; no one-for-one Gaifu replacement.	V26:75;V26:76
+APR29-A16	WORKING	REFERENCE	Balanced reference escort16/defense16 at pool32; total strike70 with D3A27/B5N27.	V26:75;V26:76
+APR29-CARDS	WORKING	SENSITIVITY	A14 defense-heavy and A18 offense-heavy retained for valid-release sensitivity.	V26:75;V26:76
+NEXT-APR29-VALID	OPEN	PRIOR-DISCUSSION-NEXT	Recompute both directions to valid-release bands only; no hits yet.	V26:75;V26:76
+A6M-RADIO-EMI	WORKING-CLOSE	TECH	GT control experiment accelerates ignition shielding/bonding/filtering; existing fighter radio becomes more intelligible/reliable, not fundamentally longer-range/networked.	V7;V26:77;V26:78
+A6M-FORMATION-DOCTRINE	WORKING-CLOSE	DOCTRINE	No general IJN fighter formation/coordinated-firing doctrine reform is closed; retain historical-type tactical baseline.	V7;V26:77;V26:78
+A6M-FIGHTER-DIRECTION	WORKING-CLOSE	DOCTRINE	Air-control gain is detect/report/plot/alert/launch/coarse vector; no precision altitude/continuous tracking/mature carrier GCI.	V26:23;V26:25;V26:77;V26:78
+APR29-RADIO-CORRECTION	OPEN	PRIOR-DISCUSSION-NEXT	A14/A16/A18 replay must remove unsupported formation-handling multiplier and retain only supported comms/FCS/warning gains.	V26:75;V26:76;V26:77;V26:78
+COMMS-DOCTRINE-DIFFUSION	WORKING-CLOSE	DOCTRINE	1932-42 usable radio + continuous war creates procedural/tactical evolution; V26:77 historical-static reading superseded in part.	V26:79;V26:80
+SHOTAI-1942	WORKING-CLOSE	DOCTRINE	Three-plane shotai/nine-plane chutai retained, but leader-level split/reform, high-cover, attack sequencing and regroup are radio-assisted by spring1942.	V26:79;V26:80
+CARRIER-CAP-C2	WORKING-CLOSE	MODEL	Carrier division can prebrief sectors/altitude/relief, maintain group-level status via CAP-leader reports and issue broad retask; no individual tracking/precision GCI.	V26:79;V26:80;V26:81;V26:82
+COM-CMD-STATES	WORKING-CLOSE	MODEL	First-line A6M uses COM2 normally when serviceable; CMD2 normal and CMD3 pre/early-contact possible, degrading in dense merge.	V26:79;V26:80;V26:81;V26:82
+CAP-DISCIPLINE-STATES	WORKING-CLOSE	MODEL	Use D3 group discipline -> D2 shotai -> D1 local -> D0 fragmented; improved comms slows collapse but does not eliminate aggressive pursuit/dogpile.	V26:81;V26:82
+NEXT-APR29-C2-VALID	OPEN	PRIOR-DISCUSSION-NEXT	Run A14/A16/A18 through warning/CAP/COM-CMD-D/F4F/SBD-TBD/AA to valid-release bands only; no hits.	V26:75;V26:76;V26:77;V26:78;V26:79;V26:80;V26:81;V26:82
+RADIO-DOCTRINE-DIFFUSION	WORKING-CLOSE	DOCTRINE	1932-42 communications gain diffuses hardware->procedure->tactical employment->command architecture; continuous combat prevents static historical-type execution.	V26:79;V26:80
+SHOTAI-SKELETON	WORKING-CLOSE	DOCTRINE	Three-plane shotai/nine-plane chutai skeleton retained; radio enables task split/cover/reserve/rejoin/staggered passes rather than finger-four or synchronized fire.	V26:79;V26:80
+CARRIER-C2-1942	WORKING-CLOSE	MODEL	Ship/cell plot->CAP leader->shotai leader; Type21 adds coarse sensor cue to pre-existing procedure, not new precision GCI.	V26:79;V26:80;V26:81;V26:82
+APR29-CARDS-CORRECTED	WORKING-CLOSE	TACTICS	A14/A16/A18 superseded; use A12/A15/A18 by shotai increments. A15 reference, total strike69.	V26:81;V26:82
+NEXT-APR29-VALID	OPEN	PRIOR-DISCUSSION-NEXT	Run A12/A15/A18 both directions to valid-release bands; stop before hits.	V26:81;V26:82
+COMMS-CAP-RECONCILE	WORKING-CLOSE	AUTHORITY	V26:83 reconciles duplicate V26:79-82 records and is current authority for communications/doctrine and Apr29 CAP state.	V26:83;V26:84
+APR29-ESCORT-CARDS-REVISED	WORKING-CLOSE	TACTICS	Use shotai-compatible A12/A15/A18; A15 reference. V26:75-76 A14/A16 tactical cards superseded.	V26:81;V26:83;V26:84
+APR29-A15	WORKING	REFERENCE	A6M15 escort + D3A27 + B5N27 =69; ~17 A6M serviceable remain for CAP/relief at pool32.	V26:83;V26:84
+APR29-CAP-C2-RECONCILED	WORKING-CLOSE	MODEL	COM2 normal, CMD2 normal/CMD3 pre-early contact possible; D3-D0 discipline states; controller tracks shotai/chutai status, not individuals.	V26:83;V26:84
+NEXT-APR29-VALID-RECONCILED	OPEN	PRIOR-DISCUSSION-NEXT	Run A12/A15/A18 both directions to loss/abort/valid-release bands only; stop before hits.	V26:83;V26:84
+FIGHTER-CELL-SIZE	WORKING-CLOSE	DOCTRINE	Spring1942 carrier central retains3-aircraft shotai but uses6-aircraft/two-shotai controlled tactical package; nine-aircraft chutai can act as6+3.	V26:85;V26:86
+FOUR-PLANE-TRIAL	WORKING	SENSITIVITY	Four-aircraft2+2 trials plausible from1940H2-41 selected units, but full benefit requires pair-mutual-support doctrine/training beyond radio reliability.	V26:85;V26:86
+APR29-CELL-MAP	WORKING-CLOSE	MODEL	A12=6+6; A15=6+6+3 reference; A18=6+6+6 or6+6+3+3.	V26:85;V26:86
+AVIATION-COMMAND-ARCH	WORKING-CLOSE	MODEL	Separate operational mission command, ship/base air-ops, airborne tactical command and fighter-direction control.	V26:87;V26:88
+AIRBORNE-AUTHORITY	WORKING-CLOSE	DOCTRINE	After contact, overall strike/type/package/shotai leaders own local attack geometry within prebriefed intent; below-side exact-geometry micromanagement is rejected.	V26:87;V26:88
+BELOW-SIDE-AUTHORITY	WORKING-CLOSE	DOCTRINE	Force/air staff owns objective/priority/reserve; carrier/base owns deck/readiness; plot/controller owns warning/group cueing.	V26:87;V26:88
+B-A-CMD	WORKING-CLOSE	MODEL	Use B-CMD0-3 and A-CMD0-3 plus explicit handoff latency/failure; B2/A2 normal prepared state, B3/A3 temporary high-function state.	V26:87;V26:88
+NEXT-APR29-COMMAND	OPEN	PRIOR-DISCUSSION-NEXT	Instantiate command/handoff states inside A12/A15/A18 before valid-release recalculation.	V26:87;V26:88
+PREMO-COMBAT-REAUDIT	WORKING-CLOSE	AUTHORITY	Tier1 re-audit Enterprise/Wake-Saratoga/Apr5 ForceA/Apr9 Yorktown/Apr29; preserve robust search/contact/force-state inputs.	V26:89;V26:90
+ENTERPRISE-FIRST-PEER	WORKING-CLOSE	INTERPRETATION	Enterprise is first clear carrier-fighter peer contest under revised doctrine; 54-aircraft strike anchor retained but losses/valid releases/hits reopen.	V26:16;V26:17;V26:89;V26:90
+WAKE-FIRST-TWOWAY	WORKING-CLOSE	INTERPRETATION	Wake/Saratoga Dec22 is first true two-way carrier exchange; both strike penetration chains reopen.	V26:07;V26:17;V26:89;V26:90
 ENTERPRISE-FT-DOCTRINE-PROVENANCE	WORKING-CLOSE	SUPERSESSION	Enterprise does not discover FT+Type91 mixed doctrine. Prewar1939-40 exercises already compare FT-first/Type91-first/multi-axis/suppression; Enterprise is first major live-carrier validation/stress test.	V26:17;V26:29;V26:89
 FORCEZ-FT-DOCTRINE-PROVENANCE	WORKING-CLOSE	SUPERSESSION	Force Z is early combat refinement using Enterprise AAR, not first deliberate separated FT/Type91 attack.	V26:17;V26:29
-ATTACK-SYNC	WORKING-CLOSE	MODEL	Separate planned from achieved multi-axis synchronization; use T/R/V/E cues and SYNC0-3 across S1-S4 phases.	V26:91-92
-SYNC-COMMAND	WORKING-CLOSE	MODEL	COM/A-CMD affects ability to report delay, hold/advance an axis, change phase order and cancel stale plans; no generic hit-rate bonus.	V26:87;V26:91-92
-ENTERPRISE-SYNC-STRESS	OPEN	PRIOR-DISCUSSION-NEXT	Enterprise is first major live stress test of prewar FT/Type91 mixed doctrine; resolve synchronization before valid release/hits.	V26:17;V26:29;V26:89-92
-ENTERPRISE-RESTART	WORKING-CLOSE	AUTHORITY	Old Enterprise loss/valid-release/hit outputs are not inherited; battle restarts from contact/radar/force-state inputs.	V26:93-94
-ENTERPRISE-F4F	WORKING	FORCE-STATE	F4F active~19 anchor; serviceable15-18 center17; main outer intercept10-12 plus2-4 local/late possible.	Historical DANFS;V26:93-94
-ENTERPRISE-JP54	WORKING-CLOSE	FORCE-STATE	54 center=18A6M+18D3A+18B5N, chosen for one-carrier attack under Lexington uncertainty/reserve, not hindsight kill guarantee.	V26:16-17;V26:93-94
-ENTERPRISE-A6M-6X3	WORKING-CLOSE	TACTICS	JF1 high/free6 + JF2 D3A-cover6 + JF3 B5N-cover6.	V26:85-94
-ENTERPRISE-SYNC-START	WORKING-CLOSE	MODEL	Precontact COM2, A-CMD2-3, S1/S2 SYNC2 central; F4F intercept is first major synchronization shock.	V26:91-94
-SESSION-CLOSE-V26-94	WORKING-CLOSE	HANDOFF	Session closes with Enterprise restart as next gate; no new combat outcome fixed.	V26:93-94
-ENTERPRISE-STRIKE-SIZE-REOPEN	OPEN	PRIOR-DISCUSSION-NEXT	Old72 and later54 anti-Enterprise packages are comparison branches only; reconstruct post-Pearl Kido Butai state before choosing commitment.	V26:02-03;V26:16-17;V26:93-94
+ATTACK-SYNC	WORKING-CLOSE	MODEL	Separate planned from achieved multi-axis synchronization; use T/R/V/E cues and SYNC0-3 across S1-S4 phases.	V26:91;V26:92
+SYNC-COMMAND	WORKING-CLOSE	MODEL	COM/A-CMD affects ability to report delay, hold/advance an axis, change phase order and cancel stale plans; no generic hit-rate bonus.	V26:87;V26:91;V26:92
+ENTERPRISE-SYNC-STRESS	OPEN	PRIOR-DISCUSSION-NEXT	Enterprise is first major live stress test of prewar FT/Type91 mixed doctrine; resolve synchronization before valid release/hits.	V26:17;V26:29;V26:89;V26:90;V26:91;V26:92
+ENTERPRISE-RESTART	WORKING-CLOSE	AUTHORITY	Old Enterprise loss/valid-release/hit outputs are not inherited; battle restarts from contact/radar/force-state inputs.	V26:93;V26:94
+ENTERPRISE-F4F	WORKING	FORCE-STATE	F4F active~19 anchor; serviceable15-18 center17; main outer intercept10-12 plus2-4 local/late possible.	Historical DANFS;V26:93;V26:94
+ENTERPRISE-JP54	WORKING-CLOSE	FORCE-STATE	54 center=18A6M+18D3A+18B5N, chosen for one-carrier attack under Lexington uncertainty/reserve, not hindsight kill guarantee.	V26:16;V26:17;V26:93;V26:94
+ENTERPRISE-A6M-6X3	WORKING-CLOSE	TACTICS	JF1 high/free6 + JF2 D3A-cover6 + JF3 B5N-cover6.	V26:85;V26:86;V26:87;V26:88;V26:89;V26:90;V26:91;V26:92;V26:93;V26:94
+ENTERPRISE-SYNC-START	WORKING-CLOSE	MODEL	Precontact COM2, A-CMD2-3, S1/S2 SYNC2 central; F4F intercept is first major synchronization shock.	V26:91;V26:92;V26:93;V26:94
+SESSION-CLOSE-V26-94	WORKING-CLOSE	HANDOFF	Session closes with Enterprise restart as next gate; no new combat outcome fixed.	V26:93;V26:94
+ENTERPRISE-STRIKE-SIZE-REOPEN	OPEN	PRIOR-DISCUSSION-NEXT	Old72 and later54 anti-Enterprise packages are comparison branches only; reconstruct post-Pearl Kido Butai state before choosing commitment.	V26:02;V26:03;V26:16;V26:17;V26:93;V26:94
 IO-CURRENT-REPLAY	BRANCH-WORKING	CURRENT-DISCUSSION	Independent H7Y/H6K Indian Ocean C-operation replay: Mar29 H7Y sortie and Mar30 H6K regular 3 plus extra 1, British main force not contacted; V26 canon clock unchanged.	branches/indian-ocean-recon-2026-10-22/00-SESSION-HANDOFF.md;branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md
 IO-NEXT-31MAR	OPEN	CURRENT-NEXT	Choose Mar31 IJN search assets, routes and readiness from Mar30 night Japanese information, then compare British true state; shadow, extra flying boat and Addu inferences are conditional.	branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md;branches/indian-ocean-recon-2026-10-22/03-DECISION-REGISTER.tsv
 IO-AIRCRAFT-PROJECTIONS	DESIGN-WORKING	PARALLEL-CONTEXT	E6/E7 jet recon and D4Y/B6N 1942-43 factory receipt plans remain planned specifications, not Mar42 C-operation combat aircraft nor V26 1941 OOB.	branches/indian-ocean-recon-2026-10-22/01-AIRCRAFT-AND-PROCUREMENT-2026-10-22.md

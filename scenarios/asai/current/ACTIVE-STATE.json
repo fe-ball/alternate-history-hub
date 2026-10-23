@@ -137,7 +137,7 @@
       "2026-10-22/23 isolated Indian Ocean search branch: Mar29 H7Y 1 search no capital-force contact; Mar30 H6K 3 regular+1 extra no capital-force contact. Local only."
     ],
     "next_gate": "2026-10-23 CURRENT SELECTED DISCUSSION: Indian Ocean H7Y/H6K separate replay branch; through 1942-03-30 evening. Next Mar31 IJN orders from Japanese information only, then compare British true tracks/weather and conditional shadow/follow-on. Addu unknown. V26 canon 1941-12-07 14:30 HST unchanged. Enterprise and TP separate OPEN threads.",
-    "next_gate_source": "branches/indian-ocean-recon-2026-10-22/00-SESSION-HANDOFF.md; branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md",
+    "next_gate_source": "branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md;branches/indian-ocean-recon-2026-10-22/03-DECISION-REGISTER.tsv",
     "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 remains open, but upstream carrier-air combat is now reopened back to Dec7 Enterprise because later doctrine/learning depends on it. V26 canon remains 1941-12-07 14:30 HST.",
     "previous_next_gate_enterprise": "Enterprise restart: first reconstruct Kido Butai post-Pearl aircraft physical/serviceable/ready/recovery state and resolve 72-vs54-class strike commitment under Lexington-unlocated CAP/reserve requirements. Then run the command/synchronization-aware battle to valid-release bands only; no hits."
   },
@@ -498,6 +498,38 @@
     "V26:100": {
       "path": "records/V26/100-POST-V26-2026-10-19-H7Y-E6B-TWIN-DEPLOYMENT-WORKING-REGISTER.tsv",
       "blob_sha": "e62eac26a4fd9c5bcd6c784826c5a5e96314f4da"
+    },
+    "V26:79-ALT": {
+      "path": "records/V26/79-POST-V26-COMMUNICATIONS-TO-FIGHTER-DOCTRINE-DIFFUSION-REAUDIT-1932-1942-2026-10-08.md",
+      "blob_sha": "464ee6b42996c31aa71ee089309835d010d4f996"
+    },
+    "V26:80-ALT": {
+      "path": "records/V26/80-POST-V26-COMMS-FIGHTER-DOCTRINE-TIMELINE-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "1d08887559b1ecf570bc4db28422fa2ee1a87d05"
+    },
+    "V26:81-ALT": {
+      "path": "records/V26/81-POST-V26-APR29-CARDIV5-CAP-COMMAND-COMMUNICATIONS-STATE-CARD-2026-10-08.md",
+      "blob_sha": "8873ae2544151191b3638fea8fe7e9ef7aaf98dd"
+    },
+    "V26:82-ALT": {
+      "path": "records/V26/82-POST-V26-APR29-CAP-C2-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "04346e03852466f3007be8028e1b0e71aa45c252"
+    },
+    "V26:89-ALT": {
+      "path": "records/V26/89-POST-V26-PRE-MO-FIGHTER-COMBAT-RETROSPECTIVE-AUDIT-FIRST-PEER-CARRIER-GATE-2026-10-08.md",
+      "blob_sha": "88c784fe352461c6baa0dc07b3cfb8b89449f1cb"
+    },
+    "V26:90-ALT": {
+      "path": "records/V26/90-POST-V26-PRE-MO-FIGHTER-COMBAT-RETROSPECTIVE-REGISTER-2026-10-08.tsv",
+      "blob_sha": "e7d624d5dd4075fba7418340e2491378a59492b4"
+    },
+    "V26:93-ALT": {
+      "path": "records/V26/93-POST-V26-ENTERPRISE-BATTLE-RESTART-PRECOMBAT-COMMAND-FORCE-SYNC-STATE-2026-10-08.md",
+      "blob_sha": "feb2072373c8b5d8cd5fbcabadf992a605f9abe9"
+    },
+    "V26:94-ALT": {
+      "path": "records/V26/94-POST-V26-ENTERPRISE-PRECOMBAT-STATE-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "d65a6eededdebaad8fca365dd511e0c2a789f771"
     }
   },
   "lineage_sources": [

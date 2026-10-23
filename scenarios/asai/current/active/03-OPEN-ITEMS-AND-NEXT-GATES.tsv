@@ -1,19 +1,19 @@
 priority	id	source_status	navigation_role	position	sources
-0	IO-BRANCH-CURRENT	BRANCH-WORKING	CURRENT-NEXT	1942-03-30夕刻までのH7Y/H6K追加索敵は英主力未発見。3/31の日本側索敵配分から再開。アッドゥや英艦隊の実位置を予知させない。V26正本時計不変。	branches/indian-ocean-recon-2026-10-22/00-SESSION-HANDOFF.md;branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md
+0	IO-BRANCH-CURRENT	BRANCH-WORKING	CURRENT-DISCUSSION	1942-03-30夕刻までのH7Y/H6K追加索敵は英主力未発見。3/31の日本側索敵配分から再開。アッドゥや英艦隊の実位置を予知させない。V26正本時計不変。	branches/indian-ocean-recon-2026-10-22/00-SESSION-HANDOFF.md;branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md
 1	IO-SEARCH-MAR31	OPEN	CURRENT-NEXT	30日夜の日本側情報・H6K機体とH7Y乗員の整備休養・燃料・発進地・時間から31日の出撃線を決定。	branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md;branches/indian-ocean-recon-2026-10-22/03-DECISION-REGISTER.tsv
 2	IO-CONTACT-FOLLOWON	OPEN	AFTER-SEARCH	英側実位置と雲・警戒・時間を照合した実接触がある場合のみ送り狼とH6K転用／次日増派、商船航路からの基地推定を評価。	branches/indian-ocean-recon-2026-10-22/03-DECISION-REGISTER.tsv
-90	CURRENT-RESUME	OPEN	OTHER-THREAD-ENTERPRISE	V26:93-94でsession close。次回はEnterprise戦を一から再監査。まずPearl二波後Kido Butaiのphysical/serviceable/ready/recoveryを再構築し、旧72機案/後54機案を固定せずstrike commitmentを再決定。
-1	ENTERPRISE-DEC7	OPEN	OTHER-THREAD-ENTERPRISE	A6M18 package、US radar/CAP、A-CMD/B-CMD/D、D3A/B5N cohesion/valid-releaseを再導出。hits前で停止。	V26:16-17;V26:89-90
-2	FORCEZ-COMMAND	WORKING	AFTER-ENTERPRISE	Peer fighter battleではない。Attack-airborne command / FT-Type91 sequencingの説明を再監査。	V26:16-17;V26:89
+90	CURRENT-RESUME	OPEN	OTHER-THREAD-ENTERPRISE	V26:93-94でsession close。次回はEnterprise戦を一から再監査。まずPearl二波後Kido Butaiのphysical/serviceable/ready/recoveryを再構築し、旧72機案/後54機案を固定せずstrike commitmentを再決定。	V26:93;V26:94
+1	ENTERPRISE-DEC7	OPEN	OTHER-THREAD-ENTERPRISE	A6M18 package、US radar/CAP、A-CMD/B-CMD/D、D3A/B5N cohesion/valid-releaseを再導出。hits前で停止。	V26:16;V26:17;V26:89;V26:90
+2	FORCEZ-COMMAND	WORKING	AFTER-ENTERPRISE	Peer fighter battleではない。Attack-airborne command / FT-Type91 sequencingの説明を再監査。	V26:16;V26:17;V26:89
 3	WAKE-SARATOGA	OPEN	HIGH	Enterpriseで観測されたlessonのみ反映し、Dec22双方carrier-air C2/valid releaseを再演。	V26:07;V26:17;V26:89
 4	FEB20-LEXINGTON	OPEN	MODERATE	US radar/F4F vs G4M strike command / FT valid-release再監査。非対称戦。	V26:17;V26:21;V26:89
 5	LAE-MAR10	OPEN	LOW-MODERATE	小規模A6M CAPのbase-control/interceptを再監査。戦役結果へのleverは小さい。	V26:17;V26:89
 6	FORCEA-APR5	OPEN	HIGH	A6M18=6+6+6 vs British mixed radar/CAPを再演しvalid releases/hitsを再OPEN。	V26:19;V26:89
 7	YORKTOWN-APR9	OPEN	HIGH	A6M12=6+6 vs Yorktown radar/CAP。旧15/7/8 valid releaseはprovisional。	V26:19;V26:21;V26:89
 8	DOOLITTLE-C2	OPEN	MODERATE	Local observer/plot/readiness/group-vectorを新doctrineで再監査。Nationwide precision GCIなし。	V26:23;V26:89
-9	APR29-CARDIV5	OPEN	AFTER-UPSTREAM	Gaifu0/A6M-only/A12-A15-A18を、上流実戦lesson反映後に再演。	V26:71-90
-10	PEARL-MAIN	WORKING	LOW	Broad outcome stable; generic formation bonus wordingのみ要補正。数値再演はlow priority。	V26:02-03;V26:89
-11	MI-COMBAT	OPEN	AFTER-MO-REBUILD	MOまでの上流再演とMI OOB再構築後に復帰。	V26:89-90
-8	PREMO-COMBAT-REAUDIT	WORKING-CLOSE	AUTHORITY	Tier1: Enterprise, Wake/Saratoga, Apr5 Force A, Apr9 Yorktown, Apr29。Enterpriseがfirst clear carrier-fighter peer contest、Wake/Saratogaがfirst two-way carrier exchange。	V26:89-90
-9	ATTACK-SYNCHRONIZATION	WORKING-CLOSE	MODEL	T/R/V/E cue + SYNC0-3をassembly/target acquisition/commitment/final release別に追う。CAP/AAはkillだけでなくdelay/displacement/desyncで攻撃を崩せる。	V26:91-92
-10	ENTERPRISE-RESTART	WORKING-CLOSE	PRIOR-DISCUSSION-NEXT	54機JP strike、F4F15-18 svc center17、main intercept10-12。A6M18=6+6+6、precontact COM2/A-CMD2-3/SYNC2。外周迎撃から再演。	V26:93-94
+9	APR29-CARDIV5	OPEN	AFTER-UPSTREAM	Gaifu0/A6M-only/A12-A15-A18を、上流実戦lesson反映後に再演。	V26:71;V26:72;V26:73;V26:74;V26:75;V26:76;V26:77;V26:78;V26:79;V26:80;V26:81;V26:82;V26:83;V26:84;V26:85;V26:86;V26:87;V26:88;V26:89;V26:90
+10	PEARL-MAIN	WORKING	LOW	Broad outcome stable; generic formation bonus wordingのみ要補正。数値再演はlow priority。	V26:02;V26:03;V26:89
+11	MI-COMBAT	OPEN	AFTER-MO-REBUILD	MOまでの上流再演とMI OOB再構築後に復帰。	V26:89;V26:90
+8	PREMO-COMBAT-REAUDIT	WORKING-CLOSE	AUTHORITY	Tier1: Enterprise, Wake/Saratoga, Apr5 Force A, Apr9 Yorktown, Apr29。Enterpriseがfirst clear carrier-fighter peer contest、Wake/Saratogaがfirst two-way carrier exchange。	V26:89;V26:90
+9	ATTACK-SYNCHRONIZATION	WORKING-CLOSE	MODEL	T/R/V/E cue + SYNC0-3をassembly/target acquisition/commitment/final release別に追う。CAP/AAはkillだけでなくdelay/displacement/desyncで攻撃を崩せる。	V26:91;V26:92
+10	ENTERPRISE-RESTART	WORKING-CLOSE	PRIOR-DISCUSSION-NEXT	54機JP strike、F4F15-18 svc center17、main intercept10-12。A6M18=6+6+6、precontact COM2/A-CMD2-3/SYNC2。外周迎撃から再演。	V26:93;V26:94
