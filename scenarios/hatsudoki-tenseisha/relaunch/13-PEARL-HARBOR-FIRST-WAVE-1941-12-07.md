@@ -39,6 +39,10 @@ The aircraft retains the Zero family’s low-speed maneuverability, climb, accel
 - D3A late standard remains the dive bomber; essentially 1941-class
 - B6N and D4Y are not combat-deployed in the opening strike
 
+### 2026-10-23 supplemental CLOSED — H7Y independent Wotje scout
+
+[42](42-R3-H7Y-GAKU-SPECIAL-RECON-1937-1942-PEARL-CLOSED.md)でユーザー承認したH7Y岳二発・92oct一機は、**1941-12-07 HSTの第一波攻撃開始後にオアフ西方海域を索敵**し、ウォッジェへ帰還する。作戦開始より前に基地から長距離出発するが、奇襲開始前の港湾近接偵察・無用の無線発信は行わない。確実な敵艦隊接触なし、追加の対艦戦果・奇襲露見なし。**本台帳の第一波約183機、戦果・航空戦・搭乗員損耗には含めない**。H7Yの30時間級適性は任務限定で認めるが、約7,700～8,100kmの詳細航続は推算（PROVISIONAL）。[14]後続台帳の第三次攻撃なしを変更しない。
+
 ## 2. First-wave organization
 
 Use broadly historical first-wave size and target logic:
