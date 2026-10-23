@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "navigation_revision": "2026-10-23",
+  "navigation_revision": "2026-10-23-adopted-design-program",
   "kind": "NAVIGATION-ONLY-NO-CANON-PROMOTION",
   "scenario_id": "asai",
   "repository": "fe-ball/alternate-history-hub",
@@ -134,7 +134,8 @@
       "Multi-axis attack synchronization / communications-confidence model V26:91-92",
       "Enterprise battle restart precombat command/force/synchronization state V26:93-94",
       "Session close / Enterprise restart handoff V26:93-94",
-      "2026-10-22/23 isolated Indian Ocean search branch: Mar29 H7Y 1 search no capital-force contact; Mar30 H6K 3 regular+1 extra no capital-force contact. Local only."
+      "2026-10-22/23 isolated Indian Ocean search branch: Mar29 H7Y 1 search no capital-force contact; Mar30 H6K 3 regular+1 extra no capital-force contact. Local only.",
+      "2026-10-23 user-approved aviation design and 1942-43 procurement planning promoted to DESIGN-CANON and APPROVED-PLAN; historical V26 unchanged."
     ],
     "next_gate": "2026-10-23 CURRENT SELECTED DISCUSSION: Indian Ocean H7Y/H6K separate replay branch; through 1942-03-30 evening. Next Mar31 IJN orders from Japanese information only, then compare British true tracks/weather and conditional shadow/follow-on. Addu unknown. V26 canon 1941-12-07 14:30 HST unchanged. Enterprise and TP separate OPEN threads.",
     "next_gate_source": "branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md;branches/indian-ocean-recon-2026-10-22/03-DECISION-REGISTER.tsv",
@@ -542,7 +543,9 @@
   "default_search_scope": [
     "current/active",
     "records/V26",
-    "branches/indian-ocean-recon-2026-10-22"
+    "branches/indian-ocean-recon-2026-10-22",
+    "current/technical",
+    "current/plans"
   ],
   "excluded_from_default_history": [
     "archive",
@@ -566,7 +569,7 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-session-close-enterprise-restart-through-V26-94; main-visible isolated Indian Ocean working branch through 2026-10-23 (not V26 canon)",
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-session-close-enterprise-restart-through-V26-94; main-visible isolated Indian Ocean working branch through 2026-10-23 (not V26 canon); accepted-aircraft-core-and-plan 2026-10-23 design canon/planning only",
   "active_discussion_branch": {
     "id": "indian-ocean-recon-2026-10-22",
     "status": "BRANCH-LOCAL-WORKING-NO-CANON-PROMOTION",
@@ -609,6 +612,28 @@
       "path": "branches/indian-ocean-recon-2026-10-22/README.md",
       "blob_sha": "7eaaa5a715b7a348b5be964c501721c16576c139",
       "status": "BRANCH-LOCAL-WORKING-NOT-CANON"
+    }
+  },
+  "accepted_aviation_design_2026_10_23": {
+    "status": "DESIGN-CANON-AND-APPROVED-PLAN",
+    "canonization_scope": "user-approved design choices and approved planning baselines only, not 1942 historical realization",
+    "canonical_history_clock_unmoved": "1941-12-07T14:30:00-10:30",
+    "read_order": [
+      "current/technical/00-ACCEPTED-2026-10-23-TECHNICAL-INDEX.md",
+      "current/technical/ASAI-2026-10-23-APPROVED-CORE-FAMILY-AND-CARRIER-AIR-DOCTRINE.md",
+      "current/technical/ASAI-2026-10-23-CARRIER-TWIN-JET-RECON-DESIGN-CANON.md",
+      "current/plans/ASAI-2026-10-23-NAVY-CARRIER-AIRCRAFT-APPROVED-PROCUREMENT-BASELINE.md"
+    ],
+    "engine_core_principle": "E-generation != one physical gas path. S/M/L, mass-flow, rating and J/JF/TP product independently selected.",
+    "jet_recon": "E6 34.5m2 5150kg 650km/h @8.5km; E7 5200kg 695km/h @8.5km. Design only, no service/certification claim.",
+    "carrier_air": "Sakufu early interceptor, Gaifu TP early main-fighter shelved; D4Y piston-first reconnaissance then dive bomber; B6N low-flow E7-M TP main plan",
+    "production_plan": "1942 factory receipts targets D4Y 66, B6N 44, E6 carrier recon prototypes 4; 1943 D4Y 220, B6N 160, E7 carrier recon prototypes 2. No actual acceptance or OOB asserted.",
+    "other_variants": "Twin/B total inventories and unspecific derivative performance not promoted without numbers; the design methodology is promoted.",
+    "source_sha": {
+      "current/technical/ASAI-2026-10-23-APPROVED-CORE-FAMILY-AND-CARRIER-AIR-DOCTRINE.md": "7ee6dea0b590a9ccc312db8733b97ef07fb0f017",
+      "current/technical/ASAI-2026-10-23-CARRIER-TWIN-JET-RECON-DESIGN-CANON.md": "d3aca037dbb491db3b18a5c9074b2b707d28e69c",
+      "current/plans/ASAI-2026-10-23-NAVY-CARRIER-AIRCRAFT-APPROVED-PROCUREMENT-BASELINE.md": "e885668a21476d969718be9a19f40bbea882f890",
+      "current/technical/00-ACCEPTED-2026-10-23-TECHNICAL-INDEX.md": "2b5e7e7d188ee1cec658a6afa9f6668eb4fb70d3"
     }
   }
 }

@@ -1,5 +1,8 @@
 # 浅井世界線
 
+**2026-10-23 ユーザー了承済み航空技術を設計CANON／承認計画として登録。** [確定索引](current/technical/00-ACCEPTED-2026-10-23-TECHNICAL-INDEX.md)、[E6/E7ジェット艦上偵察機の採用諸元](current/technical/ASAI-2026-10-23-CARRIER-TWIN-JET-RECON-DESIGN-CANON.md)、[D4Y/B6N等の1942～43年承認計画](current/plans/ASAI-2026-10-23-NAVY-CARRIER-AIRCRAFT-APPROVED-PROCUREMENT-BASELINE.md)。設計と計画のみ確定。1942年以降の完成・実配備・戦果は未確定。正本時計1941-12-07 14:30 HSTは維持。
+
+
 ## 最新の議論・次チャットの再開地点（2026-10-23）
 
 **[インド洋偵察の独立再走枝](branches/indian-ocean-recon-2026-10-22/README.md)**。1942年3月30日夕刻までの枝ローカル裁定を採用。3月29日H7Y一機の南方索敵、3月30日H6K通常三機＋追加一機は英主力未発見。**次は3月31日のH6K/H7Y索敵命令を日本側の情報だけで立てる。**

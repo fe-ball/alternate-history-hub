@@ -1094,3 +1094,14 @@ Enterprise -> Wake/Saratoga -> Feb20 check -> Apr5 Force A -> Apr9 Yorktown -> A
 **NEXT:** Mar31 1942 IJN search plan drawn only from Japanese reports through Mar30 night. Establish H6K sorties, H7Y serviceability after Mar29, range/daylight/fuel and sectors. Then, separately, compare Somerville actual fleet tracks, meteorology, sighting/communication geometry and British reaction. Actual sightings may cause H6K diversion, H7Y follow-on or pursuit of ship routes, but Port T/Addu is NOT known in advance. No Apr5 combat outcomes assumed.
 
 Aircraft/TP/JF large-wing recon designs and 1942-43 D4Y/B6N procurement plans are preserved under `branches/indian-ocean-recon-2026-10-22/01-AIRCRAFT-AND-PROCUREMENT-2026-10-22.md`; projected factory receipts do NOT generate Mar1942 combat units.
+
+
+---
+
+## 2026-10-23 CONFIRMED USER-ACCEPTED AVIATION DECISIONS — technical authority update
+
+**Design CANON, not new historical CANON:** `current/technical/ASAI-2026-10-23-APPROVED-CORE-FAMILY-AND-CARRIER-AIR-DOCTRINE.md` for core-size/product multiplicity, Sakufu/Gaifu mission choices and mixed adhesive/honeycomb wing methods; `current/technical/ASAI-2026-10-23-CARRIER-TWIN-JET-RECON-DESIGN-CANON.md` for 34.5m² E6/E7 carrier twin-jet reconnaissance, selected 650km/h/695km/h, mass, engine package, range; `current/plans/ASAI-2026-10-23-NAVY-CARRIER-AIRCRAFT-APPROVED-PROCUREMENT-BASELINE.md` for selected 1942–43 D4Y/B6N/carrier jet development and quarterly factory acceptance targets. Index: `current/technical/00-ACCEPTED-2026-10-23-TECHNICAL-INDEX.md`.
+
+**Status semantics:** DESIGN-CANON=design standard accepted for future calculation, not built/service-released 1941; APPROVED-PLAN=production and commissioning goals from 1941 viewpoint, not actual production or 1942–43 history. Do not demote them back to WORKING solely because the archival 2026-10-22 discussion note retains a WORKING header. Do not silently promote quantities to existing V26 OOB. User requested that approximately accepted choices be fixed; uncertain Twin/B variant details remain OPEN except the methodology.
+
+**Current actual conversation frontier unchanged:** Indian Ocean H7Y/H6K replay branch 1942-03-30 evening; resume 1942-03-31 search from IJN-known information only. V26 canonical clock remains 1941-12-07 14:30 HST.
