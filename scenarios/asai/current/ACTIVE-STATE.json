@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "navigation_revision": "2026-10-08",
+  "navigation_revision": "2026-10-23",
   "kind": "NAVIGATION-ONLY-NO-CANON-PROMOTION",
   "scenario_id": "asai",
   "repository": "fe-ball/alternate-history-hub",
@@ -65,7 +65,8 @@
       "Apr29 CarDiv5 CAP command/communications state V26:81-82",
       "1932-42 communications-to-fighter-doctrine diffusion re-audit V26:79-80",
       "Apr29 radio-enabled A6M control / escort-card correction V26:81-82",
-      "Communications/doctrine and Apr29 CAP reconciliation V26:83-84"
+      "Communications/doctrine and Apr29 CAP reconciliation V26:83-84",
+      "Indian Ocean isolated Mar29/30 search replay is a branch-local result, not a promotion of global history."
     ]
   },
   "discussion_frontier": {
@@ -132,11 +133,13 @@
       "FT mixed-doctrine provenance correction: prewar doctrine -> Enterprise live validation -> Force Z refinement",
       "Multi-axis attack synchronization / communications-confidence model V26:91-92",
       "Enterprise battle restart precombat command/force/synchronization state V26:93-94",
-      "Session close / Enterprise restart handoff V26:93-94"
+      "Session close / Enterprise restart handoff V26:93-94",
+      "2026-10-22/23 isolated Indian Ocean search branch: Mar29 H7Y 1 search no capital-force contact; Mar30 H6K 3 regular+1 extra no capital-force contact. Local only."
     ],
-    "next_gate": "Enterprise restart: first reconstruct Kido Butai post-Pearl aircraft physical/serviceable/ready/recovery state and resolve 72-vs54-class strike commitment under Lexington-unlocated CAP/reserve requirements. Then run the command/synchronization-aware battle to valid-release bands only; no hits.",
-    "next_gate_source": "V26:93-94",
-    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 remains open, but upstream carrier-air combat is now reopened back to Dec7 Enterprise because later doctrine/learning depends on it. V26 canon remains 1941-12-07 14:30 HST."
+    "next_gate": "2026-10-23 CURRENT SELECTED DISCUSSION: Indian Ocean H7Y/H6K separate replay branch; through 1942-03-30 evening. Next Mar31 IJN orders from Japanese information only, then compare British true tracks/weather and conditional shadow/follow-on. Addu unknown. V26 canon 1941-12-07 14:30 HST unchanged. Enterprise and TP separate OPEN threads.",
+    "next_gate_source": "branches/indian-ocean-recon-2026-10-22/00-SESSION-HANDOFF.md; branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md",
+    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 remains open, but upstream carrier-air combat is now reopened back to Dec7 Enterprise because later doctrine/learning depends on it. V26 canon remains 1941-12-07 14:30 HST.",
+    "previous_next_gate_enterprise": "Enterprise restart: first reconstruct Kido Butai post-Pearl aircraft physical/serviceable/ready/recovery state and resolve 72-vs54-class strike commitment under Lexington-unlocated CAP/reserve requirements. Then run the command/synchronization-aware battle to valid-release bands only; no hits."
   },
   "default_read_order": [
     "current/active/00-SESSION-HANDOFF.md",
@@ -482,7 +485,8 @@
   "freshness_rule": "Compare same-axis handoffs/registers/checkpoints/progress and tree inventory. New or changed sources require review and manifest update; neither this pointer nor file mtime wins over contradictory explicit branch evidence.",
   "default_search_scope": [
     "current/active",
-    "records/V26"
+    "records/V26",
+    "branches/indian-ocean-recon-2026-10-22"
   ],
   "excluded_from_default_history": [
     "archive",
@@ -506,5 +510,22 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-session-close-enterprise-restart-through-V26-94"
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-session-close-enterprise-restart-through-V26-94; main-visible isolated Indian Ocean working branch through 2026-10-23 (not V26 canon)",
+  "active_discussion_branch": {
+    "id": "indian-ocean-recon-2026-10-22",
+    "status": "BRANCH-LOCAL-WORKING-NO-CANON-PROMOTION",
+    "path": "branches/indian-ocean-recon-2026-10-22/",
+    "git_snapshot_branch": "asai/indian-ocean-recon-replay-2026-10-22",
+    "git_snapshot_usage": "2026-10-22 archived snapshot; routine default ref main",
+    "parent_canonical_clock": "1941-12-07T14:30:00-10:30",
+    "replay_local_closed_at": "1942-03-30 evening",
+    "next": "1942-03-31 IJN H6K/H7Y search sectors and readiness chosen from Japanese-known Mar30 night evidence; compare Somerville true tracks only afterward; shadow/additional aircraft conditional",
+    "read_order": [
+      "branches/indian-ocean-recon-2026-10-22/README.md",
+      "branches/indian-ocean-recon-2026-10-22/00-SESSION-HANDOFF.md",
+      "branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md",
+      "branches/indian-ocean-recon-2026-10-22/03-DECISION-REGISTER.tsv",
+      "branches/indian-ocean-recon-2026-10-22/01-AIRCRAFT-AND-PROCUREMENT-2026-10-22.md"
+    ]
+  }
 }

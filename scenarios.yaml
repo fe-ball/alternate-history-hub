@@ -1,5 +1,5 @@
 registry_version: 1
-updated: "2026-10-16"
+updated: "2026-10-23"
 
 scenarios:
   asai:
@@ -8,7 +8,8 @@ scenarios:
     authority_version: "V26"
     canonical_clock: "1941-12-07T14:30:00-10:30"
     clock_state: "canonical-anchor-only; latest-working-continuation-and-local-planning-clocks-are-separate"
-    frontier: "Resolve scenarios/asai/current/ACTIVE-STATE.json discussion_frontier. V26:93-94 close the session at the Enterprise restart gate. Neither the old72-aircraft nor later54-aircraft anti-Enterprise package is fixed. Current next: reconstruct post-Pearl Kido Butai physical/serviceable/ready/recovery state, re-decide strike commitment while Enterprise is tracked and Lexington remains unlocated, then replay mature late-1941 radio-assisted fighter/strike command and SYNC S1-S4 to valid-release bands only, stopping before hits. V26 canon clock remains 1941-12-07 14:30 HST."
+    frontier: "CURRENT 2026-10-23: separate Indian Ocean reconnaissance replay main/scenarios/asai/branches/indian-ocean-recon-2026-10-22/README.md. Branch-local through 1942-03-30 evening (Mar29 H7Y1; Mar30 H6K3+1; no British main-force contact). Next Mar31 Japanese search orders, then historical British tracks/weather and conditional shadow/additional flying boats, no hindsight Port T/Addu. Enterprise V26:93-94 and TP V26:99-100 remain distinct open work, not selected next. V26 canonical clock 1941-12-07 14:30 HST unchanged."
+    active_discussion_branch: "scenarios/asai/branches/indian-ocean-recon-2026-10-22/README.md"
     repository: "fe-ball/alternate-history-hub"
     path: "scenarios/asai"
     entrypoint: "scenarios/asai/00-READ-FIRST-GENERIC.md"

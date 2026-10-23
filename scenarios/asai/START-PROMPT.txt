@@ -1,4 +1,7 @@
-浅井世界線の継続を再開します。最初に汎用ガイドを読んでください。
+浅井世界線の継続を再開します。
+
+**現在選択中の会話はインド洋H7Y/H6K偵察独立再走。** main の `scenarios/asai/branches/indian-ocean-recon-2026-10-22/README.md` → `00-SESSION-HANDOFF.md` → `02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md` → `03-DECISION-REGISTER.tsv` を優先して読む。現在地は1942年3月30日夕刻、次は3月31日朝の日本側索敵命令。英軍の後知恵・アッドゥ秘密基地を先取りしない。V26正本は1941-12-07 14:30 HSTで据置。旧Enterprise/TPのnext記述は現在の再開地点ではない。
+最初に汎用ガイドを読んでください。
 https://github.com/fe-ball/alternate-history-hub/blob/main/scenarios/asai/00-READ-FIRST-GENERIC.md
 
 次にcurrent/ACTIVE-STATE.jsonで、対象枝・日米戦/日ソ戦・正本時計・直近戦役・working到達点・次ゲートを照合してください。固定入口を無条件に信用せず、同軸のhandoff・register・checkpoint・progress、必要ならLibraryの後発引継ぎを確認し、新しい明示的継続を検証してください。版番号・更新日・未来の時計だけで枝を選ばないでください。

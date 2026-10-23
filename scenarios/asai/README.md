@@ -1,5 +1,14 @@
 # 浅井世界線
 
+## 最新の議論・次チャットの再開地点（2026-10-23）
+
+**[インド洋偵察の独立再走枝](branches/indian-ocean-recon-2026-10-22/README.md)**。1942年3月30日夕刻までの枝ローカル裁定を採用。3月29日H7Y一機の南方索敵、3月30日H6K通常三機＋追加一機は英主力未発見。**次は3月31日のH6K/H7Y索敵命令を日本側の情報だけで立てる。**
+
+[引継ぎ](branches/indian-ocean-recon-2026-10-22/00-SESSION-HANDOFF.md) ・ [29/30日再走記録](branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md) ・ [決定台帳](branches/indian-ocean-recon-2026-10-22/03-DECISION-REGISTER.tsv) ・ [航空技術/生産案](branches/indian-ocean-recon-2026-10-22/01-AIRCRAFT-AND-PROCUREMENT-2026-10-22.md)。
+
+旧Enterprise再監査とTP考察は別途OPENで、今選択されている次作業ではない。アッドゥ/Port Tの存在や英艦隊の合流位置を日本軍へ後知恵で与えない。**V26正本の時計は1941-12-07 14:30 HSTのまま**、この枝をCANONへ昇格しない。元の専用Gitブランチは保存スナップショットであり、通常のmain読みはこのフォルダを使用する。
+
+
 [汎用ガイド](00-READ-FIRST-GENERIC.md) → [現行軸・時計・次ゲート](current/ACTIVE-STATE.json) → [現行handoff](current/active/00-SESSION-HANDOFF.md)。開始文は [START-PROMPT.txt](START-PROMPT.txt)。
 
 現行軸は中国戦継続V24→V25→V26→post-V26 WORKING。日米戦開戦済み・日ソ戦未開戦。**V26正本時計は1941-12-07 14:30 HSTのまま**であり、1942年の検討はreplay-local WORKINGとして扱う。
