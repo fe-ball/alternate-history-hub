@@ -134,6 +134,10 @@ The 13.2mm branch is accelerated by the 1937 九六式三号 experience:
 - flutter/spar structural gate remains real
 - not a Pearl Harbor combat type
 
+### H7Y / 十二試特殊飛行艇 — 1941年の独立基地偵察（作者CLOSED）
+
+H7Yは川西のH6K/H8K主力ではなく、空技廠が翼幅・艇底・剛性を試験する**少数の特殊長距離偵察飛行艇**。尾張は92オクタン指定の岳14気筒長航続型×2と、低燃費マップ・大径プロペラ・艤装条件のみを提供。1939初号機は剛性・滑走と抗力で未達、1940二号機で改修、1941三号機相当で任務限定の30時間級飛行／特殊離水を認定して、**布哇作戦にウォッジェから独立1機を派遣**する。索敵は第一波攻撃開始後のハワイ西方海域、有力米艦隊への確証なし、帰還。六空母航空隊の第一・第二波に混ぜず、第三次攻撃の結論・既存戦果を変更しない。約8,000km級の設計航続・詳細重量・1942追加製造は[42](42-R3-H7Y-GAKU-SPECIAL-RECON-1937-1942-PEARL-CLOSED.md)のPROVISIONAL/OPENに従う。
+
 ### Army fighters / reconnaissance
 
 **九九式戦闘機 / Ki-43-equivalent**
