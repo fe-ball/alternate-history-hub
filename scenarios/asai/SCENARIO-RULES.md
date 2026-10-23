@@ -36,3 +36,8 @@ Conditions: a real information channel; actors know only what it reveals; no eve
 ## Continuation updates
 
 Original records retain their status. Navigation may mark an old next gate SUPERSEDED-NEXT without promoting the successor to CANON or erasing narrower unresolved questions. Update the active manifest, active four-file view and central Asai registry together; inspect newer same-axis checkpoints/progress before resuming.
+
+
+## 2026-10-23 design adoption and approved future program
+
+The user has authorized promotion of broadly accepted design/program choices. `current/technical/ASAI-2026-10-23-*` is **DESIGN-CANON** for design parameters and choices; `current/plans/ASAI-2026-10-23-*` is **APPROVED-PLAN** for future production targets seen from December 1941. Neither status promotes a future aircraft to actual manufacture, service qualification, fleet inventory, combat presence or 1942 historical CANON. V26 clock stays 1941-12-07 14:30 HST. The independent Indian Ocean 1942 March scenario is still BRANCH-LOCAL.

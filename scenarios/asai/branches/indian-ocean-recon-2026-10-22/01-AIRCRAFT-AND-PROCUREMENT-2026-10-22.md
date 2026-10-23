@@ -1,6 +1,6 @@
 # 2026-10-22会話 — 航空技術・艦上機・生産配備のWORKING引継ぎ
 
-**Status: DESIGN-/PROCUREMENT-WORKING; NOT V26 CANON.** V26確定時計は1941-12-07 14:30 HST。1942～43年は1941年12月時点からの見込みであって「実績」ではない。
+**Status: source WORKING (2026-10-22), now partly superseded by 2026-10-23 accepted decisions.** DESIGN-CANON: `scenarios/asai/current/technical/ASAI-2026-10-23-APPROVED-CORE-FAMILY-AND-CARRIER-AIR-DOCTRINE.md`, `ASAI-2026-10-23-CARRIER-TWIN-JET-RECON-DESIGN-CANON.md`. APPROVED-PLAN: `scenarios/asai/current/plans/ASAI-2026-10-23-NAVY-CARRIER-AIRCRAFT-APPROVED-PROCUREMENT-BASELINE.md`. Original discussion preserved for provenance; no future historical deliveries promoted. V26確定時計は1941-12-07 14:30 HST。1942～43年は1941年12月時点からの見込みであって「実績」ではない。
 
 ## A. 今回の航空技術考察がどう進んだか
 

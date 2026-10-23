@@ -19,12 +19,12 @@ B16	1942-03-31 onward	shadowing_and_follow_on_flying_boats	CONDITIONAL	Follow ta
 B17	1942-04-02 onward	Addu_inference	CONDITIONAL	Charted atoll + shipping routes + observed naval traffic may raise secret-base hypothesis	Cannot insert Port T knowledge ex ante
 B18	1942-04-03	Nagumo_recon_go_no_go	NEXT-LATER	Re-evaluate historical planned extra search cancellation only after incoming reports	V26:19/21 Force A battle remains separate working comparison
 A01	1941-12	carrier_aircraft	CANON-BASELINE	Pearl initial 6-carrier loadout B5N2 144; D3A1 135; A6M2 108; total 387	Not Dec7 14:30 remaining operational state
-A02	1942-43	D4Y_B6N_production	DESIGN-PLANNING	1942 D4Y66 B6N44; 1943 D4Y220 B6N160 factory receipts planned	Not combat-present or canon
-A03	1942-43	jet_carrier_recon_prototypes	DESIGN-PLANNING	1942 E6 recon4; 1943 E7 recon2 factory receipts proposed	Independent from Sakufu prototype count; no OOB promotion
-A04	1942-43	jet_carrier_recon_E6	DESIGN-BENCHMARK	Wing34.5m2 span15.2m TO5150kg E6-JF2x984kgf max650km/h@8.5km radius300km	Conceptual performance closure not actual service
-A05	1942-43	jet_carrier_recon_E7	DESIGN-BENCHMARK	Wing34.5m2 TO5200kg E7-JF2x1120kgf max695km/h@8.5km radius320km	E7-M 13.2kg/s PR8 ~15stage 680kg each design target
-A06	1942	recon_role_split	DESIGN-SELECTED	D4Y for general long-range recon; E6/E7 jet for fast high-threat reacquisition of roughly located enemy	No blanket jet advantage
-A07	1942 onward	B6N_E7_TP	DESIGN-SELECTED	B6N low-flow E7-M TP ~10-11kg/s candidate; D4Y piston-first then dive bomber qualification	Core family/flow and product qualification separate
+A02	1942-43	D4Y_B6N_production	APPROVED-PLAN	1942 D4Y66 B6N44; 1943 D4Y220 B6N160 factory receipts planned	Not combat-present or canon
+A03	1942-43	jet_carrier_recon_prototypes	APPROVED-PLAN	1942 E6 recon4; 1943 E7 recon2 factory receipts proposed	Independent from Sakufu prototype count; no OOB promotion
+A04	1942-43	jet_carrier_recon_E6	DESIGN-CANON	Wing34.5m2 span15.2m TO5150kg E6-JF2x984kgf max650km/h@8.5km radius300km	Conceptual performance closure not actual service
+A05	1942-43	jet_carrier_recon_E7	DESIGN-CANON	Wing34.5m2 TO5200kg E7-JF2x1120kgf max695km/h@8.5km radius320km	E7-M 13.2kg/s PR8 ~15stage 680kg each design target
+A06	1942	recon_role_split	DESIGN-CANON	D4Y for general long-range recon; E6/E7 jet for fast high-threat reacquisition of roughly located enemy	No blanket jet advantage
+A07	1942 onward	B6N_E7_TP	APPROVED-PROGRAM	B6N low-flow E7-M TP ~10-11kg/s candidate; D4Y piston-first then dive bomber qualification	Core family/flow and product qualification separate
 G01	all	knowledge_firewall	HARD-RULE	Knowledge at time only; no hindsight Addu; no instant carrier attack after contact	SCENARIO-RULES.md
 G02	all	capability_vs_OOB	HARD-RULE	Separate technical ability, physical airframe, qualified, delivered, serviceable, forward, mission-ready	SCENARIO-RULES.md
 G03	all	branch_isolation	HARD-RULE	This Git branch is separate scenario replay; no main/current/scenarios.yaml mutation	Session close request 2026-10-22
