@@ -1079,3 +1079,18 @@ Enterprise -> Wake/Saratoga -> Feb20 check -> Apr5 Force A -> Apr9 Yorktown -> A
 **CURRENT NEXT — NEW CHAT:** TP (turboprop/shaft products) is the next unfinished technical subject. Start with E5/E6/E7 shaft-product performance, BSFC and reducer/propeller/qualification; then Ki-40 TP high-altitude reconnaissance, D4Y/B6N carrier TP selection, H7Y diesel-versus-TP, AT-3 transport and industrial/OOB reconciliation. Read V10 `ASAI-E7-TURBOPROP-SHAFT-PRODUCT-PREWAR-OUTLOOK-1940-1942-V1.md`, `ASAI-NAVY-CARRIER-TP-APPLICATION-SPLIT-D4Y-B6N-1941-1942-V1.md`, V11 E6B/STOL/TPRECON closeout, and V26:95 before creating new claims.
 
 **Navigation precedence:** This 2026-10-19 close is the current next-session pointer. Earlier `CURRENT NEXT` blocks in this append-only handoff remain historical session markers, not today's next task.
+
+
+---
+
+# 2026-10-23 NEW CURRENT SELECTED NEXT — INDIAN OCEAN RECONNAISSANCE BRANCH
+
+**This supersedes older 2026-10-19 TP-next and 2026-10-08 Enterprise-next pointers ONLY as conversation navigation.** Their projects remain OPEN. Canonical V26 clock remains **1941-12-07 14:30 HST**.
+
+**Read main files:** `branches/indian-ocean-recon-2026-10-22/README.md` → `00-SESSION-HANDOFF.md` → `02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md` → `03-DECISION-REGISTER.tsv`. They are present in `main`, not exclusively in the isolated Git snapshot branch.
+
+**Branch-local through 1942-03-30 evening:** Mar29 H7Y western 1 sortie plus H6K routine 3, no British main-force contact. Mar30 H7Y inspected/rested; H6K routine 3 plus southern extra 1, no British main-force contact. These are new replay WORKING central outcomes, not historical assertions or 1941 V26 canon.
+
+**NEXT:** Mar31 1942 IJN search plan drawn only from Japanese reports through Mar30 night. Establish H6K sorties, H7Y serviceability after Mar29, range/daylight/fuel and sectors. Then, separately, compare Somerville actual fleet tracks, meteorology, sighting/communication geometry and British reaction. Actual sightings may cause H6K diversion, H7Y follow-on or pursuit of ship routes, but Port T/Addu is NOT known in advance. No Apr5 combat outcomes assumed.
+
+Aircraft/TP/JF large-wing recon designs and 1942-43 D4Y/B6N procurement plans are preserved under `branches/indian-ocean-recon-2026-10-22/01-AIRCRAFT-AND-PROCUREMENT-2026-10-22.md`; projected factory receipts do NOT generate Mar1942 combat units.

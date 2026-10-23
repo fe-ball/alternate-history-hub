@@ -458,3 +458,14 @@ Reconstruct post-Pearl Kido Butai aircraft/recovery state first and choose strik
 Old72-aircraft and later54-aircraft Enterprise strike packages are comparison branches only.
 
 After strike-size closure, replay to fighter attrition / delay / displacement / synchronization / valid-release bands and stop before hits.
+
+
+## 2026-10-23 latest selected discussion — isolated Indian Ocean reconnaissance replay
+
+Source root: `branches/indian-ocean-recon-2026-10-22/` on `main`. V26 CANON 1941-12-07 14:30 HST is fixed. The Git snapshot branch `asai/indian-ocean-recon-replay-2026-10-22` still exists, but normal new chats should read the main-visible logical scenario branch.
+
+- Mar29 H7Y-D western sortie + H6K regular 3; no British main capital-force contact (branch central).
+- Mar30 H7Y post-sortie inspection and crew rest; H6K regular 3 plus extra 1; no British main capital-force contact (branch central).
+- At Mar30 evening, Japanese staff does not know Somerville's rendezvous, British main force movements or Addu/Port T. Those are referee-only historical comparisons.
+- Mar31 NEXT: determine Japanese search sectors, available airframes, maintenance/fuel/crew/daylight; then compare British true track/weather and decide actual detection, reporting, shadowing and possible follow-on flying boat sorties.
+- Enterprise V26:93-94 and TP V26:99-100 are separate OPEN threads, not the currently selected next operation; no global history advancement.
