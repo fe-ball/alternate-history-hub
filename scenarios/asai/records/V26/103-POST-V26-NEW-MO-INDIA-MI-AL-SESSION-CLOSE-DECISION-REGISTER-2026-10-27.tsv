@@ -1,0 +1,18 @@
+id	effective_date	subject	status	working_decision_or_constraint	provenance_or_next_check
+NEWMO-001	2026-10-27	branch_authority	WORKING-NO-CANON-PROMOTION	新MO比較枝は旧V26:12/13/19/21 MO戦果を輸入しない。正本時計は1941-12-07 14:30 HST	V26:101 -> V26:102
+NEWMO-002	1942-03-14	CarDiv5_priority	WORKING-CENTRAL	第五航空戦隊はMO優先。インド洋との同一機体二重計上禁止	V26:101;インド方面全軍の中止命令とは区別
+NEWMO-003	1942-04-08	Tulagi_capture	WORKING-CENTRAL	ツラギ上陸、基地立上げ中	V26:101
+NEWMO-004	1942-04-11	Tulagi_Yorktown_strike	WORKING-CENTRAL	二次空襲。一式水戦W1・H6K一機喪失、主要日本艦は沈没を認めない	V26:102;航空機残数の内訳は継続監査
+NEWMO-005	1942-04-12	Yorktown_and_Shokaku_damage	WORKING-CENTRAL	Yorktown魚雷一本＋爆弾一発、翔鶴1000lb級爆弾一発で航空運用不能	V26:102;修理日付はOPEN
+NEWMO-006	1942-04-14	Yorktown_sinking	WORKING-CENTRAL	瑞鶴攻撃で追加魚雷二本ほか、夜間沈没。日本側は撃沈公算大まで	V26:102;米艦載機全損・救助内訳OPEN
+NEWMO-007	1942-04-15	Zuikaku_decision	WORKING-CENTRAL	南下追撃中止、北西へ反転してMO掩護へ復帰。15日中の直接掩護復活は認めない	V26:102
+NEWMO-008	1942-04-25	Taurama_beachhead	WORKING-CENTRAL-SUMMARY	約2200～2600名、即応75mm山砲1～2門、Kila Kila/Seven Mile/市街地は連合軍保持	終盤会話の4/25要約;占領確定は禁止
+NEWMO-009	1942-04-25	Transport_T7_loss	WORKING-CENTRAL-SUMMARY	輸送船T-7喪失、山砲二門と関連弾薬欠落、残余船は揚陸継続	終盤会話の4/25要約
+NEWMO-010	1942-04-25	Crace_surface	WORKING-CENTRAL-SUMMARY	Australia/Chicago損傷・撤退。旧枝の命中位置は使用しない	詳細修理時計と命中弾は別途要照合
+NEWMO-011	1942-04-26_to_04-30	late_ground_air_ship_details	NOT-IN-CURRENT-HANDOFF	後続の地上反撃・増援・航空戦・艦艇修理詳細は引継ぎ本文未収載。未裁定を意味しない	会話原文が得られた時点で追補;推測補完禁止
+NEWMO-012	late_1942-04	Lexington_information_layers	USER-REQUIRED-METHOD	TRUE_STATE/INTELLIGENCE_ESTIMATE/SIGHTING/TRACK_ATTACK_QUALITYを分ける	実航跡や旧4/27-29海戦は新枝へ自動輸入禁止
+NEWMO-013	late_1942-04	Shokaku_Shoho_Zuikaku_repair	OPEN-CALENDARS	翔鶴甲板復旧・祥鳳小型航空隊・瑞鶴搭載機疲労整備と補給を独立監査	具体的復帰日・再編出撃数は未照合
+NEWMO-014	2026-10-27-next	India_Operation_executed_or_not	NEXT-PRIMARY-GATE	初期の西方/英艦隊との行動と春の大規模インド作戦の実施済/未実施/命令のみ/限定行動を検証	3/14 MO優先と日本主力の損耗から延期したというユーザー仮説をまず検証
+NEWMO-015	1942-03-29_to_03-30	independent_India_recon_branch	SEPARATE-BRANCH	H7Y/H6K英主力未発見は独立枝の局地結果、新MO実施証拠にはしない	branches/indian-ocean-recon-2026-10-22;V26:19/21 ForceA結果も旧枝
+NEWMO-016	2026-10-27-next	MI_AL_schedule	OPEN-AFTER-INDIA	翔鶴/龍驤の揃う延期の利益と米空母復帰・補給消費を比較	インド作戦の可否・実施時程の再監査後に判断
+NEWMO-017	1942-04-18	Doolittle_raid_new_branch	OPEN	史実4/18の実施を新枝結果として固定せず、Hornet/Enterpriseの位置と命令を別管理	現引継ぎは4/15時点の史実計画参照まで
