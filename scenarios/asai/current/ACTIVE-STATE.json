@@ -541,6 +541,18 @@
     "V26:105": {
       "path": "records/V26/105-POST-V26-EXPANDED-MO-STRATEGY-DECISION-REGISTER-2026-10-29.tsv",
       "blob_sha": "87e68ee0ec2c431ae8f7ee012fcba2c5b3affbeb"
+    },
+    "V26:101": {
+      "path": "records/V26/101-POST-V26-NEW-MO-COMPARISON-TYPE1-FLOAT-FIGHTER-HANDOFF-2026-10-25.md",
+      "blob_sha": "d78f294ba93e01c0d5c364dd941f34de24a7b751"
+    },
+    "V26:102": {
+      "path": "records/V26/102-POST-V26-NEW-MO-LATE-APR-INDIAN-OCEAN-DECISION-GATE-HANDOFF-2026-10-27.md",
+      "blob_sha": "cb35a99761efdacfe40f6cf66cf1e93094697e54"
+    },
+    "V26:103": {
+      "path": "records/V26/103-POST-V26-NEW-MO-INDIA-MI-AL-SESSION-CLOSE-DECISION-REGISTER-2026-10-27.tsv",
+      "blob_sha": "a696c43ec0064d0cf26d121fd1e4363a7daa5bf6"
     }
   },
   "lineage_sources": [
@@ -579,7 +591,7 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-session-close-enterprise-restart-through-V26-94; main-visible isolated Indian Ocean working branch through 2026-10-23 (not V26 canon); accepted-aircraft-core-and-plan 2026-10-23 design canon/planning only; 2026-10-29 expanded-MO strategic comparison V26:104-105 (planning only, V26 canon not advanced)",
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-session-close-enterprise-restart-through-V26-94; main-visible isolated Indian Ocean working branch through 2026-10-23 (not V26 canon); accepted-aircraft-core-and-plan 2026-10-23 design canon/planning only; 2026-10-29 expanded-MO strategic comparison V26:104-105 (planning only, V26 canon not advanced); V26:101-103 new-MO comparison older source files indexed 2026-10-29 without altering their content",
   "active_discussion_branch": {
     "id": "expanded-mo-strategy-2026-10-29",
     "status": "STRATEGIC-WORKING-NO-CANON-PROMOTION",
