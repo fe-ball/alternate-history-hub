@@ -218,7 +218,7 @@
     },
     "V26:16": {
       "path": "records/V26/16-POST-V26-FT-PEARL-FORCEZ-WORKING-HANDOFF-2026-10-02.md",
-      "blob_sha": "2c6ebc9b5c2e55e2467cbae0f7d66f48ae6dc386"
+      "blob_sha": "125468a288c893a8d2dd6835509798631504ec17"
     },
     "V26:17": {
       "path": "records/V26/17-POST-V26-FT-Q1-INDIAN-OCEAN-WORKING-HANDOFF-2026-10-04.md",
@@ -245,10 +245,12 @@
       "blob_sha": "67193525ce859b082acebbc14410c1a10e05d63a"
     },
     "V26:23": {
-      "path": "records/V26/23-POST-V26-DOOLITTLE-AEW-MI-AL-FORCE-WORKING-HANDOFF-2026-10-07.md"
+      "path": "records/V26/23-POST-V26-DOOLITTLE-AEW-MI-AL-FORCE-WORKING-HANDOFF-2026-10-07.md",
+      "blob_sha": "0f57004374f2736c481e59df499981a045d70f0a"
     },
     "V26:24": {
-      "path": "records/V26/24-POST-V26-DOOLITTLE-AEW-MI-AL-FORCE-WORKING-DECISION-REGISTER-2026-10-07.tsv"
+      "path": "records/V26/24-POST-V26-DOOLITTLE-AEW-MI-AL-FORCE-WORKING-DECISION-REGISTER-2026-10-07.tsv",
+      "blob_sha": "b744b3e913e44cce377a5baed289a7312e557015"
     },
     "V26:25": {
       "path": "records/V26/25-POST-V26-FLEET-EQUIPMENT-INTEGRATION-WORKING-HANDOFF-2026-10-07.md",
@@ -307,28 +309,36 @@
       "blob_sha": "116654fac210042f4513e1784a318f378029630e"
     },
     "V26:39": {
-      "path": "records/V26/39-POST-V26-MI-CARRIER-DEPLOYMENT-TIMING-AIRGROUP-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/39-POST-V26-MI-CARRIER-DEPLOYMENT-TIMING-AIRGROUP-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "a041bb92b13acfe274de06975f5fc6f76604cc77"
     },
     "V26:40": {
-      "path": "records/V26/40-POST-V26-MI-CARRIER-DEPLOYMENT-TIMING-AIRGROUP-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/40-POST-V26-MI-CARRIER-DEPLOYMENT-TIMING-AIRGROUP-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "486ffa851aee78407f0fc5d09fb2500b6bf20259"
     },
     "V26:41": {
-      "path": "records/V26/41-POST-V26-US-CARRIER-DEPLOYMENT-TIMING-MI-BALANCE-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/41-POST-V26-US-CARRIER-DEPLOYMENT-TIMING-MI-BALANCE-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "153e42a7a59f2ae2cba5470c45b8f12ebfec3208"
     },
     "V26:42": {
-      "path": "records/V26/42-POST-V26-US-CARRIER-DEPLOYMENT-TIMING-MI-BALANCE-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/42-POST-V26-US-CARRIER-DEPLOYMENT-TIMING-MI-BALANCE-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "742f0a69d87ca5300d0c9c244b9b0e9a3afcc042"
     },
     "V26:43": {
-      "path": "records/V26/43-POST-V26-FINAL-MI-OOB-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/43-POST-V26-FINAL-MI-OOB-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "84ecfe445cc4a828be6a2068b6b7bba7a8b34ea6"
     },
     "V26:44": {
-      "path": "records/V26/44-POST-V26-FINAL-MI-OOB-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/44-POST-V26-FINAL-MI-OOB-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "561ea8d6d0ff06ba929a9a401f90944a3c505006"
     },
     "V26:45": {
-      "path": "records/V26/45-POST-V26-MI-START-GEOMETRY-SEARCH-FIRST-CONTACT-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/45-POST-V26-MI-START-GEOMETRY-SEARCH-FIRST-CONTACT-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "d3875118ead03a53adefa525dbb73fdc28583734"
     },
     "V26:46": {
-      "path": "records/V26/46-POST-V26-MI-START-GEOMETRY-SEARCH-FIRST-CONTACT-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/46-POST-V26-MI-START-GEOMETRY-SEARCH-FIRST-CONTACT-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "aaf857d0242be4b7dc70593c5d04d9449730ccb0"
     },
     "V26:47": {
       "path": "records/V26/47-POST-V26-MI-FIRST-STRIKE-PACKAGES-LAUNCH-TIMING-WORKING-HANDOFF-2026-10-08.md",
@@ -347,136 +357,180 @@
       "blob_sha": "fcf466ee42965328441d34be2567ec0070ecdc61"
     },
     "V26:51": {
-      "path": "records/V26/51-POST-V26-MI-MULTISTAGE-FT-SCREEN-SUPPRESSION-REAUDIT-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/51-POST-V26-MI-MULTISTAGE-FT-SCREEN-SUPPRESSION-REAUDIT-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "e748e858b5d37fcf833742efaf18bf32d6940128"
     },
     "V26:52": {
-      "path": "records/V26/52-POST-V26-MI-MULTISTAGE-FT-SCREEN-SUPPRESSION-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/52-POST-V26-MI-MULTISTAGE-FT-SCREEN-SUPPRESSION-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "c51b6f513af5879f75c77819920db72e329c3ddf"
     },
     "V26:53": {
-      "path": "records/V26/53-POST-V26-MI-FIRST-CYCLE-DIRECT-HIT-ADJUDICATION-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/53-POST-V26-MI-FIRST-CYCLE-DIRECT-HIT-ADJUDICATION-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "d0e96fec95aae72a0e7d7a2504dc4a2ef13417a5"
     },
     "V26:54": {
-      "path": "records/V26/54-POST-V26-MI-FIRST-CYCLE-DIRECT-HIT-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/54-POST-V26-MI-FIRST-CYCLE-DIRECT-HIT-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "7459693f732cb4e4cbb4604861bd621b403eadb6"
     },
     "V26:55": {
-      "path": "records/V26/55-POST-V26-MI-FIRST-CYCLE-CARRIER-DAMAGE-STATE-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/55-POST-V26-MI-FIRST-CYCLE-CARRIER-DAMAGE-STATE-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "53190774579ca5ee2a3f7669dda938d23cd2ac41"
     },
     "V26:56": {
-      "path": "records/V26/56-POST-V26-MI-FIRST-CYCLE-CARRIER-DAMAGE-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/56-POST-V26-MI-FIRST-CYCLE-CARRIER-DAMAGE-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "e84db2ac5bda97fd150b85fdee0f9cb0eb978fae"
     },
     "V26:57": {
-      "path": "records/V26/57-POST-V26-MI-COMBAT-MODEL-ROLLBACK-REOPEN-HANDOFF-2026-10-08.md"
+      "path": "records/V26/57-POST-V26-MI-COMBAT-MODEL-ROLLBACK-REOPEN-HANDOFF-2026-10-08.md",
+      "blob_sha": "721e942a1cca5bb625bfc0c672e68c87298a7667"
     },
     "V26:58": {
-      "path": "records/V26/58-POST-V26-MI-COMBAT-MODEL-ROLLBACK-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/58-POST-V26-MI-COMBAT-MODEL-ROLLBACK-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "6b2b85931132e8b5339f384defa47b0bc1148b5c"
     },
     "V26:59": {
-      "path": "records/V26/59-POST-V26-MI-MULTISTAGE-CAP-ATTACK-STATE-MODEL-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/59-POST-V26-MI-MULTISTAGE-CAP-ATTACK-STATE-MODEL-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "bcbf419da2b506e22873868f894e6fd3e2a3c157"
     },
     "V26:60": {
-      "path": "records/V26/60-POST-V26-MI-MULTISTAGE-CAP-ATTACK-MODEL-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/60-POST-V26-MI-MULTISTAGE-CAP-ATTACK-MODEL-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "a8f6905b196b0ea4cd08ceba3619a8a29285d85e"
     },
     "V26:61": {
-      "path": "records/V26/61-POST-V26-MI-GAIFU-ROLE-ALLOCATION-HETEROGENEOUS-CAP-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/61-POST-V26-MI-GAIFU-ROLE-ALLOCATION-HETEROGENEOUS-CAP-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "df868f33162e0b2c0649b2488d0a22c5fff98678"
     },
     "V26:62": {
-      "path": "records/V26/62-POST-V26-MI-GAIFU-ROLE-ALLOCATION-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/62-POST-V26-MI-GAIFU-ROLE-ALLOCATION-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "386b289739830e60de73e8c4f29598199857e6e8"
     },
     "V26:63": {
-      "path": "records/V26/63-POST-V26-MI-FT-PRELOAD-TARGET-ALLOCATION-MODEL-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/63-POST-V26-MI-FT-PRELOAD-TARGET-ALLOCATION-MODEL-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "1470c5e66bdba5445fd1aad42b43dbcdb6de74ba"
     },
     "V26:64": {
-      "path": "records/V26/64-POST-V26-MI-FT-PRELOAD-TARGET-ALLOCATION-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/64-POST-V26-MI-FT-PRELOAD-TARGET-ALLOCATION-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "353e7692fe32b06499abc0aaaea48cf45021b2f7"
     },
     "V26:65": {
-      "path": "records/V26/65-POST-V26-MI-GAIFU-TECHNICAL-GROUNDING-CAP-CORRECTION-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/65-POST-V26-MI-GAIFU-TECHNICAL-GROUNDING-CAP-CORRECTION-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "3218bb93fb9cc8863cd745137ebad4ade1b3430e"
     },
     "V26:66": {
-      "path": "records/V26/66-POST-V26-MI-GAIFU-TECHNICAL-GROUNDING-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/66-POST-V26-MI-GAIFU-TECHNICAL-GROUNDING-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "1ff9717f8c77b5f79d01c6290cb5b77dca34700c"
     },
     "V26:67": {
-      "path": "records/V26/67-POST-V26-MI-CAP-OBSERVABILITY-CONTROL-FRICTION-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/67-POST-V26-MI-CAP-OBSERVABILITY-CONTROL-FRICTION-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "06612cbe0b0dc0f10ea3942d1349ef51ddd5c940"
     },
     "V26:68": {
-      "path": "records/V26/68-POST-V26-MI-CAP-OBSERVABILITY-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/68-POST-V26-MI-CAP-OBSERVABILITY-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "211d7f2b09dde2b0a137c825dc1d7f22e644ed9c"
     },
     "V26:69": {
-      "path": "records/V26/69-POST-V26-MI-A6M2-GAIFU-FULL-PERFORMANCE-COMPARATIVE-AUDIT-WORKING-HANDOFF-2026-10-08.md"
+      "path": "records/V26/69-POST-V26-MI-A6M2-GAIFU-FULL-PERFORMANCE-COMPARATIVE-AUDIT-WORKING-HANDOFF-2026-10-08.md",
+      "blob_sha": "bce31805ef476a7267dc9912f1e4cdf1ec50bb00"
     },
     "V26:70": {
-      "path": "records/V26/70-POST-V26-MI-A6M2-GAIFU-PERFORMANCE-AUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/70-POST-V26-MI-A6M2-GAIFU-PERFORMANCE-AUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "e8191c44737dd7242d837e2518b62890e0d3b071"
     },
     "V26:71": {
-      "path": "records/V26/71-POST-V26-GAIFU-CARRIER-COMBAT-RELEASE-FUEL-LOGISTICS-REAUDIT-2026-10-08.md"
+      "path": "records/V26/71-POST-V26-GAIFU-CARRIER-COMBAT-RELEASE-FUEL-LOGISTICS-REAUDIT-2026-10-08.md",
+      "blob_sha": "8c57e1ae18a66f73a60b923f166e68cfd8f43ea1"
     },
     "V26:72": {
-      "path": "records/V26/72-POST-V26-GAIFU-CARRIER-RELEASE-REAUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/72-POST-V26-GAIFU-CARRIER-RELEASE-REAUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "f5e3c4332880f0e4abcd79b786435e3402e28606"
     },
     "V26:73": {
-      "path": "records/V26/73-POST-V26-WORLDLINE-A6M-HOMOGENEOUS-CAP-GAIFU-MARGINAL-VALUE-REAUDIT-2026-10-08.md"
+      "path": "records/V26/73-POST-V26-WORLDLINE-A6M-HOMOGENEOUS-CAP-GAIFU-MARGINAL-VALUE-REAUDIT-2026-10-08.md",
+      "blob_sha": "e06ab87ddd68dc1a59f9e564091f35e29b021fb1"
     },
     "V26:74": {
-      "path": "records/V26/74-POST-V26-APR29-A6M-HOMOGENEOUS-CAP-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/74-POST-V26-APR29-A6M-HOMOGENEOUS-CAP-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "7db5709a3f2f8a469007ae74038bad85e770c93c"
     },
     "V26:75": {
-      "path": "records/V26/75-POST-V26-APR29-CARDIV5-A6M-ONLY-FIGHTER-FORCE-ESCORT-DEFENSE-CARDS-2026-10-08.md"
+      "path": "records/V26/75-POST-V26-APR29-CARDIV5-A6M-ONLY-FIGHTER-FORCE-ESCORT-DEFENSE-CARDS-2026-10-08.md",
+      "blob_sha": "130417c7ab7feeb1591554f8210f1a94baf14bbe"
     },
     "V26:76": {
-      "path": "records/V26/76-POST-V26-APR29-A6M-ONLY-FIGHTER-FORCE-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/76-POST-V26-APR29-A6M-ONLY-FIGHTER-FORCE-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "c6f4065388e183748d8b4cb55f8f8f3f48b4ffe8"
     },
     "V26:77": {
-      "path": "records/V26/77-POST-V26-A6M-RADIO-EMI-FORMATION-DOCTRINE-FIGHTER-DIRECTION-AUDIT-2026-10-08.md"
+      "path": "records/V26/77-POST-V26-A6M-RADIO-EMI-FORMATION-DOCTRINE-FIGHTER-DIRECTION-AUDIT-2026-10-08.md",
+      "blob_sha": "9828249010117d71640f200052f2dafe0c024ec2"
     },
     "V26:78": {
-      "path": "records/V26/78-POST-V26-A6M-RADIO-FIGHTER-DIRECTION-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/78-POST-V26-A6M-RADIO-FIGHTER-DIRECTION-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "4b4f3ff0c49c3d1d9c9138533fe28a5fb3898003"
     },
     "V26:79": {
-      "path": "records/V26/79-POST-V26-JAPANESE-AVIATION-COMMS-FIGHTER-DOCTRINE-DIFFUSION-1932-1942-REAUDIT-2026-10-08.md"
+      "path": "records/V26/79-POST-V26-JAPANESE-AVIATION-COMMS-FIGHTER-DOCTRINE-DIFFUSION-1932-1942-REAUDIT-2026-10-08.md",
+      "blob_sha": "7b69a8ab90f2ba60521360e2ff1745deb3678f99"
     },
     "V26:80": {
-      "path": "records/V26/80-POST-V26-JAPANESE-AVIATION-COMMS-DOCTRINE-TIMELINE-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/80-POST-V26-JAPANESE-AVIATION-COMMS-DOCTRINE-TIMELINE-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "71a036f7ebbec12d4aef098db02eb58e9dc67d63"
     },
     "V26:81": {
-      "path": "records/V26/81-POST-V26-APR29-CARDIV5-RADIO-ENABLED-A6M-CONTROL-ESCORT-CARD-CORRECTION-2026-10-08.md"
+      "path": "records/V26/81-POST-V26-APR29-CARDIV5-RADIO-ENABLED-A6M-CONTROL-ESCORT-CARD-CORRECTION-2026-10-08.md",
+      "blob_sha": "2c9adbc685c7dd12ec68977c36f7366c46669a2b"
     },
     "V26:82": {
-      "path": "records/V26/82-POST-V26-APR29-CARDIV5-COMMS-CONTROL-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/82-POST-V26-APR29-CARDIV5-COMMS-CONTROL-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "26eb3714be11983457508eddf3ecfaa95b92fe00"
     },
     "V26:83": {
-      "path": "records/V26/83-POST-V26-COMMS-DOCTRINE-APR29-CAP-RECONCILIATION-HANDOFF-2026-10-08.md"
+      "path": "records/V26/83-POST-V26-COMMS-DOCTRINE-APR29-CAP-RECONCILIATION-HANDOFF-2026-10-08.md",
+      "blob_sha": "ce36e8c4b363ddc87f2efd58acd9fcbdb94175a1"
     },
     "V26:84": {
-      "path": "records/V26/84-POST-V26-COMMS-DOCTRINE-APR29-CAP-RECONCILIATION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/84-POST-V26-COMMS-DOCTRINE-APR29-CAP-RECONCILIATION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "393bfe9cce0fb1bd7e518e5c3f393bedd8c57835"
     },
     "V26:85": {
-      "path": "records/V26/85-POST-V26-FIGHTER-CELL-SIZE-SHOTAI-CHUTAI-EVOLUTION-REAUDIT-1935-1942-2026-10-08.md"
+      "path": "records/V26/85-POST-V26-FIGHTER-CELL-SIZE-SHOTAI-CHUTAI-EVOLUTION-REAUDIT-1935-1942-2026-10-08.md",
+      "blob_sha": "b4dea8ddb197734ff7dda7fecc3dabdb04225d75"
     },
     "V26:86": {
-      "path": "records/V26/86-POST-V26-FIGHTER-CELL-SIZE-EVOLUTION-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/86-POST-V26-FIGHTER-CELL-SIZE-EVOLUTION-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "0a02222cbc093bae73afaed60aba7a8453fc6da7"
     },
     "V26:87": {
-      "path": "records/V26/87-POST-V26-AVIATION-COMMAND-ARCHITECTURE-AIRBORNE-GROUNDSIDE-AUTHORITY-REAUDIT-1935-1942-2026-10-08.md"
+      "path": "records/V26/87-POST-V26-AVIATION-COMMAND-ARCHITECTURE-AIRBORNE-GROUNDSIDE-AUTHORITY-REAUDIT-1935-1942-2026-10-08.md",
+      "blob_sha": "216864ba23f694dd87627b7c0e0b4ef6a2698cf3"
     },
     "V26:88": {
-      "path": "records/V26/88-POST-V26-AVIATION-COMMAND-ARCHITECTURE-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/88-POST-V26-AVIATION-COMMAND-ARCHITECTURE-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "fceb97df6b9a57cce6ad03bd7fe689171380915d"
     },
     "V26:89": {
-      "path": "records/V26/89-POST-V26-PRE-MO-COMBAT-REAUDIT-MAP-COMMS-COMMAND-DOCTRINE-2026-10-08.md"
+      "path": "records/V26/89-POST-V26-PRE-MO-COMBAT-REAUDIT-MAP-COMMS-COMMAND-DOCTRINE-2026-10-08.md",
+      "blob_sha": "f05adafbf90ed8b40fdb009fc8dc9794202e7704"
     },
     "V26:90": {
-      "path": "records/V26/90-POST-V26-PRE-MO-COMBAT-REAUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/90-POST-V26-PRE-MO-COMBAT-REAUDIT-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "80013adefcb29e2134ea5f32980dbd27a4cab5ba"
     },
     "V26:91": {
-      "path": "records/V26/91-POST-V26-MULTIAXIS-ATTACK-SYNCHRONIZATION-COMMS-CONFIDENCE-MODEL-2026-10-08.md"
+      "path": "records/V26/91-POST-V26-MULTIAXIS-ATTACK-SYNCHRONIZATION-COMMS-CONFIDENCE-MODEL-2026-10-08.md",
+      "blob_sha": "24821281fb868932477ae36a371e85ba2cde52c3"
     },
     "V26:92": {
-      "path": "records/V26/92-POST-V26-ATTACK-SYNCHRONIZATION-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/92-POST-V26-ATTACK-SYNCHRONIZATION-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "52249f8c4f89f453b74affb4736e9a8e5f18ec1c"
     },
     "V26:93": {
-      "path": "records/V26/93-POST-V26-SESSION-CLOSE-ENTERPRISE-REAUDIT-RESTART-HANDOFF-2026-10-08.md"
+      "path": "records/V26/93-POST-V26-SESSION-CLOSE-ENTERPRISE-REAUDIT-RESTART-HANDOFF-2026-10-08.md",
+      "blob_sha": "4ed037819b732aeb144c7ac3d5e58d0b8f948489"
     },
     "V26:94": {
-      "path": "records/V26/94-POST-V26-ENTERPRISE-RESTART-WORKING-DECISION-REGISTER-2026-10-08.tsv"
+      "path": "records/V26/94-POST-V26-ENTERPRISE-RESTART-WORKING-DECISION-REGISTER-2026-10-08.tsv",
+      "blob_sha": "4ca36fdac67fabde16a1211cff795d2bfdecce58"
     },
     "V26:95": {
       "path": "records/V26/95-POST-V26-H7Y-D-PREWAR-PROCUREMENT-ENGINE-PRODUCTION-CLOSE-2026-10-09.md",
@@ -561,7 +615,7 @@
   ],
   "source_routes": "navigation/SOURCE-ROUTES.json",
   "verified_source_commit": "75a45b79ed79d378276311469de91bc646c8d7c2",
-  "freshness_rule": "Compare same-axis handoffs/registers/checkpoints/progress and tree inventory. New or changed sources require review and manifest update; neither this pointer nor file mtime wins over contradictory explicit branch evidence. The newly indexed V26:95-100 and branch sources are a 2026-10-23 addendum; do not confuse older verified_source_commit with latest branch source snapshot. Read the selected branch records from main. On 2026-10-29 V26:104/105 and main-visible expanded-mo-strategy branch were added as strategy-only, distinct from 2026-10-22/27 combat/recon branches.",
+  "freshness_rule": "Compare same-axis handoffs/registers/checkpoints/progress and tree inventory. New or changed sources require review and manifest update; neither this pointer nor file mtime wins over contradictory explicit branch evidence. The newly indexed V26:95-100 and branch sources are a 2026-10-23 addendum; do not confuse older verified_source_commit with latest branch source snapshot. Read the selected branch records from main. On 2026-10-29 V26:104/105 and main-visible expanded-mo-strategy branch were added as strategy-only, distinct from 2026-10-22/27 combat/recon branches. On 2026-10-29 prior source blob-SHA references were resynchronized to existing main files without changing any original records.",
   "default_search_scope": [
     "current/active",
     "records/V26",
