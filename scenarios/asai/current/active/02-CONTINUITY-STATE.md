@@ -1,3 +1,11 @@
+# 2026-10-29 CURRENT STRATEGIC COMPARISON — 拡大MO（V26:104-105）
+
+参照：records/V26/104-POST-V26-EXPANDED-MO-STRATEGIC-DESIGN-AND-PHASED-BUILDUP-HANDOFF-2026-10-29.md と records/V26/105-POST-V26-EXPANDED-MO-STRATEGY-DECISION-REGISTER-2026-10-29.tsv。**V26正本時計1941-12-07 14:30 HST不変。** これは作戦案であり既存の新MO戦果ではない。山本/軍令部/陸軍の命令、C延期実施、艦隊/船団実配当、X日、占領・海戦結果はOPEN。
+
+二主目標はMO/近隣基地の確保と米空母撃滅。競合時は攻略・設営船団保全優先。要求案：正規空母四隻＋祥鳳・高速戦艦二隻、第一攻略船団と第二設営梯団、ポートモレスビー/ツラギ/ルンガ/デボイネ/サマライを段階運用。西方は英東洋艦隊への限定防衛、MI/FSは結果次第。独立インド洋索敵枝とV26:101–103新MO戦闘比較は別。
+
+---
+
 # 現行軸のchronology / state
 
 Status: NAVIGATION-ONLY / SOURCE-BOUND ROLLUP / NO CANON PROMOTION

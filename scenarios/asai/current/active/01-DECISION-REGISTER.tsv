@@ -1,4 +1,8 @@
 id	source_status	navigation_role	statement	sources
+EXP-MO-PRIORITY	USER-ENDORSED-WORKING	CURRENT-STRATEGIC-PLAN	拡大MOは基地の制圧/航空基地化と米空母撃滅を二主目標。競合時は攻略・設営船団保全優先。1942戦果や採用命令ではない。	V26:104;V26:105
+EXP-MO-FORCE	PROPOSED-REQUIREMENT	FORCE-AUDIT	翔鶴/瑞鶴/蒼龍/飛龍+祥鳳、比叡/霧島、第二梯団/設営隊は必要能力を示す比較案。実在/修理/配当と二重計上を監査。	V26:104;V26:105
+EXP-MO-BASES	PROPOSED-PLAN	PHASED-OPERATIONS	ポートモレスビー/ツラギ/ルンガを主軸、デボイネ/サマライを支援。X日未定、基地実用は別時計、FS/MIは条件付き。	V26:104;V26:105
+EXP-MO-WEST	PROPOSED-PLAN	PARALLEL-DEFENSE	C作戦の大規模空母進出延期を比較。西方は英艦隊の重要航路接近阻止を優先、FT mission-kill≠撃沈。	V26:104;V26:105
 CANON	CURRENT-CLOSE	ANCHOR	V26正本時計1941-12-07T14:30:00-10:30。1942 replay-local workingを正本昇格させない。	V26:01;V26:21
 FT-NUMERIC	OPEN	DEFERRED-TECH	標準FTの加速/capture/cruise-terminal speed/range/TOFは厳密CLOSE未了。粗い会話数値をauthority化しない。	V26:21#1
 FT-SAP	WORKING-CLOSE	DAMAGE-MODEL	FT/SAPは高速大質量突入+構造/設備破壊+短延期内部炸裂。重艦AP弾同等にはしない。	V26:21#2

@@ -1,0 +1,20 @@
+id	effective_date	subject	status	working_decision_or_constraint	provenance_or_next_check
+XMO-001	2026-10-29	authority	WORKING-COMPARISON	1941-12-07 14:30 HSTのV26正本を据置。既存V26:102-103新MO戦闘枝とインド洋索敵枝から戦果を輸入しない	V26:104
+XMO-002	1941-12-late	decision_start	USER-ENDORSED-FRAMEWORK	真珠湾/EnterpriseとWake/Saratoga、Force Z、日本航空隊消耗が報告された時点から戦略比較を始める。山本は正確な米修理時計を知らない	V26:97;V26:104
+XMO-003	1942-01_to_03	yamamoto_acceptance	OPEN	山本の対米決戦構想、軍令部の南太平洋進出、第四艦隊・陸軍の兵力要求を照合。MI永久中止やC中止命令は未発令	V26:104
+XMO-004	1942-spring-plan	main_priority	USER-ENDORSED-FRAMEWORK	拡大MOはポートモレスビー+周辺拠点の攻略・基地化と米空母誘引/撃滅を成果上の二主目標とする	V26:104
+XMO-005	1942-spring-plan	conflict_priority	USER-ENDORSED-FRAMEWORK	競合時は攻略/基地設営船団保全を深追いより優先。敵空母が船団へ危険を与える時は迎撃撃滅が優先戦闘任務	V26:104
+XMO-006	1942-spring-plan	carriers	PROPOSED-FORCE	翔鶴/瑞鶴/蒼龍/飛龍の正規空母四隻級+祥鳳。赤城/加賀は戦略予備案。整備/航空隊/燃料は未照合	V26:104
+XMO-007	1942-spring-plan	battleships	PROPOSED-FORCE	C作戦を縮小/延期した配分余地で比叡/霧島の高速戦艦二隻級を要求。金剛/榛名は候補予備。水上邀撃/護衛と艦砲射撃は別ゲート	V26:104
+XMO-008	1942-spring-plan	escort_oiler	OPEN	主力直衛の巡洋艦/駆逐艦/給油艦は実名・兵站・他戦域配当の照合まで未確定	V26:104
+XMO-009	1942-spring-plan	landing_train	PROPOSED-REQUIREMENT	第一次は史実輸送船11隻級を基準、第二梯団4-6隻級を別途要求。山砲/弾薬/工兵/高射砲/航空燃料の積付が先	V26:104
+XMO-010	1942-spring-plan	engineers	PROPOSED-REQUIREMENT	後続歩兵・工兵等2-3千人枠、ルンガ設営2-2.5千人級は要求案。陸軍/海軍/船腹/設営隊を二重計上しない	V26:104
+XMO-011	1942-spring-plan	sites	PROPOSED-GEOGRAPHY	主=ポートモレスビー/ツラギ/ルンガ。デボイネ/サマライは機動索敵・航路拠点。ミルン湾大規模基地化は延期候補	V26:104
+XMO-012	1942-spring-plan	phase_x	PROPOSED-SCHEDULE	X=PM上陸日未定。X-10/-7ツラギ→X-6/-3索敵→X上陸→X+1/+7第二梯団→X+7/+21基地移管開始→条件付き空母撤収	V26:104
+XMO-013	1942-spring-plan	transfer_gate	USER-ENDORSED-FRAMEWORK	占領=基地稼働ではない。滑走路、燃料弾薬、整備、高射砲、索敵、船団護衛の現物能力を見て空母掩護解除	V26:104
+XMO-014	1942-spring-plan	type1_float	WORKING-TECH-GUARD	一式水戦は実機存在。ただし1942春の月次完成・配属未閉鎖。南洋六機を西方へ二重配備しない	V26:101;V26:104
+XMO-015	1942-spring-plan	H7Y_sensor	USER-ACCEPTED-REASONING	H7Yが史実より良好なouter-datum索敵を達成する余地を認めるが機数/整備/天候と追尾品質の分離を維持	V26:97;V26:104
+XMO-016	1942-spring-plan	FT_missionkill	WORKING-DOCTRINE	FTで上部構造/航空運用を失わせても撃沈とは限らない。Type91水中打撃、反復攻撃、条件付き水上/潜水艦が必要	V26:104
+XMO-017	1942-spring-plan	west_defense	PROPOSED-STRATEGY	大規模Cは延期有力案（実施有無OPEN）。英東洋艦隊を必ず全滅させず、北スマトラ・ビルマ輸送等への接近を拒否	V26:102;V26:104
+XMO-018	1942-spring-plan	FS_MI_AL	CONDITIONAL	FSはMO無交戦/軽微または軽損大勝でも自動実施しない。MI/ALはMO終了時の米艦隊と自軍再建/基地状況で再判断	V26:104
+XMO-019	2026-10-29-next	next_gate	OPEN	実名の船団・給油・設営隊・艦隊修理/航空隊/舟艇の可用性を審査して初めてX日と実行可能な編制を閉じる	V26:104;V26:105

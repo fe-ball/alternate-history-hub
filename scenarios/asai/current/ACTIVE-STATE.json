@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "navigation_revision": "2026-10-23-adopted-design-program",
+  "navigation_revision": "2026-10-29-expanded-mo-strategic-working",
   "kind": "NAVIGATION-ONLY-NO-CANON-PROMOTION",
   "scenario_id": "asai",
   "repository": "fe-ball/alternate-history-hub",
@@ -66,7 +66,8 @@
       "1932-42 communications-to-fighter-doctrine diffusion re-audit V26:79-80",
       "Apr29 radio-enabled A6M control / escort-card correction V26:81-82",
       "Communications/doctrine and Apr29 CAP reconciliation V26:83-84",
-      "Indian Ocean isolated Mar29/30 search replay is a branch-local result, not a promotion of global history."
+      "Indian Ocean isolated Mar29/30 search replay is a branch-local result, not a promotion of global history.",
+      "2026-10-29 expanded MO strategy/engineering/force proposal: no new 1942 decision implemented or combat result."
     ]
   },
   "discussion_frontier": {
@@ -135,11 +136,12 @@
       "Enterprise battle restart precombat command/force/synchronization state V26:93-94",
       "Session close / Enterprise restart handoff V26:93-94",
       "2026-10-22/23 isolated Indian Ocean search branch: Mar29 H7Y 1 search no capital-force contact; Mar30 H6K 3 regular+1 extra no capital-force contact. Local only.",
-      "2026-10-23 user-approved aviation design and 1942-43 procurement planning promoted to DESIGN-CANON and APPROVED-PLAN; historical V26 unchanged."
+      "2026-10-23 user-approved aviation design and 1942-43 procurement planning promoted to DESIGN-CANON and APPROVED-PLAN; historical V26 unchanged.",
+      "2026-10-29: expanded MO strategic comparison (Yamamoto decision, C/MO/MI/FS, Western defense, carrier/battleship force proposal, construction/convey stages) drafted; no battle outcome/approval."
     ],
-    "next_gate": "2026-10-23 CURRENT SELECTED DISCUSSION: Indian Ocean H7Y/H6K separate replay branch; through 1942-03-30 evening. Next Mar31 IJN orders from Japanese information only, then compare British true tracks/weather and conditional shadow/follow-on. Addu unknown. V26 canon 1941-12-07 14:30 HST unchanged. Enterprise and TP separate OPEN threads.",
-    "next_gate_source": "branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md;branches/indian-ocean-recon-2026-10-22/03-DECISION-REGISTER.tsv",
-    "combat_clock_effect": "REPLAY-LOCAL ONLY / NO CANON PROMOTION; Apr29 remains open, but upstream carrier-air combat is now reopened back to Dec7 Enterprise because later doctrine/learning depends on it. V26 canon remains 1941-12-07 14:30 HST.",
+    "next_gate": "2026-10-29 CURRENT SELECTED DISCUSSION: expanded MO strategic WORKING comparison based on 1941 Dec decisions. Next audit actual ship/tanker/transport/landing craft/engineer/airbase allocation, Yamamoto-GHQ-Army approval, western C posture; no X-day or battle results fixed. New MO V26:101-103 and Indian Ocean Mar29/30 recon remain independent. V26 canon 1941-12-07 14:30 HST.",
+    "next_gate_source": "V26:104;V26:105",
+    "combat_clock_effect": "NO CHANGE: 2026-10-29 expanded MO is strategy-only, no 1942 battle replay/canon promotion. Previous independent new MO comparison and isolated Indian Ocean reconnaissance still separate.",
     "previous_next_gate_enterprise": "Enterprise restart: first reconstruct Kido Butai post-Pearl aircraft physical/serviceable/ready/recovery state and resolve 72-vs54-class strike commitment under Lexington-unlocated CAP/reserve requirements. Then run the command/synchronization-aware battle to valid-release bands only; no hits."
   },
   "default_read_order": [
@@ -531,6 +533,14 @@
     "V26:94-ALT": {
       "path": "records/V26/94-POST-V26-ENTERPRISE-PRECOMBAT-STATE-WORKING-DECISION-REGISTER-2026-10-08.tsv",
       "blob_sha": "d65a6eededdebaad8fca365dd511e0c2a789f771"
+    },
+    "V26:104": {
+      "path": "records/V26/104-POST-V26-EXPANDED-MO-STRATEGIC-DESIGN-AND-PHASED-BUILDUP-HANDOFF-2026-10-29.md",
+      "blob_sha": "6a1566d43f4af2fb02a89f33e14375f7a7c6efff"
+    },
+    "V26:105": {
+      "path": "records/V26/105-POST-V26-EXPANDED-MO-STRATEGY-DECISION-REGISTER-2026-10-29.tsv",
+      "blob_sha": "87e68ee0ec2c431ae8f7ee012fcba2c5b3affbeb"
     }
   },
   "lineage_sources": [
@@ -539,7 +549,7 @@
   ],
   "source_routes": "navigation/SOURCE-ROUTES.json",
   "verified_source_commit": "75a45b79ed79d378276311469de91bc646c8d7c2",
-  "freshness_rule": "Compare same-axis handoffs/registers/checkpoints/progress and tree inventory. New or changed sources require review and manifest update; neither this pointer nor file mtime wins over contradictory explicit branch evidence. The newly indexed V26:95-100 and branch sources are a 2026-10-23 addendum; do not confuse older verified_source_commit with latest branch source snapshot. Read the selected branch records from main.",
+  "freshness_rule": "Compare same-axis handoffs/registers/checkpoints/progress and tree inventory. New or changed sources require review and manifest update; neither this pointer nor file mtime wins over contradictory explicit branch evidence. The newly indexed V26:95-100 and branch sources are a 2026-10-23 addendum; do not confuse older verified_source_commit with latest branch source snapshot. Read the selected branch records from main. On 2026-10-29 V26:104/105 and main-visible expanded-mo-strategy branch were added as strategy-only, distinct from 2026-10-22/27 combat/recon branches.",
   "default_search_scope": [
     "current/active",
     "records/V26",
@@ -569,49 +579,37 @@
   ],
   "physical_state_rule": "Independent dated evidence fields, not an automatic ladder. Unknown is not zero; combat-present is not a combat result.",
   "new_history_or_status_promoted": false,
-  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-session-close-enterprise-restart-through-V26-94; main-visible isolated Indian Ocean working branch through 2026-10-23 (not V26 canon); accepted-aircraft-core-and-plan 2026-10-23 design canon/planning only",
+  "source_import": "current-v26-plus-post-v26-working-continuation-through-2026-10-08-and-session-close-enterprise-restart-through-V26-94; main-visible isolated Indian Ocean working branch through 2026-10-23 (not V26 canon); accepted-aircraft-core-and-plan 2026-10-23 design canon/planning only; 2026-10-29 expanded-MO strategic comparison V26:104-105 (planning only, V26 canon not advanced)",
   "active_discussion_branch": {
-    "id": "indian-ocean-recon-2026-10-22",
-    "status": "BRANCH-LOCAL-WORKING-NO-CANON-PROMOTION",
-    "path": "branches/indian-ocean-recon-2026-10-22/",
-    "git_snapshot_branch": "asai/indian-ocean-recon-replay-2026-10-22",
-    "git_snapshot_usage": "2026-10-22 archived snapshot; routine default ref main",
+    "id": "expanded-mo-strategy-2026-10-29",
+    "status": "STRATEGIC-WORKING-NO-CANON-PROMOTION",
+    "path": "branches/expanded-mo-strategy-2026-10-29/",
+    "git_snapshot_usage": "main branch logical folder; no additional Git ref",
     "parent_canonical_clock": "1941-12-07T14:30:00-10:30",
-    "replay_local_closed_at": "1942-03-30 evening",
-    "next": "1942-03-31 IJN H6K/H7Y search sectors and readiness chosen from Japanese-known Mar30 night evidence; compare Somerville true tracks only afterward; shadow/additional aircraft conditional",
+    "proposed_timeframe": "1941-12 late to 1942 spring; no adjudicated operation date",
+    "next": "Audit exact historical/worldline usable ships, carriers, auxiliary and landing craft, oilers, transports, engineers, air groups, western defense; then decide Yamamoto adoption and X day.",
     "read_order": [
-      "branches/indian-ocean-recon-2026-10-22/README.md",
-      "branches/indian-ocean-recon-2026-10-22/00-SESSION-HANDOFF.md",
-      "branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md",
-      "branches/indian-ocean-recon-2026-10-22/03-DECISION-REGISTER.tsv",
-      "branches/indian-ocean-recon-2026-10-22/01-AIRCRAFT-AND-PROCUREMENT-2026-10-22.md"
+      "branches/expanded-mo-strategy-2026-10-29/README.md",
+      "records/V26/104-POST-V26-EXPANDED-MO-STRATEGIC-DESIGN-AND-PHASED-BUILDUP-HANDOFF-2026-10-29.md",
+      "records/V26/105-POST-V26-EXPANDED-MO-STRATEGY-DECISION-REGISTER-2026-10-29.tsv",
+      "records/V26/102-POST-V26-NEW-MO-LATE-APR-INDIAN-OCEAN-DECISION-GATE-HANDOFF-2026-10-27.md"
     ]
   },
   "active_branch_sources": {
-    "00-SESSION-HANDOFF.md": {
-      "path": "branches/indian-ocean-recon-2026-10-22/00-SESSION-HANDOFF.md",
-      "blob_sha": "a06555ce74cc6db99614f1a282f1690d97828f9b",
-      "status": "BRANCH-LOCAL-WORKING-NOT-CANON"
-    },
-    "01-AIRCRAFT-AND-PROCUREMENT-2026-10-22.md": {
-      "path": "branches/indian-ocean-recon-2026-10-22/01-AIRCRAFT-AND-PROCUREMENT-2026-10-22.md",
-      "blob_sha": "68b0e475d6535663806c0b948539aa7340218a09",
-      "status": "BRANCH-LOCAL-WORKING-NOT-CANON"
-    },
-    "02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md": {
-      "path": "branches/indian-ocean-recon-2026-10-22/02-INDIAN-OCEAN-RECON-29-30-MARCH-1942.md",
-      "blob_sha": "a59d289b2863a0f55226851257b47404d9faa459",
-      "status": "BRANCH-LOCAL-WORKING-NOT-CANON"
-    },
-    "03-DECISION-REGISTER.tsv": {
-      "path": "branches/indian-ocean-recon-2026-10-22/03-DECISION-REGISTER.tsv",
-      "blob_sha": "a6fb55833dd062234ce7b06865487b07bac6701a",
-      "status": "BRANCH-LOCAL-WORKING-NOT-CANON"
-    },
     "README.md": {
-      "path": "branches/indian-ocean-recon-2026-10-22/README.md",
-      "blob_sha": "7eaaa5a715b7a348b5be964c501721c16576c139",
-      "status": "BRANCH-LOCAL-WORKING-NOT-CANON"
+      "path": "branches/expanded-mo-strategy-2026-10-29/README.md",
+      "blob_sha": "12413a8860ba5eb8df1214f3f018d8773ea0e68c",
+      "status": "STRATEGIC-WORKING-NO-CANON"
+    },
+    "HANDOFF": {
+      "path": "records/V26/104-POST-V26-EXPANDED-MO-STRATEGIC-DESIGN-AND-PHASED-BUILDUP-HANDOFF-2026-10-29.md",
+      "blob_sha": "6a1566d43f4af2fb02a89f33e14375f7a7c6efff",
+      "status": "POST-V26-STRATEGIC-WORKING"
+    },
+    "DECISION-REGISTER": {
+      "path": "records/V26/105-POST-V26-EXPANDED-MO-STRATEGY-DECISION-REGISTER-2026-10-29.tsv",
+      "blob_sha": "87e68ee0ec2c431ae8f7ee012fcba2c5b3affbeb",
+      "status": "POST-V26-STRATEGIC-WORKING"
     }
   },
   "accepted_aviation_design_2026_10_23": {
